@@ -1,0 +1,1657 @@
+[
+  {
+    "slug": "how-to-download-suno-songs",
+    "category": "Downloads",
+    "title": "Cách tải bài hát Suno: tùy chọn chính thức và liên kết công khai",
+    "description": "Tìm hiểu cách tải bài hát của bạn từ Library của Suno, kiểm tra liên kết công khai và chọn đúng tệp. Truy cập công khai không đồng nghĩa với quyền sử dụng lại nội dung.",
+    "intro": "Hãy bắt đầu bằng bài hát của chính bạn trong Library của Suno. Menu Download chính thức cho biết các tùy chọn xuất tệp mà tài khoản của bạn có thể dùng. Liên kết công khai giúp kiểm tra trang đang cung cấp những tệp nào, nhưng không chứng minh bạn có quyền sử dụng lại chúng.",
+    "sections": [
+      {
+        "heading": "Tải xuống từ tài khoản Suno",
+        "paragraphs": [
+          "Mở Library hoặc Workspace, tìm bài hát, chọn More Actions rồi chọn Download. Chọn tùy chọn có sẵn cho bài hát đó và chờ tệp được lưu xong. Các lựa chọn có thể khác nhau tùy gói, bài hát và thiết bị.",
+          "Lưu URL bài hát cùng với tệp. Nếu dùng bản nhạc cho khách hàng hoặc phát hành, hãy ghi lại tài khoản đã tạo bài hát và cách bạn nhận được tệp xuất."
+        ]
+      },
+      {
+        "heading": "Kiểm tra liên kết bài hát công khai",
+        "paragraphs": [
+          "Nếu được phép sử dụng liên kết công khai, hãy sao chép URL đầy đủ suno.com/s/, suno.com/song/ hoặc suno.com/hook/. Dán từng liên kết một vào Suno Downloader và kiểm tra tên bài hát trước khi chọn tệp âm thanh, video, ảnh bìa hoặc lời bài hát đang có.",
+          "Chỉ những tệp thực sự có trên trang mới được hiển thị. Công cụ xử lý từng bài hát này không hỗ trợ liên kết riêng tư, đã bị xóa, playlist hoặc hồ sơ. Nghe được bài hát trên trang không có nghĩa là bạn được phép tải xuống hay đăng tác phẩm của người khác."
+        ]
+      },
+      {
+        "heading": "Chọn tệp phù hợp với nhu cầu tiếp theo",
+        "paragraphs": [
+          "Hãy dùng bản âm thanh gốc đã đăng để nghe. Chỉ chọn video nếu trang có video. Lưu ảnh bìa hoặc lời bài hát khi cần giữ lại các tài nguyên của dự án. Trình duyệt có thể chuyển đổi âm thanh phát được sang WAV PCM, nhưng việc này không nâng chất lượng nguồn và không thay thế bản WAV xuất chính thức từ Suno."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi có thể tải bài hát công khai của người khác không?",
+        "answer": "Chỉ có URL công khai không đồng nghĩa với quyền sử dụng lại. Hãy xin phép người sáng tạo và kiểm tra điều khoản hiện hành của Suno trước khi lưu hoặc đăng tác phẩm."
+      },
+      {
+        "question": "Vì sao bài hát này có ít tùy chọn hơn bài khác?",
+        "answer": "Tệp có sẵn phụ thuộc vào trang của bài hát, gói tài khoản và thiết bị hoặc cách truy cập bạn dùng. Công cụ chỉ liệt kê những tài nguyên thực sự tìm thấy."
+      }
+    ],
+    "toolLabel": "Kiểm tra liên kết công khai được phép sử dụng",
+    "related": [
+      "suno-mp3-download",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Làm cách nào để tải xuống bài hát?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: Tôi có thể tải xuống những loại tệp nào?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-download",
+    "category": "Downloads",
+    "title": "Cách tải bài hát Suno ở định dạng MP3",
+    "description": "Tìm tùy chọn MP3 chính thức của Suno, hiểu liên kết công khai có thể cung cấp gì và kiểm tra âm thanh trước khi chia sẻ.",
+    "intro": "MP3 phù hợp để nghe và chia sẻ hằng ngày. Với bài hát của bạn, cách nhanh nhất là chọn MP3 trong menu Download của Suno. Nếu được phép dùng liên kết công khai, hãy kiểm tra tệp âm thanh thực sự có trên trang.",
+    "sections": [
+      {
+        "heading": "Dùng tùy chọn xuất MP3 của Suno",
+        "paragraphs": [
+          "Trong Library hoặc Workspace, mở More Actions của bài hát, chọn Download rồi chọn MP3 nếu có. Suno cho biết tải bài hát MP3 có trên mọi gói, nhưng hạn mức tải và tùy chọn cho từng bài hát có thể thay đổi.",
+          "Nghe hết tệp đã lưu. Hãy kiểm tra tên bài, phiên bản, phần đầu và phần cuối trước khi gửi cho cộng tác viên."
+        ]
+      },
+      {
+        "heading": "Liên kết công khai có thể cung cấp gì",
+        "paragraphs": [
+          "Công cụ của chúng tôi xử lý từng bài hát và liệt kê âm thanh gốc được đăng trên trang bài hát hoặc Hook có thể truy cập. Phần mở rộng tùy thuộc vào nguồn. Nếu không tìm thấy tệp âm thanh dùng được, công cụ không thể tạo MP3. Với bài hát của bạn, hãy dùng menu chính thức.",
+          "Lưu liên kết trang nguồn cùng tệp. Việc này giúp phân biệt các phiên bản có tên gần giống nhau."
+        ]
+      },
+      {
+        "heading": "Khi nào MP3 là đủ",
+        "paragraphs": [
+          "Chọn MP3 để nghe thông thường và gửi bản nghe thử đơn giản. Nếu phần mềm chỉnh sửa yêu cầu WAV, hãy kiểm tra tài khoản Suno có tùy chọn xuất WAV chính thức không. Chuyển MP3 sang WAV chỉ đổi định dạng và cách biểu diễn mẫu âm thanh, không khôi phục chi tiết đã mất do nén."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Công cụ liên kết công khai có luôn tạo MP3 không?",
+        "answer": "Không. Công cụ cung cấp tệp âm thanh đã đăng mà nó tìm thấy; định dạng nguồn có thể khác. Nếu cần MP3 cho bài hát của mình, hãy dùng tùy chọn MP3 chính thức trong Suno."
+      },
+      {
+        "question": "Tôi có thể đổi tên tệp đã lưu không?",
+        "answer": "Có. Hãy đưa tên bài hát và phiên bản vào tên tệp, đồng thời lưu liên kết Suno trong ghi chú dự án để nhận biết nguồn sau này."
+      }
+    ],
+    "toolLabel": "Kiểm tra âm thanh hiện có",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-wav-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Các loại tệp tải xuống có sẵn",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-wav-download",
+    "category": "Downloads",
+    "title": "Cách tải tệp WAV từ Suno và những gì thay đổi khi chuyển đổi",
+    "description": "Tìm hiểu về bản WAV xuất chính thức của Suno, cách chuyển đổi âm thanh trong trình duyệt và vì sao đổi MP3 sang WAV không khôi phục chất lượng nguồn.",
+    "intro": "Tệp WAV hữu ích khi chỉnh sửa vì chứa các mẫu PCM không nén. Điều quan trọng là xác định tệp đó được xuất trực tiếp từ nguồn chính thức hay được chuyển đổi từ âm thanh đã bị nén.",
+    "sections": [
+      {
+        "heading": "Kiểm tra tùy chọn WAV chính thức trước",
+        "paragraphs": [
+          "Theo trung tâm trợ giúp Suno, tải bài hát WAV trên web dành cho người đăng ký Pro và Premier. Mở bài hát trong Library hoặc Workspace, chọn More Actions rồi Download, sau đó chọn WAV nếu tài khoản và bài hát có tùy chọn này. Tải trên điện thoại có thể mặc định là MP3.",
+          "Nếu khách hàng cần tệp giữ chất lượng gốc, hãy dùng bản xuất từ tài khoản Suno và lưu lại thông tin đó cùng dự án."
+        ]
+      },
+      {
+        "heading": "Bộ chuyển đổi của chúng tôi hoạt động thế nào",
+        "paragraphs": [
+          "Khi trình tải của chúng tôi phát được nguồn âm thanh công khai, trình duyệt có thể tạo WAV PCM 16-bit từ nguồn đó. Việc này giúp tương thích với phần mềm nhận WAV nhưng không nhận định dạng nguồn. Quá trình chuyển đổi diễn ra ngay trong trình duyệt.",
+          "WAV sau chuyển đổi thường lớn hơn nhiều so với tệp nguồn. Dung lượng lớn hơn không có nghĩa là đã khôi phục dải tần bị mất hoặc cải thiện bản master."
+        ]
+      },
+      {
+        "heading": "Chọn cách phù hợp",
+        "paragraphs": [
+          "Dùng WAV chính thức khi cần bản xuất từ Suno. Chỉ chuyển đổi cục bộ nguồn mà bạn được phép sử dụng và khi quy trình cần PCM. Nếu dự án cần từng nhạc cụ riêng, hãy kiểm tra bài hát có stem hay không; WAV stereo không tách riêng các nhạc cụ."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Đổi MP3 sang WAV có cải thiện âm thanh không?",
+        "answer": "Không. Chuyển sang PCM chỉ đổi định dạng tệp, không thể khôi phục chi tiết đã mất khi nén."
+      },
+      {
+        "question": "Vì sao tôi không thấy tùy chọn WAV chính thức trên điện thoại?",
+        "answer": "Hiện Suno ghi nhận tải WAV trên web dành cho gói Pro và Premier; bản tải trên điện thoại có thể mặc định là MP3. Hãy kiểm tra tài khoản tại suno.com."
+      }
+    ],
+    "toolLabel": "Xem âm thanh và tùy chọn chuyển đổi hiện có",
+    "related": [
+      "suno-mp3-download",
+      "suno-video-download",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Các loại tệp tải xuống có sẵn",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-video-download",
+    "category": "Downloads",
+    "title": "Cách tải video bài hát Suno khi có tệp MP4",
+    "description": "Tìm tùy chọn tải video cho bài hát Suno và hiểu vì sao một bài hát công khai có thể phát được âm thanh nhưng không có tệp MP4.",
+    "intro": "Bài hát có thể phát được âm thanh mà không có video để tải. Hãy kiểm tra chính bài hát trước khi cho rằng nút MP4 không xuất hiện là lỗi tải xuống.",
+    "sections": [
+      {
+        "heading": "Kiểm tra tùy chọn video chính thức",
+        "paragraphs": [
+          "Với bài hát của mình, mở More Actions trong Library hoặc Workspace của Suno rồi kiểm tra Download. Suno liệt kê video là một loại tệp có thể có, nhưng tùy chọn thực tế phụ thuộc vào bài hát, gói, tính năng và thiết bị.",
+          "Nếu có tùy chọn video, hãy lưu tệp và phát thử một đoạn để xác nhận hình ảnh và âm thanh đúng phiên bản bạn cần."
+        ]
+      },
+      {
+        "heading": "Kiểm tra trang bài hát công khai",
+        "paragraphs": [
+          "Dán liên kết bài hát, share hoặc Hook được phép sử dụng vào công cụ xử lý từng bài hát của chúng tôi. Mục Video chỉ xuất hiện khi trang có tệp video dùng được. Nếu không thấy mục này, chờ thêm hoặc chuyển đổi âm thanh cũng không tạo ra MP4.",
+          "Kiểm tra trang nguồn và tài khoản Suno trước khi thử lại. Nếu video có trên Suno nhưng công cụ không truy cập được, hãy dùng cách chính thức."
+        ]
+      },
+      {
+        "heading": "Nếu bạn cần video lời bài hát",
+        "paragraphs": [
+          "Video bài hát và video lời bài hát do bạn tự dựng là hai sản phẩm khác nhau. Nếu không có MP4 được đăng, hãy bắt đầu với âm thanh được phép sử dụng và phần lời, sau đó dựng video bằng phần mềm hỗ trợ phụ đề. Căn thời gian theo bản âm thanh cuối cùng."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Có thể đổi âm thanh thành MP4 gốc của Suno không?",
+        "answer": "Không. Phần mềm dựng video có thể tạo video mới từ âm thanh và hình ảnh, nhưng đó không phải tệp video Suno đã đăng."
+      },
+      {
+        "question": "Vì sao tôi nghe được bài hát nhưng không lưu được video?",
+        "answer": "Phát được bài hát chỉ xác nhận rằng có âm thanh. Mục Video chỉ xuất hiện khi bài hát đó có tệp video dùng được."
+      }
+    ],
+    "toolLabel": "Kiểm tra bài hát có video hay không",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-lyrics-timestamps",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Các loại tệp tải xuống có sẵn",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-not-working",
+    "category": "Downloads",
+    "title": "Không tải được từ Suno? Hãy kiểm tra liên kết, tệp và tài khoản",
+    "description": "Khắc phục trường hợp không có nút tải xuống, liên kết công khai không mở được hoặc bài hát không có tùy chọn âm thanh hay video.",
+    "intro": "Lỗi tải có thể do loại liên kết, trạng thái hiển thị của bài hát, tệp cụ thể, tùy chọn tải của tài khoản hoặc sự cố yêu cầu tạm thời. Hãy xác định nguyên nhân trước khi lặp lại thao tác.",
+    "sections": [
+      {
+        "heading": "Kiểm tra bài hát trước",
+        "paragraphs": [
+          "Mở URL nguồn trên Suno. Công cụ xử lý từng bài hát nhận liên kết công khai /s/, /song/ hoặc /hook/, không nhận playlist hay hồ sơ người sáng tạo. Nếu trang ở chế độ riêng tư, đã bị xóa hoặc URL chưa đầy đủ, công cụ không thể liệt kê nội dung.",
+          "Sao chép lại toàn bộ URL thay vì dùng đoạn liên kết rút gọn. Nếu đó là bài hát của bạn, hãy tìm trong Library và kiểm tra More Actions."
+        ]
+      },
+      {
+        "heading": "Xác định tệp đang thiếu",
+        "paragraphs": [
+          "Nếu âm thanh phát được nhưng không có video, trang có thể không đăng MP4. Nếu thiếu ảnh bìa hoặc lời bài hát, nguồn có thể không cung cấp các mục đó. Công cụ chỉ nên hiển thị tài nguyên thực sự có cho bài hát.",
+          "Nếu menu của Suno không có định dạng bạn muốn, hãy kiểm tra quy định hiện hành theo gói và thiết bị. Chuyển MP3 sang WAV không tạo ra bản WAV xuất chính thức."
+        ]
+      },
+      {
+        "heading": "Thử lại sau khi sự cố tạm thời qua đi",
+        "paragraphs": [
+          "Đợi một lát, tải lại trang nguồn rồi thử thêm một lần. Phản hồi dịch vụ tạm thời hoặc cài đặt tải xuống của trình duyệt có thể làm gián đoạn yêu cầu hợp lệ. Với video lớn hoặc tệp ZIP, hãy kiểm tra dung lượng trống và giữ tab mở đến khi lưu xong.",
+          "Nếu lỗi lặp lại, hãy lưu URL và nguyên văn thông báo lỗi. Những thông tin đó hữu ích hơn việc chỉ báo rằng tải xuống thất bại."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi có nên tiếp tục thử với liên kết riêng tư không?",
+        "answer": "Không. Trước tiên, hãy xác nhận chủ sở hữu đã đặt chính trang bài hát đó ở chế độ công khai. Thử lại không thể mở trang riêng tư hoặc đã bị xóa."
+      },
+      {
+        "question": "Nếu chỉ tùy chọn WAV bị lỗi thì sao?",
+        "answer": "Trước hết hãy thử âm thanh gốc. Chuyển đổi trong trình duyệt cần nguồn phát được và đủ bộ nhớ; nếu tài khoản có bản WAV xuất chính thức, bạn cần tải bản đó từ Suno."
+      }
+    ],
+    "toolLabel": "Thử lại với liên kết bài hát công khai",
+    "related": [
+      "suno-share-link-guide",
+      "suno-download-credits-limits",
+      "suno-mp3-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Làm cách nào để tải xuống bài hát?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: Quá trình tải xuống diễn ra như thế nào?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      }
+    ]
+  },
+  {
+    "slug": "suno-share-link-guide",
+    "category": "Tutorials",
+    "title": "Liên kết Share, Song hay Hook của Suno: bạn cần loại nào?",
+    "description": "Nhận biết URL /s/, /song/ và /hook/ của Suno, đồng thời biết khi nào nên dùng liên kết một bài hát thay vì playlist hoặc trang người sáng tạo.",
+    "intro": "Địa chỉ bạn sao chép quyết định công cụ có thể kiểm tra nội dung nào. Liên kết bài hát hoặc Hook trực tiếp trỏ đến một mục; playlist hay hồ sơ chứa nhiều mục nên cần cách xử lý khác.",
+    "sections": [
+      {
+        "heading": "Ba dạng liên kết cho một mục",
+        "paragraphs": [
+          "URL share thường bắt đầu bằng suno.com/s/. Trang bài hát dùng suno.com/song/, còn trang Hook dùng suno.com/hook/. Trình tải của chúng tôi nhận các liên kết công khai đến một mục nếu trang có thể truy cập.",
+          "Sao chép liên kết từ nút Share của Suno hoặc thanh địa chỉ trình duyệt, bao gồm toàn bộ đường dẫn. Mở trong tab khác để xác nhận đúng bài hát bạn cần."
+        ]
+      },
+      {
+        "heading": "Vì sao URL hợp lệ vẫn có thể lỗi",
+        "paragraphs": [
+          "URL đúng định dạng không đảm bảo trang ở chế độ công khai, có âm thanh dùng được hay có video được đăng. Chủ sở hữu có thể chuyển bài hát sang riêng tư, xóa bài hoặc thay đổi nội dung trang. Quyền truy cập cũng có thể gián đoạn tạm thời.",
+          "Công cụ xử lý từng mục mỗi lần. URL playlist và hồ sơ người sáng tạo không thể thay cho /song/, dù trang có hiển thị các bài hát."
+        ]
+      },
+      {
+        "heading": "Quy trình chia sẻ đơn giản",
+        "paragraphs": [
+          "Gửi cho cộng tác viên liên kết bài hát cụ thể, tên phiên bản và tệp cần xem lại. Với tệp trong tài khoản của bạn, hãy dùng chức năng xuất từ Library của Suno. Xin phép trước khi tải hoặc sử dụng lại tác phẩm của người khác."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi có thể dán URL playlist vào công cụ dành cho một bài hát không?",
+        "answer": "Không. Hãy mở một bài hát trong playlist và sao chép liên kết trực tiếp hoặc share của bài đó. Công cụ hiện xử lý một mục cho mỗi yêu cầu."
+      },
+      {
+        "question": "/s/ và /song/ có luôn cung cấp cùng một tệp không?",
+        "answer": "Hai dạng liên kết có thể mở cùng bài hát, nhưng trang và dữ liệu truy cập mà công cụ nhận được có thể khác. Hãy kiểm tra tên bài và các tệp tìm thấy trước khi lưu."
+      }
+    ],
+    "toolLabel": "Thử một liên kết bài hát công khai",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-download-not-working",
+      "download-multiple-suno-songs"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "download-multiple-suno-songs",
+    "category": "Tutorials",
+    "title": "Cách tải nhiều bài hát Suno thành tệp ZIP",
+    "description": "Dùng tính năng chọn nhiều bài hát trong Library của Suno để tải cùng lúc và tìm hiểu khi nào nên dùng công cụ xử lý từng bài riêng.",
+    "intro": "Nếu các bài hát nằm trong Library hoặc Workspace của Suno, bạn có thể dùng quy trình chính thức để tải nhiều bài thành một tệp ZIP. Công cụ hiện tại của chúng tôi chỉ xử lý một liên kết bài hát công khai mỗi lần.",
+    "sections": [
+      {
+        "heading": "Chọn bài hát trong Library",
+        "paragraphs": [
+          "Trên Mac, giữ Command để chọn từng bài; trên Windows, giữ Ctrl. Dùng Shift để chọn một dải bài hát. Nhấp chuột phải vào bài đã chọn, chọn Download All, chọn loại tệp được cung cấp rồi bắt đầu tải ZIP.",
+          "Các bước chính thức này áp dụng cho giao diện web của Suno. Hãy dành đủ thời gian và dung lượng cho tệp lớn, sau đó mở ZIP kiểm tra trước khi chuyển các bài gốc ra khỏi dự án đang làm."
+        ]
+      },
+      {
+        "heading": "Sắp xếp tệp ZIP dễ hiểu",
+        "paragraphs": [
+          "Đặt tên ZIP theo dự án và ngày tải. Trong ghi chú dự án, liệt kê phiên bản cần dùng, liên kết bài hát và sự cho phép của cộng tác viên nếu có. Tải hàng loạt chỉ tiện khi bạn xác định được từng tệp về sau.",
+          "Nếu thiếu một mục, hãy kiểm tra mục đó đã được chọn chưa và menu của bài hát có cùng định dạng hay không."
+        ]
+      },
+      {
+        "heading": "Dùng từng liên kết để kiểm tra",
+        "paragraphs": [
+          "Để kiểm tra riêng một bài hát công khai được phép sử dụng, dán URL trực tiếp vào trình tải của chúng tôi. Công cụ có thể gom các tệp hiện có của một bài, kể cả lời bài hát nếu có, thành ZIP. Hiện công cụ không nhận nhiều liên kết hay URL playlist."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Trình tải trên trang này có nhận nhiều liên kết cùng lúc không?",
+        "answer": "Không. Tính năng ZIP gom tài nguyên hiện có của một bài hát công khai. Để tải nhiều bài trong Library của bạn, hãy dùng quy trình Download All của Suno."
+      },
+      {
+        "question": "Nếu ZIP thiếu một bài thì sao?",
+        "answer": "Kiểm tra bài đó đã được chọn chưa và Suno có cung cấp loại tệp đã chọn cho bài ấy không. Nếu quá trình bị gián đoạn, hãy thử với nhóm nhỏ hơn."
+      }
+    ],
+    "toolLabel": "Kiểm tra một bài hát công khai",
+    "related": [
+      "how-to-download-suno-songs",
+      "organize-suno-song-files",
+      "suno-share-link-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Làm cách nào để tải xuống bài hát?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-download",
+    "category": "Lyrics",
+    "title": "Cách lưu lời bài hát Suno dưới dạng văn bản",
+    "description": "Tìm lời bài hát trên trang Suno, lưu phần văn bản hiện có và kiểm tra lời đó có khớp với bản âm thanh bạn định dùng hay không.",
+    "intro": "Tệp lời bài hát hữu ích nhất khi bạn biết nó thuộc phiên bản nào. Hãy lưu liên kết nguồn và nghe lại để đối chiếu, nhất là sau nhiều lần tạo hoặc chỉnh sửa.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ bản nháp lời của bạn",
+        "paragraphs": [
+          "Nếu bạn tự viết lời trong Custom mode của Suno, hãy giữ tệp văn bản gốc làm bản chuẩn. Suno cho biết bạn giữ quyền đối với lời gốc do mình nhập. Ghi phiên bản bài hát vào tên bản nháp để tránh ghi đè khi sửa sau này.",
+          "Nếu trang bài hát hiển thị lời được tạo, hãy sao chép và đối chiếu với bản âm thanh cuối. Cách phát âm được tạo hoặc các câu lặp lại có thể khác văn bản."
+        ]
+      },
+      {
+        "heading": "Lưu văn bản từ bài hát công khai",
+        "paragraphs": [
+          "Nếu được phép dùng bài hát hoặc Hook công khai, dán URL vào trình tải của chúng tôi. Khi trang có lời, mục Lyrics TXT sẽ xuất hiện. Bạn có thể chỉ lưu văn bản hoặc thêm vào ZIP cùng các tệp hiện có của bài hát.",
+          "Nếu không có mục lời, công cụ không tìm thấy văn bản dùng được trên trang. Công cụ không chép lời từ âm thanh và không khôi phục bản nháp riêng tư."
+        ]
+      },
+      {
+        "heading": "Chuẩn bị cho lần sử dụng tiếp theo",
+        "paragraphs": [
+          "Để đọc và chỉnh sửa, tệp TXT đơn giản là đủ. Video lời bài hát cần thông tin thời gian; văn bản thường không có dấu thời gian. Hãy lưu lời, tệp âm thanh và URL cùng nhau để tạo phụ đề đúng với phiên bản cần dùng."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Trình tải có thể chép lời từ âm thanh không?",
+        "answer": "Không. Công cụ lưu văn bản lời bài hát khi trang công khai có cung cấp. Hãy nghe và tự sửa lại nội dung trước khi dùng làm bản chép lời."
+      },
+      {
+        "question": "Tệp TXT có chứa thời gian của lời bài hát không?",
+        "answer": "Không. Văn bản thường chỉ có từ ngữ, không có dấu thời gian. Sau khi chọn bản âm thanh cuối, hãy tạo LRC hoặc SRT bằng phần mềm căn thời gian."
+      }
+    ],
+    "toolLabel": "Kiểm tra lời bài hát hiện có",
+    "related": [
+      "suno-lyrics-timestamps",
+      "suno-lyrics-structure-tags",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tôi có thể sử dụng lời bài hát của riêng mình không?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-structure-tags",
+    "category": "Lyrics",
+    "title": "Thẻ cấu trúc lời bài hát Suno: Verse, Chorus, Bridge và Outro",
+    "description": "Sắp xếp bản nháp lời bài hát Suno bằng nhãn phần rõ ràng, chỗ lặp có chủ đích và khoảng chuyển hợp lý giữa verse, chorus.",
+    "intro": "Thẻ phần giúp bản nháp lời bài hát dễ đọc và chỉnh sửa hơn. Đây là chỉ dẫn về cấu trúc, nhưng không đảm bảo bài hát được tạo sẽ tuân theo chính xác mọi nhãn.",
+    "sections": [
+      {
+        "heading": "Xác định vai trò từng phần",
+        "paragraphs": [
+          "Dùng [Verse] để phát triển câu chuyện hoặc thêm chi tiết, [Chorus] cho câu dễ nhớ, [Bridge] để chuyển góc nhìn và [Outro] để kết lại. Chỉ thêm [Pre-Chorus] nếu bài hát cần đoạn dẫn tăng dần trước chorus.",
+          "Ví dụ ngắn: [Verse 1] có bốn câu mới, [Chorus] lặp lại câu chủ đề, [Verse 2] đổi một chi tiết rồi lặp [Chorus]. Thẻ giúp sắp xếp ý đồ; bạn vẫn cần nghe và chỉnh kết quả âm nhạc."
+        ]
+      },
+      {
+        "heading": "Tách nhãn khỏi lời bài hát",
+        "paragraphs": [
+          "Đặt mỗi thẻ trên một dòng riêng. Viết câu đủ ngắn để hát và chừa một dòng trống giữa các phần. Cách này giúp so sánh các lần tạo và nhận ra chỗ mô hình bỏ qua, lặp lại hoặc kéo dài.",
+          "Nếu chorus chưa nổi bật, hãy sửa lời hoặc tạo tương phản với verse trước khi thêm thẻ. Cấu trúc không thể thay thế một câu chủ đạo rõ ràng."
+        ]
+      },
+      {
+        "heading": "Dùng đúng trường trong Suno",
+        "paragraphs": [
+          "Trong Custom mode, đặt bản nháp lời gốc vào Lyrics và mô tả âm thanh tổng thể vào Styles. Lưu một bản bên ngoài Suno trước khi tạo phiên bản mới. Custom mode hỗ trợ nhập lời do bạn viết."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "[Chorus] có buộc giai điệu lặp lại y hệt không?",
+        "answer": "Không. Thẻ này báo hiệu phần dự định, nhưng kết quả tạo có thể khác nhau. Hãy nghe cả hai đoạn chorus và sửa lời hoặc prompt nếu kết quả chưa phù hợp."
+      },
+      {
+        "question": "Nên đặt mô tả phong cách ở đâu?",
+        "answer": "Trong Custom mode, dùng Styles để mô tả hướng âm nhạc và Lyrics cho lời cùng nhãn cấu trúc."
+      }
+    ],
+    "toolLabel": "Kiểm tra lời bài hát đã hoàn tất",
+    "related": [
+      "suno-lyrics-download",
+      "edit-suno-lyrics",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tôi có thể sử dụng lời bài hát của riêng mình không?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-timestamps",
+    "category": "Lyrics",
+    "title": "Cách căn thời gian lời bài hát Suno để tạo phụ đề",
+    "description": "Đối chiếu từng câu lời với bản âm thanh cuối để tạo phụ đề có thời gian và kiểm tra kỹ các đoạn chuyển khó.",
+    "intro": "Tệp lời thông thường cho biết nội dung cần hiển thị. Tệp phụ đề có thời gian còn ghi rõ lúc từng dòng xuất hiện. Đây là hai việc riêng: trình tải của chúng tôi có thể lưu lời hiện có thành TXT nhưng không tạo mốc thời gian LRC hoặc SRT.",
+    "sections": [
+      {
+        "heading": "Chọn bản âm thanh cuối trước",
+        "paragraphs": [
+          "Lưu đúng bản âm thanh bạn sẽ đăng. Lần tạo sau có thể làm thay đổi thời điểm vào verse và các lần lặp chorus, vì vậy mốc thời gian của bản cũ có thể lệch dù lời giống nhau.",
+          "Nghe và sửa lời trước khi căn thời gian. Đánh dấu từ bị thiếu, ad-lib và câu lặp thay vì cho rằng lời hiển thị là bản chép chính xác."
+        ]
+      },
+      {
+        "heading": "Đánh dấu thời điểm đầu và cuối mỗi dòng",
+        "paragraphs": [
+          "Mở âm thanh bằng phần mềm hỗ trợ phụ đề. Phát từ đầu và ghi lại lúc mỗi câu bắt đầu. Với định dạng phụ đề, hãy đặt cả thời điểm kết thúc để người xem kịp đọc mà không chồng lên dòng kế tiếp.",
+          "Kiểm tra verse đầu, từng lần lặp chorus, đoạn nhạc dạo và outro. Đây là những chỗ mốc thời gian lệch đồng loạt thường không còn chính xác."
+        ]
+      },
+      {
+        "heading": "Xuất theo nơi sử dụng",
+        "paragraphs": [
+          "Dùng SRT với nhiều trình chỉnh sửa video và quy trình phụ đề, hoặc LRC cho trình phát hiển thị lời đồng bộ. Hãy thử tệp đã xuất trên video hoặc trình phát thực tế trước khi chia sẻ. Giữ bản TXT để dễ sửa lời."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi có thể dùng lại mốc thời gian từ lần tạo khác không?",
+        "answer": "Chỉ sau khi đối chiếu với âm thanh cuối. Dù lời giống nhau, thời điểm vào câu, khoảng nghỉ và độ dài chorus vẫn có thể khác."
+      },
+      {
+        "question": "Nên chọn định dạng nào cho phần mềm chỉnh sửa video?",
+        "answer": "SRT được dùng phổ biến cho phụ đề có thời gian, nhưng hãy xác nhận phần mềm của bạn hỗ trợ định dạng này. Giữ tệp TXT không có mốc thời gian để chỉnh sửa."
+      }
+    ],
+    "toolLabel": "Lưu phần lời bài hát hiện có",
+    "related": [
+      "suno-lyrics-download",
+      "suno-video-download",
+      "edit-suno-lyrics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "edit-suno-lyrics",
+    "category": "Lyrics",
+    "title": "Cách chỉnh sửa lời bài hát Suno mà vẫn giữ hook đáng nhớ",
+    "description": "Cải thiện bản nháp lời Suno bằng cách tìm câu yếu, giữ lại hook dễ nhớ và thử từng thay đổi một.",
+    "intro": "Khi bài hát gần hoàn thiện, viết lại mọi câu có thể làm mất đoạn mà người nghe nhớ nhất. Hãy lưu phiên bản lời và âm thanh hiện tại, sau đó chỉ sửa phần nhỏ nhất gây vấn đề.",
+    "sections": [
+      {
+        "heading": "Xác định vấn đề cụ thể",
+        "paragraphs": [
+          "Nghe bài hát trong khi xem lời. Đánh dấu câu khó hát, mơ hồ, lặp không đúng chỗ hoặc không khớp câu chuyện. Nếu chorus đã tốt, hãy giữ câu chủ đạo và chỉnh verse dẫn vào đó.",
+          "Phân biệt vấn đề về lời với vấn đề sản xuất. Giọng hát bị chìm có thể cần chỉ dẫn phối khí hoặc hòa âm khác, chứ không phải vần mới."
+        ]
+      },
+      {
+        "heading": "Viết lại có kiểm soát",
+        "paragraphs": [
+          "Tạo bản sao và đặt tên phiên bản hai. Chỉ sửa một phần, giữ nguyên góc nhìn, số câu và thẻ cấu trúc. Thay nhận định chung bằng hình ảnh hoặc hành động cụ thể; đọc thành tiếng câu mới trước khi tạo lại.",
+          "So sánh kết quả mới với âm thanh trước đó, không chỉ với văn bản. Câu viết tốt hơn có thể không khớp giai điệu, trong khi câu đơn giản lại hát rất tự nhiên."
+        ]
+      },
+      {
+        "heading": "Ghi lại từng thay đổi",
+        "paragraphs": [
+          "Ghi lại câu đã đổi, lý do và phiên bản bạn thích. Lưu tệp lời cuối cùng cùng âm thanh và URL tương ứng. Khi cộng tác, hãy yêu cầu người góp ý nêu đúng mốc thời gian và phần cần sửa thay vì yêu cầu viết lại chung chung."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Có nên sửa chorus trước không?",
+        "answer": "Nếu người nghe nhớ chorus và nó hợp giai điệu, hãy giữ lại. Tìm xem verse, đoạn chuyển hay cách phối giọng mới là phần làm bài hát kém đi."
+      },
+      {
+        "question": "Làm sao so sánh công bằng hai phiên bản lời?",
+        "answer": "Lưu cả hai văn bản và hai bản âm thanh. Ghi rõ phần nào và cải thiện nghe thấy ra sao, thay vì chỉ đánh giá câu chữ."
+      }
+    ],
+    "toolLabel": "Xem lại lời trên trang bài hát",
+    "related": [
+      "suno-lyrics-structure-tags",
+      "suno-lyrics-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tôi có thể sử dụng lời bài hát của riêng mình không?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-cover-art-download",
+    "category": "Cover art",
+    "title": "Cách lưu ảnh bìa bài hát Suno mà bạn được phép sử dụng",
+    "description": "Tìm ảnh bìa được đăng cho bài hát Suno, lưu hình ảnh hiện có và giữ thông tin nguồn cùng sự cho phép với các tệp nhạc.",
+    "intro": "Ảnh bìa giúp nhận diện bài hát trong thư viện, nhưng hình ảnh xuất hiện trên trang công khai không đồng nghĩa bạn được đăng lại ở nơi khác. Hãy bắt đầu với bài hát của mình hoặc xin chấp thuận rõ ràng từ người sáng tạo.",
+    "sections": [
+      {
+        "heading": "Tìm ảnh đã được đăng",
+        "paragraphs": [
+          "Mở trang bài hát và xác nhận ảnh bìa đúng phiên bản. Với liên kết công khai /s/, /song/ hoặc /hook/ có thể truy cập, trình tải của chúng tôi chỉ hiện mục Cover art khi tìm thấy tệp hình ảnh trên trang.",
+          "Lưu ảnh qua mục đó. Nếu mục này không xuất hiện, hãy kiểm tra trang nguồn; công cụ không thể tạo hoặc phóng to ảnh chưa được đăng."
+        ]
+      },
+      {
+        "heading": "Lưu thông tin nguồn và quyền sử dụng",
+        "paragraphs": [
+          "Lưu ảnh cùng với âm thanh và lời bài hát. Ghi lại URL nguồn, người sáng tạo và ngày lưu. Trước khi phát hành, hãy kiểm tra quyền đối với mọi thành phần, bao gồm ảnh do bên thứ ba cung cấp.",
+          "Bạn có thể đổi tên bản sao cho dự án nhưng vẫn giữ tệp gốc. Nhờ đó bạn có thể so sánh các lần chỉnh sửa với ảnh đã đăng."
+        ]
+      },
+      {
+        "heading": "Chuẩn bị ảnh cho nơi đăng",
+        "paragraphs": [
+          "Trước khi đưa ảnh vào video, trình phát hoặc dịch vụ phân phối, hãy kiểm tra yêu cầu hiện hành về kích thước, tỷ lệ và định dạng. Ảnh công khai có thể nhỏ hơn yêu cầu của nền tảng phát hành. Phóng lớn không thể bổ sung chi tiết vốn không có trong ảnh độ phân giải thấp."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi có thể lưu ảnh bìa của bất kỳ bài hát công khai nào không?",
+        "answer": "Truy cập được về mặt kỹ thuật không đồng nghĩa với được phép sử dụng. Hãy dùng ảnh của bài hát do bạn sở hữu hoặc xin chấp thuận của người sáng tạo và nghệ sĩ liên quan."
+      },
+      {
+        "question": "Vì sao mục ảnh bìa không xuất hiện?",
+        "answer": "Trang có thể không cung cấp hình ảnh mà công cụ lưu được. Hãy mở bài hát nguồn và xác nhận tệp ảnh có sẵn."
+      }
+    ],
+    "toolLabel": "Kiểm tra ảnh bìa hiện có",
+    "related": [
+      "suno-cover-art-size",
+      "suno-mp3-cover-art-missing",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-cover-art-size",
+    "category": "Cover art",
+    "title": "Kích thước và định dạng ảnh bìa Suno: cần kiểm tra gì trước khi đăng",
+    "description": "Kiểm tra kích thước, vùng cắt, định dạng và quyền sử dụng ảnh bìa Suno trước khi dùng trong trình phát, video hoặc quy trình phát hành.",
+    "intro": "Không có một kích thước ảnh phù hợp cho mọi nơi. Hãy bắt đầu từ tệp thực tế của bài hát rồi so sánh với yêu cầu hiện hành của nền tảng sẽ đăng ảnh.",
+    "sections": [
+      {
+        "heading": "Kiểm tra ảnh nguồn",
+        "paragraphs": [
+          "Lưu ảnh bìa có trên trang bài hát rồi xem kích thước pixel và loại tệp trong hệ điều hành. Kiểm tra ảnh có vuông không, chữ quan trọng có sát mép không và ảnh có đúng phiên bản âm thanh không.",
+          "Trình tải của chúng tôi lưu ảnh đã đăng nếu có; công cụ không đảm bảo một kích thước JPEG cố định hoặc tạo ra bản có độ phân giải cao hơn."
+        ]
+      },
+      {
+        "heading": "Thiết kế theo nơi sử dụng",
+        "paragraphs": [
+          "Ảnh thu nhỏ trong thư viện nhạc có thể cần vùng cắt khác với video lời toàn màn hình. Khi phát hành, hãy xem yêu cầu hiện hành của nhà phân phối về kích thước tối thiểu, chế độ màu, chữ và nội dung.",
+          "Xuất riêng một bản cho mỗi nơi sử dụng. Nếu phóng to ảnh nhỏ, hãy xem ở kích thước thực để nhận biết mờ hoặc lỗi ảnh; tăng số pixel không làm nguồn tốt hơn."
+        ]
+      },
+      {
+        "heading": "Lưu bằng chứng về quyền sử dụng",
+        "paragraphs": [
+          "Ảnh chụp màn hình của trang công khai không phải giấy phép. Hãy lưu tệp nguồn và quyền sử dụng cùng hồ sơ bài hát. Nếu người khác cung cấp ảnh bìa, hãy xin phép đúng mục đích bạn dự định dùng."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Ảnh bìa Suno có kích thước bao nhiêu?",
+        "answer": "Kiểm tra ảnh bạn đã lưu; kích thước phụ thuộc vào tài nguyên được đăng. Đừng mặc định ảnh thu nhỏ luôn có một kích thước cố định."
+      },
+      {
+        "question": "Có thể phóng to ảnh nhỏ để in được không?",
+        "answer": "Phóng to chỉ thay đổi kích thước, không khôi phục chi tiết đã mất. Nếu nơi sử dụng yêu cầu, hãy xin tệp nguồn được phép dùng với chất lượng cao hơn."
+      }
+    ],
+    "toolLabel": "Lưu tệp ảnh bìa đã đăng",
+    "related": [
+      "suno-cover-art-download",
+      "suno-video-download",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "write-better-suno-prompts",
+    "category": "Prompts",
+    "title": "Cách viết prompt Suno với định hướng âm nhạc rõ ràng",
+    "description": "Tạo prompt nhạc Suno có trọng tâm bằng cách xác định thể loại, nhịp độ, nhạc cụ, cách hát và chất âm sản xuất, sau đó so sánh kết quả có hệ thống.",
+    "intro": "Prompt tốt đưa ra mục tiêu âm nhạc nhất quán. Hãy bắt đầu bằng ý chính ngắn, chỉ thêm chi tiết ảnh hưởng đến trải nghiệm nghe và chỉnh sửa sau khi nghe bài hát.",
+    "sections": [
+      {
+        "heading": "Nêu mục tiêu trong một câu",
+        "paragraphs": [
+          "Chọn phong cách chung, diễn biến cảm xúc và âm thanh chủ đạo. Ví dụ: pop acoustic trữ tình, guitar rải dây, trống tiết chế và giọng hát gần gũi. Mục tiêu này dễ đánh giá hơn danh sách thể loại rời rạc.",
+          "Nếu bài hát có lời, hãy xác định âm thanh cần nâng đỡ verse nhẹ nhàng, chorus mạnh mẽ hơn hay cả hai. Mô tả rõ mối liên hệ đó."
+        ]
+      },
+      {
+        "heading": "Thêm một vài ràng buộc hữu ích",
+        "paragraphs": [
+          "Chỉ định một hoặc hai nhạc cụ cần nổi bật, cách hát và chất âm sản xuất. Chỉ mô tả thay đổi giữa các phần khi điều đó quan trọng. Tránh xếp hàng loạt từ gần nghĩa như ấm áp, dày dặn, mơ màng, êm dịu mà không nêu ưu tiên.",
+          "Trong Custom mode của Suno, Styles dành cho định hướng âm nhạc còn Lyrics dành cho lời. Suno hiển thị chúng thành hai trường riêng."
+        ]
+      },
+      {
+        "heading": "Mỗi lần chỉ thử một thay đổi",
+        "paragraphs": [
+          "Lưu prompt kèm số phiên bản. Nghe nhạc cụ chủ đạo, năng lượng, chất giọng và độ tương phản giữa các phần. Ở lần tạo tiếp theo, chỉ đổi một nhóm yếu tố để biết chỉnh sửa nào có tác dụng.",
+          "Lưu liên kết bài hát và ghi chú cùng prompt. Khi cần xem lại hoặc lưu trữ, trình tải của chúng tôi có thể kiểm tra kết quả công khai được phép dùng và tài nguyên hiện có."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Prompt Suno nên dài bao nhiêu?",
+        "answer": "Đủ để nêu mục tiêu nhất quán, nhưng mỗi chi tiết cần có tác dụng. Bắt đầu với thể loại, âm thanh chủ đạo, lựa chọn giọng hát hay nhạc không lời và năng lượng từng phần."
+      },
+      {
+        "question": "Prompt có đảm bảo kết quả cụ thể không?",
+        "answer": "Không. Các lần tạo có thể khác nhau. Hãy lưu các phiên bản prompt và so sánh âm thanh để mỗi lần sửa dựa trên điều bạn thực sự nghe được."
+      }
+    ],
+    "toolLabel": "Kiểm tra bài hát công khai đã hoàn tất",
+    "related": [
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tổng quan về chế độ tùy chỉnh",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-style-prompt-examples",
+    "category": "Prompts",
+    "title": "Ví dụ prompt Style cho Suno để điều chỉnh và thử nghiệm",
+    "description": "Thử các prompt Style có trọng tâm cho pop acoustic, nhạc điện tử và không khí điện ảnh, đồng thời tìm hiểu chi tiết nào nên thay đổi.",
+    "intro": "Ví dụ Style là giả thuyết để bắt đầu, không phải công thức đảm bảo âm thanh. Hãy điều chỉnh thể loại, vai trò nhạc cụ, cách hát và chất âm sản xuất cho phù hợp với bài hát của bạn.",
+    "sections": [
+      {
+        "heading": "Bài acoustic có chorus lớn hơn",
+        "paragraphs": [
+          "Thử: pop acoustic gần gũi, guitar rải ở verse, bass ấm, bộ gõ tiết chế, giọng chính gần và bè rộng hơn ở chorus. Độ tương phản quan trọng hơn việc thêm nhiều từ mô tả tâm trạng.",
+          "Nếu chorus vẫn chưa đủ lớn, hãy chỉnh thay đổi phối khí trước. Nếu giọng hát quá xa, sửa mô tả giọng thay vì viết lại toàn bộ prompt."
+        ]
+      },
+      {
+        "heading": "Bản nhạc điện tử giàu nhịp điệu",
+        "paragraphs": [
+          "Thử: pop điện tử nhịp vừa, kick chắc và bass đảo phách, mô-típ synth trong trẻo, verse thoáng, hook nhiều lớp sáng và bản phối hiện đại rõ nét. Bass và mô-típ ở đây đảm nhiệm hai vai trò riêng.",
+          "Nếu kết quả quá dày, bỏ bớt một lớp hoặc giảm năng lượng verse. Giữ mô tả groove nếu phần đó đã hiệu quả."
+        ]
+      },
+      {
+        "heading": "Không gian nhạc không lời",
+        "paragraphs": [
+          "Thử: ambient điện ảnh chậm, mô-típ piano nhẹ, lớp dây phát triển dần, âm vang phòng xa, cao trào tăng từ từ và không có giọng chính. Với bản nhạc không lời, hãy bật Instrumental trong Suno nếu có tùy chọn này.",
+          "Lưu nguyên prompt cho mỗi phiên bản được tạo. Hãy so sánh âm thanh thực tế, đừng giả định một ví dụ sao chép sẽ cho kết quả giống nhau qua mọi lần tạo."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Có nên dán nguyên ví dụ không chỉnh sửa?",
+        "answer": "Hãy dùng chúng làm điểm khởi đầu để thử. Thay nhạc cụ, groove và lựa chọn giọng hát cho phù hợp với bài rồi so sánh kết quả."
+      },
+      {
+        "question": "Vì sao prompt Style giống nhau lại cho âm thanh khác nhau?",
+        "answer": "Kết quả tạo có thể thay đổi và đầu vào khác như lời bài hát cũng ảnh hưởng. Hãy lưu các phiên bản và đánh giá âm thanh thay vì xem prompt là preset cố định."
+      }
+    ],
+    "toolLabel": "Xem lại kết quả ví dụ",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-instrumental-prompt",
+      "suno-exclude-styles"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tổng quan về chế độ tùy chỉnh",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-instrumental-prompt",
+    "category": "Prompts",
+    "title": "Cách tạo bài nhạc không lời Suno với prompt có trọng tâm",
+    "description": "Thiết lập tạo nhạc không lời trong Suno và mô tả giai điệu, nhịp điệu, phối khí cùng diễn tiến mà không dựa vào chỉ dẫn lời hát.",
+    "intro": "Với nhạc không lời, hãy mô tả các nhạc cụ sẽ làm gì theo thời gian. Chỉ nêu thể loại thì chưa xác định rõ giai điệu, nhịp và sự chuyển động giữa các phần.",
+    "sections": [
+      {
+        "heading": "Dùng tùy chọn Instrumental",
+        "paragraphs": [
+          "Custom mode của Suno có tùy chọn Instrumental. Bật tùy chọn này nếu bạn không muốn giọng hát chính, rồi dùng Styles và các điều khiển khác để mô tả âm thanh. Đừng chỉ ghi “không lời” trong ô văn bản.",
+          "Hãy kiểm tra kết quả: tùy chọn instrumental thể hiện ý định, nhưng có thể bạn vẫn cần tạo lại hoặc viết prompt rõ hơn."
+        ]
+      },
+      {
+        "heading": "Mô tả ba vai trò âm nhạc",
+        "paragraphs": [
+          "Chọn âm thanh chính, lớp hỗ trợ và nhịp nền. Ví dụ: giai điệu piano điện dịu nhẹ, pad analog trầm và nhịp gõ nhẹ bằng chổi. Thêm chỉ dẫn phát triển như nửa sau rộng mở hơn hoặc kết thúc giản lược.",
+          "Đừng liệt kê mười nhạc cụ nếu không thể giải thích vai trò riêng của chúng. Ít chỉ dẫn nhưng phân biệt rõ sẽ dễ đánh giá hơn."
+        ]
+      },
+      {
+        "heading": "Đối chiếu kết quả với yêu cầu",
+        "paragraphs": [
+          "Nghe xem có giọng hát không mong muốn không, giai điệu chính có rõ không và bản nhạc có phát triển không. Mỗi phiên bản chỉ thay đổi một yếu tố. Lưu liên kết cùng prompt; nếu được phép sử dụng bài hát, hãy kiểm tra âm thanh có trên trang công khai."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Chỉ ghi “không có giọng hát” trong Styles đã đủ chưa?",
+        "answer": "Khi có tùy chọn, hãy bật Instrumental của Suno rồi mô tả phối khí trong Styles. Nghe lại để xác nhận kết quả đúng yêu cầu."
+      },
+      {
+        "question": "Có thể thay hook giọng hát bằng gì?",
+        "answer": "Tạo mô-típ riêng, dễ lặp lại cho nhạc cụ chính và xác định nơi mô-típ xuất hiện lại hoặc thay đổi trong bài."
+      }
+    ],
+    "toolLabel": "Kiểm tra bản nhạc không lời",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tổng quan về chế độ tùy chỉnh",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-exclude-styles",
+    "category": "Prompts",
+    "title": "Cách giảm phong cách không mong muốn trong bản tạo Suno",
+    "description": "Xác định đặc điểm thể loại, giọng hát hoặc nhạc cụ không mong muốn rồi chỉnh prompt mà vẫn giữ định hướng chính.",
+    "intro": "Nếu bản tạo có âm thanh bạn không yêu cầu, hãy mô tả chính xác đặc điểm nghe thấy. Một chỉ dẫn tích cực rõ ràng cùng một mục cần loại trừ cụ thể sẽ dễ thử hơn danh sách cấm dài.",
+    "sections": [
+      {
+        "heading": "Gọi tên âm thanh không mong muốn",
+        "paragraphs": [
+          "Ghi lại điều bạn nghe: synth chính quá sáng, trống kiểu rock, bè như hợp xướng hoặc cảm giác thuộc thể loại khác. Nhận xét chung như “quá đại trà” chưa cho biết nên sửa gì.",
+          "Kiểm tra xem prompt ban đầu có vô tình gợi ra âm thanh đó không. Từ như epic hoặc cinematic có thể khiến bản phối lớn hơn dự định."
+        ]
+      },
+      {
+        "heading": "Cân bằng lại chỉ dẫn tích cực",
+        "paragraphs": [
+          "Nêu rõ nhạc cụ chính và groove bạn muốn. Thay các từ phong cách cạnh tranh bằng một định hướng chủ đạo. Nếu giao diện Suno hiện tại có điều khiển nâng cao để loại trừ phong cách, hãy mô tả ngắn và cụ thể đặc điểm cần tránh ở đó.",
+          "Đừng cho rằng mục loại trừ luôn được tuân theo. Kết quả tạo có thể khác nhau; chỉ dẫn tích cực mâu thuẫn vẫn có thể kéo bài về âm thanh bạn muốn tránh."
+        ]
+      },
+      {
+        "heading": "So sánh một chỉnh sửa nhỏ",
+        "paragraphs": [
+          "Tạo lại chỉ với thay đổi đó. Lưu cả hai prompt và nghe cùng một đoạn. Nếu âm thanh không mong muốn mất đi nhưng năng lượng cũng giảm, hãy khôi phục năng lượng bằng vai trò nhạc cụ khác thay vì thêm lại gợi ý thể loại cũ."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Có nên loại trừ nhiều thể loại cùng lúc không?",
+        "answer": "Hãy bắt đầu với một đặc điểm nghe thấy gây ra vấn đề. Danh sách loại trừ dài khiến khó biết chỉnh sửa nào có tác dụng."
+      },
+      {
+        "question": "Nếu nhạc cụ bị loại trừ vẫn xuất hiện thì sao?",
+        "answer": "Tìm chỉ dẫn mâu thuẫn trong prompt tích cực, mô tả rõ hơn nhạc cụ chủ đạo rồi so sánh lần tạo khác. Loại trừ không đảm bảo kết quả."
+      }
+    ],
+    "toolLabel": "Kiểm tra bài hát đã chỉnh sửa",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-custom-mode-tutorial",
+    "category": "Tutorials",
+    "title": "Hướng dẫn Custom mode của Suno: Lyrics, Styles và Instrumental",
+    "description": "Thiết lập bài hát trong Custom mode với lời gốc, mô tả Style có trọng tâm, tiêu đề và tùy chọn Instrumental khi cần.",
+    "intro": "Custom mode hữu ích khi bạn muốn kiểm soát riêng phần lời và định hướng âm nhạc. Hãy chuẩn bị hai phần trước khi nhấn Create để biết lựa chọn nào tác động đến kết quả.",
+    "sections": [
+      {
+        "heading": "Chuẩn bị nội dung đầu vào",
+        "paragraphs": [
+          "Viết mô tả Style ngắn gồm thể loại chính, nhạc cụ, chất giọng và thay đổi năng lượng. Nếu bài có giọng hát, hãy soạn lời với nhãn phần đơn giản. Lưu một bản ngoài Suno để có thể khôi phục các lần chỉnh sửa sau.",
+          "Với bài không lời, hãy lên kế hoạch cho giai điệu và vai trò nhạc cụ hỗ trợ thay vì điền chỉ dẫn sản xuất vào trường lời bài hát."
+        ]
+      },
+      {
+        "heading": "Tạo bài hát trong Custom mode",
+        "paragraphs": [
+          "Mở Create trong Suno và chọn Custom. Nhập lời vào Lyrics, mô tả âm thanh vào Styles và đặt tiêu đề rõ ràng. Bật Instrumental nếu muốn nhạc không có lời hát rồi tạo bài.",
+          "Trợ giúp Suno mô tả các điều khiển này trong Custom mode. Giao diện có thể thay đổi, vì vậy hãy theo nhãn hiển thị trong tài khoản của bạn."
+        ]
+      },
+      {
+        "heading": "Nghe lại và lưu phiên bản",
+        "paragraphs": [
+          "Nghe để kiểm tra lời, đoạn chuyển giữa các phần và nhạc cụ có đúng mô tả không. Ghi lại một điều muốn giữ và một điều muốn sửa. Nếu đăng trang bài hát, hãy lưu liên kết cùng prompt và phiên bản lời.",
+          "Với bài hát của bạn, dùng menu Download chính thức của Suno để xuất từ tài khoản. Công cụ của chúng tôi có thể kiểm tra các tệp hiện có từ liên kết công khai được phép sử dụng."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi có cần tự viết lời không?",
+        "answer": "Không. Custom mode nhận lời do bạn viết hoặc văn bản được tạo. Hãy giữ bản sao của nội dung muốn chỉnh sửa hay lưu làm hồ sơ."
+      },
+      {
+        "question": "Chọn nhạc không lời ở đâu?",
+        "answer": "Dùng điều khiển Instrumental trong Custom mode khi có tùy chọn, rồi mô tả âm thanh trong Styles."
+      }
+    ],
+    "toolLabel": "Kiểm tra kết quả công khai",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-lyrics-structure-tags",
+      "how-to-download-suno-songs"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tôi có thể sử dụng lời bài hát của riêng mình không?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      },
+      {
+        "label": "Suno: Tổng quan về chế độ tùy chỉnh",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "organize-suno-song-files",
+    "category": "Tutorials",
+    "title": "Cách sắp xếp tệp âm thanh, lời, ảnh bìa và prompt Suno",
+    "description": "Tạo hệ thống thư mục và cách đặt tên đơn giản để lưu chung các phiên bản bài hát Suno, prompt, bản nháp lời, hình ảnh và thông tin cho phép.",
+    "intro": "Dự án khó quản lý khi âm thanh, ảnh bìa và lời bài hát đều dùng tên tệp chung chung. Quy tắc đặt tên đơn giản giúp so sánh phiên bản và cộng tác dễ dàng hơn.",
+    "sections": [
+      {
+        "heading": "Tạo một thư mục cho mỗi bài",
+        "paragraphs": [
+          "Đặt tên thư mục như du-an-ten-bai-hat. Lưu âm thanh, ảnh bìa, lời và ghi chú bên trong. Nếu có nhiều lần tạo, hãy đánh số phiên bản thay vì ghi đè lên tệp tên “final”.",
+          "Có thể đặt tên theo mẫu ten-bai-v03-audio.mp3, ten-bai-v03-lyrics.txt và ten-bai-v03-cover.jpg. Ghi URL nguồn và tài khoản tạo bài trong README ngắn hoặc ghi chú."
+        ]
+      },
+      {
+        "heading": "Ghi lại quyết định cùng tài nguyên",
+        "paragraphs": [
+          "Với mỗi phiên bản tiềm năng, ghi lại prompt, phiên bản lời, điểm đã thay đổi và cảm nhận khi nghe. Nếu người khác đóng góp lời hoặc ảnh, hãy lưu thông tin cho phép và ghi công trong cùng thư mục dự án.",
+          "Nếu cần quyền sử dụng thương mại, hãy giữ hồ sơ tải chính thức. Chỉ nhìn tên tệp thì không biết tài khoản hay cách xuất đã tạo ra nó."
+        ]
+      },
+      {
+        "heading": "Kiểm tra kho lưu trữ trước khi chia sẻ",
+        "paragraphs": [
+          "Mở thử tệp âm thanh, hình ảnh và lời sau khi lưu. Xác nhận tất cả cùng thuộc một phiên bản trước khi gửi ZIP cho cộng tác viên. Công cụ của chúng tôi có thể đóng gói tệp tìm thấy từ một liên kết công khai được phép dùng, nhưng ghi chú và giấy phép cần lưu riêng."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Thông tin tối thiểu nào cần lưu cùng bài hát?",
+        "answer": "Lưu phiên bản âm thanh, URL bài hát, prompt, phiên bản lời, bối cảnh tạo bài và mọi thông tin cho phép liên quan đến mục đích sử dụng."
+      },
+      {
+        "question": "Có nên ghi đè các tệp tên “final” không?",
+        "answer": "Không. Đánh số từng bản đã xem xét. Bạn có thể đánh dấu một bản được chọn mà vẫn giữ các tệp cũ ghi lại quá trình thay đổi."
+      }
+    ],
+    "toolLabel": "Thu thập các tệp hiện có của một bài hát",
+    "related": [
+      "download-multiple-suno-songs",
+      "suno-cover-art-download",
+      "suno-lyrics-download"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-commercial-use",
+    "category": "Rights",
+    "title": "Có thể sử dụng bài hát Suno cho mục đích thương mại không? Kiểm tra gói và quyền tải",
+    "description": "Hiểu sự khác nhau giữa liên kết Suno công khai, bản tải được phép, quyền sử dụng thương mại và bảo hộ bản quyền trước khi phát hành bài hát.",
+    "intro": "Liên kết công khai chỉ cho biết trang có thể xem được. Nó không chứng minh ai tạo bài hát hoặc bạn có quyền kiếm tiền từ bài đó. Trước khi phát hành, hãy kiểm tra tài khoản, bối cảnh tạo bài, cách tải và tài liệu của bên thứ ba.",
+    "sections": [
+      {
+        "heading": "Kiểm tra gói và cách xuất tệp",
+        "paragraphs": [
+          "Theo trung tâm trợ giúp Suno, bài hát tạo trong thời gian đăng ký gói trả phí có thể được cấp quyền sử dụng thương mại. Bài hát tạo bằng gói miễn phí dành cho mục đích phi thương mại. Điều khoản hiện hành cũng gắn quyền thương mại được phép với lượt tải thông qua kênh Suno được chấp thuận. Với dự án thương mại, hãy dùng tài khoản của bạn và lưu hồ sơ tải chính thức.",
+          "Đăng ký trả phí sau này không tự động cấp quyền thương mại hồi tố cho bài hát tạo bằng gói miễn phí. Suno nêu rõ sự khác biệt này."
+        ]
+      },
+      {
+        "heading": "Rà soát mọi tài liệu được sử dụng",
+        "paragraphs": [
+          "Xác nhận bạn được phép sử dụng lời bài hát, âm thanh tải lên, ảnh bìa và các đóng góp khác. Trang công khai hoặc tính năng Reuse Prompt không trao quyền đối với lời gốc của người sáng tạo khác.",
+          "Quyền sử dụng thương mại và bảo hộ bản quyền là hai vấn đề riêng. Suno cho biết khả năng được bảo hộ tùy thuộc luật từng khu vực và mức đóng góp của con người."
+        ]
+      },
+      {
+        "heading": "Lưu hồ sơ phát hành",
+        "paragraphs": [
+          "Lưu URL bài hát, gói tài khoản khi tạo và tải, tệp xuất chính thức, sự cho phép của cộng tác viên và kênh phân phối dự kiến. Trước khi phát hành, hãy kiểm tra lại điều khoản Suno và yêu cầu của nhà phân phối vì quy định có thể đổi.",
+          "Trình tải của chúng tôi giúp kiểm tra tài nguyên từ liên kết công khai được phép dùng; công cụ không xác minh quyền sở hữu, cấp giấy phép hoặc thay thế bản xuất đã được tài khoản chấp thuận."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Gói trả phí có giúp mọi bài hát cũ được dùng thương mại không?",
+        "answer": "Không. Suno cho biết đăng ký sau không tự động cấp quyền thương mại hồi tố cho bài hát tạo bằng gói miễn phí."
+      },
+      {
+        "question": "Tải được bài hát công khai có chứng minh tôi sở hữu bài hát không?",
+        "answer": "Không. Điều đó chỉ cho thấy tệp có thể truy cập. Cần kiểm tra riêng quyền sở hữu, quyền của cộng tác viên, gói dịch vụ và cách tải được cho phép."
+      }
+    ],
+    "toolLabel": "Kiểm tra bài hát công khai được phép sử dụng",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-cover-art-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Điều khoản dịch vụ của Suno",
+        "url": "https://suno.com/terms-of-service"
+      },
+      {
+        "label": "Suno: Tôi có những quyền gì với gói đăng ký trả phí?",
+        "url": "https://help.suno.com/en/articles/9601665"
+      },
+      {
+        "label": "Suno: Quyền đối với các bài hát được tạo trước khi đăng ký",
+        "url": "https://help.suno.com/en/articles/2425729"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-credits-limits",
+    "category": "Downloads",
+    "title": "Giới hạn tải xuống Suno năm 2026: lượt tải, ngày làm mới và cách tính",
+    "description": "Tìm hiểu giới hạn tải Suno, chu kỳ làm mới theo kỳ thanh toán, lượt tải dùng thử, gói đã mua và cách tính định dạng cùng stem.",
+    "intro": "Lượt tạo nhạc và lượt tải xuống Suno là hai loại riêng. Thư viện của bạn vẫn phát và chia sẻ được khi đã hết hạn mức tải. Nội dung này dựa trên trang trợ giúp Suno được kiểm tra ngày 22 tháng 10 năm 2026; hãy kiểm tra tài khoản trước khi lên kế hoạch phát hành hoặc lưu trữ.",
+    "sections": [
+      {
+        "heading": "Lượt tải hằng tháng theo gói",
+        "paragraphs": [
+          "Hiện Suno ghi nhận 20 lượt tải bài hát mỗi tháng cho Pro và 60 cho Premier. Lượt tải được bổ sung theo chu kỳ thanh toán; gói năm được bổ sung hằng tháng dựa trên ngày mua ban đầu. Lượt tháng chưa dùng không được chuyển sang kỳ sau. Quy trình Suno Studio của Premier không chịu giới hạn tải.",
+          "Tài khoản miễn phí có thể đủ điều kiện nhận tối đa 7 lượt tải thử trong suốt thời gian sử dụng. Lượt này không làm mới hằng tháng và chỉ dành cho mục đích cá nhân, phi thương mại. Trang trợ giúp Suno lưu ý khả năng nhận lượt tải thử có thể khác nhau với tài khoản miễn phí mới, vì vậy hãy kiểm tra hạn mức trong tài khoản."
+        ]
+      },
+      {
+        "heading": "Điều gì được tính là một lượt tải",
+        "paragraphs": [
+          "Suno tính một bài hát là một lượt tải, bất kể định dạng. Tải lại cùng bài hát ở định dạng khác không dùng thêm lượt tháng. Stem của bài hát đó nằm trong cùng lượt tính; lượt tải lỗi hoặc bị ngắt không làm giảm hạn mức.",
+          "Lượt tải hằng tháng của gói không được chuyển kỳ. Lượt tải mua riêng và gói lượt tải đã mua được chuyển tiếp. Lượt tải thử chưa dùng cũng được giữ lại nhưng không được bổ sung mỗi tháng."
+        ]
+      },
+      {
+        "heading": "Lên kế hoạch xuất tệp",
+        "paragraphs": [
+          "Trước khi xuất, hãy chọn phiên bản và tệp cần dùng. Lựa chọn tùy theo gói, bài hát và thiết bị: Suno ghi nhận MP3 trên mọi gói, WAV cho Pro và Premier trên web, video nếu có, stem khi có và MIDI cho bài Suno Studio đủ điều kiện trên Premier. Hãy kiểm tra menu của từng bài.",
+          "Nếu có hạn chót, hãy dùng menu chính thức trong tài khoản Suno và lưu tệp cùng liên kết bài hát. Công cụ liên kết công khai của chúng tôi có thể kiểm tra nội dung mà trang được phép truy cập hiển thị, nhưng không thể xem hoặc nạp thêm lượt tải, cấp quyền thương mại hay thay thế bản xuất chính thức."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Lượt tải tháng chưa dùng có được chuyển tiếp không?",
+        "answer": "Không. Lượt tháng của Pro và Premier không được chuyển. Suno cho biết lượt tải mua riêng, gói đã mua và lượt thử chưa dùng được chuyển; lượt thử không được nạp thêm hằng tháng."
+      },
+      {
+        "question": "Có thể dùng thương mại bài tải thử không?",
+        "answer": "Không. Suno quy định lượt tải thử chỉ dùng cá nhân, phi thương mại và không cấp quyền thương mại."
+      }
+    ],
+    "toolLabel": "Kiểm tra một bài hát công khai được phép sử dụng",
+    "related": [
+      "how-to-download-suno-songs",
+      "download-multiple-suno-songs",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Quá trình tải xuống diễn ra như thế nào?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      },
+      {
+        "label": "Suno: Tín dụng tải xuống có được chuyển đổi không?",
+        "url": "https://help.suno.com/en/articles/13876929"
+      },
+      {
+        "label": "Suno: Tải xuống dùng thử miễn phí",
+        "url": "https://help.suno.com/en/articles/13926401"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-cover-art-missing",
+    "category": "Cover art",
+    "title": "MP3 Suno không hiện ảnh bìa? Kiểm tra ảnh nhúng và trình phát",
+    "description": "Tìm hiểu ảnh bìa nhúng có thật sự thiếu trong MP3 Suno hay ứng dụng nhạc chỉ không hiển thị, sau đó chọn cách khắc phục an toàn.",
+    "intro": "Ảnh thu nhỏ trống không phải lúc nào cũng có nghĩa là ảnh bìa đã bị xóa khỏi MP3. Trình phát nhạc và trình quản lý tệp hiển thị ảnh nhúng khác nhau. Hãy kiểm tra tệp âm thanh trước khi tải lại hoặc sửa thẻ thông tin.",
+    "sections": [
+      {
+        "heading": "Kiểm tra ảnh có nằm trong MP3 không",
+        "paragraphs": [
+          "Mở tệp đã lưu bằng một trình phát khác hoặc công cụ xem thẻ âm thanh có thể hiển thị ảnh nhúng. Nếu ảnh bìa hiện ở đó, MP3 vẫn có ảnh; ứng dụng đầu tiên có thể gặp vấn đề hiển thị, bộ nhớ đệm hoặc tương thích thẻ. Hãy làm mới thư viện trước khi sửa tệp.",
+          "Nếu ảnh không hiện trong nhiều ứng dụng đọc thẻ, hãy kiểm tra trang bài hát và tùy chọn tải của Suno. Ảnh bìa riêng có thể vẫn tải được dù bản xuất âm thanh không nhúng ảnh. Tùy chọn phụ thuộc vào bài hát và cách tải."
+        ]
+      },
+      {
+        "heading": "Thử trình phát khác trước khi sửa thẻ",
+        "paragraphs": [
+          "Thử cùng MP3 bằng ứng dụng khác trên thiết bị hiện tại và nếu có thể hãy so sánh trên thiết bị khác. Nếu một trình phát hiện ảnh còn trình khác thì không, nguyên nhân có thể là ứng dụng hoặc chỉ mục thư viện chứ không phải tệp thiếu ảnh.",
+          "Đừng mã hóa lại âm thanh chỉ để làm mới ảnh thu nhỏ. Việc mã hóa lại có thể thay đổi âm thanh và siêu dữ liệu mà vẫn không sửa lỗi hiển thị. Giữ bản tải gốc làm bản sao lưu trong khi kiểm tra."
+        ]
+      },
+      {
+        "heading": "Thêm ảnh bìa riêng vào bản sao",
+        "paragraphs": [
+          "Nếu MP3 thật sự không có ảnh bìa, hãy lưu ảnh tương ứng từ trang mà bạn được phép sử dụng. Công cụ sửa thẻ có thể nhúng ảnh vào bản sao MP3; chọn loại ảnh bìa trước phổ biến, lưu rồi mở bản sao bằng trình phát mục tiêu để kiểm tra.",
+          "Giữ nguyên âm thanh gốc và chỉ dùng ảnh khi bạn có quyền. Trang công khai không tự cấp quyền dùng lại bài hát hoặc hình ảnh. Suno Downloader của chúng tôi có thể hiện thẻ ảnh bìa riêng nếu trang công khai cung cấp ảnh, nhưng không sửa được thẻ bên trong MP3."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Ảnh thu nhỏ trống trên Windows có chứng minh MP3 không có ảnh bìa không?",
+        "answer": "Không. Hãy mở tệp bằng trình phát hoặc công cụ xem thẻ khác. Trình phát, bộ nhớ đệm hoặc khả năng tương thích có thể ẩn ảnh đã nhúng."
+      },
+      {
+        "question": "Tôi có thể nhúng ảnh bìa riêng của Suno vào MP3 không?",
+        "answer": "Công cụ sửa thẻ có thể thêm ảnh vào bản sao MP3. Hãy chắc chắn bạn được phép dùng ảnh và giữ nguyên tệp gốc."
+      }
+    ],
+    "toolLabel": "Kiểm tra ảnh bìa riêng có sẵn không",
+    "related": [
+      "suno-cover-art-download",
+      "suno-mp3-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tôi có thể tải xuống những loại tệp nào?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Báo cáo cộng đồng: Ảnh bìa MP3 không hiển thị trong Windows",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1vzgmzy/downloaded_mp3_cover_art_not_showing/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-v6-muddy-vocals",
+    "category": "Tutorials",
+    "title": "Giọng hát Suno V6 bị đục hoặc chìm? Hướng dẫn kiểm tra thực tế",
+    "description": "Kiểm tra giọng hát Suno V6 bị đục hoặc chìm bằng các bước nghe so sánh, thử prompt có kiểm soát và chỉnh stem nếu cần.",
+    "intro": "Giọng hát nghe xa hoặc đục có thể do bản tạo, thiết bị phát hoặc xử lý sau đó. Suno không công bố một cách khắc phục chung cho hiện tượng này. Hãy tạo phép so sánh có thể lặp lại và giữ bản nhạc gốc để đánh giá từng thay đổi.",
+    "sections": [
+      {
+        "heading": "Xác định lúc âm thanh thay đổi",
+        "paragraphs": [
+          "Phát cùng một đoạn ở cùng mức âm lượng trên trình phát hoặc thiết bị khác. So sánh bản phát trực tiếp trên Suno với tệp đã xuất, sau đó nghe phần đầu, giữa và cuối. Nếu một bản rõ còn bản kia không, hãy kiểm tra trình phát, bộ cân bằng âm hoặc bản xuất trước khi sửa prompt.",
+          "Nếu giọng hát cũng chìm trong bản tạo gốc, hãy ghi lại đoạn bị ảnh hưởng và xem nhạc cụ có lấn lời không. Một lần tạo không chứng minh rằng một model hay thiết lập luôn hoạt động như vậy; kết quả có thể thay đổi giữa các lần tạo."
+        ]
+      },
+      {
+        "heading": "So sánh prompt có kiểm soát",
+        "paragraphs": [
+          "Tạo bản sao hoặc thử nghiệm mới với lời và hướng âm nhạc tổng thể giống nhau. Mô tả vị trí và sắc thái giọng bằng vài từ trực tiếp như rõ, gần hoặc nổi bật; giảm chỉ dẫn mâu thuẫn như giọng ở xa hoặc hiệu ứng không gian dày. Mỗi lần chỉ đổi một phần prompt.",
+          "Nghe độ rõ lời, mức giọng và cân bằng với nhạc cụ xuyên suốt bài. Cách viết prompt không đảm bảo một bản phối cụ thể; hãy giữ phiên bản thực sự nghe ổn thay vì dựa vào cụm từ từng hiệu quả một lần."
+        ]
+      },
+      {
+        "heading": "Chỉnh stem cẩn thận nếu có",
+        "paragraphs": [
+          "Nếu gói và bài hát hỗ trợ tách stem, hãy thử tách giọng khỏi phần còn lại và nghe cả hai tệp trước khi chỉnh. Suno cho biết tính năng tách stem có thể dùng lượt và stem có thể còn tạp âm hoặc lẫn nhạc cụ; hãy giữ bản phối đầy đủ làm mốc so sánh.",
+          "Trong DAW, chỉnh nhẹ âm lượng hoặc EQ trong khi so với bản xuất gốc. Tránh tăng mạnh hoặc nén mặc định vì có thể làm lộ âm xì, nhiễu hoặc méo. Kiểm tra bản mới để chắc rằng lời vẫn rõ và bản phối không bị gắt hay clipping."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Âm thanh đục có luôn là lỗi của Suno V6 không?",
+        "answer": "Không nhất thiết. Hãy so sánh bản phát gốc với tệp tải xuống bằng trình phát khác và nghe cả bài. Cài đặt phát, khác biệt khi xuất và độ biến thiên giữa các lần tạo đều có thể ảnh hưởng."
+      },
+      {
+        "question": "Thêm “clear vocals” vào prompt có sửa được mọi bài không?",
+        "answer": "Không có cụm từ nào đảm bảo bản phối. Hãy dùng nó như một thử nghiệm có kiểm soát, nghe kết quả và so sánh các phiên bản trước khi đổi chỉ dẫn khác."
+      }
+    ],
+    "toolLabel": "Xem hướng dẫn âm thanh và chỉnh sửa Suno",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tách thân nâng cao",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Báo cáo cộng đồng: Giọng hát V6 nghe có vẻ lầy lội hoặc bị chôn vùi",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1wpg01k/how_i_fixed_the_muddy_buried_vocals_in_suno_v6/"
+      }
+    ]
+  },
+  {
+    "slug": "use-suno-songs-on-youtube",
+    "category": "Rights",
+    "title": "Có thể dùng bài hát Suno trên YouTube không? Danh sách kiểm tra quyền sử dụng",
+    "description": "Kiểm tra khi nào có thể dùng bài hát Suno trên YouTube, việc kiếm tiền làm thay đổi điều gì và cần lưu hồ sơ nào về lời, ảnh bìa và lượt tải.",
+    "intro": "Câu trả lời tùy thuộc quyền đối với bài hát và cách bạn có được bài đó, không phải trang có công khai hay không. Video riêng tư, video bật kiếm tiền và kênh khách hàng có thể đi kèm nghĩa vụ khác nhau. Hãy xác định mục đích trước khi dựng video.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ quyền đối với bài hát",
+        "paragraphs": [
+          "Theo trung tâm trợ giúp Suno, bài hát tạo trong thời gian đăng ký Pro hoặc Premier có thể được dùng trong nội dung đăng lên YouTube. Bài hát tạo bằng gói miễn phí chỉ dành cho mục đích phi thương mại; đăng ký sau không tự động cấp quyền thương mại hồi tố cho bài cũ.",
+          "Điều khoản Suno hiện hành cũng gắn việc khai thác thương mại được phép với lượt tải qua kênh được chấp thuận. Với video bật kiếm tiền, hãy dùng bản xuất chính thức từ tài khoản và lưu hồ sơ tạo bài, tải xuống."
+        ]
+      },
+      {
+        "heading": "Kiểm tra tài liệu dùng trong âm thanh và video",
+        "paragraphs": [
+          "Xác nhận bạn có thể dùng toàn bộ lời bài hát, mẫu âm thanh tải lên, ảnh bìa và đoạn video. Bài hát có thể đáp ứng điều kiện gói Suno, nhưng lời hoặc hình ảnh của bên thứ ba vẫn có thể cần sự cho phép riêng.",
+          "YouTube và nhà phân phối nhạc có quy định riêng. Hãy kiểm tra đúng trường hợp sử dụng, nhất là quảng cáo trả phí, video cho khách hàng hoặc phân phối ngoài kênh của bạn."
+        ]
+      },
+      {
+        "heading": "Lưu lại quá trình dự án",
+        "paragraphs": [
+          "Lưu URL bài hát Suno, gói tài khoản khi tạo và xuất, tệp âm thanh hoặc video chính thức cùng giấy phép của cộng tác viên. Ghi lại phiên bản đã đưa vào timeline để lần chỉnh sửa sau không vô tình thay bằng bản tạo khác.",
+          "Nếu chỉ cần kiểm tra tài nguyên hoặc ảnh bìa hiện có của bài hát công khai được phép sử dụng, công cụ của chúng tôi có thể giúp tìm tệp. Công cụ không xác định YouTube có cho phép đăng hay không và không cấp quyền xuất bản."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Có thể dùng bài hát gói miễn phí trong video YouTube bật kiếm tiền không?",
+        "answer": "Suno xếp bài hát gói miễn phí vào mục đích phi thương mại. Đừng mặc định video bật kiếm tiền được phép; hãy kiểm tra quy định hiện hành và quyền cụ thể của bài hát."
+      },
+      {
+        "question": "Ghi công Suno có đủ để dùng bài hát của người khác không?",
+        "answer": "Không. Ghi công không thay thế sự cho phép của người sáng tạo hoặc chủ thể quyền khác. Hãy kiểm tra quyền với bài hát, lời, mẫu âm thanh, hình ảnh và nội dung video."
+      }
+    ],
+    "toolLabel": "Kiểm tra tài nguyên bài hát được phép sử dụng",
+    "related": [
+      "suno-commercial-use",
+      "suno-video-download",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tôi có thể phân phối các bài hát của mình tới Spotify, v.v. không?",
+        "url": "https://help.suno.com/en/articles/2410177"
+      },
+      {
+        "label": "Suno: Sử dụng phi thương mại là gì?",
+        "url": "https://help.suno.com/en/articles/9602241"
+      },
+      {
+        "label": "Điều khoản dịch vụ của Suno",
+        "url": "https://suno.com/terms-of-service"
+      }
+    ]
+  },
+  {
+    "slug": "suno-extend-song-guide",
+    "category": "Tutorials",
+    "title": "Cách mở rộng bài hát Suno mà không làm mất bản gốc",
+    "description": "Sử dụng Suno Extend để thêm phần hoặc phần kết mới, so sánh các thế hệ và tập hợp một bài hát đầy đủ trong khi vẫn giữ an toàn cho phiên bản đầu tiên của bạn.",
+    "intro": "Mở rộng tạo phần tiếp theo mới từ điểm bạn chọn; nó không chỉnh sửa tập tin gốc tại chỗ. Làm việc từ thế hệ đã lưu, chọn bản chuyển giao cẩn thận và so sánh các phiên bản đã hoàn thiện trước khi thay thế bất kỳ thứ gì trong dự án của bạn.",
+    "sections": [
+      {
+        "heading": "Chọn điểm chuyển giao phù hợp",
+        "paragraphs": [
+          "Mở bài hát bạn muốn tiếp tục và chọn Phối lại/Chỉnh sửa, sau đó chọn Mở rộng. Trong dòng thời gian, hãy đặt nơi âm thanh mới sẽ bắt đầu bằng cách điều chỉnh ranh giới lựa chọn. Trước tiên hãy lắng nghe điểm đó: ranh giới bên trong một nốt hoặc cụm từ được giữ lại có thể khiến việc chuyển tiếp khó đánh giá hơn.",
+          "Để có một bản nhạc dài hơn, hãy quyết định xem bạn cần một câu thơ mới, một đoạn nhạc cụ hay phần kết thúc. Chỉ thêm lời bài hát và hướng phong cách cần thiết cho phần tiếp theo, đồng thời giữ một bản sao của lời bài hát gốc và lời nhắc để so sánh."
+        ]
+      },
+      {
+        "heading": "So sánh sự tiếp tục trước khi cam kết",
+        "paragraphs": [
+          "Tạo tiện ích mở rộng và lắng nghe cả hai lựa chọn thay thế từ khi chuyển giao cho đến cuối. Kiểm tra nhịp độ, đặc điểm giọng hát, cách truyền tải lời bài hát và liệu phần mới có đạt được kết thúc thuyết phục hay không. Lời nhắc phù hợp không thể đảm bảo sự sắp xếp giống hệt nhau hoặc quá trình chuyển đổi liền mạch.",
+          "Nếu cả hai kết quả đều không hiệu quả, hãy điều chỉnh từng thứ một: chuyển phần chuyển giao, đơn giản hóa lời bài hát mới hoặc làm rõ hướng đi của âm nhạc. Giữ riêng từng ứng viên để lần thử sau không ghi đè lên phiên bản bạn thích."
+        ]
+      },
+      {
+        "heading": "Tạo và lưu toàn bộ bài hát",
+        "paragraphs": [
+          "Khi bạn tìm thấy tiện ích mở rộng mình thích, hãy sử dụng menu tác vụ bài hát để chọn Tạo và lấy toàn bộ bài hát. Suno nối phần tiếp theo đã chọn vào phần gốc dưới dạng kết quả toàn bộ bài hát mới. Phát phần nối trong ngữ cảnh và so sánh kết quả với nguồn trước khi thêm nó vào bản phát hành hoặc chỉnh sửa.",
+          "Lưu bản xuất toàn bộ bài hát và liên kết Suno của nó cùng nhau. Trang trợ giúp hiện tại của Suno cho biết v6, v6-wild và v6-mini có thể tạo ra tối đa tám phút trong một thế hệ; Mở rộng rất hữu ích khi bạn muốn tiếp tục một ý tưởng hiện có hoặc thay đổi phần kết của nó, tùy thuộc vào tài khoản hiện tại và các tùy chọn tính năng."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Extend có thay đổi bài hát Suno gốc của tôi không?",
+        "answer": "Suno tạo phần tiếp theo mới và kết quả toàn bộ bài hát riêng biệt. Giữ thế hệ ban đầu và xuất làm bản sao lưu trong khi bạn so sánh các phiên bản."
+      },
+      {
+        "question": "Làm cách nào để phần mở rộng nghe có vẻ kết nối hơn?",
+        "answer": "Chọn một cách chuyển giao rõ ràng, lắng nghe nguồn xung quanh điểm đó và sử dụng hướng dẫn ngắn gọn cho phần tiếp theo. Các kết quả khác nhau, do đó, việc thử giọng nhiều ứng viên thay vì chờ đợi một lời nhắc sẽ đảm bảo tính liên tục."
+      }
+    ],
+    "toolLabel": "Khám phá hướng dẫn quy trình làm việc của bài hát Suno",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-v6-muddy-vocals",
+      "suno-wav-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Làm cách nào để bài hát của tôi dài hơn?",
+        "url": "https://help.suno.com/en/articles/2409601"
+      },
+      {
+        "label": "Suno: Bài hát của tôi sẽ dài bao lâu?",
+        "url": "https://help.suno.com/en/articles/13924929"
+      }
+    ]
+  },
+  {
+    "slug": "suno-persona-guide",
+    "category": "Tutorials",
+    "title": "Suno Personas và Voices: Giữ âm thanh nhất quán trong các bài hát",
+    "description": "Tìm hiểu những gì Persona Suno nắm bắt được, nó khác với tính năng Giọng nói như thế nào và cách sử dụng lại bản sắc âm nhạc với những kỳ vọng thực tế.",
+    "intro": "Personas giúp đưa đặc điểm giọng hát và phong cách của bài hát vào một tác phẩm khác. Tính năng Giọng nói mới hơn của Suno được thiết kế để sử dụng giọng nói đã được xác minh của chính bạn. Hai tùy chọn này phục vụ các mục đích khác nhau và cũng không có lời hứa rằng mọi bài hát mới sẽ có âm thanh giống hệt nhau.",
+    "sections": [
+      {
+        "heading": "Tạo Persona từ một bài hát",
+        "paragraphs": [
+          "Từ bài hát bạn muốn sử dụng lại, hãy mở Tác vụ khác và chọn Tạo, sau đó Tạo Persona. Đặt cho nó một cái tên và mô tả dễ nhận biết. Suno cho biết Persona lưu giữ bản chất của một bài hát, bao gồm cả giọng hát và phong cách của nó; hãy xem lại cài đặt hiển thị vì Personas có thể được công khai theo mặc định.",
+          "Sử dụng bản nhạc có giọng nói và âm thanh tổng thể mà bạn muốn tiếp tục. Nếu bài hát nguồn có tác dụng tạm thời, phân phối bất thường hoặc phong cách bạn không muốn lặp lại, hãy chọn nguồn rõ ràng hơn hoặc mô tả sự khác biệt trong lời nhắc mới."
+        ]
+      },
+      {
+        "heading": "Sử dụng nó làm điểm bắt đầu, không phải là bản sao cài sẵn",
+        "paragraphs": [
+          "Ở chế độ Tùy chỉnh, chọn Persona trước khi tạo. Kiểm tra trường Style mà Suno điền vào, sau đó chỉ thêm hướng cần thiết cho bài hát mới. Giữ lời bài hát và hướng dẫn sắp xếp cụ thể cho bản nhạc mới thay vì sao chép mọi chi tiết từ bản gốc.",
+          "Persona có thể giúp duy trì tính liên tục, nhưng giai điệu, lời bài hát, cách sắp xếp và cách trình diễn vẫn thay đổi giữa các thế hệ. Chọn hai hoặc nhiều ứng cử viên và so sánh đặc điểm giọng hát ở cùng một âm lượng trước khi quyết định xem liệu danh tính có được truyền tải tốt hay không."
+        ]
+      },
+      {
+        "heading": "Biết khi nào nên sử dụng Giọng nói thay thế",
+        "paragraphs": [
+          "Quy trình làm việc Giọng nói của Suno cho phép người dùng đủ điều kiện tạo hồ sơ giọng nói từ bản ghi âm của chính họ hoặc bài hát chứa giọng nói của họ. Hướng dẫn trợ giúp hiện tại mô tả một bước xác minh và cho biết tính khả dụng có thể phụ thuộc vào độ tuổi và vị trí. Chỉ sử dụng giọng nói mà bạn có quyền cung cấp và xem xét các quyền kiểm soát chia sẻ và đồng ý hiện tại của Suno.",
+          "Tiếng nói dành cho tiếng nói của chính bạn; Persona là một bản sắc âm nhạc có thể tái sử dụng dựa trên một bài hát. Nếu mục tiêu là màu giọng quen thuộc, hãy thử Persona. Nếu bạn muốn giọng hát đã được xác minh của mình xuất hiện trong một bản nhạc được tạo, hãy kiểm tra xem Tài khoản của bạn có sẵn Giọng hát hay không và làm theo các bước thiết lập của nó."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Personas có giống với Suno Voices không?",
+        "answer": "Không. Personas lấy phong cách và đặc điểm giọng hát của bài hát làm điểm khởi đầu. Giọng nói là một tính năng riêng biệt để sử dụng bản ghi âm giọng nói đã được xác minh, với các yêu cầu về tính khả dụng và sự đồng ý riêng."
+      },
+      {
+        "question": "Liệu Persona có làm cho mọi thế hệ đều có âm thanh giống nhau không?",
+        "answer": "Không. Nó có thể giúp tái sử dụng bản sắc âm nhạc, nhưng lời bài hát mới, hướng dẫn phong cách và biến thể thế hệ sẽ ảnh hưởng đến kết quả. Nghe từng phiên bản và coi nó như một thế hệ mới."
+      }
+    ],
+    "toolLabel": "Khám phá hướng dẫn bài hát và lời nhắc Suno",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Persona là gì?",
+        "url": "https://help.suno.com/en/articles/3484161"
+      },
+      {
+        "label": "Suno: Câu hỏi thường gặp về giọng nói",
+        "url": "https://help.suno.com/en/articles/11362433"
+      },
+      {
+        "label": "Suno: Sử dụng giọng nói của bạn trong Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      }
+    ]
+  },
+  {
+    "slug": "suno-replace-section-guide",
+    "category": "Lyrics",
+    "title": "Cách thay thế một đoạn hoặc sửa Lyrics trong bài hát Suno",
+    "description": "Sử dụng công cụ Phần thay thế của Suno để sửa lại một đoạn văn, kiểm tra lời bài hát mới và so sánh các chỉnh sửa thay thế mà không làm mất bài hát gốc.",
+    "intro": "Phần Thay thế tạo âm thanh mới cho phần đã chọn của bài hát. Nó có thể giúp sửa lại lời bài hát hoặc cách sắp xếp, nhưng đó là một thế hệ mới của đoạn văn đó—không phải chỉ chỉnh sửa văn bản để đảm bảo giai điệu gốc sẽ không thay đổi.",
+    "sections": [
+      {
+        "heading": "Chỉ chọn đoạn văn bạn muốn xem lại",
+        "paragraphs": [
+          "Mở trình chỉnh sửa bài hát thông qua menu Tác vụ khác hoặc Chỉnh sửa của bài hát, sau đó chọn Thay thế phần. Phát bài hát và đặt lựa chọn xung quanh cụm từ cần chỉnh sửa. Bao gồm đủ bối cảnh âm nhạc ở các cạnh để đánh giá quá trình chuyển đổi, nhưng tránh chọn các phần bổ sung đã hoạt động.",
+          "Trước khi chỉnh sửa hãy lưu lại lời bài hát gốc và ghi lại thời gian của đoạn đã chọn. Nếu các từ bị sai lệch với âm thanh, hãy kiểm tra cẩn thận lời bài hát được hiển thị và lựa chọn; trình soạn thảo sử dụng vùng đã chọn làm cơ sở cho việc thay thế."
+        ]
+      },
+      {
+        "heading": "Cung cấp cho người thay thế một hướng tập trung",
+        "paragraphs": [
+          "Để sửa lời bài hát, chỉ thay đổi những dòng cần sửa và giữ cấu trúc xung quanh rõ ràng. Để thay đổi âm nhạc, hãy mô tả một mục tiêu chẳng hạn như cách phân phối nhẹ nhàng hơn hoặc phần trống mạnh hơn. Quá nhiều hướng dẫn đồng thời khiến việc hiểu lý do ứng viên thay đổi trở nên khó khăn hơn.",
+          "Tạo bản thay thế và thử nghiệm mọi phiên bản được cung cấp trong ngữ cảnh. Lắng nghe các từ đã được sửa, âm sắc, nhịp điệu và phần nối vào các phần trước và sau nó. Suno có thể thay đổi cụm từ hoặc giai điệu trong vùng được tái tạo, do đó, đừng cho rằng việc chỉnh sửa một từ sẽ giữ nguyên mọi nốt nhạc."
+        ]
+      },
+      {
+        "heading": "Chỉ cam kết sau khi kiểm tra kết quả đầy đủ",
+        "paragraphs": [
+          "Nếu gần có ứng cử viên, hãy điều chỉnh ranh giới chuyển tiếp nếu người chỉnh sửa đưa ra quyền kiểm soát đó, sau đó phát toàn bộ bài hát thay vì chỉ phát clip đã chỉnh sửa. So sánh nó với bản gốc và giữ cả hai phiên bản cho đến khi bạn quyết định phiên bản nào thuộc về dự án.",
+          "Đối với một số thay đổi lời bài hát trong một bài hát, hãy cân nhắc xem bản cover mới hay thế hệ mới dễ quản lý hơn nhiều bản thay thế cục bộ. Mỗi tuyến đường tạo ra một cách giải thích mới; xuất bản sao lưu trước khi chuyển sang phiên bản để phân phối."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Phần Thay thế có thể thay đổi một từ mà không thay đổi giai điệu không?",
+        "answer": "Nó có thể tạo lại âm thanh đã chọn, bao gồm cả phần phân phối và giai điệu. Hãy sử dụng nó để nghe thử một đoạn văn đã được sửa lại, nhưng đừng mong đợi sự thay đổi chỉ có văn bản sẽ giữ nguyên mọi nốt nhạc."
+      },
+      {
+        "question": "Tôi có thể lấy lại phiên bản gốc của mình không?",
+        "answer": "Giữ nguyên việc tạo và xuất nguồn trước khi chỉnh sửa. Suno tạo ra kết quả chỉnh sửa mới nên việc giữ lại bản gốc giúp dễ dàng so sánh hoặc quay lại phiên bản trước đó."
+      }
+    ],
+    "toolLabel": "Khám phá hướng dẫn chỉnh sửa và viết lời bài hát Suno",
+    "related": [
+      "edit-suno-lyrics",
+      "suno-lyrics-structure-tags",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tôi có thể thay thế một đoạn bài hát không?",
+        "url": "https://help.suno.com/en/articles/3271873"
+      },
+      {
+        "label": "Suno: Cách sử dụng Trình chỉnh sửa bài hát",
+        "url": "https://help.suno.com/en/articles/6141505"
+      },
+      {
+        "label": "Thảo luận cộng đồng: Thay lời bài hát có thể thay đổi giọng hát",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1rmr4tm/is_it_actually_possible_to_make_it_change_the/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-audio-upload-guide",
+    "category": "Tutorials",
+    "title": "Hướng dẫn tải lên âm thanh Suno: Biến bản demo thành bài hát mới",
+    "description": "Chuẩn bị tải lên âm thanh, hiểu giới hạn độ dài hiện tại và sử dụng nó làm điểm bắt đầu cho tiện ích mở rộng hoặc tạo Suno mới.",
+    "intro": "Tải lên âm thanh có thể mang lại cho Suno một ý tưởng âm nhạc để xây dựng, nhưng thời lượng có sẵn và các công cụ tiếp theo tùy thuộc vào gói và giao diện hiện tại của bạn. Chỉ tải lên các bản ghi mà bạn sở hữu hoặc được phép sử dụng và giữ nguyên tệp nguồn.",
+    "sections": [
+      {
+        "heading": "Chuẩn bị một bản ghi sạch mà bạn có thể sử dụng",
+        "paragraphs": [
+          "Chọn một phần rõ ràng thể hiện nhịp điệu, giai điệu hoặc kết cấu mà bạn muốn phát triển. Một bản ghi âm ngắn gọn, gọn gàng giúp bạn dễ dàng nghe được những gì thế hệ lưu giữ lại. Tránh tải lên các cuộc trò chuyện riêng tư hoặc buổi biểu diễn của người khác trừ khi bạn có sự đồng ý và các quyền cần thiết cho việc sử dụng này.",
+          "Hướng dẫn trợ giúp của Suno hiện mô tả thời gian tải lên lên tới 60 giây đối với gói Cơ bản và tối đa 8 phút đối với gói Pro và Premier. Các giới hạn và tính năng của tài khoản có thể thay đổi, vì vậy hãy kiểm tra kiểm soát tải lên và kế hoạch của bạn trước khi chuẩn bị một tệp dài."
+        ]
+      },
+      {
+        "heading": "Tải lên và chọn hướng",
+        "paragraphs": [
+          "Trên trang Tạo, chọn điều khiển tải lên âm thanh và chọn hoặc ghi tệp. Sau khi nó xuất hiện trong thư viện hoặc biểu mẫu sáng tạo của bạn, hãy quyết định xem bạn muốn mở rộng ý tưởng, tạo bìa hay tạo một phiên bản khác. Các tùy chọn hiển thị cho bạn tùy thuộc vào bài hát và tài khoản.",
+          "Hãy mô tả hướng đi âm nhạc mới bằng một vài thuật ngữ cụ thể. Nếu bạn muốn nhịp điệu hoặc giai điệu vẫn dễ nhận biết, hãy nói điều gì nên tiếp tục và điều gì nên thay đổi. Tạo một tập hợp so sánh nhỏ và lắng nghe ý tưởng nguồn chứ không chỉ nhãn thể loại tổng thể."
+        ]
+      },
+      {
+        "heading": "Giữ quyền và phiên bản nguồn rõ ràng",
+        "paragraphs": [
+          "Việc tải lên không chuyển quyền sở hữu hoặc cấp quyền cho bản ghi. Giữ bằng chứng cho phép đối với mẫu, buổi biểu diễn của cộng tác viên hoặc bản ghi thương mại và kiểm tra các quyền áp dụng cho kết quả được tạo trước khi xuất bản.",
+          "Lưu bản tải lên ban đầu, liên kết bài hát được tạo và phiên bản bạn chọn. Nếu kết quả không như bạn mong muốn, hãy thử một đoạn trích ngắn hơn hoặc rõ ràng hơn và thay đổi từng lệnh một thay vì thay thế tệp nguồn."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tải lên âm thanh Suno của tôi có thể kéo dài bao lâu?",
+        "answer": "Bài viết trợ giúp hiện tại của Suno liệt kê tối đa 60 giây cho Cơ bản và tối đa tám phút cho Pro và Premier. Kiểm tra tài khoản của bạn vì giới hạn gói và tùy chọn giao diện có thể thay đổi."
+      },
+      {
+        "question": "Tôi có thể tải lên một bài hát tôi tìm thấy trên mạng không?",
+        "answer": "Chỉ tải lên âm thanh mà bạn sở hữu hoặc được phép sử dụng. Tính khả dụng công khai không tự động cấp quyền xử lý, phối lại hoặc xuất bản bản ghi."
+      }
+    ],
+    "toolLabel": "Khám phá hướng dẫn tạo và tải xuống Suno",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-share-link-guide",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Cách sử dụng tải lên âm thanh",
+        "url": "https://help.suno.com/en/articles/6141569"
+      },
+      {
+        "label": "Suno: Làm cách nào để tạo bản phối lại?",
+        "url": "https://help.suno.com/en/articles/6050497"
+      }
+    ]
+  },
+  {
+    "slug": "suno-stem-separation-guide",
+    "category": "Downloads",
+    "title": "Hướng dẫn tách thân Suno: Chọn và xuất các bộ phận bạn cần",
+    "description": "So sánh Auto Split, Split from Mix và Advanced Split, sau đó xuất các phần thân để chỉnh sửa trong khi tính toán các khoản tín dụng, quyền truy cập gói và các tạo phẩm âm thanh.",
+    "intro": "Thân là những phần riêng biệt bắt nguồn từ một bài hát hỗn hợp, chẳng hạn như giọng hát, trống hoặc bass. Các chế độ tách hiện tại của Suno cung cấp các mức độ kiểm soát khác nhau, nhưng việc trích xuất có thể để lại hiện tượng chảy máu hoặc tạo tác. Giữ kết hợp đầy đủ làm tài liệu tham khảo của bạn và xác minh các tùy chọn có sẵn trong tài khoản của bạn.",
+    "sections": [
+      {
+        "heading": "Chọn chế độ tách biệt cho công việc",
+        "paragraphs": [
+          "Hướng dẫn Tách gốc nâng cao của Suno mô tả Tự động phân chia là phân chia nhanh thành tối đa 12 thân được phát hiện, Tách khỏi hỗn hợp là trích xuất một phần đã chọn cộng với phần bổ sung của nó và Phân tách nâng cao như một cách để chọn nhạc cụ từ danh sách lớn hơn. Các chế độ có sẵn tùy thuộc vào cấp đăng ký.",
+          "Sử dụng Auto Split khi bạn muốn sắp xếp một tập hợp lớn các phần, Tách khỏi Mix khi bạn cần một thành phần như giọng hát hoặc dòng âm trầm và Advanced Split khi bạn cần lựa chọn nhạc cụ cụ thể hơn. Thân là ước tính được trích từ hỗn hợp, không nhất thiết phải là bản ghi riêng biệt ban đầu."
+        ]
+      },
+      {
+        "heading": "Kiểm tra các khoản tín dụng và lắng nghe trước khi chỉnh sửa",
+        "paragraphs": [
+          "Suno hiện liệt kê chi phí tín dụng cho các tùy chọn tách này trong bài viết trợ giúp của nó: Auto Split sử dụng 50 tín dụng cho mỗi lần trích xuất 12 gốc; Split from Mix sử dụng 10 tín chỉ để trích xuất và tổng cộng 20 tín chỉ cho cả hai đầu ra; Advanced Split sử dụng 10 tín chỉ cho mỗi gốc được trích xuất và 20 tín chỉ cho cặp. Kiểm tra xác nhận hiện tại trong sản phẩm trước khi chi tiêu tín dụng.",
+          "Nghe từng đoạn solo và sau đó nghe bản phối đầy đủ. Chú ý các phụ âm còn sót lại trong nhạc cụ, chũm chọe bị lem vào các bộ phận khác hoặc thiếu nốt. Nếu công cụ mục tiêu không xuất hiện, Suno cảnh báo rằng yêu cầu vẫn có thể sử dụng tín dụng mà không tạo ra nguồn gốc hữu ích."
+        ]
+      },
+      {
+        "heading": "Xuất bản sao làm việc an toàn",
+        "paragraphs": [
+          "Tải xuống các đoạn gốc hoặc xuất nhiều bản nhạc từ Studio khi có sẵn tùy chọn. Đặt mỗi tệp vào một thư mục có tên bài hát, liên kết nguồn, ngày xuất và bản sao của bản phối đầy đủ. Giữ tên tệp nhất quán để các phần được căn chỉnh khi nhập vào DAW.",
+          "Sử dụng phần thân cho những chỉnh sửa mà bản phối đầy đủ không thể hỗ trợ, chẳng hạn như thay đổi cấp độ giọng hát hoặc xây dựng một nhạc cụ. Thực hiện những thay đổi nhỏ và so sánh với bản gốc. Các hiện tượng phân tách có thể trở nên rõ ràng hơn sau khi EQ, nén hoặc biến dạng mạnh."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Thân Suno có giống với các bản nhạc phòng thu gốc không?",
+        "answer": "Không. Việc tách gốc ước tính các phần riêng lẻ từ tệp âm thanh hỗn hợp. Nó có thể để lại vết mờ, lỗi hoặc thiếu chi tiết, vì vậy hãy coi phần thân là tệp dẫn xuất có thể chỉnh sửa thay vì nhiều bản nhạc gốc."
+      },
+      {
+        "question": "Các thân cây có được tính là lượt tải xuống riêng biệt không?",
+        "answer": "Suno hiện cho biết các bản có sẵn không được tính là lượt tải xuống bổ sung ngoài chính bài hát. Phí ghi có cho việc tách vẫn có thể được áp dụng, vì vậy hãy kiểm tra tính năng và chi tiết tài khoản trước khi trích xuất."
+      }
+    ],
+    "toolLabel": "Khám phá hướng dẫn xuất âm thanh Suno",
+    "related": [
+      "suno-wav-download",
+      "suno-mp3-download",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Tách thân nâng cao",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Suno: Tôi có thể tải xuống những loại tệp nào?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Suno: Xuất từ Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      }
+    ]
+  },
+  {
+    "slug": "suno-voices-guide",
+    "category": "Tutorials",
+    "title": "Hướng dẫn về giọng Suno: Thiết lập và sử dụng giọng hát của riêng bạn",
+    "description": "Tìm hiểu cách tính năng Giọng nói của Suno xác minh cấu hình giọng nói, bản ghi nào hoạt động tốt nhất cũng như cách khắc phục sự cố truy cập và tạo kết quả.",
+    "intro": "Suno Voices là tính năng tạo bài hát bằng bản ghi âm giọng nói của riêng bạn. Nó khác với Persona và bao gồm các quy tắc xác minh danh tính và tính đủ điều kiện. Quyền truy cập tính năng có thể khác nhau tùy theo độ tuổi, vị trí, gói và kiểu máy, vì vậy hãy sử dụng các biện pháp kiểm soát được hiển thị trong tài khoản của bạn làm nguồn thông tin chính xác.",
+    "sections": [
+      {
+        "heading": "Chuẩn bị bản ghi âm và xác minh giọng nói của bạn",
+        "paragraphs": [
+          "Suno khuyến nghị ghi acapella sạch để có hồ sơ rõ ràng nhất. Hướng dẫn thiết lập hiện tại của nó chấp nhận ghi từ 15 giây đến bốn phút và cho phép bạn chọn hai phút tốt nhất. Một môi trường yên tĩnh và micrô không có tiếng vang trong phòng mạnh có thể giúp bạn xem lại mẫu dễ dàng hơn.",
+          "Tạo hồ sơ giọng nói từ bản ghi âm của chính bạn hoặc bài hát Suno có chứa giọng nói của bạn, sau đó hoàn thành cụm từ xác minh bằng giọng nói. Suno cho biết việc kiểm tra này giúp xác nhận rằng giọng hát và giọng nói xác minh được tải lên thuộc về cùng một người. Không gửi giọng nói của người khác mà không có sự cho phép của họ."
+        ]
+      },
+      {
+        "heading": "Tạo bằng hồ sơ giọng nói",
+        "paragraphs": [
+          "Chọn cấu hình đã lưu trong menu Tiếng, sau đó viết lời và mô tả phong cách âm nhạc cho bài hát mới. Câu hỏi thường gặp của Suno cho biết tính năng Giọng nói mới hơn của nó sử dụng mẫu v5.5; kiểm tra bộ chọn kiểu máy nếu kết quả không giống giọng nói đã chọn.",
+          "Ảnh hưởng của âm thanh có thể ảnh hưởng đến mức độ dẫn dắt kết quả của bản ghi nhưng cài đặt cao hơn không đảm bảo hiệu suất chính xác. Tạo các lựa chọn thay thế, so sánh cách phát âm và giọng điệu, đồng thời giữ lại bản ghi hồ sơ và bản gốc để bạn có thể tinh chỉnh lần thử tiếp theo."
+        ]
+      },
+      {
+        "heading": "Khắc phục sự cố truy cập hoặc âm thanh không mong muốn",
+        "paragraphs": [
+          "Nếu thiếu điều khiển Thêm giọng nói, hãy kiểm tra tính đủ điều kiện về độ tuổi, tính khả dụng của vị trí và lựa chọn kiểu máy của tài khoản. Suno cho biết Thoại chỉ giới hạn cho người dùng từ 18 tuổi trở lên và có thể không khả dụng ở mọi địa điểm. Các cài đặt này có thể thay đổi, vì vậy hãy tham khảo Câu hỏi thường gặp về Giọng nói hiện tại.",
+          "Nếu xác minh không thành công, hãy ghi lại cụm từ hiển thị rõ ràng ở nơi yên tĩnh và sử dụng mẫu hát rõ ràng. Nếu bài hát có vẻ không giống bạn, hãy xác nhận rằng v5.5 đã được chọn và kiểm tra Ảnh hưởng âm thanh. Tránh chia sẻ công khai bản ghi âm giọng nói trừ khi bạn hiểu cài đặt chia sẻ và phối lại cho bài hát thu được."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi có thể sử dụng giọng nói của người khác trong Giọng Suno không?",
+        "answer": "Tính năng này được thiết kế cho giọng nói đã được xác minh của riêng bạn. Suno yêu cầu người dùng xác nhận họ có quyền sử dụng giọng nói và thực hiện xác minh. Nhận được sự đồng ý rõ ràng và tuân theo các quy định hiện hành của Suno trước khi sử dụng bản ghi của người khác."
+      },
+      {
+        "question": "Tại sao hồ sơ giọng nói của tôi không khả dụng?",
+        "answer": "Suno cho biết Giọng nói chỉ khả dụng cho người dùng từ 18 tuổi trở lên và có thể không khả dụng ở mọi địa điểm. Tính năng này cũng yêu cầu kiểu máy được hỗ trợ; kiểm tra hướng dẫn hiện tại trong sản phẩm và câu hỏi thường gặp."
+      }
+    ],
+    "toolLabel": "Khám phá hướng dẫn phát âm và nhắc nhở Suno",
+    "related": [
+      "suno-persona-guide",
+      "suno-v6-muddy-vocals",
+      "write-better-suno-prompts"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Sử dụng giọng nói của bạn trong Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      },
+      {
+        "label": "Suno: Câu hỏi thường gặp về giọng nói",
+        "url": "https://help.suno.com/en/articles/11362433"
+      }
+    ]
+  },
+  {
+    "slug": "suno-studio-2-guide",
+    "category": "Tutorials",
+    "title": "Hướng dẫn Suno Studio 2.0: Sắp xếp, chỉnh sửa và xuất bài hát",
+    "description": "Được định hướng trong Suno Studio 2.0, xây dựng dòng thời gian có thể chỉnh sửa, sử dụng các đoạn gốc và hiệu ứng cũng như xuất một bài hát hoặc nhiều bản nhạc cho bước sản xuất tiếp theo của bạn.",
+    "intro": "Suno Studio 2.0 kết hợp các công cụ sắp xếp bài hát, tạo âm thanh, hiệu ứng, MIDI và xuất trong không gian làm việc dựa trên trình duyệt. Bộ tính năng và quyền truy cập đăng ký có thể thay đổi. Hướng dẫn này tập trung vào bước thực hành đầu tiên: mở một dự án, thực hiện chỉnh sửa có kiểm soát và duy trì bản xuất mà bạn có thể so sánh.",
+    "sections": [
+      {
+        "heading": "Mở một dự án và tìm hiểu dòng thời gian",
+        "paragraphs": [
+          "Mở một bài hát từ Thư viện của bạn trong Studio bằng menu Chỉnh sửa hoặc Tác vụ khác. Dòng thời gian là nơi bạn sắp xếp các clip và so sánh các cảnh quay thay thế. Phát toàn bộ dự án một lần trước khi chỉnh sửa, sau đó lưu ý phần nào cần chỉnh sửa để bạn có thể tập trung vào thay đổi.",
+          "Trang trợ giúp Studio 2.0 của Suno cho biết Studio 2.0 có sẵn cho những người đăng ký Premier và đề xuất trình duyệt trên máy tính để bàn; thiết bị di động không được hỗ trợ. Điều hướng của nó khác với các phiên bản Studio trước đó, vì vậy hãy sử dụng nhãn giao diện hiện tại và bài viết trợ giúp nếu điều khiển đã di chuyển."
+        ]
+      },
+      {
+        "heading": "Chỉnh sửa các phần, hiệu ứng và thân cây theo các bước nhỏ",
+        "paragraphs": [
+          "Sử dụng dòng thời gian để di chuyển hoặc cắt bớt các clip, thêm các phần và thử các thế hệ thay thế. Studio 2.0 bao gồm các hiệu ứng và tự động hóa tích hợp sẵn; Suno cho biết nó không lưu trữ các plugin VST hoặc Audio Units thông thường. Thực hiện từng thay đổi một và so sánh toàn bộ sự sắp xếp để cải tiến cục bộ không tạo ra vấn đề về mức độ hoặc thời gian ở nơi khác.",
+          "Đối với clip hỗn hợp, hãy mở điều khiển tách cuống và chọn chế độ tách phù hợp với nhiệm vụ của bạn. Thân cây có thể giúp bạn cân bằng lại một phần, nhưng chúng bắt nguồn từ sự kết hợp và có thể bao gồm các thành phần tạo tác. Giữ bản nhạc gốc có sẵn và kiểm tra thời gian trước khi tắt tiếng hoặc thay thế nó."
+        ]
+      },
+      {
+        "heading": "Xuất phiên bản phù hợp cho quy trình làm việc của bạn",
+        "paragraphs": [
+          "Sử dụng menu xuất cho toàn bộ bài hát, khoảng thời gian đã chọn hoặc xuất nhiều bản nhạc. Trang trợ giúp hiện tại của Studio mô tả các bản xuất WAV chất lượng cao và tải xuống từng clip riêng lẻ. Nếu bạn đang di chuyển dự án sang một DAW khác, hãy căn chỉnh các phần thân và bao gồm toàn bộ bản phối làm tài liệu tham khảo.",
+          "Trước khi chia sẻ hoặc xuất bản, hãy nghe tệp đã xuất từ ​​đầu đến cuối và xác nhận rằng tệp đó khớp với phiên bản bạn đã phê duyệt trong Studio. Lưu liên kết dự án, ngày xuất và mọi quyền hoặc tệp nguồn được sử dụng. Kiểm tra lại các quyền của gói của bạn và các tùy chọn xuất cho mục đích sử dụng đã định."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tôi cần gói gì cho Suno Studio 2.0?",
+        "answer": "Thông báo Studio 2.0 hiện tại của Suno liệt kê tính khả dụng dành cho người đăng ký Premier. Hãy kiểm tra tài khoản Suno của bạn và trang gói hiện tại vì quyền truy cập có thể thay đổi."
+      },
+      {
+        "question": "Tôi có thể sử dụng plugin VST hoặc Audio Units trong Studio 2.0 không?",
+        "answer": "Suno hiện cho biết Studio 2.0 không tương thích với các plugin VST hoặc Audio Units thông thường. Nó bao gồm các hiệu ứng tích hợp và cho phép người dùng thiết kế một số hiệu ứng nhất định trong Studio."
+      }
+    ],
+    "toolLabel": "Khám phá hướng dẫn chỉnh sửa và xuất Suno",
+    "related": [
+      "suno-stem-separation-guide",
+      "suno-wav-download",
+      "suno-replace-section-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Giới thiệu Suno Studio 2.0",
+        "url": "https://help.suno.com/en/articles/13670529"
+      },
+      {
+        "label": "Suno: Xuất từ Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      },
+      {
+        "label": "Suno: Tách thân nâng cao",
+        "url": "https://help.suno.com/en/articles/12702337"
+      }
+    ]
+  }
+]

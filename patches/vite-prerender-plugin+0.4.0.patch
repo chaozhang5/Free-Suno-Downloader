@@ -1,0 +1,22 @@
+diff --git a/node_modules/vite-prerender-plugin/src/plugins/prerender-plugin.js b/node_modules/vite-prerender-plugin/src/plugins/prerender-plugin.js
+index 614ca9b..37ef3c7 100644
+--- a/node_modules/vite-prerender-plugin/src/plugins/prerender-plugin.js
++++ b/node_modules/vite-prerender-plugin/src/plugins/prerender-plugin.js
+@@ -188,7 +188,7 @@ export function prerenderPlugin({ prerenderScript, renderTarget, additionalPrere
+             const tpl = /** @type {string} */ (
+                 /** @type {OutputAsset} */ (bundle['index.html']).source
+             );
+-            let htmlDoc = htmlParse(tpl);
++            let htmlDoc = htmlParse(tpl, { comment: true });
+ 
+             // Create a tmp dir to allow importing & consuming the built modules,
+             // before Rollup writes them to the disk
+@@ -330,7 +330,7 @@ export function prerenderPlugin({ prerenderScript, renderTarget, additionalPrere
+                 if (result == null) continue;
+ 
+                 // Reset HTML doc & head data
+-                htmlDoc = htmlParse(tpl);
++                htmlDoc = htmlParse(tpl, { comment: true });
+                 head = { lang: '', title: '', elements: new Set() };
+ 
+                 // Add any discovered links to the list of routes to pre-render:

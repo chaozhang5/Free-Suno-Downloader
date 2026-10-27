@@ -1,0 +1,92 @@
+[
+  {
+    "code": "en",
+    "label": "English",
+    "prefix": ""
+  },
+  {
+    "code": "es",
+    "label": "Español",
+    "prefix": "/es"
+  },
+  {
+    "code": "pt-BR",
+    "label": "Português (Brasil)",
+    "prefix": "/pt-br"
+  },
+  {
+    "code": "zh-CN",
+    "label": "简体中文",
+    "prefix": "/zh-cn"
+  },
+  {
+    "code": "ja",
+    "label": "日本語",
+    "prefix": "/ja"
+  },
+  {
+    "code": "de",
+    "label": "Deutsch",
+    "prefix": "/de"
+  },
+  {
+    "code": "fr",
+    "label": "Français",
+    "prefix": "/fr"
+  },
+  {
+    "code": "it",
+    "label": "Italiano",
+    "prefix": "/it"
+  },
+  {
+    "code": "ru",
+    "label": "Русский",
+    "prefix": "/ru"
+  },
+  {
+    "code": "ar",
+    "label": "العربية",
+    "prefix": "/ar"
+  },
+  {
+    "code": "hi",
+    "label": "हिन्दी",
+    "prefix": "/hi"
+  },
+  {
+    "code": "id",
+    "label": "Bahasa Indonesia",
+    "prefix": "/id"
+  },
+  {
+    "code": "vi",
+    "label": "Tiếng Việt",
+    "prefix": "/vi"
+  },
+  {
+    "code": "ko",
+    "label": "한국어",
+    "prefix": "/ko"
+  },
+  {
+    "code": "tr",
+    "label": "Türkçe",
+    "prefix": "/tr"
+  },
+  {
+    "code": "th",
+    "label": "ไทย",
+    "prefix": "/th"
+  },
+  {
+    "code": "pl",
+    "label": "Polski",
+    "prefix": "/pl"
+  },
+  {
+    "code": "nl",
+    "label": "Nederlands",
+    "prefix": "/nl"
+  }
+]

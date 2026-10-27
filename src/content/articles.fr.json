@@ -1,0 +1,1657 @@
+[
+  {
+    "slug": "how-to-download-suno-songs",
+    "category": "Downloads",
+    "title": "Télécharger une chanson Suno : options officielles et liens publics",
+    "description": "Découvrez comment télécharger vos propres chansons depuis la Library de Suno, vérifier un lien public et choisir le bon fichier. L’accès public ne signifie pas que vous avez le droit de réutiliser le contenu.",
+    "intro": "Commencez par une chanson qui vous appartient dans la Library de Suno. Le menu officiel Download indique les options d’export disponibles pour votre compte. Un lien public permet de vérifier les fichiers proposés par une page, mais ne prouve pas que vous avez le droit de les réutiliser.",
+    "sections": [
+      {
+        "heading": "Télécharger depuis votre compte Suno",
+        "paragraphs": [
+          "Ouvrez Library ou Workspace, recherchez la chanson, puis sélectionnez More Actions et Download. Choisissez l’option proposée pour cette chanson et attendez la fin de l’enregistrement. Les options varient selon l’offre, la chanson et l’appareil.",
+          "Conservez l’URL de la chanson avec le fichier. Si le morceau est destiné à un client ou à une publication, notez également le compte qui l’a créé et la façon dont vous avez obtenu l’export."
+        ]
+      },
+      {
+        "heading": "Vérifier un lien public vers une chanson",
+        "paragraphs": [
+          "Si vous êtes autorisé à utiliser le lien public, copiez l’URL complète suno.com/s/, suno.com/song/ ou suno.com/hook/. Collez un seul lien dans Suno Downloader et vérifiez le titre avant de choisir un fichier audio, une vidéo, une pochette ou des paroles disponibles.",
+          "Seuls les fichiers réellement présents sur cette page s’affichent. Cet outil, conçu pour une seule chanson à la fois, ne prend pas en charge les liens privés ou supprimés, les playlists ni les profils. Le fait qu’une page soit lisible ne vous autorise pas à télécharger ou publier l’œuvre d’autrui."
+        ]
+      },
+      {
+        "heading": "Choisir le fichier adapté à votre besoin",
+        "paragraphs": [
+          "Écoutez la version audio originale publiée. Ne choisissez une vidéo que si elle est disponible. Enregistrez la pochette ou les paroles si vous avez besoin de conserver les éléments associés au projet. Le navigateur peut convertir l’audio lisible en WAV PCM, mais cette conversion n’améliore pas la qualité de la source et ne remplace pas l’export WAV officiel de Suno."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Puis-je télécharger la chanson publique de quelqu’un d’autre ?",
+        "answer": "Une URL publique ne vous accorde pas à elle seule le droit de réutiliser le contenu. Demandez l’autorisation de son auteur et consultez les conditions actuelles de Suno avant de l’enregistrer ou de la publier."
+      },
+      {
+        "question": "Pourquoi y a-t-il moins d’options que pour une autre chanson ?",
+        "answer": "Les fichiers disponibles dépendent de la page de la chanson, de votre offre et de l’appareil ou de la méthode utilisée. L’outil ne répertorie que les éléments qu’il trouve réellement."
+      }
+    ],
+    "toolLabel": "Vérifier un lien public dont l’utilisation est autorisée",
+    "related": [
+      "suno-mp3-download",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Comment télécharger des chansons ?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno : Quels types de fichiers puis-je télécharger ?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-download",
+    "category": "Downloads",
+    "title": "Télécharger une chanson Suno au format MP3",
+    "description": "Trouvez l’option MP3 officielle de Suno, découvrez ce qu’un lien public peut fournir et vérifiez le fichier audio avant de le partager.",
+    "intro": "Le MP3 est pratique pour écouter et partager au quotidien. Pour votre propre morceau, le plus rapide est de choisir MP3 dans le menu Download de Suno. Si vous êtes autorisé à utiliser un lien public, vérifiez le fichier audio réellement proposé sur la page.",
+    "sections": [
+      {
+        "heading": "Utiliser l’export MP3 de Suno",
+        "paragraphs": [
+          "Dans Library ou Workspace, ouvrez More Actions pour la chanson, choisissez Download, puis MP3 si l’option est proposée. Suno indique que le téléchargement de chansons en MP3 est disponible avec toutes les offres, mais les quotas et options propres à chaque chanson peuvent évoluer.",
+          "Écoutez le fichier enregistré jusqu’au bout. Vérifiez le titre, la version, le début et la fin avant de l’envoyer à un collaborateur."
+        ]
+      },
+      {
+        "heading": "Ce qu’un lien public peut fournir",
+        "paragraphs": [
+          "Notre outil traite une chanson à la fois et répertorie l’audio original publié sur une page de chanson ou de Hook accessible. L’extension dépend de la source. S’il ne trouve aucun fichier audio exploitable, il ne peut pas créer de MP3. Pour votre propre chanson, utilisez le menu officiel.",
+          "Conservez le lien vers la page source avec le fichier. Vous pourrez ainsi distinguer plus facilement plusieurs générations aux noms proches."
+        ]
+      },
+      {
+        "heading": "Quand le MP3 suffit",
+        "paragraphs": [
+          "Choisissez le MP3 pour l’écoute courante et les aperçus simples. Si un logiciel de montage exige du WAV, vérifiez si votre compte Suno propose un export WAV officiel. Convertir un MP3 en WAV change le conteneur et la représentation des échantillons, mais ne restaure pas les détails perdus lors de la compression."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "L’outil de lien public produit-il toujours un MP3 ?",
+        "answer": "Non. Il propose le fichier audio publié qu’il peut trouver, dont le format peut varier. Pour obtenir un MP3 de votre propre chanson, utilisez l’option MP3 officielle de Suno."
+      },
+      {
+        "question": "Puis-je renommer le fichier enregistré ?",
+        "answer": "Oui. Ajoutez le titre et la version au nom du fichier, puis conservez le lien Suno dans les notes du projet pour retrouver la source."
+      }
+    ],
+    "toolLabel": "Consulter l’audio disponible",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-wav-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno : types de fichiers de téléchargement disponibles",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-wav-download",
+    "category": "Downloads",
+    "title": "Obtenir un fichier WAV de Suno : ce que change la conversion",
+    "description": "Découvrez les exports WAV officiels de Suno, la conversion dans le navigateur et pourquoi convertir un MP3 ne restaure pas la qualité d’origine.",
+    "intro": "Le WAV peut être utile dans un logiciel de montage, car il contient des échantillons PCM non compressés. Il faut surtout savoir s’il provient d’un export original officiel ou de la conversion d’un fichier déjà compressé.",
+    "sections": [
+      {
+        "heading": "Vérifier d’abord l’option WAV officielle",
+        "paragraphs": [
+          "Le centre d’aide de Suno indique que le téléchargement des chansons en WAV est disponible sur le Web pour les abonnements Pro et Premier. Ouvrez la chanson dans Library ou Workspace, choisissez More Actions, puis Download et WAV si cette option est proposée pour votre compte et cette chanson. Sur mobile, le téléchargement peut être en MP3 par défaut.",
+          "Si un client demande un fichier de qualité originale, utilisez l’export de votre compte Suno et conservez-en la trace avec le projet."
+        ]
+      },
+      {
+        "heading": "Fonctionnement de notre convertisseur",
+        "paragraphs": [
+          "Si notre téléchargeur peut lire une source audio publique disponible, votre navigateur peut créer un WAV PCM 16 bits à partir de celle-ci. Cela peut améliorer la compatibilité avec les logiciels qui acceptent le WAV mais pas le format source. La conversion s’effectue localement dans le navigateur.",
+          "Un WAV converti est souvent beaucoup plus volumineux que la source. Cette taille supérieure ne signifie pas que les fréquences perdues ont été récupérées ni que le master a été amélioré."
+        ]
+      },
+      {
+        "heading": "Choisir la bonne méthode",
+        "paragraphs": [
+          "Utilisez le WAV officiel lorsque vous avez besoin de l’export Suno. Ne convertissez localement qu’une source dont l’utilisation est autorisée et si votre flux de travail exige le PCM. Si votre projet nécessite des pistes séparées, vérifiez si des stems sont disponibles : un WAV stéréo ne les sépare pas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Convertir un MP3 en WAV améliore-t-il le son ?",
+        "answer": "Non. La conversion PCM change le format du fichier, mais ne recrée pas les détails perdus lors de la compression."
+      },
+      {
+        "question": "Pourquoi l’option WAV officielle n’apparaît-elle pas sur mon téléphone ?",
+        "answer": "Suno indique actuellement que le téléchargement des chansons en WAV est disponible sur le Web avec les offres Pro et Premier ; sur mobile, le téléchargement peut être en MP3 par défaut. Consultez votre compte sur suno.com."
+      }
+    ],
+    "toolLabel": "Voir l’audio et les options de conversion",
+    "related": [
+      "suno-mp3-download",
+      "suno-video-download",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno : types de fichiers de téléchargement disponibles",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-video-download",
+    "category": "Downloads",
+    "title": "Télécharger la vidéo d’une chanson Suno lorsqu’un fichier MP4 est disponible",
+    "description": "Trouvez l’option de téléchargement vidéo de votre chanson Suno et comprenez pourquoi une chanson publique peut proposer de l’audio, mais aucun MP4.",
+    "intro": "Une chanson peut être lisible sans disposer d’un fichier vidéo téléchargeable. Vérifiez la chanson avant de considérer l’absence du bouton MP4 comme un échec du téléchargement.",
+    "sections": [
+      {
+        "heading": "Vérifier l’option vidéo officielle",
+        "paragraphs": [
+          "Pour votre propre chanson, ouvrez More Actions dans Library ou Workspace sur Suno et consultez Download. Suno indique que la vidéo peut faire partie des types de fichiers proposés, mais les options varient selon la chanson, l’offre, la fonctionnalité et l’appareil.",
+          "Si l’option vidéo apparaît, enregistrez le fichier et lisez-en un extrait pour vérifier que l’image et le son correspondent à la version souhaitée."
+        ]
+      },
+      {
+        "heading": "Consulter la page publique de la chanson",
+        "paragraphs": [
+          "Collez dans notre outil, qui traite une chanson à la fois, un lien de chanson, share ou Hook dont l’utilisation est autorisée. La vignette Video apparaît uniquement si la page propose un fichier vidéo exploitable. Si elle manque, attendre ou convertir l’audio ne fera pas apparaître un MP4.",
+          "Avant de réessayer, vérifiez la page source et votre compte Suno. Si la vidéo est présente sur Suno mais inaccessible à l’outil, utilisez la méthode officielle."
+        ]
+      },
+      {
+        "heading": "Si vous avez besoin d’une vidéo avec paroles",
+        "paragraphs": [
+          "Une vidéo de chanson et une vidéo avec paroles créée par vos soins sont deux livrables différents. En l’absence de MP4 publié, partez d’un fichier audio que vous êtes autorisé à utiliser et du texte des paroles, puis créez une vidéo dans un éditeur compatible avec les sous-titres. Synchronisez-la avec la version audio finale."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Peut-on transformer l’audio en MP4 original de Suno ?",
+        "answer": "Non. Un éditeur peut créer une nouvelle vidéo à partir d’un audio et d’images, mais ce ne sera pas le fichier vidéo publié par Suno."
+      },
+      {
+        "question": "Pourquoi puis-je écouter la chanson sans pouvoir enregistrer de vidéo ?",
+        "answer": "La lecture confirme uniquement la présence d’un audio. La vignette vidéo apparaît lorsqu’un fichier vidéo exploitable est disponible pour cette chanson."
+      }
+    ],
+    "toolLabel": "Vérifier si cette chanson possède une vidéo",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-lyrics-timestamps",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno : types de fichiers de téléchargement disponibles",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-not-working",
+    "category": "Downloads",
+    "title": "Le téléchargement Suno ne fonctionne pas ? Vérifiez le lien, le fichier et le compte",
+    "description": "Résolvez les problèmes de bouton de téléchargement absent, de lien public inaccessible ou de chanson sans option audio ou vidéo.",
+    "intro": "Un échec peut venir de plusieurs éléments : type de lien, visibilité de la chanson, fichier concerné, options de téléchargement du compte ou erreur temporaire. Identifiez la cause avant de répéter la même action.",
+    "sections": [
+      {
+        "heading": "Vérifier d’abord la chanson",
+        "paragraphs": [
+          "Ouvrez l’URL source sur Suno. L’outil pour une chanson accepte les liens publics /s/, /song/ ou /hook/, mais pas les playlists ni les profils de créateur. Si la page est privée, supprimée ou si l’URL est incomplète, les fichiers ne peuvent pas être répertoriés.",
+          "Recopiez l’URL complète plutôt qu’un extrait raccourci. Si la chanson vous appartient, retrouvez-la dans Library et vérifiez More Actions."
+        ]
+      },
+      {
+        "heading": "Identifier le fichier manquant",
+        "paragraphs": [
+          "Si l’audio fonctionne mais que la vidéo manque, la page ne propose peut-être pas de MP4. Si la pochette ou les paroles sont absentes, la source ne fournit peut-être pas ces données. L’outil ne doit afficher que les fichiers réellement disponibles pour cette chanson.",
+          "Si le menu Suno ne propose pas le format souhaité, vérifiez les règles en vigueur pour votre offre et votre appareil. Convertir un MP3 en WAV ne crée pas l’export WAV officiel."
+        ]
+      },
+      {
+        "heading": "Réessayer après un incident temporaire",
+        "paragraphs": [
+          "Patientez un instant, rechargez la page source et réessayez une fois. Une réponse temporaire du service ou un réglage du navigateur peut interrompre une demande valide. Pour une vidéo volumineuse ou un ZIP, vérifiez l’espace disponible et gardez l’onglet ouvert jusqu’à la fin.",
+          "Si le problème se reproduit, notez l’URL et le message d’erreur exact. Ces informations sont plus utiles que le simple signalement d’un échec."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Dois-je continuer à réessayer avec un lien privé ?",
+        "answer": "Non. Vérifiez d’abord que le propriétaire a rendu publique cette page précise. Répéter la demande ne rendra pas accessible une page privée ou supprimée."
+      },
+      {
+        "question": "Que faire si seule l’option WAV échoue ?",
+        "answer": "Essayez d’abord l’audio original. La conversion dans le navigateur nécessite une source lisible et assez de mémoire ; l’export WAV officiel doit être obtenu depuis Suno si votre compte le propose."
+      }
+    ],
+    "toolLabel": "Réessayer avec un lien public",
+    "related": [
+      "suno-share-link-guide",
+      "suno-download-credits-limits",
+      "suno-mp3-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Comment télécharger des chansons ?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno : Comment fonctionnent les téléchargements ?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      }
+    ]
+  },
+  {
+    "slug": "suno-share-link-guide",
+    "category": "Tutorials",
+    "title": "Lien Suno Share, Song ou Hook : lequel vous faut-il ?",
+    "description": "Reconnaissez les URL Suno /s/, /song/ et /hook/ et sachez quand utiliser le lien d’une seule chanson plutôt qu’une playlist ou un profil de créateur.",
+    "intro": "L’adresse copiée détermine ce qu’un outil peut examiner. Un lien direct vers une chanson ou un Hook désigne un seul élément ; une playlist ou un profil en regroupe plusieurs et nécessite une autre méthode.",
+    "sections": [
+      {
+        "heading": "Trois formats de lien vers un élément",
+        "paragraphs": [
+          "Une URL share commence généralement par suno.com/s/. Une page de chanson utilise suno.com/song/ et une page Hook, suno.com/hook/. Notre téléchargeur accepte ces liens publics vers un seul élément lorsque les pages sont accessibles.",
+          "Copiez le lien depuis Share dans Suno ou depuis la barre d’adresse, sans omettre la fin du chemin. Ouvrez-le dans un nouvel onglet pour vérifier qu’il mène à la chanson voulue."
+        ]
+      },
+      {
+        "heading": "Pourquoi une URL valide peut échouer",
+        "paragraphs": [
+          "Une URL correctement formée ne garantit ni une page publique, ni un audio exploitable, ni une vidéo publiée. Le propriétaire peut rendre la chanson privée, la supprimer ou modifier les éléments affichés. L’accès peut aussi être temporairement indisponible.",
+          "Notre outil traite un élément à la fois. Les URL de playlist ou de profil de créateur ne remplacent pas les liens /song/, même si elles affichent des chansons."
+        ]
+      },
+      {
+        "heading": "Une méthode simple pour transmettre un lien",
+        "paragraphs": [
+          "Envoyez à votre collaborateur le lien précis, le nom de la version et le fichier à examiner. Pour les fichiers de votre compte, utilisez l’export de Library dans Suno. Demandez une autorisation avant de télécharger ou de réutiliser l’œuvre d’autrui."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Puis-je coller une URL de playlist dans l’outil pour une chanson ?",
+        "answer": "Non. Ouvrez une chanson de la playlist et copiez son lien direct ou share. L’outil actuel traite un élément par demande."
+      },
+      {
+        "question": "Les liens /s/ et /song/ donnent-ils toujours accès aux mêmes fichiers ?",
+        "answer": "Ils peuvent mener à la même chanson, mais la page et les données accessibles à l’outil peuvent différer. Vérifiez le titre et les fichiers proposés avant de les enregistrer."
+      }
+    ],
+    "toolLabel": "Tester un lien public vers une chanson",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-download-not-working",
+      "download-multiple-suno-songs"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "download-multiple-suno-songs",
+    "category": "Tutorials",
+    "title": "Télécharger plusieurs chansons Suno dans un fichier ZIP",
+    "description": "Utilisez la sélection multiple de Library dans Suno pour télécharger plusieurs chansons ensemble et sachez quand privilégier l’outil conçu pour une seule chanson.",
+    "intro": "Si vos chansons se trouvent dans Library ou Workspace sur Suno, un processus officiel permet de les télécharger ensemble dans un ZIP. Notre outil actuel traite un lien public à la fois.",
+    "sections": [
+      {
+        "heading": "Sélectionner des chansons dans Library",
+        "paragraphs": [
+          "Sur Mac, maintenez Command pour sélectionner plusieurs chansons ; sur Windows, utilisez Ctrl. Maintenez Shift pour sélectionner une plage. Faites un clic droit sur une chanson sélectionnée, choisissez Download All, sélectionnez le type de fichier proposé et lancez le téléchargement ZIP.",
+          "Ces étapes officielles concernent l’interface Web de Suno. Prévoyez suffisamment de temps et d’espace pour une grande archive, puis ouvrez le ZIP pour vérifier son contenu avant de déplacer les chansons sources hors du projet actif."
+        ]
+      },
+      {
+        "heading": "Garder une archive facile à comprendre",
+        "paragraphs": [
+          "Nommez le ZIP avec le projet et la date. Dans les notes du projet, indiquez les versions concernées, les liens et les autorisations des collaborateurs, le cas échéant. Un téléchargement groupé n’est utile que si vous pouvez ensuite identifier les fichiers.",
+          "Si un élément manque, vérifiez qu’il faisait partie de la sélection et que le menu de cette chanson propose le même format."
+        ]
+      },
+      {
+        "heading": "Vérifier une chanson avec un seul lien",
+        "paragraphs": [
+          "Pour examiner individuellement une chanson publique dont l’utilisation est autorisée, collez son URL directe dans notre téléchargeur. Il peut réunir dans un ZIP les fichiers disponibles pour cette chanson, y compris les paroles si elles existent. Il n’accepte pas encore plusieurs liens ni d’URL de playlist."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Le téléchargeur de ce site accepte-t-il plusieurs liens à la fois ?",
+        "answer": "Non. La fonction ZIP regroupe les fichiers disponibles pour une seule chanson publique. Pour plusieurs chansons de votre Library, utilisez le processus Download All indiqué par Suno."
+      },
+      {
+        "question": "Que faire si une chanson manque dans le ZIP ?",
+        "answer": "Vérifiez qu’elle était sélectionnée et que Suno propose le type de fichier choisi pour cette chanson. Si le téléchargement groupé a été interrompu, essayez avec un groupe plus petit."
+      }
+    ],
+    "toolLabel": "Vérifier une chanson publique",
+    "related": [
+      "how-to-download-suno-songs",
+      "organize-suno-song-files",
+      "suno-share-link-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Comment télécharger des chansons ?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-download",
+    "category": "Lyrics",
+    "title": "Enregistrer les paroles d’une chanson Suno au format texte",
+    "description": "Retrouvez les paroles sur la page d’une chanson Suno, enregistrez le texte disponible et vérifiez qu’il correspond à l’audio que vous comptez utiliser.",
+    "intro": "Un fichier de paroles est surtout utile si vous savez à quelle version il correspond. Conservez le lien source et écoutez la chanson en comparant le texte, notamment après plusieurs générations ou modifications.",
+    "sections": [
+      {
+        "heading": "Commencer par votre brouillon de paroles",
+        "paragraphs": [
+          "Si vous avez écrit les paroles dans Custom mode de Suno, gardez le fichier texte d’origine comme référence. Suno indique que vous conservez les droits sur les paroles originales que vous saisissez. Ajoutez la version de la chanson au nom du brouillon pour éviter de l’écraser lors d’une prochaine révision.",
+          "Si la page affiche des paroles générées, copiez-les et comparez-les à l’audio final. La prononciation générée ou les lignes répétées peuvent différer du texte."
+        ]
+      },
+      {
+        "heading": "Enregistrer le texte d’une chanson publique",
+        "paragraphs": [
+          "Si vous êtes autorisé à utiliser une chanson ou un Hook public, collez son URL dans notre téléchargeur. Lorsque la page propose des paroles, la vignette Lyrics TXT apparaît. Vous pouvez enregistrer le texte seul ou l’ajouter à un ZIP contenant les médias disponibles de cette chanson.",
+          "Si la vignette des paroles est absente, l’outil n’a pas trouvé de texte exploitable sur cette page. Il ne transcrit pas les voix depuis l’audio et ne récupère pas les brouillons privés."
+        ]
+      },
+      {
+        "heading": "Préparer la suite",
+        "paragraphs": [
+          "Un simple TXT suffit pour lire et modifier les paroles. Une vidéo avec paroles nécessite des informations de synchronisation ; le texte seul ne contient pas de repères temporels. Gardez ensemble les paroles, l’audio et l’URL pour créer des sous-titres correspondant à la bonne version."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Le téléchargeur peut-il transcrire l’audio ?",
+        "answer": "Non. Il enregistre les paroles lorsqu’elles sont disponibles sur la page publique. Écoutez la chanson et corrigez le texte avant de l’utiliser comme transcription."
+      },
+      {
+        "question": "Le TXT contient-il la synchronisation des paroles ?",
+        "answer": "Non. Le texte brut contient les mots, pas les repères temporels. Après avoir choisi la version audio finale, créez un fichier LRC ou SRT dans un éditeur de synchronisation."
+      }
+    ],
+    "toolLabel": "Vérifier les paroles disponibles",
+    "related": [
+      "suno-lyrics-timestamps",
+      "suno-lyrics-structure-tags",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Puis-je utiliser mes propres paroles ?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-structure-tags",
+    "category": "Lyrics",
+    "title": "Balises de structure des paroles Suno : Verse, Chorus, Bridge et Outro",
+    "description": "Structurez un brouillon de paroles pour Suno avec des sections claires, des répétitions réfléchies et des transitions entre couplets et refrains.",
+    "intro": "Les balises de section facilitent la lecture et la révision des paroles. Elles donnent des indications de structure, mais ne garantissent pas que la chanson générée respectera chaque balise à la lettre.",
+    "sections": [
+      {
+        "heading": "Donner un rôle à chaque section",
+        "paragraphs": [
+          "Utilisez [Verse] pour faire avancer l’histoire ou ajouter un détail, [Chorus] pour la phrase à retenir, [Bridge] pour proposer un autre point de vue et [Outro] pour conclure. Ajoutez [Pre-Chorus] uniquement si la chanson a besoin d’une montée avant le refrain.",
+          "Exemple : quatre nouvelles lignes dans [Verse 1], une phrase-titre répétée dans [Chorus], un détail différent dans [Verse 2], puis un nouveau [Chorus]. Les balises structurent l’intention ; le résultat musical doit toujours être écouté et ajusté."
+        ]
+      },
+      {
+        "heading": "Séparer les balises des paroles",
+        "paragraphs": [
+          "Placez chaque balise sur sa propre ligne. Gardez des paroles assez courtes pour être chantées et laissez une ligne vide entre les sections. Cela facilite la comparaison des générations et le repérage des passages omis, répétés ou étirés par le modèle.",
+          "Si le refrain manque d’impact, retravaillez les paroles ou créez un contraste avec le couplet avant d’ajouter des balises. La structure ne remplace pas une phrase centrale forte."
+        ]
+      },
+      {
+        "heading": "Choisir le bon champ Suno",
+        "paragraphs": [
+          "Dans Custom mode, placez votre brouillon original dans Lyrics et la description générale du son dans Styles. Conservez une copie hors de Suno avant de créer de nouvelles versions. Custom mode permet de saisir vos propres paroles."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "[Chorus] impose-t-il exactement la même mélodie à chaque reprise ?",
+        "answer": "Non. Cette balise indique la section souhaitée, mais la génération peut varier. Écoutez les deux refrains et modifiez les paroles ou le prompt si le résultat ne sert pas la chanson."
+      },
+      {
+        "question": "Où saisir la description du style ?",
+        "answer": "Dans Custom mode, utilisez Styles pour la direction musicale et Lyrics pour le texte et les balises de section."
+      }
+    ],
+    "toolLabel": "Examiner les paroles d’une chanson terminée",
+    "related": [
+      "suno-lyrics-download",
+      "edit-suno-lyrics",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Puis-je utiliser mes propres paroles ?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-timestamps",
+    "category": "Lyrics",
+    "title": "Paroles Suno et horodatage : préparer des sous-titres",
+    "description": "Synchronisez chaque ligne des paroles avec l’audio final pour créer des sous-titres et vérifiez les transitions délicates.",
+    "intro": "Un fichier de paroles indique le texte à afficher. Un fichier de sous-titres horodatés indique aussi quand chaque ligne apparaît. Ce sont deux tâches distinctes : notre téléchargeur peut enregistrer les paroles disponibles en TXT, mais ne crée pas de minutage LRC ou SRT.",
+    "sections": [
+      {
+        "heading": "Choisir d’abord l’audio final",
+        "paragraphs": [
+          "Enregistrez exactement la version audio que vous allez publier. Une nouvelle génération peut décaler l’arrivée des couplets et les reprises du refrain ; les repères d’une version précédente risquent donc d’être faux, même si les paroles sont identiques.",
+          "Écoutez et corrigez les paroles avant de les synchroniser. Repérez les mots manquants, ad-libs et répétitions au lieu de supposer que le texte affiché constitue une transcription parfaite."
+        ]
+      },
+      {
+        "heading": "Marquer le début et la fin des lignes",
+        "paragraphs": [
+          "Ouvrez l’audio dans un éditeur compatible avec les sous-titres. Lancez la lecture depuis le début et notez le début de chaque ligne. Pour les sous-titres, définissez aussi une heure de fin qui laisse le temps de lire sans empiéter sur la ligne suivante.",
+          "Vérifiez le premier couplet, chaque reprise du refrain, les passages instrumentaux et l’outro. Ce sont des endroits où un décalage temporel uniforme échoue souvent."
+        ]
+      },
+      {
+        "heading": "Exporter selon la destination",
+        "paragraphs": [
+          "Choisissez SRT pour de nombreux éditeurs vidéo et workflows de sous-titrage, ou LRC pour les lecteurs qui affichent les paroles synchronisées. Testez le fichier exporté avec la vidéo ou le lecteur prévu avant de le partager. Gardez une copie TXT facile à modifier."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Puis-je réutiliser le minutage d’une autre génération ?",
+        "answer": "Uniquement après l’avoir vérifié avec l’audio final. Même avec des paroles identiques, les départs, pauses et durées de refrain peuvent changer."
+      },
+      {
+        "question": "Quel format choisir pour un éditeur vidéo ?",
+        "answer": "Le SRT est très utilisé pour les sous-titres horodatés, mais vérifiez que votre éditeur l’accepte. Gardez le TXT sans minutage pour les révisions."
+      }
+    ],
+    "toolLabel": "Enregistrer les paroles disponibles",
+    "related": [
+      "suno-lyrics-download",
+      "suno-video-download",
+      "edit-suno-lyrics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "edit-suno-lyrics",
+    "category": "Lyrics",
+    "title": "Réviser les paroles Suno sans perdre le hook de la chanson",
+    "description": "Améliorez un brouillon de paroles Suno en repérant les lignes faibles, en gardant le hook mémorable et en testant une modification à la fois.",
+    "intro": "Quand une chanson est presque aboutie, réécrire toutes les lignes peut effacer ce que les auditeurs retiennent. Conservez les versions actuelles des paroles et de l’audio, puis ne modifiez que la plus petite section à l’origine du problème.",
+    "sections": [
+      {
+        "heading": "Cerner le problème précis",
+        "paragraphs": [
+          "Écoutez la chanson en suivant les paroles. Repérez les lignes difficiles à chanter, vagues, répétées au mauvais endroit ou incohérentes avec l’histoire. Si le refrain fonctionne, gardez sa phrase principale et ajustez le couplet qui y mène.",
+          "Distinguez les problèmes de paroles des problèmes de production. Une voix masquée peut nécessiter une autre indication d’arrangement ou de mixage, plutôt qu’une nouvelle rime."
+        ]
+      },
+      {
+        "heading": "Réécrire de façon contrôlée",
+        "paragraphs": [
+          "Dupliquez le brouillon et nommez-le version 2. Révisez une section en gardant le même point de vue, le même nombre de lignes et les mêmes balises. Remplacez une idée générale par une image ou une action concrète ; lisez les nouvelles lignes à voix haute avant de relancer une génération.",
+          "Comparez le nouveau résultat à l’audio précédent, pas seulement au texte. Une ligne mieux écrite peut être maladroite sur la mélodie, tandis qu’une phrase simple peut très bien se chanter."
+        ]
+      },
+      {
+        "heading": "Consigner les modifications",
+        "paragraphs": [
+          "Notez la ligne modifiée, la raison et la version que vous préférez. Conservez le fichier final avec l’audio et l’URL correspondants. En collaboration, demandez aux relecteurs d’indiquer le minutage et la section concernés plutôt qu’une réécriture générale."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Faut-il modifier le refrain en premier ?",
+        "answer": "S’il est mémorable et convient à la mélodie, gardez-le. Cherchez plutôt si le couplet, la transition ou l’arrangement vocal affaiblit l’ensemble."
+      },
+      {
+        "question": "Comment comparer équitablement deux versions des paroles ?",
+        "answer": "Conservez les deux textes et les deux audios. Indiquez la section précise et l’amélioration audible au lieu de juger uniquement les lignes écrites."
+      }
+    ],
+    "toolLabel": "Examiner les paroles sur la page de la chanson",
+    "related": [
+      "suno-lyrics-structure-tags",
+      "suno-lyrics-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Puis-je utiliser mes propres paroles ?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-cover-art-download",
+    "category": "Cover art",
+    "title": "Enregistrer la pochette d’une chanson Suno que vous pouvez utiliser",
+    "description": "Trouvez l’illustration publiée d’une chanson Suno, enregistrez l’image disponible et conservez sa source et l’autorisation avec les fichiers musicaux.",
+    "intro": "Une pochette facilite l’identification d’une chanson dans une bibliothèque, mais sa présence sur une page publique n’autorise pas sa publication ailleurs. Commencez par votre propre chanson ou obtenez le consentement explicite de son créateur.",
+    "sections": [
+      {
+        "heading": "Trouver l’image publiée",
+        "paragraphs": [
+          "Ouvrez la page de la chanson et vérifiez que l’illustration correspond à la bonne version. Pour un lien public /s/, /song/ ou /hook/ accessible, notre téléchargeur affiche la vignette Cover art uniquement s’il trouve un fichier image sur la page.",
+          "Enregistrez l’image à l’aide de cette vignette. Si elle est absente, consultez la page source : l’outil ne peut ni créer ni agrandir une illustration qui n’a pas été publiée."
+        ]
+      },
+      {
+        "heading": "Conserver le contexte et l’autorisation",
+        "paragraphs": [
+          "Conservez l’image avec l’audio et les paroles. Notez l’URL source, le créateur et la date d’enregistrement. Avant de publier un morceau, vérifiez les droits de chaque élément, y compris les illustrations fournies par des tiers.",
+          "Vous pouvez renommer les copies pour votre projet, mais gardez le fichier original. Vous pourrez ainsi comparer les modifications ultérieures à l’image publiée."
+        ]
+      },
+      {
+        "heading": "Préparer l’image pour sa destination",
+        "paragraphs": [
+          "Avant d’ajouter l’illustration à une vidéo, un lecteur ou un service de distribution, vérifiez les exigences actuelles de taille, de ratio et de format. L’image publique peut être plus petite que les exigences d’une plateforme de sortie. L’agrandir ne recrée pas les détails absents d’un original basse résolution."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Puis-je enregistrer la pochette de n’importe quelle chanson publique ?",
+        "answer": "L’accès technique ne vaut pas autorisation. Utilisez l’illustration de votre chanson ou obtenez le consentement des créateurs et artistes concernés pour l’usage prévu."
+      },
+      {
+        "question": "Pourquoi la vignette de pochette est-elle absente ?",
+        "answer": "La page ne propose peut-être pas d’image que l’outil peut enregistrer. Ouvrez la chanson source pour vérifier qu’un fichier est disponible."
+      }
+    ],
+    "toolLabel": "Vérifier la pochette disponible",
+    "related": [
+      "suno-cover-art-size",
+      "suno-mp3-cover-art-missing",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-cover-art-size",
+    "category": "Cover art",
+    "title": "Taille et format d’une pochette Suno : points à vérifier avant publication",
+    "description": "Vérifiez les dimensions, le recadrage, le format et les droits de l’image de couverture Suno avant de l’utiliser dans un lecteur, une vidéo ou une sortie.",
+    "intro": "Aucune taille d’image ne convient à toutes les destinations. Commencez par le fichier réellement disponible pour votre chanson, puis comparez-le aux exigences actuelles de la plateforme concernée.",
+    "sections": [
+      {
+        "heading": "Examiner l’image source",
+        "paragraphs": [
+          "Enregistrez la pochette disponible sur la page de la chanson et consultez sa résolution en pixels ainsi que son type de fichier dans votre système. Vérifiez si l’image est carrée, si un texte important est trop près du bord et si elle correspond à la version audio.",
+          "Notre téléchargeur enregistre l’image publiée disponible ; il ne garantit pas une taille JPEG précise et ne crée pas de version haute résolution."
+        ]
+      },
+      {
+        "heading": "Adapter l’image à sa destination",
+        "paragraphs": [
+          "Une miniature dans une bibliothèque musicale ne nécessite pas le même recadrage qu’une vidéo de paroles plein écran. Pour une sortie, consultez les spécifications actuelles de votre distributeur : dimensions minimales, mode colorimétrique, texte et règles de contenu.",
+          "Préparez un export distinct pour chaque destination. Si vous agrandissez une petite image, vérifiez-la à sa taille réelle pour repérer flou et artefacts : davantage de pixels n’améliorent pas la source."
+        ]
+      },
+      {
+        "heading": "Conserver la preuve d’autorisation",
+        "paragraphs": [
+          "Une capture d’écran d’une page publique ne constitue pas une licence. Conservez le fichier source et l’autorisation d’utilisation avec le dossier de la chanson. Si quelqu’un d’autre a fourni la pochette, demandez une autorisation couvrant votre usage prévu."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quelle est la taille d’une pochette Suno ?",
+        "answer": "Vérifiez l’image enregistrée : ses dimensions dépendent de l’élément publié. Ne supposez pas que la miniature a toujours une taille fixe."
+      },
+      {
+        "question": "Puis-je rendre imprimable une petite pochette en l’agrandissant ?",
+        "answer": "L’agrandissement modifie les dimensions, mais ne restaure pas les détails manquants. Si la destination l’exige, demandez une source autorisée de meilleure qualité."
+      }
+    ],
+    "toolLabel": "Enregistrer le fichier de couverture publié",
+    "related": [
+      "suno-cover-art-download",
+      "suno-video-download",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "write-better-suno-prompts",
+    "category": "Prompts",
+    "title": "Écrire un prompt Suno avec une direction musicale claire",
+    "description": "Construisez un prompt musical ciblé à partir du genre, du tempo, des instruments, de la voix et de la production, puis comparez les résultats méthodiquement.",
+    "intro": "Un bon prompt donne au modèle un objectif musical cohérent. Commencez par une idée centrale courte, ajoutez uniquement les détails qui s’entendent, puis révisez après l’écoute.",
+    "sections": [
+      {
+        "heading": "Formuler l’objectif en une phrase",
+        "paragraphs": [
+          "Choisissez un style général, une évolution émotionnelle et un son principal. Exemple : ballade pop acoustique intimiste, guitare en arpèges, batterie discrète et voix proche. Ce brief se teste plus facilement qu’une longue liste de genres sans lien.",
+          "Si la chanson comporte des paroles, déterminez si le son doit accompagner un couplet calme, un refrain plus ample ou les deux. Indiquez clairement ce rapport."
+        ]
+      },
+      {
+        "heading": "Ajouter quelques contraintes utiles",
+        "paragraphs": [
+          "Précisez un ou deux instruments à mettre en avant, l’interprétation vocale et la texture de production. Ne décrivez les changements entre sections que s’ils sont importants. Évitez d’accumuler des synonymes comme chaleureux, luxuriant, rêveur, doux et feutré sans hiérarchie.",
+          "Dans Custom mode de Suno, Styles décrit la direction musicale et Lyrics contient le texte. Suno propose deux champs distincts."
+        ]
+      },
+      {
+        "heading": "Tester une modification à la fois",
+        "paragraphs": [
+          "Enregistrez le prompt avec un numéro de version. Écoutez l’instrument dominant, l’énergie, le caractère vocal et le contraste entre sections. Ne modifiez qu’une catégorie à la génération suivante afin de voir ce qui a aidé.",
+          "Gardez le lien de la chanson et vos notes avec le prompt. Notre téléchargeur peut examiner un résultat public dont l’utilisation est autorisée et les fichiers disponibles en vue d’une révision ou d’un archivage."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quelle longueur donner à un prompt Suno ?",
+        "answer": "Assez pour définir un objectif cohérent, sans détails inutiles. Commencez par le genre, le son principal, le choix vocal ou instrumental et l’énergie des sections."
+      },
+      {
+        "question": "Un prompt peut-il garantir un résultat précis ?",
+        "answer": "Non. Les générations varient. Conservez les versions du prompt et comparez l’audio pour fonder chaque révision sur ce que vous avez réellement entendu."
+      }
+    ],
+    "toolLabel": "Examiner une chanson publique terminée",
+    "related": [
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Présentation du mode personnalisé",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-style-prompt-examples",
+    "category": "Prompts",
+    "title": "Exemples de prompts Style Suno à adapter et à tester",
+    "description": "Testez des exemples ciblés de prompts Style pour la pop acoustique, l’électro et les ambiances cinématographiques afin de savoir quels détails modifier.",
+    "intro": "Un exemple de Style est une hypothèse de départ, pas une recette garantissant un son précis. Adaptez le genre, le rôle des instruments, l’approche vocale et la texture de production à votre chanson.",
+    "sections": [
+      {
+        "heading": "Chanson acoustique avec un refrain plus ample",
+        "paragraphs": [
+          "Essayez : pop acoustique intimiste, guitare en arpèges dans les couplets, basse chaleureuse, percussions discrètes, voix principale proche et harmonies plus larges au refrain. Le contraste compte davantage que l’ajout de mots d’ambiance.",
+          "Si le refrain reste trop discret, modifiez d’abord l’arrangement. Si la voix semble trop distante, ajustez sa description sans réécrire tout le brief."
+        ]
+      },
+      {
+        "heading": "Morceau électronique rythmé",
+        "paragraphs": [
+          "Essayez : pop électronique à tempo moyen, grosse caisse précise et basse syncopée, motif de synthé cristallin, couplets aérés, hook lumineux en couches et mixage moderne et net. La basse et le motif ont ici des rôles distincts.",
+          "Si le résultat est chargé, retirez une couche ou réduisez l’énergie du couplet. Gardez la description du groove si elle fonctionne."
+        ]
+      },
+      {
+        "heading": "Ambiance instrumentale",
+        "paragraphs": [
+          "Essayez : pièce ambient cinématographique lente, motif de piano doux, nappes de cordes évolutives, texture de salle lointaine, montée progressive, sans voix principale. Pour un morceau sans paroles, activez aussi Instrumental dans Suno si l’option existe.",
+          "Enregistrez le prompt exact avec chaque génération. Comparez le résultat entendu sans supposer qu’un même exemple produira le même effet à chaque fois."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Faut-il coller les exemples sans les modifier ?",
+        "answer": "Utilisez-les comme points de départ à tester. Adaptez les instruments, le groove et la voix à votre chanson, puis comparez le résultat."
+      },
+      {
+        "question": "Pourquoi deux générations au prompt Style identique sonnent-elles différemment ?",
+        "answer": "Les générations varient et d’autres éléments, comme les paroles, peuvent influencer le résultat. Conservez les versions et évaluez l’audio au lieu de traiter le prompt comme un préréglage fixe."
+      }
+    ],
+    "toolLabel": "Examiner un résultat exemple",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-instrumental-prompt",
+      "suno-exclude-styles"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Présentation du mode personnalisé",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-instrumental-prompt",
+    "category": "Prompts",
+    "title": "Créer un morceau instrumental Suno avec un prompt précis",
+    "description": "Configurez une création instrumentale dans Suno et décrivez mélodie, rythme, arrangement et évolution sans vous appuyer sur des consignes de paroles.",
+    "intro": "Pour un instrumental, décrivez le rôle des instruments au fil du morceau. Un simple nom de genre ne précise ni la mélodie, ni le rythme, ni l’évolution des sections.",
+    "sections": [
+      {
+        "heading": "Utiliser le réglage Instrumental",
+        "paragraphs": [
+          "Custom mode de Suno propose l’option Instrumental. Activez-la si vous ne souhaitez pas de voix principale, puis définissez le son dans Styles et les autres commandes disponibles. Ne vous contentez pas d’écrire « sans paroles » dans un champ de texte.",
+          "Écoutez le résultat : le réglage Instrumental exprime une intention, mais une nouvelle génération ou un prompt plus précis peut être nécessaire."
+        ]
+      },
+      {
+        "heading": "Décrire trois rôles musicaux",
+        "paragraphs": [
+          "Choisissez un son principal, une texture de soutien et une pulsation. Exemple : mélodie douce au piano électrique, pad analogique grave et rythme léger aux balais. Ajoutez une indication d’évolution, comme une seconde moitié plus ample ou une fin épurée.",
+          "Évitez d’énumérer dix instruments sans expliquer leurs rôles. Quelques indications bien distinctes sont plus faciles à évaluer."
+        ]
+      },
+      {
+        "heading": "Comparer le résultat au brief",
+        "paragraphs": [
+          "Écoutez pour repérer d’éventuelles voix indésirables, vérifier que le thème principal est audible et suivre l’évolution du morceau. Ne modifiez qu’un seul de ces aspects par version. Gardez le lien et le prompt ensemble ; si vous êtes autorisé à utiliser la chanson, vérifiez l’audio disponible sur la page publique."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Écrire « sans voix » dans Styles suffit-il ?",
+        "answer": "Utilisez le réglage Instrumental de Suno lorsqu’il est disponible, puis décrivez l’arrangement dans Styles. Écoutez le résultat pour vérifier qu’il correspond au brief."
+      },
+      {
+        "question": "Que peut remplacer un hook vocal ?",
+        "answer": "Donnez à un instrument principal un motif distinct et répétable, puis prévoyez où il revient ou évolue dans le morceau."
+      }
+    ],
+    "toolLabel": "Examiner le résultat instrumental",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Présentation du mode personnalisé",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-exclude-styles",
+    "category": "Prompts",
+    "title": "Réduire les styles indésirables dans une génération Suno",
+    "description": "Repérez les caractéristiques de genre, de voix ou d’instrumentation à éviter et révisez le prompt sans affaiblir sa direction principale.",
+    "intro": "Si une génération ajoute un son que vous n’avez pas demandé, identifiez précisément ce que vous entendez. Une indication positive ciblée et une exclusion précise sont plus faciles à tester qu’une longue liste d’interdictions.",
+    "sections": [
+      {
+        "heading": "Nommer le son indésirable",
+        "paragraphs": [
+          "Notez ce que vous entendez : un synthé principal trop brillant, une batterie rock, des chœurs ou une couleur de genre différente. Un retour général comme « trop générique » ne précise pas quoi modifier.",
+          "Vérifiez si votre prompt initial a pu suggérer ce son involontairement. Des mots comme epic ou cinematic peuvent appeler un arrangement plus ample que prévu."
+        ]
+      },
+      {
+        "heading": "Rééquilibrer le prompt positif",
+        "paragraphs": [
+          "Indiquez clairement l’instrument principal et le groove souhaités. Remplacez les termes de style concurrents par un seul repère. Si l’interface Suno actuelle propose un réglage avancé d’exclusion des styles, indiquez-y brièvement et précisément le trait à éviter.",
+          "Ne supposez pas que l’exclusion sera toujours respectée. Les générations varient et un prompt positif contradictoire peut malgré tout orienter le résultat vers le son à éviter."
+        ]
+      },
+      {
+        "heading": "Comparer une petite révision",
+        "paragraphs": [
+          "Relancez une génération avec ce seul changement. Gardez les deux prompts et écoutez la même section. Si le son indésirable disparaît mais que l’énergie baisse aussi, rétablissez-la avec un autre rôle instrumental plutôt qu’en réintroduisant le même repère de genre."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Faut-il exclure plusieurs genres d’un coup ?",
+        "answer": "Commencez par le trait audible à l’origine du problème. Une longue liste d’exclusions rend plus difficile l’identification de la modification utile."
+      },
+      {
+        "question": "Que faire si l’instrument exclu est toujours présent ?",
+        "answer": "Recherchez les contradictions dans le prompt positif, précisez l’instrument principal souhaité et comparez une autre génération. Les exclusions ne garantissent pas le résultat."
+      }
+    ],
+    "toolLabel": "Examiner une chanson révisée",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-custom-mode-tutorial",
+    "category": "Tutorials",
+    "title": "Tutoriel Custom mode de Suno : paroles, Styles et instrumental",
+    "description": "Configurez une chanson dans Custom mode avec vos propres paroles, une description Style ciblée, un titre et l’option Instrumental si nécessaire.",
+    "intro": "Custom mode est utile pour contrôler séparément les paroles et la direction musicale. Préparez ces deux éléments avant de cliquer sur Create afin de savoir quelles décisions ont influencé le résultat.",
+    "sections": [
+      {
+        "heading": "Préparer les éléments à saisir",
+        "paragraphs": [
+          "Rédigez une brève description Style avec le genre principal, les instruments, le caractère vocal et l’évolution de l’énergie. Si la chanson comporte des voix, préparez vos paroles avec des balises de section simples. Gardez une copie hors de Suno pour pouvoir retrouver les versions précédentes.",
+          "Pour un morceau instrumental, planifiez la mélodie et le rôle des instruments d’accompagnement au lieu de remplir le champ des paroles avec des consignes de production."
+        ]
+      },
+      {
+        "heading": "Créer dans Custom mode",
+        "paragraphs": [
+          "Ouvrez Create dans Suno et sélectionnez Custom. Saisissez les paroles dans Lyrics, la description sonore dans Styles et un titre explicite. Activez Instrumental si vous voulez une musique sans paroles chantées, puis lancez la création.",
+          "L’aide de Suno décrit ces commandes de Custom mode. L’interface peut évoluer ; suivez les libellés visibles dans votre compte."
+        ]
+      },
+      {
+        "heading": "Écouter et conserver la version",
+        "paragraphs": [
+          "Vérifiez les paroles, les transitions entre sections et la conformité des instruments au brief. Notez un élément à conserver et un autre à modifier. Si vous publiez la page de la chanson, conservez son lien avec le prompt et la version des paroles.",
+          "Pour une chanson de votre compte, utilisez le menu Download officiel de Suno. Notre outil peut examiner les fichiers disponibles via un lien public dont l’utilisation est autorisée."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Dois-je écrire moi-même les paroles ?",
+        "answer": "Non. Custom mode accepte vos paroles ou du texte généré. Gardez une copie de tout brouillon que vous souhaitez réviser ou documenter."
+      },
+      {
+        "question": "Où choisir le mode instrumental ?",
+        "answer": "Utilisez la commande Instrumental de Custom mode lorsqu’elle est disponible, puis décrivez le son souhaité dans Styles."
+      }
+    ],
+    "toolLabel": "Examiner un résultat public",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-lyrics-structure-tags",
+      "how-to-download-suno-songs"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Puis-je utiliser mes propres paroles ?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      },
+      {
+        "label": "Suno : Présentation du mode personnalisé",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "organize-suno-song-files",
+    "category": "Tutorials",
+    "title": "Organiser les fichiers audio, paroles, pochettes et prompts Suno",
+    "description": "Créez une structure de dossiers et de noms simple pour regrouper les versions, prompts, brouillons de paroles, images et autorisations de chaque chanson Suno.",
+    "intro": "Un projet devient difficile à gérer lorsque l’audio, la pochette et les paroles portent des noms génériques identiques. Une convention simple facilite les comparaisons et le travail en équipe.",
+    "sections": [
+      {
+        "heading": "Créer un dossier par chanson",
+        "paragraphs": [
+          "Nommez le dossier, par exemple projet-titre-chanson. Rassemblez-y audio, pochette, paroles et notes. Si vous avez plusieurs générations, numérotez les versions au lieu d’écraser un fichier nommé « final ».",
+          "Un modèle possible : titre-chanson-v03-audio.mp3, titre-chanson-v03-lyrics.txt et titre-chanson-v03-cover.jpg. Notez l’URL source et le compte créateur dans un court README ou une note."
+        ]
+      },
+      {
+        "heading": "Consigner les décisions avec les fichiers",
+        "paragraphs": [
+          "Pour chaque version prometteuse, consignez le prompt, la version des paroles, les changements et ce que vous avez entendu. Si quelqu’un a fourni des paroles ou une illustration, conservez autorisations et crédits dans le même dossier.",
+          "Si l’usage commercial compte, gardez aussi une trace du téléchargement officiel. Le fichier seul ne révèle ni le compte ni la méthode d’export."
+        ]
+      },
+      {
+        "heading": "Vérifier l’archive avant de la partager",
+        "paragraphs": [
+          "Ouvrez les fichiers audio, image et paroles après les avoir enregistrés. Vérifiez qu’ils correspondent tous à la même version avant d’envoyer un ZIP à un collaborateur. Notre outil peut regrouper les fichiers trouvés pour un lien public dont l’utilisation est autorisée, mais vos notes et autorisations doivent être conservées séparément."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quelles sont les informations minimales à conserver avec une chanson ?",
+        "answer": "Gardez la version audio, l’URL de la chanson, le prompt, la version des paroles, le contexte de création et toute autorisation pertinente pour l’usage prévu."
+      },
+      {
+        "question": "Faut-il écraser les fichiers nommés « final » ?",
+        "answer": "Non. Attribuez un numéro à chaque génération révisée. Vous pouvez en sélectionner une sans supprimer les fichiers précédents qui documentent les changements."
+      }
+    ],
+    "toolLabel": "Rassembler les fichiers disponibles d’une chanson",
+    "related": [
+      "download-multiple-suno-songs",
+      "suno-cover-art-download",
+      "suno-lyrics-download"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-commercial-use",
+    "category": "Rights",
+    "title": "Peut-on utiliser une chanson Suno à des fins commerciales ? Vérifier l’offre et les droits de téléchargement",
+    "description": "Avant de publier une chanson, distinguez lien public Suno, téléchargement autorisé, usage commercial et protection par le droit d’auteur.",
+    "intro": "Un lien public indique seulement qu’une page est consultable. Il ne prouve ni qui a créé la chanson ni que vous avez le droit de la monétiser. Avant toute sortie, vérifiez le compte, le contexte de création, le mode de téléchargement et les contenus de tiers.",
+    "sections": [
+      {
+        "heading": "Vérifier l’offre et l’export",
+        "paragraphs": [
+          "D’après le centre d’aide de Suno, les chansons créées pendant un abonnement payant peuvent bénéficier de droits d’utilisation commerciale. Les chansons du plan gratuit sont destinées à un usage non commercial. Les conditions actuelles lient également l’usage commercial autorisé à un téléchargement approuvé via Suno. Pour un projet commercial, utilisez votre propre compte et conservez la preuve du téléchargement officiel.",
+          "Un abonnement souscrit ultérieurement n’accorde pas automatiquement de droits commerciaux rétroactifs sur une chanson créée avec le plan gratuit. Suno précise cette distinction."
+        ]
+      },
+      {
+        "heading": "Examiner chaque élément utilisé",
+        "paragraphs": [
+          "Vérifiez que vous êtes autorisé à utiliser les paroles, l’audio importé, la pochette et les autres contributions. Une page publique ou la fonction Reuse Prompt ne vous donne pas les droits sur les paroles originales d’un autre créateur.",
+          "L’autorisation d’usage commercial et la protection par le droit d’auteur sont deux sujets différents. Suno précise que la protection dépend de la juridiction et de la contribution humaine à l’œuvre."
+        ]
+      },
+      {
+        "heading": "Conserver les justificatifs de sortie",
+        "paragraphs": [
+          "Conservez le lien de la chanson, l’offre du compte lors de la création et du téléchargement, l’export officiel, les autorisations des contributeurs et le canal de diffusion prévu. Avant publication, vérifiez à nouveau les conditions Suno et les exigences du distributeur, qui peuvent évoluer.",
+          "Notre téléchargeur aide à examiner les fichiers d’un lien public dont l’utilisation est autorisée ; il ne vérifie pas la propriété, n’accorde pas de licence et ne remplace pas un export approuvé du compte."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Un abonnement payant rend-il toutes les anciennes chansons commerciales ?",
+        "answer": "Non. Suno indique qu’un abonnement ultérieur n’accorde pas automatiquement de droits commerciaux rétroactifs aux chansons créées avec le plan gratuit."
+      },
+      {
+        "question": "Le téléchargement public prouve-t-il que je possède la chanson ?",
+        "answer": "Non. Il prouve seulement que le fichier était accessible. La propriété, les droits des contributeurs, l’offre et le mode de téléchargement autorisé doivent être vérifiés séparément."
+      }
+    ],
+    "toolLabel": "Examiner une chanson publique autorisée",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-cover-art-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Conditions d'utilisation du Suno",
+        "url": "https://suno.com/terms-of-service"
+      },
+      {
+        "label": "Suno : Quels sont mes droits avec un abonnement payant ?",
+        "url": "https://help.suno.com/en/articles/9601665"
+      },
+      {
+        "label": "Suno : droits sur les chansons créés avant l'abonnement",
+        "url": "https://help.suno.com/en/articles/2425729"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-credits-limits",
+    "category": "Downloads",
+    "title": "Limites de téléchargement Suno en 2026 : crédits, réinitialisation et décompte",
+    "description": "Comprenez les limites de téléchargement Suno, le cycle de facturation, les essais, les packs achetés et le décompte des formats et des stems.",
+    "intro": "Les crédits de génération et de téléchargement Suno sont distincts. Votre bibliothèque reste lisible et partageable même lorsque votre quota de téléchargement est épuisé. Ce récapitulatif suit les pages d’aide Suno consultées le 22 octobre 2026 ; vérifiez votre compte avant de préparer une sortie ou une archive.",
+    "sections": [
+      {
+        "heading": "Téléchargements mensuels selon l’offre",
+        "paragraphs": [
+          "Suno indique actuellement 20 téléchargements de chansons par mois pour Pro et 60 pour Premier. Les crédits mensuels sont renouvelés selon le cycle de facturation ; les abonnements annuels reçoivent leur recharge mensuelle à partir de la date d’achat initiale. Les crédits mensuels inutilisés ne sont pas reportés. Les flux de travail Premier dans Suno Studio ne sont pas soumis à la limite.",
+          "Un compte gratuit peut être éligible à jusqu’à 7 téléchargements d’essai à vie. Ils ne sont pas renouvelés chaque mois et sont réservés à un usage personnel non commercial. Les pages d’aide Suno précisent que l’éligibilité peut varier pour les nouveaux comptes gratuits ; vérifiez le quota affiché dans votre compte."
+        ]
+      },
+      {
+        "heading": "Ce qui compte comme un téléchargement",
+        "paragraphs": [
+          "Suno compte une chanson comme un téléchargement, quel que soit le format. Télécharger à nouveau la même chanson dans un autre format ne consomme pas de crédit mensuel supplémentaire. Les stems de cette chanson sont inclus dans le même décompte ; les téléchargements échoués ou interrompus ne réduisent pas le quota.",
+          "Les crédits mensuels de l’offre ne sont pas reportés. Les téléchargements individuels et les packs achetés le sont. Les essais non utilisés sont également conservés, mais ne sont pas rechargés chaque mois."
+        ]
+      },
+      {
+        "heading": "Préparer les fichiers à exporter",
+        "paragraphs": [
+          "Avant l’export, choisissez les versions et fichiers nécessaires. Les options varient selon l’offre, la chanson et l’appareil : Suno indique MP3 sur toutes les offres, WAV pour Pro et Premier sur le Web, vidéo si disponible, stems lorsqu’ils existent et MIDI pour les chansons Suno Studio éligibles sur Premier. Vérifiez le menu de chaque chanson.",
+          "En cas d’échéance, utilisez le menu officiel de votre compte Suno et conservez le fichier avec le lien de la chanson. Notre outil de lien public peut vérifier les médias exposés par une page autorisée, mais il ne peut pas afficher ni recharger vos crédits, accorder des droits commerciaux ou remplacer un export officiel."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Les téléchargements mensuels inutilisés sont-ils reportés ?",
+        "answer": "Non. Les crédits mensuels Pro et Premier ne sont pas reportés. Suno indique que les téléchargements individuels achetés, les packs et les essais inutilisés le sont ; les essais ne sont pas rechargés chaque mois."
+      },
+      {
+        "question": "Puis-je utiliser commercialement un téléchargement d’essai ?",
+        "answer": "Non. Suno réserve les téléchargements d’essai à un usage personnel non commercial et ils n’accordent pas de droits commerciaux."
+      }
+    ],
+    "toolLabel": "Vérifier une chanson publique autorisée",
+    "related": [
+      "how-to-download-suno-songs",
+      "download-multiple-suno-songs",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Comment fonctionnent les téléchargements ?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      },
+      {
+        "label": "Suno : Les crédits de téléchargement sont-ils reportés ?",
+        "url": "https://help.suno.com/en/articles/13876929"
+      },
+      {
+        "label": "Suno : téléchargements d'essai gratuits",
+        "url": "https://help.suno.com/en/articles/13926401"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-cover-art-missing",
+    "category": "Cover art",
+    "title": "Pochette Suno absente du MP3 ? Vérifier l’image intégrée et le lecteur",
+    "description": "Déterminez si la pochette intégrée manque vraiment au MP3 Suno ou si votre lecteur ne l’affiche pas, puis choisissez une solution sûre.",
+    "intro": "Une vignette vide ne signifie pas toujours que la pochette a été supprimée du MP3. Les lecteurs et explorateurs de fichiers affichent différemment les images intégrées. Vérifiez le fichier audio avant de le télécharger à nouveau ou de modifier ses tags.",
+    "sections": [
+      {
+        "heading": "Vérifier la présence de l’image dans le MP3",
+        "paragraphs": [
+          "Ouvrez le fichier enregistré dans un autre lecteur ou un outil de tags audio capable d’afficher les images intégrées. Si la pochette apparaît, le MP3 contient l’image ; la première application peut avoir un problème d’affichage, de cache ou de compatibilité. Actualisez sa bibliothèque avant de modifier le fichier.",
+          "Si l’image n’apparaît dans aucun outil lisant les tags, vérifiez la page de la chanson Suno et ses options de téléchargement. Une image séparée peut être disponible même si l’export audio ne contient aucune image intégrée. La disponibilité varie selon la chanson et la méthode de téléchargement."
+        ]
+      },
+      {
+        "heading": "Essayer un autre lecteur avant de modifier les tags",
+        "paragraphs": [
+          "Testez le même MP3 dans un autre lecteur sur le même appareil, puis comparez sur un autre appareil si possible. Si un lecteur affiche la pochette et l’autre non, le problème vient probablement de l’application ou de son index de bibliothèque, et non d’une image absente du fichier.",
+          "Ne réencodez pas l’audio uniquement pour actualiser une vignette. Le réencodage peut modifier le son et les métadonnées sans résoudre le problème d’affichage. Gardez l’export original comme sauvegarde pendant le diagnostic."
+        ]
+      },
+      {
+        "heading": "Ajouter une pochette séparée à une copie",
+        "paragraphs": [
+          "Si le MP3 n’a vraiment aucune pochette, enregistrez l’image correspondante depuis une page que vous êtes autorisé à utiliser. Un éditeur de tags peut l’intégrer dans une copie du MP3 ; choisissez un type d’image de pochette avant courant, enregistrez, puis rouvrez la copie dans le lecteur cible.",
+          "Conservez l’audio original sans modification et n’utilisez l’image qu’avec autorisation. Une page publique ne donne pas automatiquement le droit de réutiliser la chanson ou son image. Notre téléchargeur Suno peut afficher une vignette de pochette séparée si la page publique expose une image, mais il ne répare pas un tag dans le MP3."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Une vignette Windows vide prouve-t-elle que le MP3 n’a pas de pochette ?",
+        "answer": "Non. Vérifiez le fichier dans un autre lecteur ou un outil de tags audio. Le lecteur, son cache ou la compatibilité peuvent masquer une image intégrée."
+      },
+      {
+        "question": "Puis-je intégrer une pochette Suno séparée dans mon MP3 ?",
+        "answer": "Un éditeur de tags peut ajouter une image à une copie du MP3. Assurez-vous d’avoir le droit d’utiliser cette image et conservez le fichier original sans modification."
+      }
+    ],
+    "toolLabel": "Vérifier la présence d’une image de pochette séparée",
+    "related": [
+      "suno-cover-art-download",
+      "suno-mp3-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Quels types de fichiers puis-je télécharger ?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Rapport de la communauté : la pochette du MP3 ne s'affiche pas sous Windows",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1vzgmzy/downloaded_mp3_cover_art_not_showing/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-v6-muddy-vocals",
+    "category": "Tutorials",
+    "title": "Voix Suno V6 sourdes ou noyées ? Guide de diagnostic pratique",
+    "description": "Diagnostiquez les voix Suno V6 sourdes ou noyées avec des tests d’écoute reproductibles, des prompts ciblés et une édition facultative des stems.",
+    "intro": "Une voix lointaine ou sourde peut venir de la génération, de la lecture ou d’un traitement ultérieur. Suno ne documente pas de solution universelle à ce symptôme. Faites une comparaison reproductible et conservez la piste originale pour évaluer chaque changement.",
+    "sections": [
+      {
+        "heading": "Repérer quand le son change",
+        "paragraphs": [
+          "Écoutez le même passage au même volume sur un autre lecteur ou appareil. Comparez la lecture Suno originale au fichier exporté, puis écoutez le début, le milieu et la fin. Si une copie est claire et l’autre non, vérifiez le lecteur, l’égaliseur ou l’export avant de modifier le prompt.",
+          "Si la voix est également noyée dans la génération originale, notez les sections concernées et vérifiez si les instruments masquent les paroles. Une génération ne prouve pas qu’un modèle ou un réglage se comporte toujours ainsi ; les résultats peuvent varier d’une génération à l’autre."
+        ]
+      },
+      {
+        "heading": "Comparer les prompts de façon ciblée",
+        "paragraphs": [
+          "Créez une copie ou un nouveau test avec les mêmes paroles et la même direction musicale générale. Décrivez la position et le caractère de la voix en quelques termes directs, comme claire, proche ou en avant ; réduisez les consignes contradictoires comme une voix distante ou une forte ambiance. Ne changez qu’une partie du prompt à la fois.",
+          "Écoutez la diction, le niveau vocal et l’équilibre avec les instruments sur toute la chanson. Le texte du prompt ne garantit pas un mix particulier ; gardez la version qui sonne réellement bien plutôt qu’une formule qui a fonctionné une fois."
+        ]
+      },
+      {
+        "heading": "Modifier les stems avec prudence s’ils sont disponibles",
+        "paragraphs": [
+          "Si votre offre et la chanson permettent la séparation des stems, essayez de séparer la voix du reste et écoutez les deux fichiers avant de les modifier. Suno indique que cette séparation peut consommer des crédits et qu’un stem peut contenir des artefacts ou des fuites d’instruments ; gardez le mix complet comme référence.",
+          "Dans une station audio, faites de légers changements de niveau ou d’égalisation en comparant avec l’export original. Évitez les fortes augmentations ou compressions par défaut : elles peuvent accentuer les sifflantes, le bruit ou la distorsion. Vérifiez que la voix reste claire et que le mix n’est ni agressif ni saturé."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Un son sourd est-il toujours un problème de Suno V6 ?",
+        "answer": "Pas forcément. Comparez la lecture originale et le fichier téléchargé sur un autre lecteur, et écoutez toute la chanson. Les réglages de lecture, l’export et les variations entre générations peuvent influer sur le son."
+      },
+      {
+        "question": "Ajouter « clear vocals » au prompt corrigera-t-il toutes les chansons ?",
+        "answer": "Aucune formule ne garantit un mix. Utilisez-la comme test contrôlé, écoutez le résultat et comparez les versions avant de modifier d’autres consignes."
+      }
+    ],
+    "toolLabel": "Parcourir les guides audio et montage Suno",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Séparation avancée des tiges",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Rapport de la communauté : les voix du V6 semblent boueuses ou enterrées",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1wpg01k/how_i_fixed_the_muddy_buried_vocals_in_suno_v6/"
+      }
+    ]
+  },
+  {
+    "slug": "use-suno-songs-on-youtube",
+    "category": "Rights",
+    "title": "Peut-on utiliser des chansons Suno sur YouTube ? Liste de vérification des droits",
+    "description": "Vérifiez quand une chanson Suno peut être utilisée sur YouTube, ce que change la monétisation et quels justificatifs conserver pour les paroles, la pochette et le téléchargement.",
+    "intro": "La réponse dépend des droits sur la chanson et de la façon dont vous l’avez obtenue, pas du caractère public de sa page. Une vidéo privée, une vidéo monétisée et une chaîne cliente peuvent entraîner des obligations différentes. Définissez l’usage avant le montage.",
+    "sections": [
+      {
+        "heading": "Commencer par les droits sur la chanson",
+        "paragraphs": [
+          "Selon le centre d’aide de Suno, les chansons créées pendant un abonnement Pro ou Premier peuvent être utilisées dans du contenu publié sur YouTube. Les chansons du plan gratuit sont réservées à un usage non commercial ; un abonnement ultérieur ne confère pas automatiquement de droits commerciaux rétroactifs.",
+          "Les conditions actuelles de Suno lient également l’usage commercial autorisé à un téléchargement via un canal approuvé. Pour une vidéo monétisée, utilisez l’export officiel de votre compte et conservez les justificatifs de création et de téléchargement."
+        ]
+      },
+      {
+        "heading": "Vérifier les éléments utilisés dans la vidéo",
+        "paragraphs": [
+          "Vérifiez que vous pouvez utiliser les paroles, échantillons audio importés, pochettes et séquences vidéo. Une chanson peut être admissible selon votre offre Suno, tandis que les paroles ou images d’un tiers nécessitent une autorisation distincte.",
+          "YouTube et les distributeurs de musique ont leurs propres règles. Vérifiez-les pour votre usage précis, notamment pour une promotion payante, une vidéo cliente ou une diffusion hors de votre chaîne."
+        ]
+      },
+      {
+        "heading": "Conserver une trace claire du projet",
+        "paragraphs": [
+          "Conservez l’URL de la chanson Suno, l’offre du compte lors de la création et de l’export, le fichier audio ou vidéo officiel et les autorisations des collaborateurs. Notez la version placée sur la timeline afin qu’un montage ultérieur ne la remplace pas par une autre génération.",
+          "Si vous souhaitez seulement examiner les fichiers ou la pochette d’une chanson publique dont l’utilisation est autorisée, notre outil peut vous aider à les repérer. Il ne détermine pas si YouTube autorise la publication et ne donne aucune autorisation."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Peut-on monétiser sur YouTube une chanson du plan gratuit ?",
+        "answer": "Suno indique que les chansons du plan gratuit sont réservées à un usage non commercial. Ne supposez pas qu’une vidéo monétisée est autorisée : vérifiez les règles actuelles et les droits propres à la chanson."
+      },
+      {
+        "question": "Créditer Suno suffit-il pour utiliser la chanson de quelqu’un d’autre ?",
+        "answer": "Non. Une attribution ne remplace pas l’autorisation du créateur ou des autres ayants droit. Vérifiez les droits sur la chanson, les paroles, les échantillons, les images et les éléments vidéo."
+      }
+    ],
+    "toolLabel": "Examiner les fichiers d’une chanson autorisée",
+    "related": [
+      "suno-commercial-use",
+      "suno-video-download",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Puis-je distribuer mes chansons sur Spotify, etc. ?",
+        "url": "https://help.suno.com/en/articles/2410177"
+      },
+      {
+        "label": "Suno : Qu’est-ce qu’une utilisation non commerciale ?",
+        "url": "https://help.suno.com/en/articles/9602241"
+      },
+      {
+        "label": "Conditions d'utilisation du Suno",
+        "url": "https://suno.com/terms-of-service"
+      }
+    ]
+  },
+  {
+    "slug": "suno-extend-song-guide",
+    "category": "Tutorials",
+    "title": "Comment étendre une chanson Suno sans perdre l'original",
+    "description": "Utilisez Suno Extend pour ajouter une nouvelle section ou une nouvelle fin, comparer les générations et assembler une chanson complète tout en protégeant votre première version.",
+    "intro": "Extend crée une nouvelle continuation à partir d'un point que vous choisissez ; il ne modifie pas le fichier original sur place. Travaillez à partir d'une génération enregistrée, choisissez soigneusement le transfert et comparez les versions terminées avant de remplacer quoi que ce soit dans votre projet.",
+    "sections": [
+      {
+        "heading": "Choisissez le bon point de transfert",
+        "paragraphs": [
+          "Ouvrez la chanson que vous souhaitez continuer et choisissez Remix/Edit, puis Extend. Dans la chronologie, définissez l'endroit où le nouvel audio doit commencer en ajustant la limite de sélection. Écoutez d'abord ce point : une limite à l'intérieur d'une note ou d'une phrase tenue peut rendre la transition plus difficile à juger.",
+          "Pour un morceau plus long, décidez si vous avez besoin d'un nouveau couplet, d'un passage instrumental ou d'une fin. Ajoutez uniquement les paroles et la direction de style nécessaires pour la section suivante, et conservez une copie des paroles originales et une invite de comparaison."
+        ]
+      },
+      {
+        "heading": "Comparez la suite avant de vous engager",
+        "paragraphs": [
+          "Générez l'extension et écoutez les deux alternatives depuis le transfert jusqu'à la fin. Vérifiez le tempo, le caractère vocal, la prestation des paroles et si la nouvelle section atteint une fin convaincante. Une invite correspondante ne peut pas garantir un arrangement identique ou une transition transparente.",
+          "Si aucun des résultats ne fonctionne, ajustez une chose à la fois : déplacez le transfert, simplifiez les nouvelles paroles ou clarifiez la direction musicale. Gardez chaque candidat séparé afin qu'un essai ultérieur n'écrase pas la version que vous préférez."
+        ]
+      },
+      {
+        "heading": "Créez et enregistrez la chanson entière",
+        "paragraphs": [
+          "Lorsque vous trouvez une extension que vous aimez, utilisez le menu d'action de la chanson pour choisir Créer et obtenir une chanson entière. Suno joint la suite sélectionnée à la partie originale pour former un nouveau résultat de chanson complète. Jouez la jointure en contexte et comparez le résultat avec la source avant de l'ajouter à une version ou à une modification.",
+          "Enregistrez l'exportation de la chanson complète et son lien Suno. La page d'aide actuelle de Suno indique que les versions v6, v6-wild et v6-mini peuvent générer jusqu'à huit minutes en une seule génération ; Extend est utile lorsque vous souhaitez poursuivre une idée existante ou modifier sa fin, sous réserve du compte actuel et des options de fonctionnalités."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Est-ce qu'Extend modifie ma chanson originale Suno ?",
+        "answer": "Suno crée une nouvelle suite et un résultat distinct pour la chanson entière. Conservez la génération originale et exportez-la en tant que sauvegarde pendant que vous comparez les versions."
+      },
+      {
+        "question": "Comment puis-je rendre l'extension plus connectée ?",
+        "answer": "Choisissez un transfert clair, écoutez la source autour de ce point et utilisez une direction concise pour la section suivante. Les résultats varient, donc auditionner plusieurs candidats plutôt que de supposer une invite garantit la continuité."
+      }
+    ],
+    "toolLabel": "Explorez les guides de flux de travail des chansons Suno",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-v6-muddy-vocals",
+      "suno-wav-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Comment puis-je allonger ma chanson ?",
+        "url": "https://help.suno.com/en/articles/2409601"
+      },
+      {
+        "label": "Suno : Quelle sera la durée de ma chanson ?",
+        "url": "https://help.suno.com/en/articles/13924929"
+      }
+    ]
+  },
+  {
+    "slug": "suno-persona-guide",
+    "category": "Tutorials",
+    "title": "Personas et voix Suno : gardez un son cohérent dans toutes les chansons",
+    "description": "Découvrez ce qu'un Suno Persona capture, en quoi il diffère de la fonction Voices et comment réutiliser une identité musicale avec des attentes réalistes.",
+    "intro": "Les personas aident à transposer le caractère vocal et stylistique d’une chanson dans une autre création. La nouvelle fonctionnalité Voix du Suno est conçue pour utiliser votre propre voix vérifiée. Les deux options répondent à des objectifs différents et ne garantissent pas non plus que chaque nouvelle chanson sonnera de la même manière.",
+    "sections": [
+      {
+        "heading": "Créer une Persona à partir d'une chanson",
+        "paragraphs": [
+          "À partir d'une chanson que vous souhaitez réutiliser, ouvrez Plus d'actions et choisissez Créer, puis Créer une personnalité. Donnez-lui un nom et une description reconnaissables. Suno indique qu'une Persona sauvegarde l'essence d'une chanson, y compris sa voix et son style ; vérifiez le paramètre de visibilité, car les Personas peuvent être publiques par défaut.",
+          "Utilisez une piste dont vous souhaitez transférer la voix et le son général. Si la chanson source a un effet temporaire, une prestation inhabituelle ou un style que vous ne souhaitez pas répéter, choisissez une source plus propre ou décrivez la différence dans la nouvelle invite."
+        ]
+      },
+      {
+        "heading": "Utilisez-le comme point de départ, pas comme clone prédéfini",
+        "paragraphs": [
+          "En mode personnalisé, sélectionnez le Persona avant de générer. Vérifiez le champ Style que Suno remplit, puis ajoutez uniquement la direction nécessaire à la nouvelle chanson. Conservez les paroles et les instructions d'arrangement spécifiques au nouveau morceau plutôt que de copier chaque détail de l'original.",
+          "Une Persona peut contribuer à la continuité, mais la mélodie, les paroles, les arrangements et les performances changent toujours entre les générations. Faites deux candidats ou plus et comparez le caractère vocal au même volume avant de décider si l'identité est bien transmise."
+        ]
+      },
+      {
+        "heading": "Sachez quand utiliser Voices à la place",
+        "paragraphs": [
+          "Le workflow Voices de Suno permet aux utilisateurs éligibles de créer un profil vocal à partir de leur propre enregistrement ou d'une chanson contenant leur voix. Le guide d'aide actuel décrit une étape de vérification et indique que la disponibilité peut dépendre de l'âge et de l'emplacement. Utilisez uniquement une voix que vous avez le droit de fournir et consultez les contrôles de consentement et de partage actuels de Suno.",
+          "Voices est pour votre propre voix ; une Persona est une identité musicale réutilisable basée sur une chanson. Si l’objectif est une couleur vocale familière, essayez une Persona. Si vous souhaitez que votre voix chantée vérifiée soit dans une piste générée, vérifiez si Voices est disponible sur votre compte et suivez ses étapes de configuration."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Les Personas sont-elles identiques aux voix Suno ?",
+        "answer": "Non. Les Personas prennent comme point de départ le style et le caractère vocal d’une chanson. Voices est une fonctionnalité distincte permettant d'utiliser un enregistrement vocal vérifié, avec ses propres exigences de disponibilité et de consentement."
+      },
+      {
+        "question": "Une Persona fera-t-elle en sorte que chaque génération ait le même son ?",
+        "answer": "Non. Cela peut aider à réutiliser une identité musicale, mais les nouvelles paroles, les instructions de style et les variations générationnelles affectent le résultat. Écoutez chaque version et traitez-la comme une nouvelle génération."
+      }
+    ],
+    "toolLabel": "Explorez les guides d'invite et de chansons du Suno",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Que sont les Personas ?",
+        "url": "https://help.suno.com/en/articles/3484161"
+      },
+      {
+        "label": "Suno : FAQ sur les voix",
+        "url": "https://help.suno.com/en/articles/11362433"
+      },
+      {
+        "label": "Suno : utilisez votre voix dans Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      }
+    ]
+  },
+  {
+    "slug": "suno-replace-section-guide",
+    "category": "Lyrics",
+    "title": "Comment remplacer une section ou corriger Lyrics dans une chanson Suno",
+    "description": "Utilisez les outils de remplacement de section du Suno pour réviser un passage, tester de nouvelles paroles et comparer d'autres modifications sans perdre la chanson originale.",
+    "intro": "Remplacer la section génère un nouvel audio pour une partie sélectionnée d'une chanson. Cela peut aider à réviser les paroles ou les arrangements, mais il s’agit d’une nouvelle génération de ce passage – et non d’une correction uniquement textuelle qui garantit que la mélodie originale restera inchangée.",
+    "sections": [
+      {
+        "heading": "Sélectionnez uniquement le passage que vous souhaitez revisiter",
+        "paragraphs": [
+          "Ouvrez l'éditeur de chanson via le menu Plus d'actions ou Édition de la chanson, puis choisissez Remplacer la section. Jouez la chanson et définissez la sélection autour de la phrase qui nécessite du travail. Incluez suffisamment de contexte musical sur les bords pour juger de la transition, mais évitez de sélectionner des sections supplémentaires qui fonctionnent déjà.",
+          "Avant de modifier, enregistrez les paroles originales et notez le timing du passage sélectionné. Si les mots ne sont pas alignés avec l'audio, vérifiez attentivement les paroles affichées et la sélection ; l'éditeur utilise la région sélectionnée comme base pour le remplacement."
+        ]
+      },
+      {
+        "heading": "Donnez au remplaçant une direction ciblée",
+        "paragraphs": [
+          "Pour une correction des paroles, modifiez uniquement les lignes qui nécessitent une révision et gardez la structure environnante claire. Pour un changement musical, décrivez une cible telle qu'une prestation plus douce ou une partie de batterie plus forte. Trop de consignes simultanées rendent plus difficile la compréhension des raisons pour lesquelles un candidat a changé.",
+          "Générez le remplacement et écoutez chaque version proposée dans son contexte. Écoutez les mots corrigés, le ton vocal, le rythme et la jonction des sections avant et après. Suno peut modifier le phrasé ou la mélodie dans la région régénérée, alors ne présumez pas qu'une modification d'un seul mot préservera chaque note."
+        ]
+      },
+      {
+        "heading": "Ne vous engagez qu'après avoir vérifié le résultat complet",
+        "paragraphs": [
+          "Si un candidat est proche, ajustez la limite de transition si l'éditeur propose ce contrôle, puis lisez la chanson complète plutôt que uniquement le clip édité. Comparez-le avec l'original et conservez les deux versions jusqu'à ce que vous décidiez laquelle appartient au projet.",
+          "Pour plusieurs changements de paroles dans une chanson, déterminez si une nouvelle reprise ou une nouvelle génération est plus facile à gérer que de nombreux remplacements locaux. Chaque itinéraire crée une nouvelle interprétation ; exporter une sauvegarde avant de vous engager sur une version à distribuer."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "La section Remplacer peut-elle changer un mot sans changer la mélodie ?",
+        "answer": "Il peut régénérer l'audio sélectionné, y compris la diffusion et la mélodie. Utilisez-le pour auditionner un passage révisé, mais ne vous attendez pas à un changement de texte uniquement qui préserve chaque note."
+      },
+      {
+        "question": "Puis-je récupérer ma version originale ?",
+        "answer": "Conservez la génération et l'exportation du source avant de l'éditer. Suno crée de nouveaux résultats modifiés, de sorte que la conservation de l'original facilite la comparaison ou le retour à la version précédente."
+      }
+    ],
+    "toolLabel": "Explorez les guides de paroles et d'édition du Suno",
+    "related": [
+      "edit-suno-lyrics",
+      "suno-lyrics-structure-tags",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Puis-je remplacer une section d’une chanson ?",
+        "url": "https://help.suno.com/en/articles/3271873"
+      },
+      {
+        "label": "Suno : Comment utiliser l'éditeur de morceaux",
+        "url": "https://help.suno.com/en/articles/6141505"
+      },
+      {
+        "label": "Discussion communautaire : le remplacement des paroles peut modifier la prise vocale",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1rmr4tm/is_it_actually_possible_to_make_it_change_the/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-audio-upload-guide",
+    "category": "Tutorials",
+    "title": "Guide de téléchargement audio Suno : Transformez une démo en une nouvelle chanson",
+    "description": "Préparez un téléchargement audio, comprenez les limites de longueur actuelles et utilisez-le comme point de départ pour une extension ou une nouvelle création de Suno.",
+    "intro": "Un téléchargement audio peut donner à Suno une idée musicale à partir de laquelle construire, mais la durée disponible et les outils de suivi dépendent de votre plan et de l'interface actuelle. Téléchargez uniquement les enregistrements que vous possédez ou que vous êtes autorisé à utiliser, et conservez le fichier source inchangé.",
+    "sections": [
+      {
+        "heading": "Préparez un enregistrement propre que vous pouvez utiliser",
+        "paragraphs": [
+          "Choisissez une section claire qui représente le rythme, la mélodie ou la texture que vous souhaitez développer. Un enregistrement court et épuré permet d’entendre plus facilement ce que la génération a retenu. Évitez de télécharger des conversations privées ou des performances d’autres personnes, sauf si vous avez le consentement et les droits nécessaires à cette utilisation.",
+          "Le guide d'aide de Suno décrit actuellement des téléchargements allant jusqu'à 60 secondes sur le forfait Basic et jusqu'à huit minutes pour Pro et Premier. Les limites et les fonctionnalités du compte peuvent changer, alors vérifiez le contrôle de téléchargement et votre plan avant de préparer un long fichier."
+        ]
+      },
+      {
+        "heading": "Téléchargez et choisissez une direction",
+        "paragraphs": [
+          "Sur la page Créer, sélectionnez le contrôle de téléchargement audio et choisissez ou enregistrez un fichier. Une fois qu'il apparaît dans votre bibliothèque ou votre formulaire de création, décidez si vous souhaitez étendre l'idée, réaliser une couverture ou créer une autre version. Les options visibles dépendent de la chanson et du compte.",
+          "Décrivez la nouvelle orientation musicale en quelques termes concrets. Si vous souhaitez que le rythme ou la mélodie reste reconnaissable, dites ce qui doit être conservé et ce qui doit changer. Générez un petit ensemble de comparaison et écoutez l'idée source, pas seulement l'étiquette de genre globale."
+        ]
+      },
+      {
+        "heading": "Gardez les droits sources et les versions clairs",
+        "paragraphs": [
+          "Un téléchargement ne transfère pas la propriété ni n’accorde de droits sur un enregistrement. Conservez une preuve d'autorisation pour les échantillons, les performances des collaborateurs ou les enregistrements commerciaux, et vérifiez les droits qui s'appliquent au résultat généré avant de le publier.",
+          "Enregistrez le téléchargement original, le lien de la chanson généré et la version que vous choisissez. Si le résultat n'est pas celui que vous souhaitiez, essayez un extrait plus court ou plus propre et modifiez une instruction à la fois plutôt que de remplacer le fichier source."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quelle est la durée de mon téléchargement audio Suno ?",
+        "answer": "L'article d'aide actuel de Suno répertorie jusqu'à 60 secondes pour Basic et jusqu'à huit minutes pour Pro et Premier. Vérifiez votre compte car les limites du forfait et les options d'interface peuvent changer."
+      },
+      {
+        "question": "Puis-je télécharger une chanson que j'ai trouvée en ligne ?",
+        "answer": "Téléchargez uniquement l'audio que vous possédez ou que vous êtes autorisé à utiliser. La disponibilité publique n'accorde pas automatiquement l'autorisation de traiter, de remixer ou de publier un enregistrement."
+      }
+    ],
+    "toolLabel": "Explorez les guides de création et de téléchargement du Suno",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-share-link-guide",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Comment utiliser les téléchargements audio",
+        "url": "https://help.suno.com/en/articles/6141569"
+      },
+      {
+        "label": "Suno : Comment faire un remix ?",
+        "url": "https://help.suno.com/en/articles/6050497"
+      }
+    ]
+  },
+  {
+    "slug": "suno-stem-separation-guide",
+    "category": "Downloads",
+    "title": "Guide de séparation des tiges Suno : choisissez et exportez les pièces dont vous avez besoin",
+    "description": "Comparez Auto Split, Split from Mix et Advanced Split, puis exportez les stems pour les éditer tout en tenant compte des crédits, de l'accès au plan et des artefacts audio.",
+    "intro": "Les stems sont des parties distinctes dérivées d'une chanson mixée, comme le chant, la batterie ou la basse. Les modes de séparation actuels du Suno offrent différents niveaux de contrôle, mais l'extraction peut laisser des saignements ou des artefacts. Conservez le mix complet comme référence et vérifiez les options disponibles dans votre compte.",
+    "sections": [
+      {
+        "heading": "Choisissez un mode de séparation pour le travail",
+        "paragraphs": [
+          "Le guide Advanced Stem Separation du Suno décrit Auto Split comme une division rapide en jusqu'à 12 stems détectés, Split from Mix comme l'extraction d'une partie choisie plus son complément, et Advanced Split comme un moyen de choisir des instruments dans une liste plus grande. Les modes disponibles dépendent du niveau d'abonnement.",
+          "Utilisez Auto Split lorsque vous souhaitez organiser un large ensemble de parties, Split from Mix lorsque vous avez besoin d'un élément tel qu'une ligne de voix ou de basse, et Advanced Split lorsque vous avez besoin de choix d'instruments plus spécifiques. Un stem est une estimation extraite du mix, pas nécessairement l’enregistrement original isolé."
+        ]
+      },
+      {
+        "heading": "Vérifiez les crédits et écoutez avant de modifier",
+        "paragraphs": [
+          "Suno répertorie actuellement les coûts de crédit pour ces options de séparation dans son article d'aide : Auto Split utilise 50 crédits par extraction de 12 tiges ; Split from Mix utilise 10 crédits pour l'extraction et 20 au total pour les deux sorties ; Advanced Split utilise 10 crédits par tige extraite et 20 crédits pour la paire. Vérifiez la confirmation actuelle du produit avant de dépenser des crédits.",
+          "Écoutez chaque stem en solo puis avec le mixage complet. Surveillez les consonnes vocales laissées dans les instruments, les cymbales étalées sur d'autres parties ou les notes manquantes. Si l'instrument cible n'est pas présent, Suno prévient qu'une requête peut quand même utiliser des crédits sans produire de tige utile."
+        ]
+      },
+      {
+        "heading": "Exporter une copie de travail sécurisée",
+        "paragraphs": [
+          "Téléchargez les stems ou exportez un multipiste depuis Studio lorsque l'option est disponible. Placez chaque fichier dans un dossier avec le titre de la chanson, le lien source, la date d'exportation et une copie du mixage complet. Gardez les noms de fichiers cohérents afin que les parties restent alignées lorsqu'elles sont importées dans une DAW.",
+          "Utilisez les stems pour les modifications que le mixage complet ne peut pas prendre en charge, comme la modification du niveau vocal ou la création d'un instrument. Apportez de petites modifications et comparez avec l'original. Les artefacts de séparation peuvent devenir plus évidents après une forte égalisation, compression ou distorsion."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Les stems Suno sont-ils identiques aux pistes originales du studio ?",
+        "answer": "Non. La séparation des tiges estime les parties individuelles d'un fichier audio mixé. Cela peut laisser des fonds perdus, des artefacts ou des détails manquants, alors traitez les tiges comme des fichiers dérivés modifiables plutôt que comme des multipistes originaux."
+      },
+      {
+        "question": "Les stems comptent-ils comme des téléchargements séparés ?",
+        "answer": "Suno indique actuellement que les stems disponibles ne comptent pas comme des téléchargements supplémentaires au-delà de la chanson elle-même. Des frais de crédit pour la séparation peuvent toujours s'appliquer, alors vérifiez la fonctionnalité et les détails du compte avant d'extraire."
+      }
+    ],
+    "toolLabel": "Explorez les guides d'exportation audio du Suno",
+    "related": [
+      "suno-wav-download",
+      "suno-mp3-download",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Séparation avancée des tiges",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Suno : Quels types de fichiers puis-je télécharger ?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Suno : Exportation depuis Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      }
+    ]
+  },
+  {
+    "slug": "suno-voices-guide",
+    "category": "Tutorials",
+    "title": "Guide des voix Suno : configurer et utiliser votre propre voix chantée",
+    "description": "Découvrez comment la fonction Voix du Suno vérifie un profil vocal, quel enregistrement fonctionne le mieux et comment dépanner les résultats d'accès et de génération.",
+    "intro": "Suno Voices est une fonctionnalité permettant de créer des chansons avec votre propre enregistrement vocal. Il est distinct d'un Persona et comprend des règles de vérification d'identité et d'éligibilité. L'accès aux fonctionnalités peut varier selon l'âge, l'emplacement, le forfait et le modèle, utilisez donc les commandes affichées dans votre compte comme source de vérité.",
+    "sections": [
+      {
+        "heading": "Préparez un enregistrement et vérifiez votre voix",
+        "paragraphs": [
+          "Suno recommande un enregistrement acapella propre pour le profil le plus clair. Son guide de configuration actuel accepte un enregistrement de 15 secondes à quatre minutes et vous permet de choisir les deux meilleures minutes. Un environnement calme et un microphone sans fort écho ambiant peuvent faciliter l’examen de l’échantillon.",
+          "Créez un profil vocal à partir de votre propre enregistrement ou d'une chanson Suno contenant votre voix, puis complétez la phrase de vérification vocale. Suno indique que cette vérification permet de confirmer que le chant et le discours de vérification téléchargés appartiennent à la même personne. Ne soumettez pas la voix d’une autre personne sans son autorisation."
+        ]
+      },
+      {
+        "heading": "Générer avec le profil vocal",
+        "paragraphs": [
+          "Sélectionnez le profil enregistré dans le menu Voix, puis écrivez les paroles et décrivez le style musical de la nouvelle chanson. La FAQ de Suno indique que sa nouvelle fonctionnalité Voices utilise le modèle v5.5 ; vérifiez le sélecteur de modèle si le résultat ne ressemble pas à la voix sélectionnée.",
+          "L'influence audio peut affecter la manière dont l'enregistrement guide le résultat, mais un réglage plus élevé ne garantit pas une performance exacte. Générez des alternatives, comparez la prononciation et le ton, et conservez l'enregistrement du profil et la génération originale afin de pouvoir affiner la prochaine tentative."
+        ]
+      },
+      {
+        "heading": "Dépanner l'accès ou un son inattendu",
+        "paragraphs": [
+          "Si la commande Ajouter une voix est manquante, vérifiez l’éligibilité en matière d’âge du compte, la disponibilité de l’emplacement et la sélection du modèle. Suno indique que Voices est limité aux utilisateurs âgés de 18 ans ou plus et peut ne pas être disponible dans tous les endroits. Ces paramètres peuvent changer, alors consultez la FAQ Voices actuelle.",
+          "Si la vérification échoue, réenregistrez clairement la phrase affichée dans un endroit calme et utilisez un échantillon de chant clair. Si la chanson ne vous ressemble pas, confirmez que la version 5.5 est sélectionnée et testez l'influence audio. Évitez de partager publiquement des enregistrements vocaux à moins que vous ne compreniez les paramètres de partage et de remix de la chanson résultante."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Puis-je utiliser la voix de quelqu'un d'autre dans les voix Suno ?",
+        "answer": "La fonctionnalité est conçue pour votre propre voix vérifiée. Suno demande aux utilisateurs d'affirmer qu'ils ont le droit d'utiliser la voix et effectue une vérification. Obtenez un consentement clair et suivez les règles actuelles de Suno avant d’utiliser l’enregistrement d’une autre personne."
+      },
+      {
+        "question": "Pourquoi mon profil vocal n'est-il pas disponible ?",
+        "answer": "Suno indique que Voices n'est disponible que pour les utilisateurs âgés de 18 ans ou plus et peut ne pas être disponible dans tous les endroits. La fonctionnalité nécessite également un modèle pris en charge ; consultez les conseils et la FAQ actuels du produit."
+      }
+    ],
+    "toolLabel": "Explorez les guides vocaux et d'invite du Suno",
+    "related": [
+      "suno-persona-guide",
+      "suno-v6-muddy-vocals",
+      "write-better-suno-prompts"
+    ],
+    "sources": [
+      {
+        "label": "Suno : utilisez votre voix dans Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      },
+      {
+        "label": "Suno : FAQ sur les voix",
+        "url": "https://help.suno.com/en/articles/11362433"
+      }
+    ]
+  },
+  {
+    "slug": "suno-studio-2-guide",
+    "category": "Tutorials",
+    "title": "Guide Suno Studio 2.0 : organiser, éditer et exporter un morceau",
+    "description": "Orientez-vous dans Suno Studio 2.0, créez une chronologie modifiable, utilisez des stems et des effets et exportez une chanson ou un multipiste pour votre prochaine étape de production.",
+    "intro": "Suno Studio 2.0 combine des outils d'arrangement de chansons, de génération audio, d'effets, de MIDI et d'exportation dans un espace de travail basé sur un navigateur. L’ensemble des fonctionnalités et l’accès à l’abonnement peuvent changer. Ce guide se concentre sur une première étape pratique : ouvrir un projet, effectuer une modification contrôlée et conserver une exportation que vous pouvez comparer.",
+    "sections": [
+      {
+        "heading": "Ouvrez un projet et découvrez la chronologie",
+        "paragraphs": [
+          "Ouvrez une chanson de votre bibliothèque dans Studio à l'aide de son menu Modifier ou Plus d'actions. La chronologie est l'endroit où vous organisez les clips et comparez les prises alternatives. Lisez le projet complet une fois avant de le modifier, puis notez quelle section doit être modifiée afin de pouvoir concentrer les modifications.",
+          "La page d'aide Studio 2.0 de Suno indique que Studio 2.0 est disponible pour les abonnés Premier et recommande un navigateur de bureau ; les appareils mobiles ne sont pas pris en charge. Sa navigation diffère des versions antérieures de Studio, utilisez donc les étiquettes d'interface actuelles et les articles d'aide si un contrôle a été déplacé."
+        ]
+      },
+      {
+        "heading": "Modifiez les sections, les effets et les stems par petites étapes",
+        "paragraphs": [
+          "Utilisez la chronologie pour déplacer ou découper des clips, ajouter des sections et auditionner des générations alternatives. Studio 2.0 inclut des effets et une automatisation intégrés ; Suno indique qu'il n'héberge pas de plugins VST ou Audio Units conventionnels. Effectuez un changement à la fois et comparez l’ensemble de l’arrangement afin qu’une amélioration locale ne crée pas de problème de niveau ou de timing ailleurs.",
+          "Pour un clip mixte, ouvrez les commandes de séparation des tiges et choisissez le mode de division qui correspond à votre tâche. Les stems peuvent vous aider à rééquilibrer une partie, mais ils sont issus du mixage et peuvent inclure des artefacts. Gardez la piste originale disponible et vérifiez le timing avant de la couper ou de la remplacer."
+        ]
+      },
+      {
+        "heading": "Exportez la bonne version pour votre flux de travail",
+        "paragraphs": [
+          "Utilisez le menu d'exportation pour la chanson complète, une plage de temps sélectionnée ou une exportation multipiste. La page d'aide actuelle de Studio décrit les exportations WAV de haute qualité et les téléchargements de clips individuels. Si vous déplacez le projet vers une autre DAW, gardez les tiges alignées et incluez le mixage complet comme référence.",
+          "Avant de partager ou de publier, écoutez le fichier exporté du début à la fin et confirmez qu'il correspond à la version que vous avez approuvée dans Studio. Enregistrez le lien du projet, la date d'exportation et toutes les autorisations ou fichiers sources utilisés. Revérifiez les droits de votre forfait et les options d’exportation pour l’utilisation prévue."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "De quel forfait ai-je besoin pour Suno Studio 2.0 ?",
+        "answer": "L'annonce actuelle de Studio 2.0 de Suno répertorie la disponibilité pour les abonnés Premier. Vérifiez votre compte Suno et la page du forfait actuel car l'accès peut changer."
+      },
+      {
+        "question": "Puis-je utiliser mes plugins VST ou Audio Units dans Studio 2.0 ?",
+        "answer": "Suno indique actuellement que Studio 2.0 n'est pas compatible avec les plugins VST ou Audio Units conventionnels. Il inclut des effets intégrés et permet aux utilisateurs de concevoir certains effets dans Studio."
+      }
+    ],
+    "toolLabel": "Explorez les guides d'édition et d'exportation du Suno",
+    "related": [
+      "suno-stem-separation-guide",
+      "suno-wav-download",
+      "suno-replace-section-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno : Présentation de Suno Studio 2.0",
+        "url": "https://help.suno.com/en/articles/13670529"
+      },
+      {
+        "label": "Suno : Exportation depuis Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      },
+      {
+        "label": "Suno : Séparation avancée des tiges",
+        "url": "https://help.suno.com/en/articles/12702337"
+      }
+    ]
+  }
+]

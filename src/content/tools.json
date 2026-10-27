@@ -1,0 +1,118 @@
+{
+  "available": [
+    {
+      "name": "Suno Song Downloader",
+      "description": "Preview public Suno links and save available audio, video, and cover art.",
+      "path": "/tools/downloader/",
+      "category": "Download & Collect"
+    },
+    {
+      "name": "Suno Prompt Builder",
+      "description": "Build a focused Suno Style prompt from genre, instruments, mood, vocals, and production.",
+      "path": "/tools/prompt-builder/",
+      "category": "Create & Edit"
+    }
+  ],
+  "additional": [
+    {
+      "slug": "lyrics-text-diff",
+      "name": "Lyrics Text Diff",
+      "category": "Create & Edit",
+      "summary": "Compare two lyric drafts side by side and see exactly what changed, line by line.",
+      "purpose": "A lyric revision can change more than a few words: a chorus may be shortened, a verse reordered, or a repeated line removed. Lyrics Text Diff places an original draft beside a revised draft and highlights additions, removals, and changed lines. Keeping the comparison at the text level makes it easier to judge whether an edit improved the lyric without losing a phrase or section you meant to keep.",
+      "highlights": ["Side-by-side original and revised drafts", "Line-level additions, removals, and replacements", "A focused review before copying the new lyric back into your writing workflow"],
+      "bestFor": "Songwriters editing a lyric over several passes, comparing alternate choruses, or reviewing a collaborator’s changes.",
+      "workflow": ["Paste the earlier lyric in Original", "Paste the new version in Revised", "Scan the highlighted lines and keep the edits you want"]
+    },
+    {
+      "slug": "lyrics-timestamp",
+      "name": "Lyrics Timestamp",
+      "category": "Create & Edit",
+      "summary": "Align lyric lines with a song and prepare timed captions for video or audio workflows.",
+      "purpose": "Lyrics Timestamp connects the words on the page to the moment they are heard. Work through a track section by section, place line starts against the audio, and refine timing where a vocal pickup or held phrase needs more precision. A synchronized lyric file can then support captions, lyric-video editing, or personal song notes.",
+      "highlights": ["Line-by-line timing against an audio player", "Section-aware lyric review for verses, choruses, and bridges", "Timed-text formats suited to caption and lyric workflows"],
+      "bestFor": "Creators preparing captions, lyric videos, or a synchronized reference for a finished track.",
+      "workflow": ["Add the audio and lyric text", "Set or adjust each line’s timing while listening", "Review the sync and export a timed lyric file"]
+    },
+    {
+      "slug": "structure-tag-helper",
+      "name": "Structure Tag Helper",
+      "category": "Create & Edit",
+      "summary": "Shape a lyric draft with clear section labels for verses, choruses, bridges, and more.",
+      "purpose": "Structure tags give a lyric draft a readable arrangement: where a verse sets up an idea, where the chorus returns, and where a bridge changes direction. The Structure Tag Helper makes common labels easy to insert and keeps them visually distinct from the lyric lines, so the song’s progression is easier to plan and review.",
+      "highlights": ["Common labels such as Verse, Chorus, Bridge, Intro, and Outro", "A consistent layout that separates structure from lyric text", "A review step for unfamiliar or ambiguous tags"],
+      "bestFor": "Writers outlining a new song, reorganizing sections, or making a lyric sheet easier to scan before generation.",
+      "workflow": ["Add lyric lines and separate the sections", "Choose a tag for each section", "Review the structure and copy the organized draft"]
+    },
+    {
+      "slug": "lyrics-tag-normalizer",
+      "name": "Lyrics Tag Normalizer",
+      "category": "Create & Edit",
+      "summary": "Normalize section labels into a consistent format while preserving the lyrics around them.",
+      "purpose": "A lyric sheet may mix labels such as “Verse 1,” local-language section names, different bracket styles, or inconsistent capitalization. Lyrics Tag Normalizer recognizes common variants and presents a standardized form, helping the structure read consistently while leaving the writer’s actual lines intact.",
+      "highlights": ["Consistent bracket, spacing, and capitalization styles", "Recognition of common section-name variants across languages", "A before-and-after review so lyric text stays under the writer’s control"],
+      "bestFor": "Creators cleaning up imported lyrics, combining drafts from different sources, or preparing a consistent tagged lyric sheet.",
+      "workflow": ["Paste the lyric sheet with its current tags", "Review the labels and suggested standard forms", "Apply the changes you want and copy the result"]
+    },
+    {
+      "slug": "random-style-generator",
+      "name": "Random Style Generator",
+      "category": "Create & Edit",
+      "summary": "Generate a starting Style idea from genre, instruments, mood, vocals, and production traits.",
+      "purpose": "The Random Style Generator turns an empty Style field into a set of concrete creative choices. It combines five useful prompt dimensions—genre, instruments, mood, vocal character, and production—into a coherent starting direction. Keep the parts that fit the song, lock them in place, and explore alternatives for the rest instead of replacing a whole prompt each time.",
+      "highlights": ["Five prompt dimensions presented as editable building blocks", "Mix-and-match combinations for deliberate genre exploration", "Keep a useful trait while refreshing the remaining direction"],
+      "bestFor": "Creators looking for a fresh starting point, exploring a genre blend, or testing one new sound without losing the rest of a prompt.",
+      "workflow": ["Choose the dimensions you want to explore", "Generate a combination of musical traits", "Keep, edit, or refresh individual parts before using the idea"]
+    },
+    {
+      "slug": "suno-song-inspector",
+      "name": "Suno Song Inspector",
+      "category": "Inspect & Refine",
+      "summary": "Inspect a public Suno song link for its title, creator, style details, duration, and available lyrics.",
+      "purpose": "Song Inspector gathers the details visible on a public song page into a single, readable view. Check the title and creator, review the listed Style or genre information, see the duration, and quickly tell whether lyrics are available. It is a practical first stop when organizing a track or figuring out what a shared link contains.",
+      "highlights": ["A compact summary of the song and creator", "Visible style details and track duration", "Clear distinction between information found on the page and details that are absent"],
+      "bestFor": "Creators organizing shared links, checking track details before saving media, or keeping song information with project files.",
+      "workflow": ["Paste a public Suno song link", "Review the page details in one summary", "Use the information to organize the track or continue to a related task"]
+    },
+    {
+      "slug": "duration-estimator",
+      "name": "Duration Estimator",
+      "category": "Inspect & Refine",
+      "summary": "Estimate how long lyrics may take to sing, with a useful breakdown by section.",
+      "purpose": "A lyric’s length, syllable density, and delivery pace all affect how much room it needs in a song. Duration Estimator uses the text and a selected pace to create a rough timing range, then shows how that estimate is distributed across sections. Use it to spot a chorus that may feel crowded or a verse that needs more space before refining the track in Suno.",
+      "highlights": ["A pace-based estimate that accounts for variation in delivery", "Section-by-section timing to make dense passages easier to spot", "A quick reference while shaping a lyric or arrangement"],
+      "bestFor": "Writers checking whether a lyric fits a target song length or comparing the relative pacing of sections.",
+      "workflow": ["Add the full lyric or individual sections", "Select a broad delivery pace", "Review the estimated total and section breakdown"]
+    },
+    {
+      "slug": "style-string-cleaner",
+      "name": "Style String Cleaner",
+      "category": "Inspect & Refine",
+      "summary": "Clean up a crowded Style string by removing repetition and tightening the wording.",
+      "purpose": "A long Style string can repeat the same idea in several forms or spend characters on vague hype words. Style String Cleaner makes the prompt easier to scan by identifying duplicate tags, trimming extra spaces, and suggesting more concise wording. The goal is a focused description of sound—genre, instruments, mood, vocals, and production—without changing the musical direction you chose.",
+      "highlights": ["Find repeated tags and overlapping phrases", "Normalize spacing and separators for easier reading", "Review a more concise version before copying it into Suno"],
+      "bestFor": "Creators refining a Style prompt that has grown long through multiple rounds of edits.",
+      "workflow": ["Paste the current Style string", "Review repeated or low-information wording", "Keep the edits that preserve your intent and copy the result"]
+    },
+    {
+      "slug": "exclude-styles-generator",
+      "name": "Exclude Styles Generator",
+      "category": "Inspect & Refine",
+      "summary": "Build a clear list of sounds, styles, and traits to avoid in a generation.",
+      "purpose": "Sometimes a prompt is clear about what to include but vague about what should stay out. Exclude Styles Generator helps turn negative preferences into a concise list—for example, avoiding heavy distortion, backing vocals, or a particular genre direction. Organizing exclusions separately makes them easier to review alongside the positive Style description.",
+      "highlights": ["Choose unwanted instruments, vocal qualities, production traits, or genre cues", "Group related exclusions into a readable list", "Review the wording before using it with Suno’s exclusion controls"],
+      "bestFor": "Creators refining a sound that keeps drifting toward a particular instrument, vocal quality, or production style they do not want.",
+      "workflow": ["Select the qualities you want to avoid", "Group and refine the resulting phrases", "Review the exclusions beside your positive Style prompt"]
+    },
+    {
+      "slug": "suno-bulk-downloader",
+      "name": "Suno Bulk Downloader",
+      "category": "Download & Collect",
+      "summary": "Review several public Suno links together and organize the audio, video, or artwork available for each.",
+      "purpose": "When collecting a set of songs, opening every link separately makes it harder to track progress and spot unavailable files. Suno Bulk Downloader organizes multiple public links into one review list, shows the media each page exposes, and lets you choose what to save. Each link remains a separate item, so you can skip a track or file without restarting the whole collection.",
+      "highlights": ["Paste a list of public Suno song links at once", "Review per-track availability for audio, video, and cover art", "Select items individually and keep track of the collection workflow"],
+      "bestFor": "Creators saving several of their own tracks or organizing media from links they have permission to use.",
+      "workflow": ["Add multiple public song links", "Review the results and available media for each track", "Choose which items to save and organize the files"]
+    }
+  ]
+}

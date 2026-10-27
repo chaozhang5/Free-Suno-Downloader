@@ -1,0 +1,1657 @@
+[
+  {
+    "slug": "how-to-download-suno-songs",
+    "category": "Downloads",
+    "title": "Suno Şarkısı Nasıl İndirilir: Resmi ve Genel Bağlantı Seçenekleri",
+    "description": "Kitaplığınızdan kendi Suno şarkılarınızı nasıl indireceğinizi, herkese açık bir şarkı bağlantısını nasıl inceleyeceğinizi ve erişimi izinle karıştırmadan doğru dosyayı nasıl seçeceğinizi öğrenin.",
+    "intro": "Suno Kütüphanesinde sahip olduğunuz şarkıyla başlayın. Resmi İndirme menüsü, hesabınızın kullanabileceği dışa aktarma işlemlerini gösterir. Herkese açık bir bağlantı, bir sayfanın hangi varlıkları gösterdiğini kontrol etmek için kullanışlıdır ancak bunları yeniden kullanabileceğinizi kanıtlamaz.",
+    "sections": [
+      {
+        "heading": "Suno hesabınızdan indirin",
+        "paragraphs": [
+          "Kitaplık'ı veya Çalışma Alanı'nı açın, şarkıyı bulun, Diğer İşlemler'i ve ardından İndir'i seçin. Söz konusu şarkı için gösterilen seçeneği seçin ve dosyanın kaydedilmesinin bitmesini bekleyin. Seçimler plana, şarkıya ve cihaza göre değişebilir.",
+          "URL şarkısını dosyayla birlikte kaydedin. Parça bir müşteriye veya sürüme gidiyorsa, onu hangi hesabın oluşturduğunu ve dışa aktarmayı nasıl elde ettiğinizi de kaydedin."
+        ]
+      },
+      {
+        "heading": "Herkese açık bir şarkı bağlantısını kontrol edin",
+        "paragraphs": [
+          "İzin verilen bir genel bağlantınız varsa suno.com/s/, suno.com/song/ veya suno.com/hook/URL adresinin tamamını kopyalayın. Suno Downloader'ımıza bir bağlantı yapıştırın ve mevcut bir ses, video, cover veya şarkı sözü dosyasını seçmeden önce başlığı kontrol edin.",
+          "Yalnızca o sayfa için gerçekte bulunan dosyalar görünür. Özel, silinmiş, çalma listesi ve profil bağlantıları tek şarkı aracının dışındadır. Oynatılabilir bir sayfa, başka birinin çalışmasının indirilmesi veya yayınlanması için bir lisans vermez."
+        ]
+      },
+      {
+        "heading": "Sonraki görev için dosyayı seçin",
+        "paragraphs": [
+          "Dinlemek için yayınlanan orijinal sesi kullanın. Yalnızca video mevcut olduğunda bir video seçin. İlgili proje varlıklarını saklamanız gerektiğinde kapak resmini veya şarkı sözlerini kaydedin. Tarayıcı, çalınabilir sesi PCM WAV'ye dönüştürebilir, ancak bu dönüştürme daha yüksek kalitede bir kaynak oluşturmaz veya Suno'nin resmi WAV dışa aktarımının yerini almaz."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Başka birinin herkese açık şarkısını indirebilir miyim?",
+        "answer": "Herkese açık bir URL tek başına size yeniden kullanım hakları vermez. Eseri kaydetmeden veya yayınlamadan önce yaratıcıdan izin isteyin ve Suno'nin mevcut koşullarını kontrol edin."
+      },
+      {
+        "question": "Neden başka bir şarkıya göre daha az seçenek görüyorum?",
+        "answer": "Kullanılabilir dosyalar şarkının sayfasına, planınıza ve kullandığınız cihaza veya rotaya bağlıdır. Araç yalnızca gerçekte bulabileceği varlıkları listeler."
+      }
+    ],
+    "toolLabel": "Yetkili, herkese açık bir şarkı bağlantısını kontrol edin",
+    "related": [
+      "suno-mp3-download",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Şarkıları nasıl indirebilirim?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: Ne tür dosyaları indirebilirim?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-download",
+    "category": "Downloads",
+    "title": "Suno Şarkısını MP3 Olarak İndirme",
+    "description": "Resmi Suno MP3 seçeneğini bulun, herkese açık bir şarkı bağlantısının neler sağlayabileceğini anlayın ve indirilen sesi paylaşmadan önce doğrulayın.",
+    "intro": "MP3, günlük oynatma ve paylaşım için pratik bir formattır. Kendi parçanız için en hızlı rota, Suno'nin İndirme menüsündeki MP3 seçeneğidir; İzin verilen bir genel bağlantı için sayfanın gerçekte sağladığı sesi inceleyin.",
+    "sections": [
+      {
+        "heading": "Suno'nin MP3 dışa aktarımını kullanın",
+        "paragraphs": [
+          "Kitaplık veya Çalışma Alanı'nda şarkının Diğer Eylemler menüsünü açın, İndir'i seçin ve sunuluyorsa MP3'yi seçin. Suno, MP3 şarkı indirmelerinin planlar arasında mevcut olduğunu ancak indirme izinlerinin ve belirli bir şarkı için görünen seçeneklerin değişebileceğini söylüyor.",
+          "Kaydedilen dosyayı bir kez oynatın. Bir ortak çalışana göndermeden önce başlığı, sürümü, başlangıcını ve bitişini kontrol edin."
+        ]
+      },
+      {
+        "heading": "Herkese açık bir bağlantı neler sağlayabilir?",
+        "paragraphs": [
+          "Tek şarkı aracımız ulaşılabilir bir şarkı veya Hook sayfası için yayınlanan orijinal sesi listeler. Uzantısı kaynağa bağlı olabilir. Site kullanılabilir bir ses dosyası bulamazsa MP3 üretemez. Bu durumda kendi şarkınızın resmi menüsüne dönün.",
+          "Dosyanın yanında kaynak sayfaya bir bağlantı bulundurun. Bu, benzer şekilde adlandırılmış birkaç nesliniz olduğunda sürümleri karşılaştırmayı kolaylaştırır."
+        ]
+      },
+      {
+        "heading": "MP3 yeterli olduğunda",
+        "paragraphs": [
+          "Rutin dinleme ve basit önizlemeler için MP3'yi seçin. Bir editör WAV'yi isterse Suno hesabınızın resmi bir WAV dışa aktarımı sunup sunmadığını kontrol edin. Bir MP3'nin WAV'ye dönüştürülmesi, sıkıştırma sırasında zaten kaybolan ayrıntıları değil, kapsayıcıyı ve örnek temsilini değiştirir."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Genel bağlantı aracı her zaman MP3 üretir mi?",
+        "answer": "Hayır. Bulabildiği yayınlanmış ses dosyasını sunar ve kaynak uzantısı farklı olabilir. Bu formata ihtiyaç duyduğunuzda kendi şarkınız için Suno'deki resmi MP3 seçeneğini kullanın."
+      },
+      {
+        "question": "Kaydedilen dosyayı yeniden adlandırabilir miyim?",
+        "answer": "Evet. Şarkı adını ve versiyonunu dosya adına ekleyin, ardından kaynağı daha sonra tanımlayabilmek için Suno bağlantısını proje notlarınızda tutun."
+      }
+    ],
+    "toolLabel": "Mevcut şarkı sesini inceleyin",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-wav-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kullanılabilir indirilebilir dosya türleri",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-wav-download",
+    "category": "Downloads",
+    "title": "Suno WAV Dosyası Nasıl Alınır ve Dönüşüm Neleri Değiştirir?",
+    "description": "Resmi Suno WAV dışa aktarmalarını, çalınabilir sesten tarayıcı dönüştürmesini ve bir MP3'yi dönüştürmenin neden kaynak kalitesini geri yükleyemediğini anlayın.",
+    "intro": "Bir WAV dosyası, sıkıştırılmamış PCM örnekleri içerdiğinden düzenleyicide yararlı olabilir. Önemli soru, WAV'nin resmi bir kaynak aktarımından mı yoksa önceden sıkıştırılmış bir ses dosyasının dönüştürülmesinden mi geldiğidir.",
+    "sections": [
+      {
+        "heading": "Önce resmi WAV seçeneğini kontrol edin",
+        "paragraphs": [
+          "Suno'nin yardım merkezi, WAV şarkı indirmelerinin web üzerindeki Pro ve Premier abonelerine sunulduğunu söylüyor. Şarkınızı Kitaplık'ta veya Çalışma Alanı'nda açın, Diğer İşlemler ve İndirme'yi kullanın, ardından hesabınız ve şarkınız bunu sunuyorsa WAV'yi seçin. Mobil indirmelerde varsayılan olarak MP3 kullanılabilir.",
+          "Bir müşteri orijinal kalitede bir dosya isterse, Suno hesabınızdaki dışa aktarmayı kullanın ve bu kaydı projenizde saklayın."
+        ]
+      },
+      {
+        "heading": "Dönüştürücümüz ne yapar?",
+        "paragraphs": [
+          "İndiricimiz mevcut bir genel ses kaynağını çalabildiğinde, tarayıcınız bu kaynaktan 16 bitlik bir PCM WAV oluşturabilir. Bu, WAV'yi kabul eden ancak kaynak biçimini kabul etmeyen yazılımlarla uyumluluğa yardımcı olabilir. Dönüşüm tarayıcıda yerel olarak çalışır.",
+          "Dönüştürülen bir WAV genellikle kaynaktan çok daha büyüktür. Daha büyük boyutu, kurtarılan frekans ayrıntısını veya geliştirilmiş bir ana öğeyi içerdiği anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Doğru rotayı seçin",
+        "paragraphs": [
+          "Suno'nin kendi dışa aktarımına ihtiyaç duyduğunuzda resmi WAV'yi kullanın. Yerel dönüştürmeyi yalnızca izin verilen bir kaynak ve PCM biçimine ihtiyaç duyan bir iş akışı için kullanın. Projenizin ayrı enstrümanlara ihtiyacı varsa, stereo WAV'nin bunları içermesini beklemek yerine, şarkınız için gövdelerin mevcut olup olmadığını kontrol edin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "MP3'yi WAV'ye dönüştürmek sesi iyileştirecek mi?",
+        "answer": "Hayır. PCM dönüşümü dosya formatını değiştirir ancak daha önceki sıkıştırılmış kodlamanın kaldırdığı ayrıntıları yeniden oluşturamaz."
+      },
+      {
+        "question": "Telefonumda neden resmi WAV eksik?",
+        "answer": "Suno şu anda Pro ve Premier planları için web üzerinden WAV şarkı indirmelerini belgeliyor; mobil şarkı indirmeleri varsayılan olarak MP3 olarak ayarlanabilir. suno.com'daki hesabınızı kontrol edin."
+      }
+    ],
+    "toolLabel": "Mevcut ses ve dönüştürme seçeneklerini görüntüleyin",
+    "related": [
+      "suno-mp3-download",
+      "suno-video-download",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kullanılabilir indirilebilir dosya türleri",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-video-download",
+    "category": "Downloads",
+    "title": "MP4 Mevcut Olduğunda Suno Şarkı Videosu Nasıl İndirilir",
+    "description": "Suno şarkınız için video indirme seçeneğini bulun ve herkese açık bir şarkının neden ses gösterip MP4 dosyası göstermediğini öğrenin.",
+    "intro": "Bir şarkı, indirilebilir bir video varlığı olmadan çalınabilir sese sahip olabilir. Eksik bir MP4 düğmesini bozuk indirme olarak değerlendirmeden önce şarkının kendisini kontrol edin.",
+    "sections": [
+      {
+        "heading": "Resmi videoyu arayın",
+        "paragraphs": [
+          "Kendi şarkınız için Suno Kitaplığı'nda veya Çalışma Alanı'nda Diğer Eylemler menüsünü açın ve İndir'i işaretleyin. Suno, videoyu olası bir şarkı dosyası türü olarak belgelerken, mevcut seçeneklerin şarkıya, plana, özelliğe ve cihaza göre değişiklik gösterdiği konusunda uyarıda bulunur.",
+          "Bir video seçeneği görünürse, onu kaydedin ve resim ve sesin amaçlanan sürümle eşleştiğini doğrulamak için kısa bir bölüm oynatın."
+        ]
+      },
+      {
+        "heading": "Herkese açık bir şarkı sayfasını inceleyin",
+        "paragraphs": [
+          "İzin verilen bir şarkıyı, paylaşımı veya Hook URL'yi tek şarkı aracımıza yapıştırın. Video döşemesi yalnızca sayfanın kullanılabilir bir video dosyası göstermesi durumunda kullanılabilir. Eksik bir döşeme, sesi bekledikten veya dönüştürdükten sonra bir MP4'ün görüneceğine dair bir söz değildir.",
+          "Yeniden denemeden önce kaynak sayfayı ve kendi Suno hesabınızı kontrol edin. Video Suno'de mevcutsa ancak araç ona erişemiyorsa resmi rotayı kullanın."
+        ]
+      },
+      {
+        "heading": "Şarkı sözü videosuna ihtiyacınız varsa",
+        "paragraphs": [
+          "Bir şarkı videosu ve özel bir şarkı sözü videosu farklı teslimatlardır. Yayınlanmış bir MP4 yoksa, izin verilen bir ses dosyası ve şarkı sözü metninizle başlayın, ardından altyazıları destekleyen bir düzenleyicide bir video oluşturun. Zamanlamayı son ses sürümüne göre doğrulayın."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Ses orijinal Suno MP4'e dönüştürülebilir mi?",
+        "answer": "Hayır. Ayrı bir video düzenleyici, ses ve görüntülerden yeni bir video oluşturabilir ancak bu, Suno tarafından yayınlanan bir videoyla aynı dosya değildir."
+      },
+      {
+        "question": "Neden şarkıyı çalabiliyorum ama videoyu kaydedemiyorum?",
+        "answer": "Ses çalma yalnızca sesin mevcut olduğunu kanıtlar. Söz konusu şarkı için kullanılabilir bir video varlığı mevcut olduğunda bir video döşemesi görünür."
+      }
+    ],
+    "toolLabel": "Bu şarkının videosu olup olmadığını kontrol edin",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-lyrics-timestamps",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kullanılabilir indirilebilir dosya türleri",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-not-working",
+    "category": "Downloads",
+    "title": "Suno Download Çalışmıyor mu? Bağlantıyı, Dosyayı ve Hesabı Kontrol Edin",
+    "description": "Eksik Suno indirme düğmesi, yüklenmeyen genel bağlantı veya ses veya video seçeneği olmayan bir şarkıyla ilgili sorunları giderin.",
+    "intro": "Başarısız bir indirme işlemi birkaç farklı yerden gelebilir: bağlantı türü, şarkının görünürlüğü, ilgili dosya, hesabınızın indirme seçenekleri veya geçici istek hatası. Aynı tıklamayı tekrarlamadan önce hangisinin başarısız olduğunu bulun.",
+    "sections": [
+      {
+        "heading": "Önce şarkıyı doğrulayın",
+        "paragraphs": [
+          "Suno'de URL kaynağını açın. Tek şarkı aracı, bir çalma listesi veya yaratıcı profilini değil, genel bir /s/, /song/ veya /hook/ bağlantısını kabul eder. Sayfa özelse, kaldırılmışsa veya eksikse medyası burada listelenemez.",
+          "Kısaltılmış bir parça yerine URL'nin tamamını tekrar kopyalayın. Şarkının sahibiyseniz, onu Kitaplığınızda bulun ve Diğer İşlemler menüsünü kontrol edin."
+        ]
+      },
+      {
+        "heading": "Eksik dosyayı tanımlayın",
+        "paragraphs": [
+          "Ses çalışıyor ancak video yoksa sayfa MP4 yayınlamayabilir. Kapak resmi veya şarkı sözleri eksikse kaynak bu alanları göstermeyebilir. Bir araç yalnızca o şarkı için gerçekten mevcut olan varlıkları göstermelidir.",
+          "Suno'nin kendi menüsü istediğiniz formatı sunmuyorsa mevcut planı ve cihaz kurallarını kontrol edin. WAV'ye dönüştürülen bir MP3, resmi WAV dışa aktarımı haline gelmez."
+        ]
+      },
+      {
+        "heading": "Geçici bir başarısızlığı yeniden deneyin",
+        "paragraphs": [
+          "Kısa bir süre bekleyin, kaynak sayfayı yeniden yükleyin ve bir kez daha deneyin. Geçici bir hizmet yanıtı veya tarayıcı indirme ayarı, geçerli bir isteği kesintiye uğratabilir. Büyük bir video veya ZIP için ücretsiz depolama alanını onaylayın ve kaydetme tamamlanana kadar sekmeyi açık tutun.",
+          "Tekrarlanabilir bir sorunu bildirirken URL'yi ve tam hata mesajını saklayın. Bu ayrıntılar yalnızca indirme işleminin başarısız olduğunu söylemekten daha faydalıdır."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Özel bir bağlantıyı yeniden denemeye devam etmeli miyim?",
+        "answer": "Hayır. Öncelikle sahibinin şarkı sayfasını tam olarak herkese açık hale getirdiğini doğrulayın. Özel veya kaldırılmış bir sayfa, isteğin tekrarlanmasıyla onarılamaz."
+      },
+      {
+        "question": "Ya yalnızca WAV seçimi başarısız olursa?",
+        "answer": "Önce orijinal sesi deneyin. Tarayıcı dönüşümü, oynatılabilir kaynak sesine ve yeterli belleğe ihtiyaç duyar; Hesabınız bunu sunduğunda Suno'den resmi bir WAV dışa aktarması alınmalıdır."
+      }
+    ],
+    "toolLabel": "Herkese açık bir şarkı bağlantısını yeniden deneyin",
+    "related": [
+      "suno-share-link-guide",
+      "suno-download-credits-limits",
+      "suno-mp3-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Şarkıları nasıl indirebilirim?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: İndirmeler nasıl çalışır?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      }
+    ]
+  },
+  {
+    "slug": "suno-share-link-guide",
+    "category": "Tutorials",
+    "title": "Suno Paylaşma Bağlantısı vs Şarkı Bağlantısı vs Hook Bağlantısı: Hangisine İhtiyacınız Var?",
+    "description": "Suno /s/, /song/ ve /hook/ URL'lerini tanıyın ve bir çalma listesi veya yaratıcı sayfası yerine ne zaman tek bir şarkı bağlantısını kullanacağınızı öğrenin.",
+    "intro": "Kopyaladığınız adres, bir aracın neyi denetleyebileceğini belirler. Doğrudan bir şarkı veya Hook bağlantısı bir öğeye işaret eder; bir çalma listesi veya profil bir koleksiyona işaret ediyor ve farklı bir iş akışına ihtiyaç duyuyor.",
+    "sections": [
+      {
+        "heading": "Üç tek öğe bağlantı şekli",
+        "paragraphs": [
+          "Bir URL paylaşımı genellikle suno.com/s/ ile başlar. Bir şarkı sayfası suno.com/song/'yi kullanır. Hook sayfası suno.com/hook/ adresini kullanır. Mevcut indiricimiz, sayfaları erişilebilir olduğunda bu genel tek öğe bağlantılarını kabul eder.",
+          "Suno'nin Paylaşım kontrolünden veya tarayıcı adres çubuğundan kopyalayın ve yolun tamamını ekleyin. İstediğiniz şarkıya çözümlendiğini doğrulamak için bağlantıyı ayrı bir sekmede açın."
+        ]
+      },
+      {
+        "heading": "Geçerli bir URL neden hala başarısız olabilir?",
+        "paragraphs": [
+          "Doğru şekillendirilmiş bir bağlantı, herkese açık bir sayfa, kullanılabilir bir ses veya yayınlanmış bir video garanti etmez. Sahibi, bir şarkıyı özel hale getirebilir, kaldırabilir veya sayfanın gösterdiklerini değiştirebilir. Erişim geçici de olabilir.",
+          "Aracımız her seferinde bir öğeyi kontrol eder. Çalma listesi ve yaratıcı URL'leri, gözle görülür şekilde şarkı içerseler bile /song/ bağlantılarıyla değiştirilemez."
+        ]
+      },
+      {
+        "heading": "Basit bir devir iş akışı",
+        "paragraphs": [
+          "Bir ortak çalışana belirli bir şarkının bağlantısını, sürüm adını ve incelenmesi gereken varlığı gönderin. Kendi hesabınıza bağlı dosyalar için Suno'nin Kitaplık dışa aktarma özelliğini kullanın. Başka birinin çalışmasını paylaşırken, indirmeden veya yeniden kullanmadan önce izin isteyin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "URL çalma listesini tek şarkı aracına yapıştırabilir miyim?",
+        "answer": "Hayır. Çalma listesinde tek bir şarkıyı açın ve doğrudan şarkısını kopyalayın veya URL'yi paylaşın. Geçerli araç, istek başına bir öğeyi işler."
+      },
+      {
+        "question": "/s/ ve /song/ her zaman aynı dosyaları mı ortaya çıkarıyor?",
+        "answer": "Aynı şarkıyı çözümleyebilirler ancak aracın kullanabileceği sayfa ve erişim verileri farklı olabilir. Kaydetmeden önce başlığı ve döndürülen dosyaları onaylayın."
+      }
+    ],
+    "toolLabel": "Herkese açık bir şarkı bağlantısını test edin",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-download-not-working",
+      "download-multiple-suno-songs"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "download-multiple-suno-songs",
+    "category": "Tutorials",
+    "title": "Birden Fazla Suno Şarkısını ZIP Olarak İndirme",
+    "description": "Birkaç şarkıyı birlikte indirmek için Suno'nin Kitaplık toplu seçimini kullanın ve tek bir şarkı aracının ne zaman daha uygun olduğunu öğrenin.",
+    "intro": "Şarkılar Suno Kitaplığınızda veya Çalışma Alanınızdaysa Suno, resmi bir çok şarkılı ZIP iş akışı sağlar. Mevcut aracımız aynı anda herkese açık bir şarkı bağlantısını yönetiyor.",
+    "sections": [
+      {
+        "heading": "Kitaplık'taki şarkıları seçin",
+        "paragraphs": [
+          "Mac'te şarkıları tek tek seçmek için Komut tuşunu basılı tutun; Windows'ta Ctrl'yi basılı tutun. Bir aralık seçmek için Shift'i kullanın. Seçilen bir şarkıya sağ tıklayın, Tümünü İndir'i seçin, sunulan dosya türünü seçin ve ZIP indirme işlemini başlatın.",
+          "Resmi adımlar Suno'nin web arayüzü için belgelenmiştir. Büyük bir arşiv için ekstra zaman ve depolama alanı sağlayın, ardından kaynak şarkıları aktif projenizin dışına taşımadan önce ZIP'yi açın."
+        ]
+      },
+      {
+        "heading": "Arşivi anlaşılır tutun",
+        "paragraphs": [
+          "Proje ve tarih için ZIP adını verin. Proje notlarınızın içinde amaçlanan sürümleri, şarkı bağlantılarını ve ortak çalışanların izinlerini listeleyin. Bir toplu iş, yalnızca dosyalarını daha sonra tanımlayabildiğiniz takdirde kullanışlıdır.",
+          "Bir öğe eksikse onun seçilip seçilmediğini ve hesap menüsünün diğer şarkılarla aynı formatı sunup sunmadığını kontrol edin."
+        ]
+      },
+      {
+        "heading": "İnceleme için tek bağlantıyı kullanın",
+        "paragraphs": [
+          "Tek tek incelemek istediğiniz, izin verilen, herkese açık bir şarkı için doğrudan URL'yi indiricimize yapıştırın. Söz konusu şarkı için mevcut dosyaları, varsa şarkı sözleri de dahil olmak üzere, bir ZIP'de toplayabilir. Bugün birden fazla bağlantıyı veya URL çalma listesini kabul etmiyor."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bu sitenin indiricisi aynı anda birden fazla bağlantıyı kabul ediyor mu?",
+        "answer": "Hayır. ZIP özelliği, tek bir genel şarkı için mevcut varlıkları toplar. Kendi Kitaplığınızdaki birden fazla şarkı için Suno'nin belgelenen Tümünü İndir iş akışını kullanın."
+      },
+      {
+        "question": "ZIP'de bir şarkı eksikse ne olur?",
+        "answer": "Seçiminize dahil edilip edilmediğini ve Suno'nin söz konusu şarkı için seçilen dosya türünü sunup sunmadığını kontrol edin. Toplu iş kesintiye uğradıysa daha küçük bir grubu yeniden deneyin."
+      }
+    ],
+    "toolLabel": "Herkese açık bir şarkıyı inceleyin",
+    "related": [
+      "how-to-download-suno-songs",
+      "organize-suno-song-files",
+      "suno-share-link-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Şarkıları nasıl indirebilirim?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-download",
+    "category": "Lyrics",
+    "title": "Lyrics'yi bir Suno Şarkısından Metin olarak Kaydetme",
+    "description": "Suno şarkı sayfasında şarkı sözlerini bulun, mevcut metni kaydedin ve şarkı sözü versiyonunun kullanmayı planladığınız sesle eşleştiğini kontrol edin.",
+    "intro": "Bir şarkı sözü dosyası, hangi şarkı versiyonunu tanımladığını bildiğinizde en kullanışlıdır. Kaynak bağlantısını kaydedin ve özellikle birkaç nesilden veya düzenlemeden sonra kelimeleri karşılaştırırken bir kez dinleyin.",
+    "sections": [
+      {
+        "heading": "Kendi şarkı sözü taslağınızla başlayın",
+        "paragraphs": [
+          "Şarkı sözlerini Suno Özel modda yazdıysanız, orijinal metin dosyanızı gerçeğin kaynağı olarak saklayın. Suno, girdiğiniz orijinal şarkı sözlerinin haklarının size ait olduğunu söylüyor. Taslağınızı şarkı sürümüyle adlandırın, böylece sonraki düzeltmeler onun üzerine yazılmaz.",
+          "Bir şarkı sayfasında oluşturulan şarkı sözleri görüntüleniyorsa bunları kopyalayın ve son sese göre inceleyin. Oluşturulan telaffuz veya tekrarlanan satırlar yazılı metinden farklı olabilir."
+        ]
+      },
+      {
+        "heading": "Herkese açık bir şarkıdaki metni kaydedin",
+        "paragraphs": [
+          "İzin verilen halka açık bir şarkı veya Hook için URL'yi indiricimize yapıştırın. Sayfa şarkı sözlerini gösterdiğinde Lyrics TXT döşemesi görünür. Yalnızca metni kaydedebilir veya mevcut medyayla birlikte tek bir şarkı ZIP'ye ekleyebilirsiniz.",
+          "Şarkı sözü döşemesi kullanılamıyorsa aracımız o sayfada kullanılabilir metin bulamadı. Vokalleri sesten yazıya dökemez veya özel taslakları kurtaramaz."
+        ]
+      },
+      {
+        "heading": "Bir sonraki kullanımı hazırlayın",
+        "paragraphs": [
+          "Okumak ve düzenlemek için düz TXT yeterlidir. Bir şarkı sözü videosunun zamanlama bilgisine ihtiyacı vardır; metin tek başına zaman damgası içermez. Şarkı sözü metnini, ses dosyasını ve URL'yi bir arada tutun, böylece doğru sürümden zamanlı altyazılar oluşturabilirsiniz."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "İndirici sesten bir transkript oluşturabilir mi?",
+        "answer": "Hayır. Şarkı sözü metnini, bu metin genel şarkı sayfasında mevcut olduğunda kaydeder. Metni transkript olarak kullanmadan önce kendiniz dinleyin ve düzeltin."
+      },
+      {
+        "question": "TXT şarkı sözü zamanlaması içeriyor mu?",
+        "answer": "Hayır. Düz metin zaman damgalarını değil sözcükleri içerir. Son ses sürümünü seçtikten sonra bir zamanlama düzenleyicisinde LRC veya SRT oluşturun."
+      }
+    ],
+    "toolLabel": "Bir şarkı için mevcut şarkı sözlerini kontrol edin",
+    "related": [
+      "suno-lyrics-timestamps",
+      "suno-lyrics-structure-tags",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kendi şarkı sözlerimi kullanabilir miyim?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-structure-tags",
+    "category": "Lyrics",
+    "title": "Suno Lyrics Yapı Etiketler: Verse, Chorus, Bridge ve Outro",
+    "description": "Net bölüm etiketleri, amaca yönelik tekrarlar ve dizeler, nakaratlar ve geçişler için yeterli alan içeren bir Suno şarkı sözü taslağı planlayın.",
+    "intro": "Bölüm etiketleri şarkı sözü taslağının okunmasını ve gözden geçirilmesini kolaylaştırır. Bunlar yapı açısından yararlı talimatlardır ancak oluşturulan bir şarkının her etikete tam olarak uyacağını garanti etmezler.",
+    "sections": [
+      {
+        "heading": "Her bölüme bir iş verin",
+        "paragraphs": [
+          "Hikayeyi ilerletmek veya bir ayrıntıyı tanıtmak için [Verse]'yi, hatırlanmaya değer bir satır için [Chorus]'yi, yeni bir bakış açısı için [Bridge]'yi ve kapanış düşüncesi için [Outro]'yi kullanın. Yalnızca şarkının şiir ve koro arasında bir birikime ihtiyacı varsa [Pre-Chorus] ekleyin.",
+          "Kısa bir örnek, dört yeni satıra sahip [Verse 1], tekrarlanan başlık satırına sahip [Chorus], değiştirilmiş ayrıntıya sahip [Verse 2] ve ardından tekrar [Chorus]'dir. Etiketler amacı organize eder; gerçek müzikal sonucun hâlâ dinlenmeye ve gözden geçirilmeye ihtiyacı var."
+        ]
+      },
+      {
+        "heading": "Etiketleri ve şarkı sözlerini ayrı tutun",
+        "paragraphs": [
+          "Her bölüm etiketini kendi satırına yerleştirin. Şarkı sözü satırlarını şarkı söyleyebilecek kadar kısa tutun ve bölümler arasında boş bir satır bırakın. Bu, nesilleri karşılaştırmayı ve modelin bir cümleyi nerede atladığını, tekrarladığını veya uzattığını belirlemeyi kolaylaştırır.",
+          "Bir koro sıkıcı göründüğünde, daha fazla etiket eklemeden önce kelimeleri yeniden yazın veya ayetle kontrast oluşturun. Yapı net bir merkezi çizginin yerini alamaz."
+        ]
+      },
+      {
+        "heading": "Doğru Suno alanını kullanın",
+        "paragraphs": [
+          "Özel modda, orijinal şarkı sözü taslağınızı Lyrics'ye ve genel ses açıklamasını Tarzlar'a yerleştirin. Yeni sürümler oluşturmadan önce bir kopyayı Suno dışında tutun. Suno'nin Özel modu kendi şarkı sözlerinizi girmenizi destekler."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "[Chorus] aynı melodiyi iki kez zorlayacak mı?",
+        "answer": "Hayır. Amaçlanan bölümü işaret eder ancak üretim farklılık gösterebilir. Her iki koro pasajını kulak yoluyla karşılaştırın ve sonuç şarkıya uymuyorsa şarkı sözlerini veya istemi gözden geçirin."
+      },
+      {
+        "question": "Stil açıklaması nereye gitmeli?",
+        "answer": "Müzikal yön için Özel modda Stiller alanını ve kelimeler ve bölüm etiketleri için Lyrics alanını kullanın."
+      }
+    ],
+    "toolLabel": "Bitmiş bir şarkının sözlerini inceleyin",
+    "related": [
+      "suno-lyrics-download",
+      "edit-suno-lyrics",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kendi şarkı sözlerimi kullanabilir miyim?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-timestamps",
+    "category": "Lyrics",
+    "title": "Suno Lyrics Zaman Damgaları: Bir Şarkı İçin Altyazı Nasıl Hazırlanır?",
+    "description": "İncelenen Suno şarkı sözlerini, her satırı son sesle eşleştirerek ve zor geçişleri kontrol ederek zamanlı altyazılara dönüştürün.",
+    "intro": "Sade bir şarkı sözü dosyası size ne göstereceğinizi söyler. Zamanlanmış bir altyazı dosyası ayrıca her satırın ne zaman göründüğünü de belirtir. Bunlar ayrı görevlerdir: indiricimiz mevcut şarkı sözlerini TXT olarak kaydedebilir, ancak LRC veya SRT zamanlaması oluşturmaz.",
+    "sections": [
+      {
+        "heading": "Önce son sesi seçin",
+        "paragraphs": [
+          "Yayınlayacağınız tam ses sürümünü kaydedin. Daha sonraki bir yeniden oluşturma, ayet girişlerini ve koro tekrarlarını değiştirebilir, böylece daha önceki bir versiyona ait zaman damgaları, kelimeler aynı görünse bile kayabilir.",
+          "Bir kez dinleyin ve zamanlamayı eklemeden önce şarkı sözü metnini düzeltin. Görüntülenen şarkı sözlerinin mükemmel bir transkript olduğunu varsaymak yerine eksik kelimeleri, doğaçlamaları ve tekrarlanan satırları işaretleyin."
+        ]
+      },
+      {
+        "heading": "İşaret çizgisi başlar ve biter",
+        "paragraphs": [
+          "Sesi altyazı özellikli bir düzenleyicide açın. Baştan itibaren çalın ve her şarkı sözü satırı başladığında kaydedin. Altyazı formatları için ayrıca bir sonraki satırı geçmeden yeterli okuma süresi bırakacak bir bitiş zamanı ayarlayın.",
+          "İlk ayeti, her koro tekrarını, enstrümantal araları ve outro'yu kontrol edin. Bunlar, tekdüze bir zamanlama sapmasının başarısız olduğu yaygın yerlerdir."
+        ]
+      },
+      {
+        "heading": "Hedef için dışa aktar",
+        "paragraphs": [
+          "Birçok video düzenleyici ve altyazı iş akışı için SRT'yi veya senkronize şarkı sözlerini görüntüleyen oynatıcılar için LRC'yi kullanın. Dışa aktarılan dosyayı paylaşmadan önce gerçek video veya oynatıcıyla test edin. Kelimelerin kolayca düzenlenebilmesi için bir TXT kopyası saklayın."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Farklı bir nesile ait zamanlamayı yeniden kullanabilir miyim?",
+        "answer": "Ancak son ses ile karşılaştırdıktan sonra. Aynı kelimelere sahip şarkıların bile girişleri, duraklamaları ve koro uzunlukları farklı olabilir."
+      },
+      {
+        "question": "Bir video düzenleyici için hangi formatı seçmeliyim?",
+        "answer": "SRT, zamanlanmış altyazılar için yaygın olarak kullanılır, ancak editörünüz tarafından kabul edilen formatı doğrulayın. Zaman aşımına uğramamış TXT dosyasını revizyonlar için saklayın."
+      }
+    ],
+    "toolLabel": "Mevcut şarkı sözü metnini kaydet",
+    "related": [
+      "suno-lyrics-download",
+      "suno-video-download",
+      "edit-suno-lyrics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "edit-suno-lyrics",
+    "category": "Lyrics",
+    "title": "Şarkının Hook'sini Kaybetmeden Suno Lyrics Nasıl Revize Edilir",
+    "description": "Zayıf hatları teşhis ederek, unutulmaz kancayı koruyarak ve her seferinde bir revizyonu test ederek bir Suno şarkı sözü taslağını geliştirin.",
+    "intro": "Bir şarkı neredeyse işe yaramaya başladığında, her satırı yeniden yazmak insanların hatırladığı kısmı silebilir. Mevcut şarkı sözü ve ses versiyonlarını kaydedin, ardından soruna neden olan en küçük bölümü değiştirin.",
+    "sections": [
+      {
+        "heading": "Belirli sorunu adlandırın",
+        "paragraphs": [
+          "Şarkı sözü metni açıkken dinleyin. Söylemesi zor, belirsiz, yanlış yerde tekrarlanan veya hikayeyle tutarsız olan dizeleri işaretleyin. Koro güçlüyse, ona giden ayeti ayarlarken ana cümleyi koruyun.",
+          "Metin problemlerini üretim problemlerinden ayırın. Gömülü bir vokal, yeni bir kafiye yerine farklı bir düzenlemeye veya miksaj talimatına ihtiyaç duyabilir."
+        ]
+      },
+      {
+        "heading": "Kontrollü bir yeniden yazma yapın",
+        "paragraphs": [
+          "Taslağı çoğaltın ve ikinci sürüm olarak etiketleyin. Aynı bakış açısını, satır sayısını ve bölüm etiketlerini korurken bir bölümü revize edin. Genel bir iddiayı somut bir görüntü veya eylemle değiştirin; tekrar oluşturmadan önce yeni satırları yüksek sesle okuyun.",
+          "Yeni sonucu yalnızca metinle değil, önceki sesle karşılaştırın. Daha iyi yazılmış bir dize melodinin üzerinde garip bir şekilde durabilir ve basit bir dize olağanüstü derecede iyi şarkı söyleyebilir."
+        ]
+      },
+      {
+        "heading": "Değişiklik kaydı tutun",
+        "paragraphs": [
+          "Değiştirilen satırı, bunun nedenini ve hangi sürümü tercih ettiğinizi not edin. Eşleşen ses ve şarkı URL ile son şarkı sözü dosyasını saklayın. İşbirliği yaparsanız, genel bir yeniden yazma talebinde bulunmak yerine, incelemecilerden tam zaman damgasını ve bölümü belirtmelerini isteyin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Önce koroyu değiştirmeli miyim?",
+        "answer": "Eğer dinleyiciler hatırlıyorsa ve melodiye uyuyorsa saklayın. Daha zayıf bir izlenime neden olanın mısra mı, geçiş mi yoksa ses düzenlemesi mi olduğunu belirleyin."
+      },
+      {
+        "question": "İki şarkı sözü versiyonunu adil bir şekilde nasıl karşılaştırabilirim?",
+        "answer": "Hem metinleri hem de ses sonuçlarını kaydedin. Yalnızca yazılı satırları yargılamak yerine tam bölümü ve duyulabilir gelişmeyi not edin."
+      }
+    ],
+    "toolLabel": "Bir şarkı sayfasında şarkı sözlerini inceleme",
+    "related": [
+      "suno-lyrics-structure-tags",
+      "suno-lyrics-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kendi şarkı sözlerimi kullanabilir miyim?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-cover-art-download",
+    "category": "Cover art",
+    "title": "Kullanabileceğiniz Bir Şarkıdan Suno Kapak Resmi Nasıl Kaydedilir",
+    "description": "Bir Suno şarkısının yayınlanmış resmini bulun, mevcut görseli kaydedin ve kaynak ve izin kaydını müzik dosyalarınızla birlikte saklayın.",
+    "intro": "Kapak resmi, bir şarkının kütüphanede tanımlanmasını kolaylaştırır, ancak bir resmin herkese açık bir sayfada bulunması, şarkının başka bir yerde yayınlanmasına izin verildiği anlamına gelmez. Kendi şarkınızla veya bir yaratıcının açık izniyle başlayın.",
+    "sections": [
+      {
+        "heading": "Yayınlanan görseli bulun",
+        "paragraphs": [
+          "Şarkı sayfasını açın ve çizimin amaçlanan sürüme ait olduğunu onaylayın. Erişilebilir bir genel /s/, /song/ veya /hook/ bağlantısı için indiricimiz, yalnızca sayfada bir resim dosyası bulduğunda Kapak resmi döşemesini gösterir.",
+          "Bu döşemeyi kullanarak görüntüyü kaydedin. Kutucuk kullanılamıyorsa kaynak sayfayı yeniden ziyaret edin; bu araç yayınlanmamış çizimleri oluşturamaz veya büyütemez."
+        ]
+      },
+      {
+        "heading": "Doğru bağlamı koruyun",
+        "paragraphs": [
+          "Görüntüyü şarkı sesinin ve şarkı sözü metninin yanında saklayın. URL kaynağını, oluşturucusunu ve kaydettiğiniz tarihi not edin. Bir yayın hazırlıyorsanız, yüklenen veya üçüncü taraf sanat eserleri de dahil olmak üzere her öğenin haklarını kontrol edin.",
+          "Orijinal dosyayı korurken projenizin kopyalarını yeniden adlandırın. Bu, yayınlanan görüntüyü kaybetmeden daha sonraki düzenlemeleri karşılaştırmayı mümkün kılar."
+        ]
+      },
+      {
+        "heading": "Bir varış noktasına hazırlanın",
+        "paragraphs": [
+          "Resmi bir videoya, oynatıcıya veya dağıtımcıya eklemeden önce platformun boyutunu, en boy oranını ve dosya türü gereksinimlerini kontrol edin. Herkese açık bir görsel, yayın platformunun gerektirdiğinden daha küçük olabilir. Yeniden boyutlandırma, düşük çözünürlüklü bir orijinale orijinal ayrıntı ekleyemez."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Herhangi bir genel şarkının kapak resmini kaydedebilir miyim?",
+        "answer": "Teknik erişim izin teşkil etmez. Planladığınız kullanım için kendi şarkınızdaki sanatı kullanın veya ilgili yaratıcı ve sanatçının iznini alın."
+      },
+      {
+        "question": "Kapak döşemesi neden eksik?",
+        "answer": "Sayfa, aracın kaydedebileceği bir resmi göstermeyebilir. Kaynak şarkıyı açın ve bir dosyanın mevcut olduğunu varsaymadan önce resmi doğrulayın."
+      }
+    ],
+    "toolLabel": "Mevcut kapak resmini kontrol edin",
+    "related": [
+      "suno-cover-art-size",
+      "suno-mp3-cover-art-missing",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-cover-art-size",
+    "category": "Cover art",
+    "title": "Suno Kapak Resmi Boyutu ve Formatı: Yayınlamadan Önce Kontrol Edilmesi Gerekenler",
+    "description": "Suno kapak görselini bir oynatıcıda, videoda veya yayın iş akışında kullanmadan önce boyutlarını, kırpmasını, formatını ve haklarını kontrol edin.",
+    "intro": "Her hedefe uyan tek bir görüntü boyutu yoktur. Şarkınız için sağlanan gerçek dosyayla başlayın, ardından bunu, görüneceği platformun mevcut gereksinimleriyle karşılaştırın.",
+    "sections": [
+      {
+        "heading": "Kaynak görüntüyü inceleyin",
+        "paragraphs": [
+          "Mevcut cover'ı şarkı sayfasından kaydedin ve piksel boyutlarını ve dosya türünü işletim sisteminizde görüntüleyin. Görüntünün kare olup olmadığını, önemli metnin kenara yakın olup olmadığını ve sürümün sesle eşleşip eşleşmediğini kontrol edin.",
+          "İndiricimiz, yayınlanmış mevcut bir görseli kaydeder; sabit bir JPEG boyutu vaat etmiyor veya yüksek çözünürlüklü bir alternatif oluşturmuyor."
+        ]
+      },
+      {
+        "heading": "Hedef için tasarım",
+        "paragraphs": [
+          "Bir müzik kitaplığı küçük resmi, tam ekran şarkı sözü videosundan farklı bir kırpmayı tolere edebilir. Bir sürüm için distribütörünüzden minimum boyutlar, renk modu, metin ve içerik kuralları dahil olmak üzere mevcut görsel özelliklerini okuyun.",
+          "Her hedef için ayrı bir dışa aktarma yapın. Küçük bir görüntüyü yükseltirseniz, daha büyük piksel sayısının kaynağı iyileştirdiğini varsaymak yerine, bulanıklık veya görünür kusurlar açısından gerçek boyutta inceleyin."
+        ]
+      },
+      {
+        "heading": "Kullanım kanıtını saklayın",
+        "paragraphs": [
+          "Herkese açık bir sayfanın ekran görüntüsü lisans değildir. Kaynak dosyayı ve onu şarkı kaydının geri kalanıyla birlikte kullanma hakkını saklayın. Kapağı başka biri sağladıysa, planladığınız kullanımı kapsayan izni isteyin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Suno kapak resminin boyutu nedir?",
+        "answer": "Kaydettiğiniz gerçek görüntüyü kontrol edin; boyutlar yayınlanan varlığa bağlı olabilir. Sayfa küçük resminden sabit bir boyut almayın."
+      },
+      {
+        "question": "Küçük bir kapak baskısını büyüterek hazır hale getirebilir miyim?",
+        "answer": "Büyütme boyutları değiştirir ancak eksik görüntü ayrıntılarını geri getirmez. Hedefin gerektirdiği durumlarda daha yüksek kalitede yetkili bir kaynak isteyin."
+      }
+    ],
+    "toolLabel": "Yayınlanan kapak dosyasını kaydedin",
+    "related": [
+      "suno-cover-art-download",
+      "suno-video-download",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "write-better-suno-prompts",
+    "category": "Prompts",
+    "title": "Net Müzikal Yöne Sahip Suno İstemi Nasıl Yazılır",
+    "description": "Tür, tempo, enstrümanlar, vokal sunumu ve prodüksiyon seçeneklerinden odaklanmış bir Suno müzik istemi oluşturun ve ardından sonuçları sistematik olarak karşılaştırın.",
+    "intro": "Yararlı bir yönlendirme, modele tutarlı bir müzikal hedef kazandırır. Kısa bir ana fikirle başlayın, yalnızca dinleme sonucunu etkileyen ayrıntıları ekleyin ve şarkıyı dinledikten sonra gözden geçirin.",
+    "sections": [
+      {
+        "heading": "Tek cümlelik bir hedef yazın",
+        "paragraphs": [
+          "Geniş bir stil, duygusal bir hareket ve bir ana ses seçin. Örneğin: özenle seçilmiş gitar, ölçülü davullar ve yakın bir vokal içeren samimi bir akustik pop şarkısı. Bu size alakasız türlerden oluşan uzun bir listeden daha net bir test sunar.",
+          "Şarkının sözleri varsa, sesin sessiz bir dizeyi mi, daha büyük bir nakaratı mı yoksa her ikisini birden mi desteklemesi gerektiğine karar verin. Bu ilişkiyi açık tutun."
+        ]
+      },
+      {
+        "heading": "Birkaç yararlı kısıtlama ekleyin",
+        "paragraphs": [
+          "Öne çıkması gereken bir veya iki enstrümanı, vokal sunumunu ve prodüksiyon dokusunu belirtin. Bölümler arasında nelerin değişmesi gerektiğini yalnızca değişiklik önemli olduğunda açıklayın. Sıcak, gösterişli, rüya gibi, yumuşak, yumuşak ve yumuşak gibi eşanlamlıların yakınında önceliksiz bir şekilde yığılmaktan kaçının.",
+          "Suno Özel modda, Tarzlar müzikal yönü tutarken Lyrics metninizi tutar. Suno bunları ayrı alanlar olarak gösterir."
+        ]
+      },
+      {
+        "heading": "Tek seferde bir değişikliği test edin",
+        "paragraphs": [
+          "İstemi bir sürüm numarasıyla kaydedin. Baskın enstrümanı, enerjiyi, vokal karakterini ve bölüm kontrastını dinleyin. Hangi düzenlemenin yardımcı olduğunu anlamak için bir sonraki nesil için bir kategoriyi değiştirin.",
+          "Şarkı bağlantısını ve notları istemin yanında tutun. İndiricimiz, izin verilen bir genel sonucu ve mevcut varlıklarını, incelemeye veya arşivlemeye hazır olduğunuzda inceleyebilir."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Suno istemi ne kadar uzun olmalıdır?",
+        "answer": "Tutarlı bir hedef belirleyecek kadar uzun ama her ayrıntının bir işi olacak kadar kısa. Tür, ana ses, ses veya enstrümantal seçim ve bölüm enerjisiyle başlayın."
+      },
+      {
+        "question": "Bir istem belirli bir sonucu garanti edebilir mi?",
+        "answer": "Hayır. Nesiller farklılık gösterir. Sürümlendirilmiş bir istem tutun ve sesi karşılaştırın; böylece her revizyon, gerçekte duyduğunuz şeye dayandırılır."
+      }
+    ],
+    "toolLabel": "Bitmiş bir halka açık şarkıyı inceleyin",
+    "related": [
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Özel moda genel bakış",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-style-prompt-examples",
+    "category": "Prompts",
+    "title": "Suno Style Uyarlayabileceğiniz ve Test Edebileceğiniz Bilgi İstemi Örnekleri",
+    "description": "Hangi ayrıntıların değiştirileceğini öğrenirken akustik pop, elektronik müzik ve sinematik ambiyans için odaklanmış stil yönlendirme örneklerini kullanın.",
+    "intro": "Bir stil örneği, garantili bir sesin tarifi değil, bir başlangıç ​​hipotezidir. Türünü, enstrüman rollerini, vokal yaklaşımını ve prodüksiyon dokusunu kendi şarkınıza uyarlayın.",
+    "sections": [
+      {
+        "heading": "Daha büyük nakaratı olan akustik şarkı",
+        "paragraphs": [
+          "Deneyin: Samimi akustik pop, özenle seçilmiş dizelerle gitar, sıcak bas, ölçülü perküsyon, yakın vokal, koroda daha geniş armoniler. Karşıtlık, daha fazla ruh hali kelimesi eklemekten daha önemlidir.",
+          "Koro küçük kalırsa, önce düzenleme değişikliğini gözden geçirin. Eğer vokal çok uzak geliyorsa, tüm kısa metni yeniden yazmadan vokal tanımını değiştirin."
+        ]
+      },
+      {
+        "heading": "Ritmik elektronik parça",
+        "paragraphs": [
+          "Deneyin: orta tempolu elektronik pop, sıkı vuruş ve senkoplu bas, camsı sentez motifi, seyrek dizeler, parlak katmanlı kanca, temiz modern karışım. Burada bas ve motifin ayrı görevleri var.",
+          "Sonuç kalabalık ise bir katmanı kaldırın veya ayetin enerjisini azaltın. Bu parça işe yaradıysa oluk açıklamasını saklayın."
+        ]
+      },
+      {
+        "heading": "Enstrümantal atmosfer",
+        "paragraphs": [
+          "Deneyin: yavaş sinematik ortam parçası, yumuşak piyano motifi, gelişen yaylı tuş takımı, uzak oda dokusu, kademeli yükselme, ana vokal yok. Sözleri olmayan bir parça için, mümkün olduğu yerde Suno'nin Enstrümantal ayarını da kullanın.",
+          "Oluşturulan her sürümle tam istemi kaydedin. Kopyalanan bir örneğin nesiller boyunca aynı şekilde davranacağını varsaymak yerine sesli sonuçları karşılaştırın."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Örnekleri değiştirmeden yapıştırmalı mıyım?",
+        "answer": "Bunları test edilebilir başlangıç ​​noktaları olarak kullanın. Enstrümanı, ritmi ve vokal seçimlerini kendi şarkınıza uyacak şekilde değiştirin ve ardından sonucu karşılaştırın."
+      },
+      {
+        "question": "Aynı tarzdaki istemler neden farklı geliyor?",
+        "answer": "Üretim değişkendir ve şarkı sözleri gibi diğer girdiler sonucu değiştirebilir. Bir istemi sabit bir ön ayar olarak ele almak yerine sürümleri kaydedin ve ortaya çıkan sesi değerlendirin."
+      }
+    ],
+    "toolLabel": "Örnek sonucu inceleyin",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-instrumental-prompt",
+      "suno-exclude-styles"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Özel moda genel bakış",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-instrumental-prompt",
+    "category": "Prompts",
+    "title": "Odaklanmış İstemle Enstrümantal Suno Şarkı Nasıl Yapılır",
+    "description": "Enstrümantal bir Suno yaratımı oluşturun ve şarkı sözü talimatlarına güvenmeden melodiyi, ritmi, düzenlemeyi ve gelişimi tanımlayın.",
+    "intro": "Enstrümantal için, enstrümanların zaman içinde ne yapacağını açıklayın. Tür etiketi tek başına melodiyi, nabzı ve bölüm hareketini yeterince belirtilmemiş halde bırakır.",
+    "sections": [
+      {
+        "heading": "Enstrümantal kontrolü kullanın",
+        "paragraphs": [
+          "Suno'nin Özel modu Enstrümantal seçeneği içerir. Baş vokal istemiyorsanız bu özelliği açın, ardından ses için Tarzları ve diğer mevcut kontrolleri kullanın. Yalnızca bir metin alanına şarkı sözü yazmaya güvenmeyin.",
+          "Oluşturulan sonucu kontrol edin: enstrümantal bir ayar bir niyettir, gerçek ses ise yine de başka bir denemeye veya daha net bir yönlendirmeye ihtiyaç duyabilir."
+        ]
+      },
+      {
+        "heading": "Üç müzik mesleğini tanımlayın",
+        "paragraphs": [
+          "Bir kurşun sesi, destekleyici bir doku ve bir nabız seçin. Örneğin: yumuşak elektrikli piyano melodisi, altta düşük analog ped ve hafif fırçalanmış bir vuruş. İkinci yarının daha geniş olması veya sadeleştirilmiş bir son gibi bir gelişim ipucu ekleyin.",
+          "Farklı rollerini açıklayamayacağınız sürece on enstrümandan oluşan bir listeden kaçının. Daha az sayıda, daha belirgin ipuçlarının değerlendirilmesi daha kolaydır."
+        ]
+      },
+      {
+        "heading": "Özetle sonucu kontrol edin",
+        "paragraphs": [
+          "İstenmeyen vokalleri, vokalin duyulabilir olup olmadığını ve parçanın gelişip gelişmediğini dinleyin. Her yeni sürüme göre bu boyutlardan birini değiştirin. Bağlantıyı kaydedin ve birlikte isteyin; Şarkıyı kullanma hakkınız varsa, herkese açık sayfadan mevcut sesini inceleyin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Styles'da hiç vokal yazmamak yeterli mi?",
+        "answer": "Mevcut olduğunda Suno'nin Enstrümantal seçeneğini kullanın, ardından Tarzlarda amaçlanan düzenlemeyi açıklayın. Özeti karşıladığını doğrulamak için sonucu dinleyin."
+      },
+      {
+        "question": "Vokal kancasının yerini ne almalı?",
+        "answer": "Ana enstrümana belirgin, tekrarlanabilir bir motif verin ve parça boyunca nereye döneceğini veya değişeceğini planlayın."
+      }
+    ],
+    "toolLabel": "Enstrümantal sonucunuzu inceleyin",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Özel moda genel bakış",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-exclude-styles",
+    "category": "Prompts",
+    "title": "Suno Nesilinde İstenmeyen Stiller Nasıl Azaltılır",
+    "description": "Suno şarkısındaki istenmeyen tür, vokal veya enstrüman özelliklerini teşhis edin ve ana yönünü zayıflatmadan istemi revize edin.",
+    "intro": "Bir nesil sizin istemediğiniz bir ses eklediğinde işitilebilir özelliği tam olarak tanımlayın. Odaklanmış olumlu bir yönlendirmeyi ve hedeflenen bir hariç tutmayı test etmek, uzun bir yasaklama listesinden daha kolaydır.",
+    "sections": [
+      {
+        "heading": "İstenmeyen sesi adlandırın",
+        "paragraphs": [
+          "Ne duyduğunuzu yazın: parlak bir synth lead'i, bir rock davul ritmi, bir koro arka vokali veya farklı bir tür hissi. Çok genel gibi geniş geri bildirimler yararlı bir düzenlemeye işaret etmez.",
+          "Orijinal isteminizin yanlışlıkla sesi davet edip etmediğini kontrol edin. Destansı, sinematik gibi kelimeler kastettiğinizden daha büyük bir düzenlemeyi ima edebilir."
+        ]
+      },
+      {
+        "heading": "Olumlu istemi yeniden dengeleyin",
+        "paragraphs": [
+          "İstediğiniz lead enstrümanını ve kanalı açıkça belirtin. Rakip stil sözcüklerini tek bir bağlantıyla değiştirin. Suno, mevcut arayüzünüzde hariç tutulan stiller için gelişmiş bir kontrol ortaya koyuyorsa, buraya kısa, spesifik bir istenmeyen özellik ekleyin.",
+          "Bir istisnaya her zaman uyulacağını varsaymayın. Üretim değişkendir ve çelişkili bir pozitif uyarı, sonucu yine de kaçınmak istediğiniz sese doğru çekebilir."
+        ]
+      },
+      {
+        "heading": "Küçük bir revizyonu karşılaştırın",
+        "paragraphs": [
+          "Yalnızca bu değişiklikle yeniden oluşturun. Orijinal ve revize edilmiş istemi saklayın ve her iki sonuçta da aynı bölümü dinleyin. İstenmeyen ses kaybolur ancak enerji de düşerse, aynı tür işaretini yeniden kullanmak yerine farklı bir enstrüman rolüyle enerjiyi geri kazanın."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Aynı anda birden fazla türü hariç tutmalı mıyım?",
+        "answer": "Soruna neden olan tek duyulabilir özellik ile başlayın. Uzun bir hariç tutma kümesi, hangi revizyonun yardımcı olduğunu öğrenmeyi zorlaştırıyor."
+      },
+      {
+        "question": "Hariç tutulan bir araç hala görünüyorsa ne olur?",
+        "answer": "Olumlu ipucundaki çelişkili kelimeleri kontrol edin, amaçlanan öncü enstrümanı daha net hale getirin ve başka bir nesli karşılaştırın. İstisnalar garanti değildir."
+      }
+    ],
+    "toolLabel": "Revize edilmiş bir şarkıyı inceleyin",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-custom-mode-tutorial",
+    "category": "Tutorials",
+    "title": "Suno Özel Mod Eğitimi: Lyrics, Tarzlar ve Enstrümantal",
+    "description": "Orijinal şarkı sözleriyle, odaklanmış bir stil açıklamasıyla, bir başlıkla ve gerektiğinde enstrümantal seçenekle bir Suno Özel mod şarkısı ayarlayın.",
+    "intro": "Özel mod, kelimeler ve müzikal yön üzerinde ayrı kontrol istediğinizde kullanışlıdır. Hangi seçimin sonucu şekillendirdiğini görebilmeniz için Oluştur'a basmadan önce bu parçaları hazırlayın.",
+    "sections": [
+      {
+        "heading": "Girişi hazırlayın",
+        "paragraphs": [
+          "Türün dayanağını, ana enstrümanları, vokal karakterini ve enerji değişimini içeren kısa bir stil özeti yazın. Şarkının vokalleri varsa basit bölüm etiketleriyle kendi şarkı sözlerinizi tasarlayın. Daha sonra yapılan düzenlemelerin kurtarılabilmesi için bir kopyayı Suno dışında tutun.",
+          "Bir enstrümantal için, şarkı sözü alanını üretim talimatlarıyla doldurmak yerine melodiyi ve destekleyici enstrüman rollerini planlayın."
+        ]
+      },
+      {
+        "heading": "Özel modda oluşturun",
+        "paragraphs": [
+          "Suno Oluştur'u açın ve Özel'i seçin. Lyrics'ye şarkı sözlerinizi, Tarzlar'a ses açıklamasını ve net bir başlık girin. Şarkı sözleri olmadan müzik istiyorsanız Enstrümantal seçeneğini kullanın, ardından şarkıyı oluşturun.",
+          "Bu kontroller Suno'nin Özel mod yardımında açıklanmaktadır. Tam ekran değişebilir; bu nedenle hesabınızda görünen etiketleri kullanın."
+        ]
+      },
+      {
+        "heading": "Sürümü inceleyin ve kaydedin",
+        "paragraphs": [
+          "Şarkı sözü doğruluğunu, bölüm geçişlerini ve enstrümanların brifingle eşleşip eşleşmediğini dinleyin. Saklanacak bir şeyi ve değiştirilecek bir şeyi kaydedin. Şarkı sayfasını yayınlarsanız bağlantısını istem ve şarkı sözü versiyonunun yanında tutun.",
+          "Kendi şarkınız için, hesap aktarımları için Suno'nin resmi İndirme menüsünü kullanın. Tek şarkı aracımız, izin verilen bir genel bağlantıdan elde edilen varlıkları inceleyebilir."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kendi şarkı sözlerimi yazmam gerekiyor mu?",
+        "answer": "Hayır. Özel mod, orijinal şarkı sözlerinizi veya oluşturulan metninizi kabul edebilir. Gözden geçirmek veya belgelemek istediğiniz taslağın bir kopyasını saklayın."
+      },
+      {
+        "question": "Enstrümantal nereden seçilir?",
+        "answer": "Geçerli arayüz sunduğunda Özel modda Enstrümantal kontrolü kullanın, ardından Tarzlara odaklanmış bir ses açıklaması yazın."
+      }
+    ],
+    "toolLabel": "Herkese açık bir sonucu inceleyin",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-lyrics-structure-tags",
+      "how-to-download-suno-songs"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kendi şarkı sözlerimi kullanabilir miyim?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      },
+      {
+        "label": "Suno: Özel moda genel bakış",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "organize-suno-song-files",
+    "category": "Tutorials",
+    "title": "Suno Ses, Lyrics, Kapak Resmi ve İstemler Nasıl Düzenlenir?",
+    "description": "Her Suno şarkı versiyonunu, istemini, şarkı sözü taslağını, görseli ve izin kaydını bir arada tutan basit bir klasör ve adlandırma sistemi oluşturun.",
+    "intro": "Ses, çizim ve şarkı sözleri aynı genel dosya adını kullandığında bir şarkı projesinin yönetimi zorlaşır. Küçük bir adlandırma kuralı, karşılaştırmayı ve işbirliğini çok daha kolay hale getirir.",
+    "sections": [
+      {
+        "heading": "Şarkı başına bir klasör oluşturun",
+        "paragraphs": [
+          "Proje-şarkı-başlığı gibi bir klasör adı kullanın. İçinde sesi, kapak resmini, şarkı sözlerini ve notları saklayın. Birden fazla nesliniz varsa final adlı dosyanın üzerine yazmak yerine sürüm numaralarını kullanın.",
+          "Uygulanabilir bir model, şarkı-başlığı-v03-audio.mp3, şarkı-başlığı-v03-lyrics.txt ve şarkı-başlığı-v03-cover.jpg'dir. Kaynak URL'yi ve oluşturma hesabını kısa bir README veya nota kaydedin."
+        ]
+      },
+      {
+        "heading": "Yalnızca varlığı değil, kararı da takip edin",
+        "paragraphs": [
+          "Gelecek vaat eden her versiyon için, ipucunu, şarkı sözü versiyonunu, nelerin değiştiğini ve ne duyduğunuzu yazın. Başka biri söz veya çizimle katkıda bulunduysa, onun izin ve kredi bilgilerini aynı proje klasöründe saklayın.",
+          "Ticari kullanımın önemli olduğu durumlarda resmi indirme kaydını tutun. Tek başına bir dosya, onu hangi hesabın veya rotanın ürettiğini açıklamaz."
+        ]
+      },
+      {
+        "heading": "Arşivi inceleyin",
+        "paragraphs": [
+          "Kaydettikten sonra ses, görüntü ve şarkı sözü dosyalarını açın. Bir ortak çalışana ZIP göndermeden önce hepsinin aynı şarkı versiyonunu tanımladığını doğrulayın. Aracımız bulduğu dosyaları izin verilen herkese açık bir şarkı bağlantısı için paketleyebilir, ancak kendi notlarınız ve izin kayıtlarınız yine de ayrı bir depolamaya ihtiyaç duyar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bir şarkıyla kaydedilecek minimum bilgi nedir?",
+        "answer": "Ses sürümünü, URL şarkısını, istemi, şarkı sözü sürümünü, oluşturma içeriğini ve kullanım amacına uygun tüm izin kayıtlarını saklayın."
+      },
+      {
+        "question": "Final adlı dosyaların üzerine yazmalı mıyım?",
+        "answer": "Hayır. İncelenen her nesle bir sürüm numarası verin. Nasıl değiştiğini açıklayan önceki dosyaları kaybetmeden birini seçili olarak işaretleyebilirsiniz."
+      }
+    ],
+    "toolLabel": "Bir şarkı için mevcut dosyaları toplayın",
+    "related": [
+      "download-multiple-suno-songs",
+      "suno-cover-art-download",
+      "suno-lyrics-download"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-commercial-use",
+    "category": "Rights",
+    "title": "Bir Suno Şarkısını Ticari Olarak Kullanabilir misiniz? Planı ve İndirme Haklarını Kontrol Edin",
+    "description": "Bir şarkıyı yayınlamadan önce herkese açık Suno bağlantısı, izin verilen indirme, ticari kullanım ve telif hakkı arasındaki farkı anlayın.",
+    "intro": "Herkese açık bir şarkı bağlantısı size bir sayfanın görüntülenebileceğini bildirir. Şarkıyı kimin yarattığını veya şarkıdan para kazanma hakkına sahip olup olmadığınızı belirlemez. Yayınlanmadan önce hesabı, oluşturma içeriğini, indirme yolunu ve üçüncü taraf materyallerini kontrol edin.",
+    "sections": [
+      {
+        "heading": "Oluşturma planını kontrol edin ve dışa aktarın",
+        "paragraphs": [
+          "Suno'nin yardım merkezi, ücretli plandaki şarkıların ticari kullanım hakları alabileceğini, ücretsiz planda yapılan şarkıların ise ticari olmayan kullanım için olduğunu söylüyor. Mevcut Koşulları ayrıca izin verilen ticari kullanımı geçerli hizmet katmanı kapsamında onaylanmış bir indirmeye bağlar. Kendi Suno hesabınızı kullanın ve ticari bir proje için resmi indirme kaydını tutun.",
+          "Daha sonra abonelik satın almak, daha önceki ücretsiz plandaki bir şarkıya otomatik olarak geriye dönük ticari haklar vermez. Suno bu ayrımı açıkça belgeliyor."
+        ]
+      },
+      {
+        "heading": "Her girişi inceleyin",
+        "paragraphs": [
+          "Şarkı sözlerini, yüklenen sesi, kapak resmini ve diğer katkıları kullanma izniniz olduğundan emin olun. Herkese açık bir sayfa veya Yeniden Kullanım İstemi eylemi, başka bir yaratıcının orijinal şarkı sözlerinin haklarını vermez.",
+          "Ticari izin ve telif hakkı koruması ayrı konulardır. Suno, telif hakkı yeterliliğinin yargı yetkisine ve çalışmaya yapılan insan katkısına bağlı olduğunu belirtmektedir."
+        ]
+      },
+      {
+        "heading": "Sürüm kaydını tutun",
+        "paragraphs": [
+          "Şarkı bağlantısını, oluşturma ve indirme sırasındaki hesap planını, resmi dışa aktarmayı, katılımcı izinlerini ve amaçlanan dağıtım kanalını kaydedin. Platform kuralları değişebileceği için yayınlamadan önce Suno'nin mevcut Şartlarını ve distribütörünüzün gereksinimlerini tekrar kontrol edin.",
+          "İndiricimiz, izin verilen bir genel bağlantıdaki varlıkların incelenmesine yardımcı olur; sahipliği doğrulamaz, lisans vermez veya onaylanmış hesap aktarımının yerine geçmez."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Ücretli bir plan daha önceki her şarkıyı ticari hale getirir mi?",
+        "answer": "Hayır. Suno, daha sonraki bir aboneliğin, ücretsiz planda yapılan şarkılara otomatik olarak geriye dönük ticari haklar vermediğini söylüyor."
+      },
+      {
+        "question": "Herkese açık bir indirme, şarkının sahibi olduğumu kanıtlar mı?",
+        "answer": "Hayır. Bir dosyanın erişilebilir olduğunu gösterir. Sahiplik, katkıda bulunanların hakları, hizmet katmanı ve onaylı indirme rotasının ayrı olarak doğrulanması gerekir."
+      }
+    ],
+    "toolLabel": "Yetkili bir halka açık şarkıyı inceleyin",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-cover-art-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno Hizmet Şartları",
+        "url": "https://suno.com/terms-of-service"
+      },
+      {
+        "label": "Suno: Ücretli abonelikle ilgili hangi haklara sahibim?",
+        "url": "https://help.suno.com/en/articles/9601665"
+      },
+      {
+        "label": "Suno: Abone olmadan önce yapılan şarkıların hakları",
+        "url": "https://help.suno.com/en/articles/2425729"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-credits-limits",
+    "category": "Downloads",
+    "title": "2026'daki Suno Download Limitleri: Krediler, Sıfırlamalar ve Önemli Olanlar",
+    "description": "Suno indirme sınırlarını, faturalandırma döngüsü sıfırlamalarını, deneme indirmelerini, satın alınan paketleri ve formatların ve gövdelerin nasıl sayıldığını anlayın.",
+    "intro": "Suno oluşturma kredileri ve indirme kredileri ayrıdır. İndirme hakkınızı kullandığınızda kitaplığınız oynanabilir ve paylaşılabilir durumda kalır. Aşağıdaki kurallar, Suno'nin 22 Ekim 2026'da kontrol edilen yardım sayfalarını yansıtmaktadır; Bir yayın veya arşiv planlamadan önce hesabınızdaki mevcut seçenekleri onaylayın.",
+    "sections": [
+      {
+        "heading": "Aylık plan indirmeleri",
+        "paragraphs": [
+          "Suno şu anda Pro için ayda 20 ve Premier için 60 şarkı indirilmesini listeliyor. Aylık krediler faturalandırma döngüsünde tamamlanır; yıllık aboneler, orijinal satın alma tarihine göre aylık yükleme alırlar. Kullanılmayan aylık krediler devretmez. Suno Studio'daki Premier iş akışları indirme sınırına tabi değildir.",
+          "Ücretsiz bir hesap, 7'ye kadar ömür boyu deneme indirmesine uygun olabilir. Deneme indirmeleri aylık olarak yeniden doldurulmaz ve yalnızca kişisel, ticari olmayan kullanım içindir. Suno'nin mevcut yardım sayfaları, deneme sürümünün kullanılabilirliğinin yeni ücretsiz hesaplar için değişiklik gösterebileceğini belirtmektedir; bu nedenle, hesabınızda gösterilen ödeneği kontrol edin."
+        ]
+      },
+      {
+        "heading": "Bir indirme olarak sayılanlar",
+        "paragraphs": [
+          "Suno, formattan bağımsız olarak bir şarkıyı bir indirme olarak sayar. Aynı şarkıyı başka bir formatta tekrar indirmek, başka bir aylık kredi kullanmaz. Söz konusu şarkının gövdeleri indirme sayısına dahil edilir ve başarısız veya kesintiye uğrayan indirmeler bu izin kapsamında sayılmaz.",
+          "Aylık plan kredileri devretmez. Bireysel olarak satın alınan indirmeler ve indirme paketleri devredilir. Deneme indirmeleri de kullanılmadığı takdirde devam eder, ancak daha sonraki aylarda yeniden doldurulmaz."
+        ]
+      },
+      {
+        "heading": "Hangi dosyaların dışa aktarılacağını planlayın",
+        "paragraphs": [
+          "Dışa aktarmadan önce hangi şarkı sürümlerine ve dosyalara ihtiyacınız olduğuna karar verin. Kullanılabilir seçenekler plana, şarkıya ve cihaza göre değişir: Suno, MP3'yi planlar arasında listeler, web'de Pro ve Premier için WAV, mevcut olduğunda video, mevcut olduğunda gövdeler ve Premier'de uygun Suno Studio şarkıları için MIDI. Her formatın mevcut olduğunu varsaymak yerine tam şarkı için menüyü kontrol edin.",
+          "Son teslim tarihi için bir dışa aktarmaya ihtiyacınız varsa Suno'nin resmi hesap menüsünü kullanın ve dosyayı şarkı bağlantısıyla birlikte saklayın. Genel bağlantı aracımız, izin verilen bir şarkı sayfasının gösterdiği medyayı inceleyebilir ancak hesap kredilerinizi gösteremez veya yeniden dolduramaz, ticari haklar veremez veya resmi bir dışa aktarmanın yerini alamaz."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kullanılmayan indirmeler devredilir mi?",
+        "answer": "Aylık Pro ve Premier kredileri devretmez. Suno, ayrı ayrı satın alınan indirmelerin, indirme paketlerinin ve kullanılmamış deneme indirmelerinin devredileceğini söylüyor; deneme indirmeleri her ay yeniden doldurulmaz."
+      },
+      {
+        "question": "Deneme indirmesi ticari olarak kullanılabilir mi?",
+        "answer": "Hayır. Suno, deneme indirmelerini kişisel, ticari olmayan kullanım olarak tanımlıyor ve ticari kullanım hakları vermediğini söylüyor."
+      }
+    ],
+    "toolLabel": "İzin verilen halka açık bir şarkıyı inceleyin",
+    "related": [
+      "how-to-download-suno-songs",
+      "download-multiple-suno-songs",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: İndirmeler nasıl çalışır?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      },
+      {
+        "label": "Suno: İndirme kredileri devredilir mi?",
+        "url": "https://help.suno.com/en/articles/13876929"
+      },
+      {
+        "label": "Suno: Ücretsiz deneme indirmeleri",
+        "url": "https://help.suno.com/en/articles/13926401"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-cover-art-missing",
+    "category": "Cover art",
+    "title": "Suno MP3 Kapak Resmi Eksik mi? Gömülü Resmi ve Oynatıcıyı Kontrol Edin",
+    "description": "Suno MP3'nin yerleşik kapağının eksik olup olmadığını veya müzik uygulamanızın onu görüntülemediğini öğrenin ve ardından güvenli bir çözüm seçin.",
+    "intro": "Boş bir küçük resim her zaman kapak görselinin MP3'den kaldırıldığı anlamına gelmez. Bazı oynatıcılar ve dosya yöneticileri, gömülü resimleri farklı şekilde görüntüler. Tekrar indirmeden veya etiketlerini değiştirmeden önce ses dosyasının kendisini kontrol edin.",
+    "sections": [
+      {
+        "heading": "Görüntünün MP3'de olup olmadığını kontrol edin",
+        "paragraphs": [
+          "Kaydedilen dosyayı ikinci bir müzik çalarda veya gömülü resmi gösterebilen bir ses etiketi görüntüleyicide açın. Kapak orada görünüyorsa MP3 bir resim içeriyor demektir ve ilk uygulamada ekran, önbellek veya etiket uyumluluğu sorunu olabilir. Dosyayı değiştirmeden önce uygulamayı yeniden başlatın veya kitaplığını yenileyin.",
+          "Birden fazla etiket uyumlu uygulamada hiçbir çizim görünmüyorsa Suno'nin şarkı sayfasını ve indirme seçeneklerini kontrol edin. Ses aktarımında gömülü resim olmadığında bile ayrı bir kapak resmi mevcut olabilir. Kullanılabilirlik şarkıya ve indirme yoluna göre değişebilir."
+        ]
+      },
+      {
+        "heading": "Etiketleri düzenlemeden önce farklı bir oynatıcı deneyin",
+        "paragraphs": [
+          "MP3'yi aynı cihazdaki başka bir oynatıcıda test edin, ardından mümkünse başka bir cihazdaki aynı dosyayla karşılaştırın. Bir oynatıcının kapağı göstermesi ve diğerinin göstermemesi durumunda fark, dosyadaki eksik bir resimden ziyade oynatıcıya veya kütüphane indeksine işaret eder.",
+          "Yalnızca küçük resmi yenilemek için sesi yeniden kodlamayın. Yeniden kodlama, görüntüleme sorununu çözmeden sesi ve meta verileri değiştirebilir. Sorun giderirken orijinal indirmeyi yedek olarak saklayın."
+        ]
+      },
+      {
+        "heading": "Gerektiğinde bir kopyaya ayrı bir kapak ekleyin",
+        "paragraphs": [
+          "MP3'nin gerçekten bir resmi yoksa, eşleşen resmi kullanmanıza izin verilen bir sayfadan kaydedin. Bir etiket düzenleyici bu görüntüyü MP3'nin bir kopyasına gömebilir; ortak bir ön kapak görseli türü seçin ve kaydedin, ardından göründüğünü onaylamak için kopyayı hedef oynatıcınızda yeniden açın.",
+          "Orijinal sesi değiştirmeden saklayın ve çizimleri yalnızca izniniz olduğunda kullanın. Herkese açık bir şarkı sayfası tek başına şarkının veya görselinin yeniden kullanılmasına izin vermez. Suno Downloader'imiz, genel sayfada bir görsel gösterildiğinde ayrı bir kapak döşemesi gösterebilir ancak MP3 içindeki bir görsel etiketini onaramaz."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Eksik bir Windows küçük resmi MP3'nin kapağının olmadığını mı kanıtlar?",
+        "answer": "Hayır. Dosyayı başka bir müzik çalarda veya ses etiketi görüntüleyicide kontrol edin. Küçük resim, bir resim gömülü olsa bile oynatıcı, kitaplık önbelleği veya etiket uyumluluğu nedeniyle gizlenmiş olabilir."
+      },
+      {
+        "question": "MP3 cihazıma ayrı bir Suno kapağı yerleştirebilir miyim?",
+        "answer": "Bir etiket düzenleyici, MP3 kopyasına bir resim ekleyebilir. Bu resmi kullanma izniniz olduğundan emin olun ve karşılaştırmanız gerekebileceği ihtimaline karşı orijinal dosyayı değiştirmeden saklayın."
+      }
+    ],
+    "toolLabel": "Ayrı bir kapak resmi olup olmadığını kontrol edin",
+    "related": [
+      "suno-cover-art-download",
+      "suno-mp3-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Ne tür dosyaları indirebilirim?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Topluluk raporu: MP3 kapak resmi Windows'ta gösterilmiyor",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1vzgmzy/downloaded_mp3_cover_art_not_showing/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-v6-muddy-vocals",
+    "category": "Tutorials",
+    "title": "Suno V6 Vokalleri Çamurlu mu Yoksa Gömülü mü Ses Ediyor? Pratik Sorun Giderme Kılavuzu",
+    "description": "Tekrarlanabilir dinleme kontrolleri, odaklanmış istem testleri ve isteğe bağlı kök düzenleme ile boğuk veya gömülü Suno V6 vokallerini teşhis edin.",
+    "intro": "Uzak veya bulanık bir ses, oluşturulan miksajdan, oynatma kurulumundan veya daha sonraki işlemlerden gelebilir. Suno bu belirtiye yönelik tek bir evrensel düzeltmeyi belgelemiyor. Kısa, tekrarlanabilir bir karşılaştırma kullanın ve her değişikliği değerlendirebilmeniz için orijinal parçayı koruyun.",
+    "sections": [
+      {
+        "heading": "Sesin değiştiği yeri bulun",
+        "paragraphs": [
+          "Aynı bölümü ikinci bir cihazda veya oynatıcıda sabit ses seviyesinde oynatın. Orijinal Suno oynatmayı dışa aktarılan dosyayla karşılaştırın ve başlangıcı, ortayı ve bitişi dinleyin. Bir kopyada ses netken diğerinde net değilse, istemi değiştirmeden önce oynatıcıyı, ekolayzırı veya dışa aktarmayı kontrol edin.",
+          "Vokal de orijinal nesilde gömülüyse, hangi bölümlerin etkilendiğini ve enstrümantalin kelimeleri maskeleyip maskelemediğini not edin. Belirli bir modelin veya ortamın her zaman bu şekilde davrandığının kanıtı olarak tek bir nesli yargılamaktan kaçının; Sonuçlar bir nesilden diğerine değişebilir."
+        ]
+      },
+      {
+        "heading": "Odaklanmış bir bilgi istemi karşılaştırması çalıştırın",
+        "paragraphs": [
+          "Aynı şarkı sözlerini ve geniş müzikal yönü kullanarak bir kopya veya yeni bir test yapın. Ses yerleşimini ve karakterini net, yakın veya ileri gibi birkaç doğrudan terimle tanımlayın ve uzak vokaller veya ağır ortam gibi bu hedefle çelişen talimatları azaltın. Sonucu neyin etkilediğini anlayabilmek için istemin bir bölümünü tek seferde değiştirin.",
+          "Şarkının tamamı boyunca diksiyonu, ses seviyesini ve enstrümanlara karşı dengeyi dinleyin. Hızlı ifadeler belirli bir miksajın garantisi değildir, bu nedenle bir kez işe yarayan bir cümleye güvenmek yerine kulağa gerçekten doğru gelen versiyonu koruyun."
+        ]
+      },
+      {
+        "heading": "Mevcut olduğunda sapları dikkatlice düzenleyin",
+        "paragraphs": [
+          "Suno planınız ve şarkınız kök ayrımı sağlıyorsa, vokali miksajın geri kalanından ayırmayı deneyin ve düzenlemeden önce her iki dosyayı da dinleyin. Suno, gövde ayrımının kredi kullanabileceğini ve ayrılmış bir gövdenin diğer enstrümanlardan artefaktlar veya sızıntı içerebileceğini söylüyor; karışımın tamamını referans olarak saklayın.",
+          "Bir DAW'da, düzenlenmemiş dışa aktarımla karşılaştırırken küçük düzey veya EQ değişiklikleri yapın. Varsayılan olarak büyük yükseltmelerden veya sıkıştırmadan kaçının: tizliği, gürültüyü veya distorsiyonu daha belirgin hale getirebilirler. Yeni bir sürümü yalnızca sözcüklerin net kaldığından ve genel karışımın sert veya kırpılmış olmadığından emin olduktan sonra dışa aktarın."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Çamurlu ses her zaman bir Suno V6 sorunu mudur?",
+        "answer": "Mutlaka değil. Orijinal oynatmayı ve indirilen dosyayı başka bir oynatıcıda karşılaştırın ve şarkının tamamını kontrol edin. Oynatma ayarları, dışa aktarma farklılıkları ve nesiller arasındaki normal farklılıklar, duyduğunuz sesi etkileyebilir."
+      },
+      {
+        "question": "İsteme \"temiz vokaller\" eklemek her şarkıyı düzeltir mi?",
+        "answer": "Hiçbir hızlı ifade karışımı garanti etmez. Bunu tek bir kontrollü test olarak kullanın, oluşturulan sonucu dinleyin ve daha fazla talimatı değiştirmeden önce sürümleri karşılaştırın."
+      }
+    ],
+    "toolLabel": "Suno ses ve düzenleme kılavuzlarına göz atın",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Gelişmiş Kök Ayırma",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Topluluk raporu: V6 vokalleri çamurlu veya gömülü geliyor",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1wpg01k/how_i_fixed_the_muddy_buried_vocals_in_suno_v6/"
+      }
+    ]
+  },
+  {
+    "slug": "use-suno-songs-on-youtube",
+    "category": "Rights",
+    "title": "Suno Şarkılarını YouTube'de Kullanabilir misiniz? Hak Kontrol Listesi",
+    "description": "Bir Suno şarkısının bir YouTube videosunda ne zaman kullanılabileceğini, hangi para kazanma değişikliklerinin yapıldığını ve hangi şarkı sözü, sanat eseri ve indirme kayıtlarının saklanacağını kontrol edin.",
+    "intro": "Cevap, şarkının sayfasının herkese açık olup olmadığına değil, şarkının haklarına ve onu nasıl elde ettiğinize bağlıdır. Özel bir yükleme, para kazandıran bir video ve bir müşteri kanalı farklı yükümlülükler taşıyabilir; bu nedenle, videoyu düzenlemeden önce kullanım amacını doğrulayın.",
+    "sections": [
+      {
+        "heading": "Şarkının haklarıyla başlayın",
+        "paragraphs": [
+          "Suno'nin yardım merkezi, Pro veya Premier abonesiyken oluşturulan şarkıların YouTube'de yayınlanan içerikte kullanılabileceğini söylüyor. Ücretsiz plandaki şarkıları ticari olmayan olarak tanımlıyor ve daha sonraki bir aboneliğin, daha önceki ücretsiz plandaki şarkılara otomatik olarak ticari haklar vermediğini söylüyor.",
+          "Mevcut Şartları ayrıca izin verilen ticari kullanımı, onaylı bir Suno kanalı aracılığıyla yapılan bir indirmeye bağlamaktadır. Para kazandıran bir yükleme için kendi hesabınızın resmi dışa aktarımını kullanın ve oluşturma ve indirme kaydını saklayın."
+        ]
+      },
+      {
+        "heading": "Şarkının ve videonun içindeki materyali kontrol edin",
+        "paragraphs": [
+          "Her şarkı sözünü, yüklenen ses örneğini, kapak resmini ve video klibi kullanabileceğinizi doğrulayın. Bir parça, Suno planınız kapsamında uygun olabilir ancak üçüncü taraf bir şarkı sözü veya görselin yine de ayrı izne ihtiyacı vardır.",
+          "YouTube ve müzik dağıtımcısı kendi platform kurallarını uygular. Özellikle ücretli tanıtımlar, müşteri videoları veya kendi kanalınızın dışındaki dağıtımlar için tam olarak kullanımınız için bu kuralları inceleyin."
+        ]
+      },
+      {
+        "heading": "Net bir proje takibi tutun",
+        "paragraphs": [
+          "Suno şarkı URL'yi, oluşturma ve dışa aktarma sırasındaki hesap planını, resmi ses veya video dosyasını ve ortak çalışanların izinlerini kaydedin. Zaman çizelgesine hangi versiyonu yerleştirdiğinizi kaydedin, böylece gelecekte yapılacak bir düzenlemenin onaylanan şarkıyı sessizce farklı bir nesille değiştirmemesi sağlanır.",
+          "Yalnızca izin verilen herkese açık bir şarkının mevcut medyasını veya cover'ını incelemeniz gerekiyorsa aracımız bu dosyaları tanımlamanıza yardımcı olabilir. YouTube'nin uygunluğunu belirleyemez veya bunları yayınlama izni veremez."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Para kazandıran bir YouTube videosunda ücretsiz plandaki bir şarkı kullanılabilir mi?",
+        "answer": "Suno, ücretsiz plan şarkılarını ticari olmayan olarak tanımlıyor. Para kazandıran bir yüklemenin kapsam dahilinde olduğunu varsaymayın; mevcut kuralları ve söz konusu şarkıya ilişkin belirli hakları kontrol edin."
+      },
+      {
+        "question": "Başka birinin şarkısını kullanmak için Suno'ye atıfta bulunmak yeterli midir?",
+        "answer": "Hayır. Atıf, yaratıcının veya diğer hak sahiplerinin izninin yerine geçmez. Şarkının ve şarkı sözlerinin, örneklerinin, resimlerinin ve video öğelerinin haklarını onaylayın."
+      }
+    ],
+    "toolLabel": "Yetkili bir şarkının varlıklarını inceleyin",
+    "related": [
+      "suno-commercial-use",
+      "suno-video-download",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Şarkılarımı Spotify vb.'ye dağıtabilir miyim?",
+        "url": "https://help.suno.com/en/articles/2410177"
+      },
+      {
+        "label": "Suno: Ticari olmayan kullanım nedir?",
+        "url": "https://help.suno.com/en/articles/9602241"
+      },
+      {
+        "label": "Suno Hizmet Şartları",
+        "url": "https://suno.com/terms-of-service"
+      }
+    ]
+  },
+  {
+    "slug": "suno-extend-song-guide",
+    "category": "Tutorials",
+    "title": "Orijinali Kaybetmeden Suno Şarkısını Nasıl Uzatırsınız?",
+    "description": "Yeni bir bölüm veya son eklemek, nesilleri karşılaştırmak ve ilk sürümünüzü güvende tutarken tam bir şarkı oluşturmak için Suno Extend'i kullanın.",
+    "intro": "Extend, seçtiğiniz bir noktadan itibaren yeni bir devam oluşturur; orijinal dosyayı yerinde düzenlemez. Kaydedilmiş bir nesilden çalışın, aktarımı dikkatli bir şekilde seçin ve projenizdeki herhangi bir şeyi değiştirmeden önce tamamlanmış sürümleri karşılaştırın.",
+    "sections": [
+      {
+        "heading": "Doğru aktarım noktasını seçin",
+        "paragraphs": [
+          "Devam etmek istediğiniz şarkıyı açın ve Remiks/Düzenle'yi, ardından Uzat'ı seçin. Zaman çizelgesinde seçim sınırını ayarlayarak yeni sesin nerede başlayacağını ayarlayın. Önce bu noktayı dinleyin: tutulan bir notun veya ifadenin içindeki sınır, geçişin değerlendirilmesini zorlaştırabilir.",
+          "Daha uzun bir parça için yeni bir dizeye mi, enstrümantal pasaja mı yoksa sona mı ihtiyacınız olduğuna karar verin. Yalnızca bir sonraki bölüm için gereken şarkı sözlerini ve stil yönünü ekleyin ve karşılaştırma için orijinal şarkı sözlerinin ve komut isteminin bir kopyasını saklayın."
+        ]
+      },
+      {
+        "heading": "Taahhüt etmeden önce devamı karşılaştırın",
+        "paragraphs": [
+          "Uzantıyı oluşturun ve geçişten sonuna kadar her iki alternatifi de dinleyin. Tempoyu, vokal karakterini, şarkı sözü sunumunu ve yeni bölümün ikna edici bir sona ulaşıp ulaşmadığını kontrol edin. Eşleşen bir istem, aynı düzenlemeyi veya kesintisiz geçişi garanti edemez.",
+          "Her iki sonuç da işe yaramazsa, her seferinde bir şeyi ayarlayın: aktarımı hareket ettirin, yeni şarkıyı basitleştirin veya müzikal yönü netleştirin. Daha sonraki denemelerde tercih ettiğiniz sürümün üzerine yazılmaması için her adayı ayrı tutun."
+        ]
+      },
+      {
+        "heading": "Şarkının tamamını oluşturun ve kaydedin",
+        "paragraphs": [
+          "Beğendiğiniz bir uzantı bulduğunuzda, Şarkının Tamamını Oluştur ve Al'ı seçmek için şarkı işlem menüsünü kullanın. Suno, seçilen devamı yeni bir tam şarkı sonucu olarak orijinal bölüme birleştirir. Birleştirmeyi bağlam içinde oynatın ve bir sürüme veya düzenlemeye eklemeden önce sonucu kaynakla karşılaştırın.",
+          "Şarkının tamamını dışa aktarmayı ve Suno bağlantısını birlikte kaydedin. Suno'nin mevcut yardım sayfasında v6, v6-wild ve v6-mini'nin bir nesilde sekiz dakikaya kadar üretebildiği belirtiliyor; Uzatma, mevcut hesaba ve özellik seçeneklerine bağlı olarak mevcut bir fikre devam etmek veya sonunu değiştirmek istediğinizde kullanışlıdır."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Extend orijinal Suno şarkımı değiştirir mi?",
+        "answer": "Suno yeni bir devam ve ayrı bir tüm şarkı sonucu oluşturur. Sürümleri karşılaştırırken orijinal oluşturmayı ve dışa aktarmayı yedek olarak saklayın."
+      },
+      {
+        "question": "Uzantının sesini nasıl daha bağlantılı hale getirebilirim?",
+        "answer": "Net bir aktarım seçin, bu noktanın etrafındaki kaynağı dinleyin ve bir sonraki bölüm için kısa ve öz bir yönlendirme kullanın. Sonuçlar değişiklik gösterir; bu nedenle, bir istemin sürekliliği garanti ettiğini varsaymak yerine birden fazla adayın seçilmesi."
+      }
+    ],
+    "toolLabel": "Suno şarkı iş akışı kılavuzlarını keşfedin",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-v6-muddy-vocals",
+      "suno-wav-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Şarkımı nasıl uzatabilirim?",
+        "url": "https://help.suno.com/en/articles/2409601"
+      },
+      {
+        "label": "Suno: Şarkım ne kadar sürecek?",
+        "url": "https://help.suno.com/en/articles/13924929"
+      }
+    ]
+  },
+  {
+    "slug": "suno-persona-guide",
+    "category": "Tutorials",
+    "title": "Suno Kişiler ve Sesler: Şarkılar Arasında Tutarlı Bir Ses Tutun",
+    "description": "Suno Persona'nın neler yakaladığını, Sesler özelliğinden nasıl farklı olduğunu ve müzikal kimliğin gerçekçi beklentilerle nasıl yeniden kullanılacağını öğrenin.",
+    "intro": "Personalar bir şarkının vokal ve stil karakterinin başka bir yaratıma taşınmasına yardımcı olur. Suno'nin daha yeni Sesler özelliği, kendi doğrulanmış sesinizi kullanacak şekilde tasarlanmıştır. İki seçenek farklı amaçlara hizmet eder ve her yeni şarkının aynı sese sahip olacağına dair bir söz de yoktur.",
+    "sections": [
+      {
+        "heading": "Bir şarkıdan Persona oluşturun",
+        "paragraphs": [
+          "Yeniden kullanmak istediğiniz bir şarkıdan Diğer Eylemler'i açın ve Oluştur'u, ardından Persona Yap'ı seçin. Tanınabilir bir ad ve açıklama verin. Suno, Persona'nın bir şarkının vokalleri ve tarzı da dahil olmak üzere özünü kurtardığını söylüyor; Görünürlük ayarını gözden geçirin çünkü Personas varsayılan olarak herkese açık olabilir.",
+          "Sesini ve genel sesini ileri taşımak istediğiniz parçayı kullanın. Kaynak şarkının geçici bir etkisi, alışılmadık bir sunumu veya tekrarlanmasını istemediğiniz bir tarzı varsa, daha temiz bir kaynak seçin veya yeni istemdeki farkı açıklayın."
+        ]
+      },
+      {
+        "heading": "Bunu önceden ayarlanmış bir klon olarak değil, başlangıç noktası olarak kullanın",
+        "paragraphs": [
+          "Özel modda, oluşturmadan önce Persona'yı seçin. Suno'nin doldurduğu Style alanını kontrol edin ve ardından yalnızca yeni şarkı için gereken yönü ekleyin. Orijinalden her ayrıntıyı kopyalamak yerine şarkı sözlerini ve düzenleme talimatlarını yeni parçaya özel tutun.",
+          "Persona sürekliliğe yardımcı olabilir ancak melodi, şarkı sözleri, düzenleme ve performans nesiller arasında değişmeye devam eder. Kimliğin iyi taşınıp taşınmadığına karar vermeden önce iki veya daha fazla aday yapın ve aynı ses seviyesindeki vokal karakterini karşılaştırın."
+        ]
+      },
+      {
+        "heading": "Bunun yerine Sesleri ne zaman kullanacağınızı öğrenin",
+        "paragraphs": [
+          "Suno'nin Sesler iş akışı, uygun kullanıcıların kendi kayıtlarından veya kendi seslerini içeren bir şarkıdan bir ses profili oluşturmasına olanak tanır. Mevcut yardım kılavuzunda bir doğrulama adımı açıklanıyor ve kullanılabilirliğin yaşa ve konuma bağlı olabileceği belirtiliyor. Yalnızca sağlama hakkına sahip olduğunuz bir sesi kullanın ve Suno'nin mevcut izin ve paylaşım kontrollerini inceleyin.",
+          "Sesler kendi sesiniz içindir; Persona, bir şarkıya dayanan yeniden kullanılabilir bir müzikal kimliktir. Hedef tanıdık bir ses rengi ise Persona'yı deneyin. Oluşturulan bir parçada doğrulanmış şarkı sesinizin olmasını istiyorsanız Sesler'in hesabınızda mevcut olup olmadığını kontrol edin ve kurulum adımlarını izleyin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Personalar Suno Seslerle aynı mıdır?",
+        "answer": "Hayır. Personalar bir şarkının stilini ve vokal karakterini başlangıç ​​noktası olarak taşır. Sesler, kendi kullanılabilirliği ve izin gereklilikleri olan, doğrulanmış bir ses kaydını kullanmaya yönelik ayrı bir özelliktir."
+      },
+      {
+        "question": "Bir Persona her neslin aynı sese sahip olmasını sağlayacak mı?",
+        "answer": "Hayır. Müzikal kimliğin yeniden kullanılmasına yardımcı olabilir ancak yeni şarkı sözleri, stil talimatları ve kuşak farklılıkları sonucu etkiler. Her versiyonu dinleyin ve ona yeni nesilmiş gibi davranın."
+      }
+    ],
+    "toolLabel": "Suno istem ve şarkı kılavuzlarını keşfedin",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Personalar nedir?",
+        "url": "https://help.suno.com/en/articles/3484161"
+      },
+      {
+        "label": "Suno: Sesler SSS",
+        "url": "https://help.suno.com/en/articles/11362433"
+      },
+      {
+        "label": "Suno: Suno'de Sesinizi Kullanın",
+        "url": "https://help.suno.com/en/articles/11362369"
+      }
+    ]
+  },
+  {
+    "slug": "suno-replace-section-guide",
+    "category": "Lyrics",
+    "title": "Bir Suno Şarkısındaki Bir Bölümü Değiştirme veya Lyrics'yi Düzeltme",
+    "description": "Orijinal şarkıyı kaybetmeden bir pasajı gözden geçirmek, yeni şarkı sözlerini test etmek ve alternatif düzenlemeleri karşılaştırmak için Suno'nin Bölüm Değiştirme araçlarını kullanın.",
+    "intro": "Bölümü Değiştir, şarkının seçilen bir kısmı için yeni ses üretir. Şarkı sözlerini veya düzenlemeyi gözden geçirmeye yardımcı olabilir, ancak bu pasajın yeni bir neslidir; orijinal melodinin değişmeden kalacağını garanti eden yalnızca metinden oluşan bir düzeltme değildir.",
+    "sections": [
+      {
+        "heading": "Yalnızca tekrar ziyaret etmek istediğiniz pasajı seçin",
+        "paragraphs": [
+          "Şarkının Diğer Eylemler veya Düzenle menüsünden şarkı düzenleyiciyi açın ve ardından Bölümü Değiştir'i seçin. Şarkıyı çalın ve üzerinde çalışılması gereken cümleyi seçin. Geçişi değerlendirmek için kenarlara yeterli miktarda müzik bağlamı ekleyin, ancak halihazırda çalışan ekstra bölümleri seçmekten kaçının.",
+          "Düzenlemeden önce orijinal şarkı sözlerini kaydedin ve seçilen pasajın zamanlamasını not edin. Kelimeler ses ile yanlış hizalanmışsa, görüntülenen şarkı sözlerini ve seçimi dikkatlice kontrol edin; editör, değiştirmenin temeli olarak seçilen bölgeyi kullanır."
+        ]
+      },
+      {
+        "heading": "Değişime odaklanmış bir yön verin",
+        "paragraphs": [
+          "Şarkı sözü düzeltmesi için yalnızca revizyon gerektiren satırları değiştirin ve çevredeki yapıyı net tutun. Müzikal bir değişiklik için, daha yumuşak bir ses veya daha güçlü bir davul parçası gibi bir hedef tanımlayın. Çok fazla eşzamanlı talimat, bir adayın neden değiştiğini anlamayı zorlaştırır.",
+          "Değiştirmeyi oluşturun ve sunulan her sürümü bağlam içinde deneyin. Düzeltilmiş kelimeleri, ses tonunu, ritmi ve ondan önceki ve sonraki bölümlerin birleşimini dinleyin. Suno, yenilenen bölgedeki ifadeyi veya melodiyi değiştirebilir; bu nedenle, tek kelimelik bir düzenlemenin her notayı koruyacağını varsaymayın."
+        ]
+      },
+      {
+        "heading": "Yalnızca tam sonucu kontrol ettikten sonra işlemi gerçekleştirin",
+        "paragraphs": [
+          "Bir aday yakınsa, editör bu kontrolü sunuyorsa geçiş sınırını ayarlayın, ardından yalnızca düzenlenen klip yerine şarkının tamamını çalın. Orijinaliyle karşılaştırın ve hangisinin projeye ait olduğuna karar verene kadar her iki versiyonu da saklayın.",
+          "Bir şarkıdaki birkaç şarkı sözü değişikliği için, yeni bir cover'ın mı yoksa yeni bir neslin mi yönetilmesinin birçok yerel değişiklikten daha kolay olup olmadığını değerlendirin. Her rota yeni bir yorum yaratıyor; Dağıtım için bir sürüme geçmeden önce bir yedeği dışa aktarın."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bölüm Değiştirme melodiyi değiştirmeden bir kelimeyi değiştirebilir mi?",
+        "answer": "İletim ve melodi de dahil olmak üzere seçilen sesi yeniden oluşturabilir. Gözden geçirilmiş bir pasajı dinlemek için bunu kullanın, ancak her notayı koruyan yalnızca metinden oluşan bir değişiklik beklemeyin."
+      },
+      {
+        "question": "Orijinal versiyonumu geri alabilir miyim?",
+        "answer": "Düzenlemeden önce kaynak oluşturmayı ve dışa aktarmayı saklayın. Suno yeni düzenlenmiş sonuçlar oluşturur, böylece orijinali korumak önceki sürümle karşılaştırmayı veya geri dönmeyi kolaylaştırır."
+      }
+    ],
+    "toolLabel": "Suno şarkı sözü ve düzenleme kılavuzlarını keşfedin",
+    "related": [
+      "edit-suno-lyrics",
+      "suno-lyrics-structure-tags",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bir şarkının bir bölümünü değiştirebilir miyim?",
+        "url": "https://help.suno.com/en/articles/3271873"
+      },
+      {
+        "label": "Suno: Şarkı Düzenleyici Nasıl Kullanılır",
+        "url": "https://help.suno.com/en/articles/6141505"
+      },
+      {
+        "label": "Topluluk tartışması: Şarkı sözlerini değiştirmek vokal tarzını değiştirebilir",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1rmr4tm/is_it_actually_possible_to_make_it_change_the/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-audio-upload-guide",
+    "category": "Tutorials",
+    "title": "Suno Ses Yükleme Kılavuzu: Demoyu Yeni Bir Şarkıya Dönüştürün",
+    "description": "Bir ses yüklemesi hazırlayın, mevcut uzunluk sınırlarını anlayın ve bunu bir uzantı veya yeni Suno oluşturma işlemi için bir başlangıç noktası olarak kullanın.",
+    "intro": "Bir ses yüklemesi Suno'ye oluşturulacak müzikal bir fikir verebilir, ancak mevcut süre ve takip araçları planınıza ve mevcut arayüze bağlıdır. Yalnızca sahip olduğunuz veya kullanma izniniz olan kayıtları yükleyin ve kaynak dosyayı değiştirmeden bırakın.",
+    "sections": [
+      {
+        "heading": "Kullanabileceğiniz temiz bir kayıt hazırlayın",
+        "paragraphs": [
+          "Geliştirmek istediğiniz ritmi, melodiyi veya dokuyu temsil eden net bir bölüm seçin. Kısa ve düzenli bir kayıt, neslin aklında kalanları duymayı kolaylaştırır. Bu kullanım için izniniz ve gerekli haklara sahip olmadığınız sürece, özel konuşmaları veya diğer kişilerin performanslarını yüklemekten kaçının.",
+          "Suno'nin yardım kılavuzu şu anda Temel planda 60 saniyeye kadar, Pro ve Premier için ise sekiz dakikaya kadar yüklemeleri açıklamaktadır. Limitler ve hesap özellikleri değişebilir, bu nedenle uzun bir dosya hazırlamadan önce yükleme kontrolünü ve planınızı kontrol edin."
+        ]
+      },
+      {
+        "heading": "Bir yön yükleyin ve seçin",
+        "paragraphs": [
+          "Oluştur sayfasında ses yükleme kontrolünü seçin ve bir dosya seçin veya kaydedin. Kitaplığınızda veya oluşturma formunuzda göründüğünde, fikri genişletmek mi, kapak yapmak mı yoksa başka bir versiyon oluşturmak mı istediğinize karar verin. Görebileceğiniz seçenekler şarkıya ve hesaba bağlıdır.",
+          "Yeni müzikal yönü birkaç somut terimle tanımlayın. Ritim veya melodinin tanınabilir kalmasını istiyorsanız, neyin ilerlemesi ve neyin değişmesi gerektiğini söyleyin. Küçük bir karşılaştırma seti oluşturun ve yalnızca genel tür etiketini değil, kaynak fikrini de dinleyin."
+        ]
+      },
+      {
+        "heading": "Kaynak haklarını ve sürümlerini net tutun",
+        "paragraphs": [
+          "Yükleme, bir kaydın sahipliğini devretmez veya hak vermez. Örnekler, ortak çalışan performansları veya ticari kayıtlar için izin kanıtını saklayın ve yayınlamadan önce oluşturulan sonuç için geçerli olan hakları kontrol edin.",
+          "Orijinal yüklemeyi, oluşturulan şarkı bağlantısını ve seçtiğiniz sürümü kaydedin. Sonuç istediğiniz gibi değilse, daha kısa veya daha anlaşılır bir alıntı deneyin ve kaynak dosyayı değiştirmek yerine her seferinde bir talimatı değiştirin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Suno ses yüklemem ne kadar sürebilir?",
+        "answer": "Suno'nin mevcut yardım makalesi, Basic için 60 saniyeye kadar, Pro ve Premier için ise sekiz dakikaya kadar süreyi listeler. Plan limitleri ve arayüz seçenekleri değişebileceği için hesabınızı kontrol edin."
+      },
+      {
+        "question": "İnternetten bulduğum bir şarkıyı yükleyebilir miyim?",
+        "answer": "Yalnızca sahip olduğunuz veya kullanma izniniz olan sesleri yükleyin. Herkese açık olması, bir kaydın işlenmesine, yeniden düzenlenmesine veya yayınlanmasına otomatik olarak izin vermez."
+      }
+    ],
+    "toolLabel": "Suno oluşturma ve indirme kılavuzlarını keşfedin",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-share-link-guide",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Ses Yüklemeleri Nasıl Kullanılır",
+        "url": "https://help.suno.com/en/articles/6141569"
+      },
+      {
+        "label": "Suno: Nasıl remiks yaparım?",
+        "url": "https://help.suno.com/en/articles/6050497"
+      }
+    ]
+  },
+  {
+    "slug": "suno-stem-separation-guide",
+    "category": "Downloads",
+    "title": "Suno Gövde Ayırma Kılavuzu: İhtiyacınız Olan Parçaları Seçin ve Dışa Aktarın",
+    "description": "Otomatik Bölme, Karışımdan Bölme ve Gelişmiş Bölmeyi karşılaştırın, ardından kredileri, plan erişimini ve ses yapıtlarını hesaba katarken düzenleme için gövdeleri dışa aktarın.",
+    "intro": "Kökler, vokal, davul veya bas gibi karışık bir şarkıdan türetilen ayrı parçalardır. Suno'nin mevcut ayırma modları farklı düzeylerde kontrol sunar ancak çıkarma, kanama veya artefaktlar bırakabilir. Karışımın tamamını referans olarak saklayın ve hesabınızdaki mevcut seçenekleri doğrulayın.",
+    "sections": [
+      {
+        "heading": "İş için bir ayırma modu seçin",
+        "paragraphs": [
+          "Suno'nin Gelişmiş Gövde Ayırma kılavuzu, Otomatik Ayırma'yı 12'ye kadar algılanan gövdeye hızlı bir şekilde bölme olarak, Karışımdan Ayırmayı seçilen bir parçayı ve onun tamamlayıcısını çıkarma olarak ve Gelişmiş Ayırma'yı daha büyük bir listeden enstrümanları seçmenin bir yolu olarak tanımlar. Kullanılabilir modlar abonelik katmanına bağlıdır.",
+          "Geniş bir parça setinin düzenlenmesini istediğinizde Otomatik Ayırma'yı, vokal veya bas hattı gibi bir öğeye ihtiyaç duyduğunuzda Mix'ten Ayır'ı ve daha spesifik enstrüman seçeneklerine ihtiyaç duyduğunuzda Gelişmiş Ayırma'yı kullanın. Kök, orijinal izole edilmiş kayıt değil, karışımdan çıkarılan bir tahmindir."
+        ]
+      },
+      {
+        "heading": "Kredileri kontrol edin ve düzenlemeden önce dinleyin",
+        "paragraphs": [
+          "Suno şu anda bu ayırma seçeneklerine ilişkin kredi maliyetlerini yardım makalesinde listelemektedir: Otomatik Bölme, 12 gövde çıkarma başına 50 kredi kullanır; Mix'ten Böl, çıkarma için 10 kredi ve her iki çıktı için toplam 20 kredi kullanır; Advanced Split, çıkarılan kök başına 10 kredi ve çift için 20 kredi kullanır. Kredi harcamadan önce mevcut ürün içi onayı kontrol edin.",
+          "Her bir gövdeyi solo olarak ve ardından tam karışımla dinleyin. Enstrümanlarda kalan ses ünsüzlerine, diğer parçalara bulaşmış zillere veya eksik notalara dikkat edin. Hedef araç mevcut değilse Suno, bir talebin yararlı bir kök üretmeden yine de kredi kullanabileceği konusunda uyarıyor."
+        ]
+      },
+      {
+        "heading": "Güvenli çalışan bir kopyayı dışa aktarın",
+        "paragraphs": [
+          "Seçenek mevcut olduğunda, gövdeleri indirin veya Studio'dan bir çoklu parçayı dışa aktarın. Her dosyayı şarkı adı, kaynak bağlantısı, dışa aktarma tarihi ve tüm miksajın bir kopyasının bulunduğu bir klasöre koyun. Parçaların DAW'a aktarıldığında hizalı kalması için dosya adlarını tutarlı tutun.",
+          "Vokal seviyesini değiştirmek veya bir enstrümantal oluşturmak gibi tam miksajın destekleyemediği düzenlemeler için gövdeleri kullanın. Küçük değişiklikler yapın ve orijinaliyle karşılaştırın. Ayırma eserleri, güçlü EQ, sıkıştırma veya distorsiyondan sonra daha belirgin hale gelebilir."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Suno gövdeleri orijinal stüdyo parçalarıyla aynı mı?",
+        "answer": "Hayır. Kök ayırma, karışık bir ses dosyasındaki tek tek parçaları tahmin eder. Taşma payı, kusurlar veya eksik ayrıntılar bırakabilir; bu nedenle gövdelere, orijinal çoklu iz dosyaları yerine düzenlenebilir türetilmiş dosyalar olarak davranın."
+      },
+      {
+        "question": "Kaynaklar ayrı indirmeler olarak sayılır mı?",
+        "answer": "Suno şu anda mevcut gövdelerin şarkının ötesinde ek indirmeler olarak sayılmadığını söylüyor. Ayırma için kredi ücretleri hâlâ geçerli olabilir; bu nedenle, çıkarmadan önce özelliği ve hesap ayrıntılarını kontrol edin."
+      }
+    ],
+    "toolLabel": "Suno ses dışa aktarma kılavuzlarını keşfedin",
+    "related": [
+      "suno-wav-download",
+      "suno-mp3-download",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Gelişmiş Kök Ayırma",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Suno: Ne tür dosyaları indirebilirim?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Suno: Studio'dan Dışa Aktarma",
+        "url": "https://help.suno.com/en/articles/13925249"
+      }
+    ]
+  },
+  {
+    "slug": "suno-voices-guide",
+    "category": "Tutorials",
+    "title": "Suno Ses Kılavuzu: Kendi Şarkı Söyleme Sesinizi Kurun ve Kullanın",
+    "description": "Suno'nin Sesler özelliğinin bir ses profilini nasıl doğruladığını, hangi kaydın en iyi sonucu verdiğini ve erişim ve oluşturma sonuçlarındaki sorunları nasıl gidereceğinizi öğrenin.",
+    "intro": "Suno Sesler, kendi ses kaydınızla şarkılar oluşturmaya yönelik bir özelliktir. Persona'dan farklıdır ve kimlik doğrulama ve uygunluk kurallarını içerir. Özellik erişimi yaşa, konuma, plana ve modele göre değişiklik gösterebilir; bu nedenle, hesabınızda gösterilen kontrolleri gerçeğin kaynağı olarak kullanın.",
+    "sections": [
+      {
+        "heading": "Bir kayıt hazırlayın ve sesinizi doğrulayın",
+        "paragraphs": [
+          "Suno, en net profil için temiz bir acapella kaydı önerir. Mevcut kurulum kılavuzu 15 saniyeden dört dakikaya kadar kayıt kabul eder ve en iyi iki dakikayı seçmenize olanak tanır. Sessiz bir ortam ve güçlü oda yankısı olmayan bir mikrofon, numunenin incelenmesini kolaylaştırabilir.",
+          "Kendi kaydınızdan veya sesinizi içeren bir Suno şarkısından bir ses profili oluşturun, ardından sözlü doğrulama ifadesini tamamlayın. Suno, bu kontrolün, yüklenen şarkı söyleme ve doğrulama konuşmasının aynı kişiye ait olduğunun doğrulanmasına yardımcı olduğunu söylüyor. Başka bir kişinin sesini onun izni olmadan göndermeyin."
+        ]
+      },
+      {
+        "heading": "Ses profiliyle oluştur",
+        "paragraphs": [
+          "Sesler menüsünde kayıtlı profili seçin, ardından şarkı sözlerini yazın ve yeni şarkının müzik tarzını tanımlayın. Suno'nin SSS bölümünde yeni Sesler özelliğinin v5.5 modelini kullandığı belirtiliyor; sonuç seçilen sese benzemiyorsa model seçiciyi kontrol edin.",
+          "Ses Etkisi, kaydın sonucu ne kadar güçlü bir şekilde yönlendireceğini etkileyebilir ancak daha yüksek bir ayar, tam performansın garantisi değildir. Alternatifler oluşturun, telaffuzu ve tonu karşılaştırın ve bir sonraki denemede hassaslaşabilmek için profil kaydını ve orijinal oluşturmayı saklayın."
+        ]
+      },
+      {
+        "heading": "Erişim veya beklenmedik ses sorunlarını giderme",
+        "paragraphs": [
+          "Ses Ekle kontrolü eksikse hesabın yaş uygunluğunu, konum kullanılabilirliğini ve model seçimini kontrol edin. Suno, Sesler'in 18 yaş ve üzeri kullanıcılarla sınırlı olduğunu ve her yerde kullanılamayabileceğini söylüyor. Bu ayarlar değişebilir; bu nedenle mevcut Sesler SSS bölümüne bakın.",
+          "Doğrulama başarısız olursa, görüntülenen cümleyi sessiz bir yerde net bir şekilde yeniden kaydedin ve temiz bir şarkı örneği kullanın. Şarkı size benzemiyorsa v5.5'in seçildiğini onaylayın ve Ses Etkisini test edin. Ortaya çıkan şarkının paylaşım ve remiks ayarlarını anlamadığınız sürece ses kayıtlarını herkese açık olarak paylaşmaktan kaçının."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Suno Seslerinde başka birinin sesini kullanabilir miyim?",
+        "answer": "Bu özellik kendi doğrulanmış sesiniz için tasarlanmıştır. Suno, kullanıcıların sesi kullanma haklarına sahip olduklarını onaylamalarını gerektirir ve doğrulamayı gerçekleştirir. Başka bir kişinin kaydını kullanmadan önce açık bir onay alın ve Suno'nin mevcut kurallarına uyun."
+      },
+      {
+        "question": "Ses profilim neden kullanılamıyor?",
+        "answer": "Suno, Sesler'in yalnızca 18 yaş ve üzeri kullanıcılara sunulduğunu ve her konumda kullanılamayabileceğini söylüyor. Bu özellik ayrıca desteklenen bir model gerektirir; mevcut ürün içi kılavuzu ve SSS'yi kontrol edin."
+      }
+    ],
+    "toolLabel": "Suno sesli ve hızlı kılavuzlarını keşfedin",
+    "related": [
+      "suno-persona-guide",
+      "suno-v6-muddy-vocals",
+      "write-better-suno-prompts"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Suno'de Sesinizi Kullanın",
+        "url": "https://help.suno.com/en/articles/11362369"
+      },
+      {
+        "label": "Suno: Sesler SSS",
+        "url": "https://help.suno.com/en/articles/11362433"
+      }
+    ]
+  },
+  {
+    "slug": "suno-studio-2-guide",
+    "category": "Tutorials",
+    "title": "Suno Studio 2.0 Kılavuzu: Şarkıyı Düzenleme, Düzenleme ve Dışa Aktarma",
+    "description": "Suno Studio 2.0'a odaklanın, düzenlenebilir bir zaman çizelgesi oluşturun, gövdeleri ve efektleri kullanın ve bir sonraki prodüksiyon adımınız için bir şarkıyı veya çoklu parçayı dışa aktarın.",
+    "intro": "Suno Studio 2.0, şarkı düzenlemeyi, ses oluşturmayı, efektleri, MIDI ve dışa aktarma araçlarını tarayıcı tabanlı bir çalışma alanında birleştirir. Özellik seti ve abonelik erişimi değişebilir. Bu kılavuz pratik bir ilk geçişe odaklanmaktadır: bir proje açın, kontrollü bir düzenleme yapın ve karşılaştırabileceğiniz bir dışa aktarımı koruyun.",
+    "sections": [
+      {
+        "heading": "Bir proje açın ve zaman çizelgesini öğrenin",
+        "paragraphs": [
+          "Düzenle veya Diğer Eylemler menüsünü kullanarak Studio'da Kitaplığınızdaki bir şarkıyı açın. Zaman çizelgesi, klipleri düzenlediğiniz ve alternatif çekimleri karşılaştırdığınız yerdir. Düzenlemeden önce projenin tamamını bir kez oynatın, ardından hangi bölümün üzerinde çalışılması gerektiğini not edin, böylece değişikliğe odaklanabilirsiniz.",
+          "Suno'nin Studio 2.0 yardım sayfasında Studio 2.0'ın Premier abonelerine sunulduğu belirtiliyor ve bir masaüstü tarayıcı öneriliyor; mobil cihazlar desteklenmez. Gezinmesi önceki Studio sürümlerinden farklıdır; bu nedenle, bir denetim taşındıysa mevcut arayüz etiketlerini ve yardım makalelerini kullanın."
+        ]
+      },
+      {
+        "heading": "Bölümleri, efektleri ve gövdeleri küçük adımlarla düzenleyin",
+        "paragraphs": [
+          "Klipleri taşımak veya kırpmak, bölümler eklemek ve alternatif nesilleri denemek için zaman çizelgesini kullanın. Studio 2.0 yerleşik efektler ve otomasyon içerir; Suno, geleneksel VST veya Ses Birimleri eklentilerini barındırmadığını söylüyor. Her seferinde bir değişiklik yapın ve tüm düzenlemeyi karşılaştırın; böylece yerel bir iyileştirme, başka bir yerde seviye veya zamanlama sorunu yaratmaz.",
+          "Karışık bir klip için gövde ayırma kontrollerini açın ve görevinize uygun bölme modunu seçin. Gövdeler bir parçayı yeniden dengelemenize yardımcı olabilir, ancak bunlar karışımdan türetilmiştir ve yapay yapılar içerebilir. Orijinal parçayı hazır bulundurun ve sesi kapatmadan veya değiştirmeden önce zamanlamayı kontrol edin."
+        ]
+      },
+      {
+        "heading": "İş akışınız için doğru sürümü dışa aktarın",
+        "paragraphs": [
+          "Şarkının tamamı, seçilen zaman aralığı veya çok kanallı dışa aktarma için dışa aktarma menüsünü kullanın. Studio'nun mevcut yardım sayfası, yüksek kaliteli WAV dışa aktarmalarını ve ayrı klip indirmelerini açıklamaktadır. Projeyi başka bir DAW'a taşıyorsanız, gövdeleri hizalı tutun ve tüm karışımı referans olarak ekleyin.",
+          "Paylaşmadan veya yayınlamadan önce, dışa aktarılan dosyayı baştan sona dinleyin ve Studio'da onayladığınız sürümle eşleştiğinden emin olun. Proje bağlantısını, dışa aktarma tarihini ve kullanılan izinleri veya kaynak dosyalarını kaydedin. Planınızın haklarını ve dışa aktarma seçeneklerini kullanım amacına göre yeniden kontrol edin."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Suno Studio 2.0 için hangi plana ihtiyacım var?",
+        "answer": "Suno'nin mevcut Studio 2.0 duyurusu, Premier abonelerine yönelik kullanılabilirliği listeliyor. Erişim değişebileceği için Suno hesabınızı ve mevcut plan sayfasını kontrol edin."
+      },
+      {
+        "question": "VST veya Audio Units eklentilerimi Studio 2.0'da kullanabilir miyim?",
+        "answer": "Suno şu anda Studio 2.0'ın geleneksel VST veya Audio Units eklentileriyle uyumlu olmadığını söylüyor. Yerleşik efektler içerir ve kullanıcıların Studio'da belirli efektleri tasarlamasına olanak tanır."
+      }
+    ],
+    "toolLabel": "Suno düzenleme ve dışa aktarma kılavuzlarını keşfedin",
+    "related": [
+      "suno-stem-separation-guide",
+      "suno-wav-download",
+      "suno-replace-section-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Suno Studio 2.0 ile tanışın",
+        "url": "https://help.suno.com/en/articles/13670529"
+      },
+      {
+        "label": "Suno: Studio'dan Dışa Aktarma",
+        "url": "https://help.suno.com/en/articles/13925249"
+      },
+      {
+        "label": "Suno: Gelişmiş Kök Ayırma",
+        "url": "https://help.suno.com/en/articles/12702337"
+      }
+    ]
+  }
+]

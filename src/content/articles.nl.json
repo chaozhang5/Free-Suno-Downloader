@@ -1,0 +1,1657 @@
+[
+  {
+    "slug": "how-to-download-suno-songs",
+    "category": "Downloads",
+    "title": "Een Suno-nummer downloaden: officiële en openbare linkopties",
+    "description": "Leer hoe u uw eigen Suno-nummers uit uw bibliotheek kunt downloaden, een openbare nummerlink kunt bekijken en het juiste bestand kunt kiezen zonder toegang voor toestemming te verwarren.",
+    "intro": "Begin met het nummer dat je bezit in de Suno-bibliotheek. Het officiële downloadmenu toont de exports die uw account kan gebruiken. Een openbare link is handig om te controleren welke elementen op een pagina zichtbaar zijn, maar het bewijst niet dat u deze kunt hergebruiken.",
+    "sections": [
+      {
+        "heading": "Downloaden vanaf uw Suno-account",
+        "paragraphs": [
+          "Open Bibliotheek of Werkruimte, zoek het nummer, kies Meer acties en vervolgens Downloaden. Kies de optie die voor dat nummer wordt weergegeven en wacht tot het bestand klaar is met opslaan. De keuzes kunnen variëren per abonnement, nummer en apparaat.",
+          "Sla het nummer URL op met het bestand. Als de track naar een klant of release gaat, leg dan ook vast via welk account deze is aangemaakt en hoe u de export heeft verkregen."
+        ]
+      },
+      {
+        "heading": "Controleer een openbare nummerlink",
+        "paragraphs": [
+          "Als u over een toegestane openbare link beschikt, kopieer dan de volledige suno.com/s/, suno.com/song/ of suno.com/hook/URL. Plak één link in onze Suno Downloader en controleer de titel voordat u een beschikbaar audio-, video-, omslag- of songtekstbestand selecteert.",
+          "Alleen bestanden die daadwerkelijk voor die pagina zijn gevonden, worden weergegeven. Privé-, verwijderde, afspeellijst- en profiellinks vallen buiten de tool voor één nummer. Een afspeelbare pagina verleent geen licentie om het werk van iemand anders te downloaden of te publiceren."
+        ]
+      },
+      {
+        "heading": "Kies het bestand voor de volgende taak",
+        "paragraphs": [
+          "Gebruik de origineel gepubliceerde audio om te luisteren. Kies alleen een video als er een video beschikbaar is. Sla albumhoezen of songteksten op als u de bijbehorende projectmiddelen wilt behouden. De browser kan afspeelbare audio converteren naar een PCM WAV, maar die conversie creëert geen bron van hogere kwaliteit of vervangt de officiële WAV-export van Suno."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan ik het openbare nummer van iemand anders downloaden?",
+        "answer": "Een openbare URL alleen geeft u geen hergebruikrechten. Vraag de maker om toestemming en controleer de huidige voorwaarden van Suno voordat u zijn werk opslaat of publiceert."
+      },
+      {
+        "question": "Waarom zie ik minder opties dan een ander nummer?",
+        "answer": "Beschikbare bestanden zijn afhankelijk van de pagina van dat nummer, uw abonnement en het apparaat of de route die u gebruikt. De tool vermeldt alleen de activa die hij daadwerkelijk kan vinden."
+      }
+    ],
+    "toolLabel": "Controleer een geautoriseerde openbare nummerlink",
+    "related": [
+      "suno-mp3-download",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Hoe download ik nummers?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: Welke soorten bestanden kan ik downloaden?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-download",
+    "category": "Downloads",
+    "title": "Een Suno-nummer downloaden als MP3",
+    "description": "Zoek de officiële Suno MP3-optie, begrijp wat een openbare nummerlink kan bieden en verifieer de gedownloade audio voordat u deze deelt.",
+    "intro": "MP3 is een praktisch formaat voor dagelijks afspelen en delen. De snelste route voor je eigen circuit is de MP3-optie in het downloadmenu van Suno; voor een toegestane openbare link inspecteert u de audio die de pagina daadwerkelijk biedt.",
+    "sections": [
+      {
+        "heading": "Gebruik de MP3-export van Suno",
+        "paragraphs": [
+          "Open in Bibliotheek of Werkruimte het menu Meer acties van het nummer, kies Downloaden en selecteer MP3 indien aangeboden. Suno zegt dat downloads van MP3-nummers beschikbaar zijn voor alle abonnementen, hoewel de downloadlimieten en de zichtbare opties voor een bepaald nummer kunnen veranderen.",
+          "Speel het opgeslagen bestand één keer af. Controleer de titel, versie, begin en einde voordat u het naar een bijdrager stuurt."
+        ]
+      },
+      {
+        "heading": "Wat een openbare link kan bieden",
+        "paragraphs": [
+          "Onze tool voor één nummer vermeldt de originele audio die is gepubliceerd voor een bereikbaar nummer of een Hook-pagina. De extensie ervan kan afhankelijk zijn van de bron. Als de site geen bruikbaar audiobestand kan vinden, kan deze geen MP3 maken. Keer in dat geval terug naar het officiële menu voor je eigen nummer.",
+          "Bewaar een link naar de bronpagina naast het bestand. Dat maakt het gemakkelijker om versies te vergelijken als je meerdere generaties met dezelfde naam hebt."
+        ]
+      },
+      {
+        "heading": "Wanneer MP3 genoeg is",
+        "paragraphs": [
+          "Kies MP3 voor routinematig luisteren en eenvoudige previews. Als een redacteur om WAV vraagt, controleer dan of uw Suno-account een officiële WAV-export aanbiedt. Als u een MP3 naar WAV converteert, verandert de container- en voorbeeldweergave, niet de details die al verloren zijn gegaan bij de compressie."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Produceert de openbare linktool altijd MP3?",
+        "answer": "Nee. Het biedt het gepubliceerde audiobestand dat het kan vinden, en de bronextensie kan verschillen. Gebruik de officiële MP3-optie in Suno voor je eigen nummer als je dat formaat nodig hebt."
+      },
+      {
+        "question": "Kan ik het opgeslagen bestand hernoemen?",
+        "answer": "Ja. Neem de titel en versie van het nummer op in de bestandsnaam en bewaar de link Suno in uw projectnotities, zodat u de bron later kunt identificeren."
+      }
+    ],
+    "toolLabel": "Inspecteer de beschikbare songaudio",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-wav-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Beschikbare downloadbestandstypen",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-wav-download",
+    "category": "Downloads",
+    "title": "Hoe u een Suno WAV-bestand kunt verkrijgen en welke conversiewijzigingen",
+    "description": "Begrijp de officiële Suno WAV-exports, browserconversie van afspeelbare audio en waarom het converteren van een MP3 de bronkwaliteit niet kan herstellen.",
+    "intro": "Een WAV-bestand kan handig zijn in een editor omdat het ongecomprimeerde PCM-samples bevat. De belangrijke vraag is of de WAV afkomstig is van een officiële bronexport of van het converteren van een reeds gecomprimeerd audiobestand.",
+    "sections": [
+      {
+        "heading": "Controleer eerst de officiële WAV-optie",
+        "paragraphs": [
+          "Volgens het helpcentrum van Suno zijn downloads van WAV-nummers beschikbaar voor Pro- en Premier-abonnees op internet. Open uw nummer in Bibliotheek of Werkruimte, gebruik Meer acties en Downloaden en selecteer vervolgens WAV als uw account en nummer dit aanbieden. Mobiele downloads kunnen standaard MP3 gebruiken.",
+          "Als een opdrachtgever om een ​​origineel kwaliteitsbestand vraagt, gebruikt u de export in uw Suno-account en bewaart u dat bestand bij uw project."
+        ]
+      },
+      {
+        "heading": "Wat onze converter doet",
+        "paragraphs": [
+          "Wanneer onze downloader een beschikbare openbare audiobron kan afspelen, kan uw browser van die bron een 16-bits PCM WAV maken. Dit kan de compatibiliteit bevorderen met software die WAV accepteert, maar niet het bronformaat. De conversie wordt lokaal in de browser uitgevoerd.",
+          "Een omgebouwde WAV is vaak veel groter dan de bron. Het grotere formaat betekent niet dat het herstelde frequentiedetails of een verbeterde master bevat."
+        ]
+      },
+      {
+        "heading": "Kies de juiste route",
+        "paragraphs": [
+          "Gebruik de officiële WAV als u de eigen export van Suno nodig heeft. Gebruik een lokale conversie alleen voor een toegestane bron en een workflow waarvoor de PCM-indeling nodig is. Als uw project gescheiden instrumenten nodig heeft, controleer dan of er stems voor uw nummer bestaan, in plaats van te verwachten dat een stereo WAV deze bevat."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Zal het converteren van MP3 naar WAV het geluid verbeteren?",
+        "answer": "Nee. De PCM-conversie verandert het bestandsformaat, maar kan geen details opnieuw creëren die zijn verwijderd door de eerdere gecomprimeerde codering."
+      },
+      {
+        "question": "Waarom ontbreekt de officiële WAV op mijn telefoon?",
+        "answer": "Suno documenteert momenteel WAV-nummerdownloads op internet voor Pro- en Premier-abonnementen; Het downloaden van mobiele nummers kan standaard MP3 zijn. Controleer uw account op suno.com."
+      }
+    ],
+    "toolLabel": "Bekijk de beschikbare audio- en conversieopties",
+    "related": [
+      "suno-mp3-download",
+      "suno-video-download",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Beschikbare downloadbestandstypen",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-video-download",
+    "category": "Downloads",
+    "title": "Een Suno-nummervideo downloaden wanneer MP4 beschikbaar is",
+    "description": "Zoek de videodownloadoptie voor uw Suno-nummer en ontdek waarom een openbaar nummer mogelijk wel audio toont, maar geen MP4-bestand.",
+    "intro": "Een nummer kan afspeelbare audio bevatten zonder downloadbaar video-item. Controleer het nummer zelf voordat u een ontbrekende MP4-knop als een kapotte download beschouwt.",
+    "sections": [
+      {
+        "heading": "Zoek de officiële video",
+        "paragraphs": [
+          "Voor uw eigen nummer opent u het menu Meer acties in de Suno-bibliotheek of werkruimte en vinkt u Downloaden aan. Suno documenteert video als een mogelijk songbestandstype en waarschuwt dat de beschikbare opties variëren per nummer, plan, functie en apparaat.",
+          "Als er een videokeuze verschijnt, sla deze dan op en speel een kort gedeelte af om te bevestigen dat het beeld en de audio overeenkomen met de bedoelde versie."
+        ]
+      },
+      {
+        "heading": "Inspecteer een openbare nummerpagina",
+        "paragraphs": [
+          "Plak een toegestaan nummer, deel of Hook URL in onze tool voor één nummer. De videotegel is alleen beschikbaar als de pagina een bruikbaar videobestand weergeeft. Een ontbrekende tegel is geen belofte dat er een MP4 zal verschijnen na het wachten of converteren van de audio.",
+          "Controleer de bronpagina en uw eigen Suno-account voordat u het opnieuw probeert. Als de video op Suno staat, maar de tool er geen toegang toe heeft, gebruik dan de officiële route."
+        ]
+      },
+      {
+        "heading": "Als je een songtekstvideo nodig hebt",
+        "paragraphs": [
+          "Een songvideo en een aangepaste songtekstvideo zijn verschillende producten. Als er geen gepubliceerde MP4 bestaat, begin dan met een toegestaan ​​audiobestand en de tekst van je songtekst, en bouw vervolgens een video in een editor die ondertiteling ondersteunt. Controleer de timing ten opzichte van de definitieve audioversie."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan audio worden omgezet in de originele Suno MP4?",
+        "answer": "Nee. Een aparte video-editor kan van audio en afbeeldingen een nieuwe video maken, maar dat is niet hetzelfde bestand als een video gepubliceerd door Suno."
+      },
+      {
+        "question": "Waarom kan ik het nummer afspelen, maar geen video opslaan?",
+        "answer": "Het afspelen van audio bewijst alleen dat er audio aanwezig is. Er verschijnt een videotegel wanneer er een bruikbaar video-item beschikbaar is voor dat specifieke nummer."
+      }
+    ],
+    "toolLabel": "Controleer of dit nummer video bevat",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-lyrics-timestamps",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Beschikbare downloadbestandstypen",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-not-working",
+    "category": "Downloads",
+    "title": "Suno Download werkt niet? Controleer de link, het bestand en het account",
+    "description": "Problemen oplossen met een ontbrekende Suno-downloadknop, een openbare link die niet kan worden geladen of een nummer dat geen audio- of video-optie heeft.",
+    "intro": "Een mislukte download kan verschillende oorzaken hebben: het linktype, de zichtbaarheid van het nummer, het specifieke bestand, de downloadopties van uw account of een tijdelijke verzoekfout. Zoek welke mislukte voordat u dezelfde klik herhaalde.",
+    "sections": [
+      {
+        "heading": "Controleer eerst het nummer",
+        "paragraphs": [
+          "Open de broncode URL op Suno. Een tool voor één nummer accepteert een openbare /s/, /song/ of /hook/link, geen afspeellijst of makersprofiel. Als de pagina privé, verwijderd of onvolledig is, kunnen de media hier niet worden vermeld.",
+          "Kopieer nogmaals de volledige URL in plaats van een verkort fragment. Als u de eigenaar van het nummer bent, zoekt u het op in uw bibliotheek en bekijkt u het menu Meer acties."
+        ]
+      },
+      {
+        "heading": "Identificeer het ontbrekende bestand",
+        "paragraphs": [
+          "Als audio werkt maar video ontbreekt, publiceert de pagina mogelijk geen MP4. Als albumhoezen of songteksten ontbreken, mag de bron deze velden niet openbaar maken. Een tool zou alleen items moeten tonen die daadwerkelijk beschikbaar zijn voor dat nummer.",
+          "Als het eigen menu van de Suno niet het gewenste formaat biedt, controleer dan het huidige abonnement en de apparaatregels. Een MP3 omgebouwd naar WAV wordt niet de officiële WAV-export."
+        ]
+      },
+      {
+        "heading": "Probeer een tijdelijke fout opnieuw",
+        "paragraphs": [
+          "Wacht even, laad de bronpagina opnieuw en probeer het nog een keer. Een tijdelijke servicereactie of browserdownloadinstelling kan een geldig verzoek onderbreken. Voor een grote video of ZIP bevestigt u de vrije opslag en houdt u het tabblad open totdat het opslaan is voltooid.",
+          "Bewaar de URL en de exacte foutmelding bij het melden van een herhaalbaar probleem. Die details zijn nuttiger dan alleen maar zeggen dat de download is mislukt."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Moet ik een privélink opnieuw proberen?",
+        "answer": "Nee. Controleer eerst of de eigenaar de exacte nummerpagina openbaar heeft gemaakt. Een privé- of verwijderde pagina kan niet worden gerepareerd door het verzoek te herhalen."
+      },
+      {
+        "question": "Wat als alleen de WAV-keuze mislukt?",
+        "answer": "Probeer eerst de originele audio. Voor browserconversie zijn afspeelbare bronaudio en voldoende geheugen nodig; een officiële WAV-export moet worden verkregen van Suno wanneer uw account dit aanbiedt."
+      }
+    ],
+    "toolLabel": "Probeer opnieuw een link naar een openbaar nummer",
+    "related": [
+      "suno-share-link-guide",
+      "suno-download-credits-limits",
+      "suno-mp3-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Hoe download ik nummers?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: Hoe werken downloads?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      }
+    ]
+  },
+  {
+    "slug": "suno-share-link-guide",
+    "category": "Tutorials",
+    "title": "Suno Share Link versus Song Link versus Hook Link: welke heb je nodig?",
+    "description": "Herken Suno /s/, /song/ en /hook/ URL's en leer wanneer u een link naar een enkel nummer moet gebruiken in plaats van een afspeellijst of een makerpagina.",
+    "intro": "Het adres dat u kopieert, bepaalt wat een gereedschap kan inspecteren. Een directe nummer- of Hook-link verwijst naar één item; een afspeellijst of profiel verwijst naar een collectie en heeft een andere workflow nodig.",
+    "sections": [
+      {
+        "heading": "Drie koppelingsvormen voor één item",
+        "paragraphs": [
+          "Een aandeel URL begint meestal met suno.com/s/. Een nummerpagina gebruikt suno.com/song/. Een Hook-pagina gebruikt suno.com/hook/. Onze huidige downloader accepteert deze openbare links naar afzonderlijke items wanneer hun pagina's toegankelijk zijn.",
+          "Kopieer vanuit het Share-besturingselement van Suno of de adresbalk van de browser en neem het volledige pad op. Open de link op een apart tabblad om te bevestigen dat deze wordt omgezet in het nummer dat u bedoelde."
+        ]
+      },
+      {
+        "heading": "Waarom een geldige URL nog steeds mislukt",
+        "paragraphs": [
+          "Een correct gevormde link garandeert geen openbare pagina, bruikbare audio of gepubliceerde video. De eigenaar kan een nummer privé maken, verwijderen of wijzigen wat op de pagina wordt weergegeven. Toegang kan ook tijdelijk zijn.",
+          "Onze tool controleert één item tegelijk. Afspeellijst- en maker-URL's zijn niet uitwisselbaar met /song/-links, zelfs als ze zichtbaar nummers bevatten."
+        ]
+      },
+      {
+        "heading": "Een eenvoudige overdrachtsworkflow",
+        "paragraphs": [
+          "Stuur een bijdrager de link naar het specifieke nummer, plus de versienaam en het item dat je moet beoordelen. Voor bestanden die aan uw eigen account zijn gekoppeld, gebruikt u de bibliotheekexport van Suno. Wanneer u het werk van iemand anders deelt, vraag dan om toestemming voordat u het downloadt of hergebruikt."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan ik een afspeellijst URL in de tool voor één nummer plakken?",
+        "answer": "Nee. Open een afzonderlijk nummer in de afspeellijst en kopieer het directe nummer of deel URL. De huidige tool verwerkt één item per aanvraag."
+      },
+      {
+        "question": "Zijn /s/ en /song/ altijd dezelfde bestanden zichtbaar?",
+        "answer": "Ze kunnen naar hetzelfde nummer leiden, maar de pagina en toegangsgegevens die beschikbaar zijn voor de tool kunnen verschillen. Bevestig de titel en de geretourneerde bestanden voordat u deze opslaat."
+      }
+    ],
+    "toolLabel": "Test één openbare nummerlink",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-download-not-working",
+      "download-multiple-suno-songs"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "download-multiple-suno-songs",
+    "category": "Tutorials",
+    "title": "Meerdere Suno-nummers downloaden als een ZIP",
+    "description": "Gebruik de batchselectie van de bibliotheek van Suno om meerdere nummers samen te downloaden en ontdek wanneer een tool voor één nummer beter geschikt is.",
+    "intro": "Als de nummers zich in uw Suno-bibliotheek of werkruimte bevinden, biedt Suno een officiële ZIP-workflow met meerdere nummers. Onze huidige tool verwerkt één openbare nummerlink tegelijk.",
+    "sections": [
+      {
+        "heading": "Selecteer nummers in Bibliotheek",
+        "paragraphs": [
+          "Houd op de Mac Command ingedrukt om individuele nummers te selecteren; in Windows houdt u Ctrl ingedrukt. Gebruik Shift om een ​​bereik te selecteren. Klik met de rechtermuisknop op een geselecteerd nummer, kies Alles downloaden, kies het aangeboden bestandstype en start de download van de ZIP.",
+          "De officiële stappen zijn gedocumenteerd voor de webinterface van Suno. Zorg voor extra tijd en opslagruimte voor een groot archief en open vervolgens de ZIP voordat u de bronnummers uit uw actieve project verplaatst."
+        ]
+      },
+      {
+        "heading": "Houd het archief begrijpelijk",
+        "paragraphs": [
+          "Geef de ZIP een naam voor het project en de datum. Vermeld in uw projectnotities de beoogde versies, links naar nummers en de rechten van eventuele bijdragers. Een batch is alleen handig als u de bestanden ervan later kunt identificeren.",
+          "Als een item ontbreekt, controleer dan of dit is geselecteerd en of het accountmenu hetzelfde formaat biedt als de andere nummers."
+        ]
+      },
+      {
+        "heading": "Gebruik één link voor inspectie",
+        "paragraphs": [
+          "Voor een toegestaan openbaar nummer dat u individueel wilt inspecteren, plakt u de directe URL in onze downloader. Het kan de beschikbare bestanden voor dat ene nummer, inclusief eventuele songteksten, bundelen in een ZIP. Het accepteert vandaag geen meerdere links of een afspeellijst URL."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Accepteert de downloader van deze site meerdere links tegelijk?",
+        "answer": "Nee. De ZIP-functie verzamelt beschikbare middelen voor één openbaar nummer. Voor meerdere nummers in uw eigen bibliotheek gebruikt u de gedocumenteerde Download All-workflow van Suno."
+      },
+      {
+        "question": "Wat als er één nummer ontbreekt op de ZIP?",
+        "answer": "Controleer of deze in uw selectie zit en of Suno het gekozen bestandstype voor dat nummer aanbiedt. Probeer het opnieuw met een kleinere groep als de batch is onderbroken."
+      }
+    ],
+    "toolLabel": "Inspecteer één openbaar nummer",
+    "related": [
+      "how-to-download-suno-songs",
+      "organize-suno-song-files",
+      "suno-share-link-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Hoe download ik nummers?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-download",
+    "category": "Lyrics",
+    "title": "Hoe u Lyrics van een Suno-nummer als tekst kunt opslaan",
+    "description": "Zoek songteksten op een Suno-nummerpagina, sla de beschikbare tekst op en controleer of de tekstversie overeenkomt met de audio die u wilt gebruiken.",
+    "intro": "Een songtekstbestand is het handigst als u weet welke versie van het nummer het beschrijft. Bewaar de bronlink en luister één keer terwijl je de woorden vergelijkt, vooral na meerdere generaties of bewerkingen.",
+    "sections": [
+      {
+        "heading": "Begin met je eigen songtekstconcept",
+        "paragraphs": [
+          "Als je de songtekst in de Suno Custom-modus hebt geschreven, behoud dan je originele tekstbestand als bron van waarheid. Suno zegt dat je de rechten behoudt op de originele songteksten die je invoert. Geef uw concept een naam met de versie van het nummer, zodat latere herzieningen het niet overschrijven.",
+          "Als een songpagina gegenereerde songteksten weergeeft, kopieer deze dan en bekijk ze tegen de uiteindelijke audio. De gegenereerde uitspraak of herhaalde regels kunnen afwijken van de geschreven tekst."
+        ]
+      },
+      {
+        "heading": "Sla tekst op van een openbaar nummer",
+        "paragraphs": [
+          "Voor een toegestaan openbaar nummer of Hook plakt u de URL in onze downloader. Wanneer de pagina songteksten weergeeft, verschijnt een Lyrics TXT-tegel. U kunt alleen de tekst opslaan of deze samen met beschikbare media opnemen in één nummer ZIP.",
+          "Als de teksttegel niet beschikbaar is, heeft onze tool geen bruikbare tekst op die pagina gevonden. Het kan geen zang uit audio transcriberen of privéconcepten herstellen."
+        ]
+      },
+      {
+        "heading": "Bereid het volgende gebruik voor",
+        "paragraphs": [
+          "Voor lezen en bewerken is gewone TXT voldoende. Een songtekstvideo heeft timinginformatie nodig; tekst alleen bevat geen tijdstempels. Bewaar de songtekst, het audiobestand en URL bij elkaar, zodat u getimede bijschriften kunt maken op basis van de juiste versie."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan de downloader een transcriptie maken van audio?",
+        "answer": "Nee. Het slaat de songtekst op als die tekst beschikbaar is op de openbare nummerpagina. Luister en corrigeer de tekst zelf voordat u deze als transcriptie gebruikt."
+      },
+      {
+        "question": "Bevat TXT de timing van de songteksten?",
+        "answer": "Nee. Platte tekst bevat woorden, geen tijdstempels. Maak LRC of SRT in een timing-editor nadat u de definitieve audioversie hebt gekozen."
+      }
+    ],
+    "toolLabel": "Bekijk de beschikbare songteksten voor een nummer",
+    "related": [
+      "suno-lyrics-timestamps",
+      "suno-lyrics-structure-tags",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kan ik mijn eigen songteksten gebruiken?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-structure-tags",
+    "category": "Lyrics",
+    "title": "Suno Lyrics Structuur Tags: couplet, refrein, brug en outro",
+    "description": "Plan een songtekstconcept voor de Suno met duidelijke sectielabels, doelbewuste herhaling en voldoende ruimte voor verzen, refreinen en overgangen.",
+    "intro": "Sectietags maken een songtekstontwerp gemakkelijker te lezen en te herzien. Het zijn nuttige instructies voor de structuur, maar ze garanderen niet dat een gegenereerd nummer elk label precies zal volgen.",
+    "sections": [
+      {
+        "heading": "Geef elke sectie een taak",
+        "paragraphs": [
+          "Gebruik [Verse] om het verhaal te verplaatsen of een detail te introduceren, [Chorus] voor de regel die het onthouden waard is, [Bridge] voor een nieuw perspectief en [Outro] voor een afsluitende gedachte. Voeg alleen een [Pre-Chorus] toe als het nummer een opbouw nodig heeft tussen couplet en refrein.",
+          "Een kort voorbeeld is [Verse 1] met vier nieuwe regels, [Chorus] met een herhaalde titelregel, [Verse 2] met een gewijzigd detail, en dan weer [Chorus]. De tags organiseren de intentie; het daadwerkelijke muzikale resultaat moet nog worden beluisterd en herzien."
+        ]
+      },
+      {
+        "heading": "Houd labels en songteksten gescheiden",
+        "paragraphs": [
+          "Plaats elke sectietag op een eigen regel. Houd de tekstregels kort genoeg om te kunnen zingen, en laat een lege regel tussen de secties. Dit maakt het gemakkelijker om generaties te vergelijken en te identificeren waar het model een zin heeft overgeslagen, herhaald of uitgerekt.",
+          "Als een refrein plat aanvoelt, herschrijf dan de woorden of contrasteer met het couplet voordat je meer tags toevoegt. Structuur kan een duidelijke centrale lijn niet vervangen."
+        ]
+      },
+      {
+        "heading": "Gebruik het juiste veld Suno",
+        "paragraphs": [
+          "In de Custom-modus plaatst u uw originele songtekst in Lyrics en de algehele geluidsbeschrijving in Styles. Bewaar een kopie buiten Suno voordat u nieuwe versies maakt. De Custom-modus van de Suno ondersteunt het invoeren van uw eigen songteksten."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Zal [Chorus] tweemaal exact dezelfde melodie forceren?",
+        "answer": "Nee. Het geeft de beoogde sectie aan, maar de generatie kan variëren. Vergelijk beide refreinpassages op het gehoor en herzie de tekst of de prompt als het resultaat het nummer niet dient."
+      },
+      {
+        "question": "Waar moet de stijlbeschrijving naartoe?",
+        "answer": "Gebruik het veld Stijlen in de Custom-modus voor de muzikale richting en het veld Lyrics voor de woorden en sectielabels."
+      }
+    ],
+    "toolLabel": "Inspecteer de songtekst van een voltooid nummer",
+    "related": [
+      "suno-lyrics-download",
+      "edit-suno-lyrics",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kan ik mijn eigen songteksten gebruiken?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-timestamps",
+    "category": "Lyrics",
+    "title": "Suno Lyrics Tijdstempels: ondertiteling voor een nummer voorbereiden",
+    "description": "Zet beoordeelde Suno-teksten om in getimede bijschriften door elke regel aan te passen aan de uiteindelijke audio en moeilijke overgangen te controleren.",
+    "intro": "Een eenvoudig tekstbestand vertelt je wat je moet laten zien. Een getimed ondertitelingsbestand zegt ook wanneer elke regel verschijnt. Dit zijn afzonderlijke taken: onze downloader kan beschikbare songteksten opslaan als TXT, maar genereert geen LRC- of SRT-timing.",
+    "sections": [
+      {
+        "heading": "Kies eerst de uiteindelijke audio",
+        "paragraphs": [
+          "Sla de exacte audioversie op die u gaat publiceren. Een latere regeneratie kan de ingangen van coupletten en refreinherhalingen verschuiven, zodat tijdstempels van een eerdere versie kunnen afwijken, zelfs als de woorden er identiek uitzien.",
+          "Luister één keer en corrigeer de songtekst voordat u de timing toevoegt. Markeer ontbrekende woorden, ad libs en herhaalde regels in plaats van aan te nemen dat de weergegeven songteksten een perfecte transcriptie zijn."
+        ]
+      },
+      {
+        "heading": "Markeerlijn begint en eindigt",
+        "paragraphs": [
+          "Open de audio in een editor die ondertiteling ondersteunt. Speel vanaf het begin en neem op wanneer elke tekstregel begint. Stel voor ondertitelformaten ook een eindtijd in die voldoende leestijd overlaat zonder de volgende regel te beslaan.",
+          "Controleer het eerste couplet, elke refreinherhaling, eventuele instrumentale pauze en de outro. Dat zijn veelvoorkomende plaatsen waar een uniforme timing-offset mislukt."
+        ]
+      },
+      {
+        "heading": "Exporteren voor de bestemming",
+        "paragraphs": [
+          "Gebruik SRT voor veel video-editors en ondertitelworkflows, of LRC voor spelers die gesynchroniseerde songteksten weergeven. Test het geëxporteerde bestand met de daadwerkelijke video of speler voordat u het deelt. Bewaar een TXT-kopie zodat de woorden gemakkelijk te bewerken blijven."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan ik de timing van een andere generatie hergebruiken?",
+        "answer": "Pas nadat je het hebt vergeleken met de uiteindelijke audio. Zelfs nummers met identieke woorden kunnen verschillende ingangen, pauzes en refreinlengtes hebben."
+      },
+      {
+        "question": "Welk formaat moet ik kiezen voor een video-editor?",
+        "answer": "SRT wordt veel gebruikt voor getimede ondertitels, maar controleer het formaat dat door uw specifieke editor wordt geaccepteerd. Bewaar het ongetimede TXT-bestand voor revisies."
+      }
+    ],
+    "toolLabel": "Beschikbare songteksttekst opslaan",
+    "related": [
+      "suno-lyrics-download",
+      "suno-video-download",
+      "edit-suno-lyrics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "edit-suno-lyrics",
+    "category": "Lyrics",
+    "title": "Suno Lyrics herzien zonder de Hook van het nummer te verliezen",
+    "description": "Verbeter een Suno-songtekst door zwakke lijnen te diagnosticeren, de memorabele hook te behouden en één revisie tegelijk te testen.",
+    "intro": "Wanneer een nummer bijna werkt, kan het herschrijven van elke regel het gedeelte dat mensen zich herinneren uitwissen. Bewaar de huidige songtekst- en audioversies en wijzig vervolgens het kleinste gedeelte dat het probleem veroorzaakt.",
+    "sections": [
+      {
+        "heading": "Noem het specifieke probleem",
+        "paragraphs": [
+          "Luister met de teksttekst open. Markeer regels die moeilijk te zingen zijn, vaag, repetitief op de verkeerde plaats of niet consistent met het verhaal. Als het refrein sterk is, bescherm dan de hoofdfrase terwijl je het couplet dat ernaartoe leidt, aanpast.",
+          "Scheid tekstproblemen van productieproblemen. Een begraven stem heeft mogelijk een ander arrangement of een andere mixinstructie nodig dan een nieuw rijm."
+        ]
+      },
+      {
+        "heading": "Voer een gecontroleerde herschrijving uit",
+        "paragraphs": [
+          "Dupliceer het concept en noem het versie twee. Herzie één sectie terwijl u hetzelfde standpunt, het aantal regels en sectietags behoudt. Vervang een algemene claim door een concreet beeld of actie; lees de nieuwe regels hardop voordat u opnieuw genereert.",
+          "Vergelijk het nieuwe resultaat met de vorige audio, niet alleen met de tekst. Een beter geschreven regel kan onhandig op de melodie passen, en een eenvoudige regel kan uitzonderlijk goed zingen."
+        ]
+      },
+      {
+        "heading": "Houd een wijzigingsregistratie bij",
+        "paragraphs": [
+          "Noteer de gewijzigde regel, de reden daarvoor en welke versie u verkiest. Sla het uiteindelijke songtekstbestand op met de bijpassende audio en song URL. Als u samenwerkt, vraag dan de reviewers om de exacte tijdstempel en sectie te identificeren, in plaats van een algemene herschrijving aan te vragen."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Moet ik eerst het refrein veranderen?",
+        "answer": "Als luisteraars het onthouden en het past bij de melodie, bewaar het dan. Bepaal of het couplet, de overgang of het vocale arrangement de zwakkere indruk veroorzaakt."
+      },
+      {
+        "question": "Hoe vergelijk ik twee songtekstversies eerlijk?",
+        "answer": "Bewaar beide teksten en beide audioresultaten. Let op de exacte sectie en hoorbare verbetering in plaats van alleen de geschreven regels te beoordelen."
+      }
+    ],
+    "toolLabel": "Bekijk de songtekst op een songpagina",
+    "related": [
+      "suno-lyrics-structure-tags",
+      "suno-lyrics-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kan ik mijn eigen songteksten gebruiken?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-cover-art-download",
+    "category": "Cover art",
+    "title": "Hoe u Suno-hoeskunst kunt opslaan van een nummer dat u kunt gebruiken",
+    "description": "Zoek het gepubliceerde artwork van een Suno-nummer, sla de beschikbare afbeelding op en bewaar de bron- en toestemmingsrecord bij uw muziekbestanden.",
+    "intro": "Een omslagafbeelding maakt een nummer gemakkelijk herkenbaar in een bibliotheek, maar de aanwezigheid van een afbeelding op een openbare pagina geeft geen toestemming om het elders te publiceren. Begin met je eigen nummer of met de expliciete toestemming van een maker.",
+    "sections": [
+      {
+        "heading": "Zoek de gepubliceerde afbeelding",
+        "paragraphs": [
+          "Open de nummerpagina en bevestig dat het artwork tot de bedoelde versie behoort. Voor een toegankelijke openbare /s/, /song/ of /hook/link toont onze downloader alleen een Cover Art-tegel wanneer er een afbeeldingsbestand op de pagina wordt gevonden.",
+          "Sla de afbeelding op met die tegel. Als de tegel niet beschikbaar is, bezoek dan de bronpagina opnieuw; deze tool kan geen illustraties genereren of vergroten die niet zijn gepubliceerd."
+        ]
+      },
+      {
+        "heading": "Houd de juiste context aan",
+        "paragraphs": [
+          "Sla de afbeelding op naast de audio van het nummer en de tekst van de songtekst. Noteer de bron URL, de maker en de datum waarop u het hebt opgeslagen. Als u een release voorbereidt, controleer dan de rechten op elk element, inclusief geüploade illustraties of illustraties van derden.",
+          "Hernoem kopieën voor uw project met behoud van het originele bestand. Dat maakt het mogelijk om latere bewerkingen te vergelijken zonder de gepubliceerde afbeelding te verliezen."
+        ]
+      },
+      {
+        "heading": "Bereid je voor op een bestemming",
+        "paragraphs": [
+          "Voordat u de kunst aan een video, speler of distributeur toevoegt, controleert u de vereisten voor grootte, beeldverhouding en bestandstype van dat platform. Een publieke afbeelding kan kleiner zijn dan een releaseplatform vereist. Het formaat wijzigen kan geen echte details toevoegen aan een origineel met een lage resolutie."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan ik albumhoezen van elk openbaar nummer opslaan?",
+        "answer": "Technische toegang leidt niet tot toestemming. Gebruik kunst uit je eigen nummer of vraag toestemming van de betreffende maker en artiest voor je geplande gebruik."
+      },
+      {
+        "question": "Waarom ontbreekt de afdektegel?",
+        "answer": "Het is mogelijk dat de pagina geen afbeelding weergeeft die de tool kan opslaan. Open het bronnummer en controleer het artwork voordat u ervan uitgaat dat er een bestand beschikbaar is."
+      }
+    ],
+    "toolLabel": "Controleer de beschikbare albumhoezen",
+    "related": [
+      "suno-cover-art-size",
+      "suno-mp3-cover-art-missing",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-cover-art-size",
+    "category": "Cover art",
+    "title": "Suno Grootte en formaat van omslagillustraties: wat u moet controleren voordat u publiceert",
+    "description": "Controleer de afmetingen, het bijsnijden, het formaat en de rechten van een Suno-omslagafbeelding voordat u deze gebruikt in een speler, video of release-workflow.",
+    "intro": "Er bestaat niet één beeldformaat dat bij elke bestemming past. Begin met het daadwerkelijke bestand dat voor uw nummer is meegeleverd en vergelijk het vervolgens met de huidige vereisten van het platform waarop het zal verschijnen.",
+    "sections": [
+      {
+        "heading": "Inspecteer de bronafbeelding",
+        "paragraphs": [
+          "Sla de beschikbare hoes op van de nummerpagina en bekijk de pixelafmetingen en het bestandstype in uw besturingssysteem. Controleer of de afbeelding vierkant is, of belangrijke tekst aan de rand staat en of de versie overeenkomt met de audio.",
+          "Onze downloader slaat een beschikbare gepubliceerde afbeelding op; het belooft geen vast JPEG-formaat of creëert geen alternatief met hoge resolutie."
+        ]
+      },
+      {
+        "heading": "Ontwerp voor de bestemming",
+        "paragraphs": [
+          "Een thumbnail van een muziekbibliotheek kan een andere uitsnede tolereren dan een songtekstvideo op volledig scherm. Lees voor een release de huidige artworkspecificaties van uw distributeur, inclusief minimale afmetingen, kleurmodus, tekst en inhoudsregels.",
+          "Maak voor elke bestemming een aparte export. Als u een kleine afbeelding opschaalt, inspecteer deze dan op ware grootte op onscherpte of zichtbare artefacten, in plaats van aan te nemen dat een groter aantal pixels de bron verbetert."
+        ]
+      },
+      {
+        "heading": "Bewaar het bewijs van gebruik",
+        "paragraphs": [
+          "Een screenshot van een openbare pagina is geen licentie. Bewaar het bronbestand en het recht om het te gebruiken met de rest van het nummer. Als iemand anders de dekking heeft geleverd, vraag dan om toestemming voor uw geplande gebruik."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welk formaat heeft de Suno-omslagafbeelding?",
+        "answer": "Controleer de daadwerkelijke afbeelding die u hebt opgeslagen; afmetingen kunnen afhankelijk zijn van het gepubliceerde item. Ga niet uit van een vast formaat op basis van de paginaminiatuur."
+      },
+      {
+        "question": "Kan ik een kleine omslagafdruk klaar maken door deze te vergroten?",
+        "answer": "Door de vergroting worden de afmetingen gewijzigd, maar worden ontbrekende beelddetails niet hersteld. Vraag om een ​​geautoriseerde bron van hogere kwaliteit als de bestemming er een nodig heeft."
+      }
+    ],
+    "toolLabel": "Sla het gepubliceerde omslagbestand op",
+    "related": [
+      "suno-cover-art-download",
+      "suno-video-download",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "write-better-suno-prompts",
+    "category": "Prompts",
+    "title": "Hoe u een Suno-prompt schrijft met een duidelijke muzikale richting",
+    "description": "Bouw een gerichte Suno-muziekprompt op basis van genre, tempo, instrumenten, vocale uitvoering en productiekeuzes, en vergelijk de resultaten vervolgens systematisch.",
+    "intro": "Een nuttige aanwijzing geeft het model een samenhangend muzikaal doel. Begin met een kort kernidee, voeg alleen de details toe die van invloed zijn op het luisterresultaat en pas het aan nadat je het nummer hebt gehoord.",
+    "sections": [
+      {
+        "heading": "Schrijf een doel van één zin",
+        "paragraphs": [
+          "Kies een brede stijl, emotionele beweging en een hoofdgeluid. Bijvoorbeeld: een intieme akoestische popballad met Fingerpicked gitaar, ingetogen drums en een close vocal. Dit geeft je een duidelijkere test dan een lange lijst met niet-gerelateerde genres.",
+          "Als het nummer tekst heeft, beslis dan of het geluid een rustig couplet, een groter refrein of beide moet ondersteunen. Houd die relatie expliciet."
+        ]
+      },
+      {
+        "heading": "Voeg een paar nuttige beperkingen toe",
+        "paragraphs": [
+          "Specificeer een of twee instrumenten die prominent aanwezig moeten zijn, de vocale levering en de productietextuur. Beschrijf wat er alleen in secties moet veranderen als de verandering ertoe doet. Vermijd het opstapelen van synoniemen zoals warm, weelderig, dromerig, zacht, zacht en zachtaardig zonder prioriteit.",
+          "In de Suno Custom-modus bepaalt Styles de muzikale richting, terwijl Lyrics uw tekst vasthoudt. Suno stelt deze als afzonderlijke velden beschikbaar."
+        ]
+      },
+      {
+        "heading": "Test één wijziging tegelijk",
+        "paragraphs": [
+          "Sla de prompt op met een versienummer. Luister naar het dominante instrument, de energie, het vocale karakter en het sectiecontrast. Wijzig één categorie voor de volgende generatie, zodat u kunt zien welke bewerking heeft geholpen.",
+          "Bewaar de nummerlink en notities naast de prompt. Onze downloader kan een toegestaan ​​openbaar resultaat en de beschikbare middelen inspecteren wanneer u klaar bent om het te bekijken of te archiveren."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Hoe lang moet een Suno-prompt zijn?",
+        "answer": "Lang genoeg om een ​​samenhangend doel te formuleren, maar kort genoeg om ervoor te zorgen dat elk detail een rol speelt. Begin met genre, hoofdgeluid, stem- of instrumentale keuze en sectie-energie."
+      },
+      {
+        "question": "Kan een prompt een specifiek resultaat garanderen?",
+        "answer": "Nee. Generaties variëren. Houd een versiemelding bij en vergelijk de audio, zodat elke revisie gebaseerd is op wat u daadwerkelijk hebt gehoord."
+      }
+    ],
+    "toolLabel": "Inspecteer een voltooid openbaar nummer",
+    "related": [
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Overzicht aangepaste modus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-style-prompt-examples",
+    "category": "Prompts",
+    "title": "Suno Style Snelle voorbeelden die u kunt aanpassen en testen",
+    "description": "Gebruik gerichte stijlvoorbeelden voor akoestische pop, elektronische muziek en filmische sfeer, terwijl je leert welke details je moet veranderen.",
+    "intro": "Een stijlvoorbeeld is een uitgangspunt, geen recept voor een gegarandeerd geluid. Pas het genre, de instrumentrollen, de vocale aanpak en de productietextuur aan je eigen nummer aan.",
+    "sections": [
+      {
+        "heading": "Akoestisch nummer met een groter refrein",
+        "paragraphs": [
+          "Probeer: intieme akoestische pop, Fingerpicked gitaar in coupletten, warme bas, ingetogen percussie, close leadzang, bredere harmonieën in het refrein. Het contrast is belangrijker dan het toevoegen van meer sfeerwoorden.",
+          "Als het refrein klein blijft, moet u eerst de arrangementwijziging herzien. Als de stem te afstandelijk aanvoelt, verander dan de vocale beschrijving zonder de hele opdracht te herschrijven."
+        ]
+      },
+      {
+        "heading": "Ritmisch elektronisch nummer",
+        "paragraphs": [
+          "Probeer: mid-tempo elektronische pop, strakke kick en gesyncopeerde bas, glazig synthmotief, spaarzame verzen, helder gelaagde hook, zuivere moderne mix. Hier hebben de bas en het motief verschillende taken.",
+          "Als het resultaat te vol is, verwijder dan één laag of verminder de energie van het couplet. Bewaar de groefbeschrijving als dat onderdeel werkte."
+        ]
+      },
+      {
+        "heading": "Instrumentale sfeer",
+        "paragraphs": [
+          "Probeer: langzaam filmisch ambientstuk, zacht pianomotief, evoluerend strijkerspad, verre kamertextuur, geleidelijke deining, geen hoofdzang. Gebruik voor een nummer zonder tekst ook de instrumentale instelling van Suno, indien beschikbaar.",
+          "Bewaar de exacte prompt bij elke gegenereerde versie. Vergelijk het hoorbare resultaat in plaats van aan te nemen dat een gekopieerd voorbeeld zich over generaties heen identiek zal gedragen."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Moet ik de voorbeelden ongewijzigd plakken?",
+        "answer": "Gebruik ze als toetsbare uitgangspunten. Vervang de instrument-, groove- en vocale keuzes zodat deze bij uw eigen nummer passen en vergelijk vervolgens het resultaat."
+      },
+      {
+        "question": "Waarom klinken identieke stijlaanwijzingen anders?",
+        "answer": "De generatie is variabel en andere input, zoals songteksten, kan de uitkomst veranderen. Sla versies op en beoordeel de resulterende audio in plaats van een prompt als een vaste voorinstelling te behandelen."
+      }
+    ],
+    "toolLabel": "Bekijk een voorbeeldresultaat",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-instrumental-prompt",
+      "suno-exclude-styles"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Overzicht aangepaste modus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-instrumental-prompt",
+    "category": "Prompts",
+    "title": "Een instrumentaal Suno-nummer maken met een gerichte prompt",
+    "description": "Zet een instrumentale Suno-creatie op en beschrijf de melodie, het ritme, het arrangement en de ontwikkeling zonder te vertrouwen op tekstinstructies.",
+    "intro": "Beschrijf voor een instrumentaal wat de instrumenten in de loop van de tijd zullen doen. Alleen al een genrelabel laat de melodie, puls en sectiebeweging ondergespecificeerd.",
+    "sections": [
+      {
+        "heading": "Gebruik de instrumentele controle",
+        "paragraphs": [
+          "De Custom-modus van de Suno bevat een instrumentale optie. Zet hem aan als je geen leadzang wilt en gebruik dan Styles en andere beschikbare bedieningselementen voor het geluid. Vertrouw er niet alleen op dat u geen songteksten in een tekstveld schrijft.",
+          "Controleer het gegenereerde resultaat: een instrumentale setting is de bedoeling, terwijl de daadwerkelijke audio mogelijk nog een nieuwe poging of een duidelijkere prompt nodig heeft."
+        ]
+      },
+      {
+        "heading": "Beschrijf drie muzikale banen",
+        "paragraphs": [
+          "Kies een leadgeluid, een ondersteunende textuur en een puls. Bijvoorbeeld: zachte melodie van een elektrische piano, een laag analoog pad eronder en een licht geborstelde beat. Voeg een ontwikkelingssignaal toe, zoals een bredere tweede helft of een uitgekleed einde.",
+          "Vermijd een lijst van tien instrumenten, tenzij je hun verschillende rollen kunt uitleggen. Minder, meer duidelijke aanwijzingen zijn gemakkelijker te evalueren."
+        ]
+      },
+      {
+        "heading": "Controleer het resultaat aan de hand van de opdracht",
+        "paragraphs": [
+          "Luister naar ongewenste zang, of de lead hoorbaar is en of het stuk zich ontwikkelt. Wijzig één van deze afmetingen per nieuwe versie. Bewaar de link en prompt samen; Als je het recht hebt om het nummer te gebruiken, bekijk dan de beschikbare audio op de openbare pagina."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is het schrijven van geen zang in Styles genoeg?",
+        "answer": "Gebruik de instrumentale optie van Suno wanneer deze beschikbaar is, en beschrijf vervolgens het beoogde arrangement in stijlen. Luister naar het resultaat om te bevestigen dat het aan de opdracht voldoet."
+      },
+      {
+        "question": "Wat moet een vocale hook vervangen?",
+        "answer": "Geef een hoofdinstrument een duidelijk, herhaalbaar motief en plan waar het over het nummer terugkeert of verandert."
+      }
+    ],
+    "toolLabel": "Inspecteer uw instrumentele resultaat",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Overzicht aangepaste modus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-exclude-styles",
+    "category": "Prompts",
+    "title": "Hoe u ongewenste stijlen kunt verminderen in een Suno-generatie",
+    "description": "Diagnose van ongewenste genre-, vocale of instrumentkenmerken in een Suno-nummer en herzie de prompt zonder de hoofdrichting te verzwakken.",
+    "intro": "Wanneer een generatie een geluid toevoegt waar je niet om hebt gevraagd, identificeer dan nauwkeurig de hoorbare eigenschap. Een gerichte positieve richting en één gerichte uitsluiting zijn gemakkelijker te testen dan een lange lijst met verboden.",
+    "sections": [
+      {
+        "heading": "Geef het ongewenste geluid een naam",
+        "paragraphs": [
+          "Schrijf op wat je hebt gehoord: een heldere synth-lead, een rockdrumpatroon, een koorachtergrondzang of een ander genre-gevoel. Brede feedback, zoals te algemeen, wijst niet op een nuttige bewerking.",
+          "Controleer of uw oorspronkelijke prompt per ongeluk het geluid heeft opgeroepen. Woorden als episch of filmisch kunnen een groter arrangement impliceren dan je bedoelde."
+        ]
+      },
+      {
+        "heading": "Breng de positieve prompt opnieuw in evenwicht",
+        "paragraphs": [
+          "Vermeld duidelijk het gewenste leadinstrument en de groove. Vervang concurrerende stijlwoorden door één anker. Als Suno een geavanceerd besturingselement bevat voor uitgesloten stijlen in uw huidige interface, plaats daar dan een korte, specifieke ongewenste eigenschap.",
+          "Ga er niet vanuit dat een uitsluiting altijd zal worden nageleefd. De generatie is variabel, en een tegenstrijdige positieve aanwijzing kan het resultaat nog steeds in de richting van het geluid trekken dat u wilde vermijden."
+        ]
+      },
+      {
+        "heading": "Vergelijk een kleine revisie",
+        "paragraphs": [
+          "Genereer opnieuw met alleen die verandering. Bewaar de originele en herziene prompt en luister in beide resultaten naar hetzelfde gedeelte. Als het ongewenste geluid verdwijnt maar de energie ook afneemt, herstel dan de energie met een andere instrumentrol in plaats van hetzelfde genre-signaal opnieuw te introduceren."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Moet ik meerdere genres tegelijk uitsluiten?",
+        "answer": "Begin met het enige hoorbare kenmerk dat het probleem veroorzaakte. Een lange reeks uitsluitingen maakt het moeilijker om erachter te komen welke herziening heeft geholpen."
+      },
+      {
+        "question": "Wat als er toch een uitgesloten instrument verschijnt?",
+        "answer": "Controleer op tegenstrijdige woorden in de positieve prompt, maak het beoogde hoofdinstrument duidelijker en vergelijk een andere generatie. Uitsluitingen zijn geen garanties."
+      }
+    ],
+    "toolLabel": "Inspecteer een herzien nummer",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-custom-mode-tutorial",
+    "category": "Tutorials",
+    "title": "Suno Aangepaste modus-tutorial: Lyrics, stijlen en instrumentaal",
+    "description": "Stel een Suno-nummer in de aangepaste modus in met originele songteksten, een gerichte stijlbeschrijving, een titel en indien nodig de instrumentale optie.",
+    "intro": "De Custom-modus is handig als je aparte controle wilt over de woorden en de muzikale richting. Bereid die onderdelen voor voordat u op Maken drukt, zodat u kunt herkennen welke keuze het resultaat heeft bepaald.",
+    "sections": [
+      {
+        "heading": "Bereid de invoer voor",
+        "paragraphs": [
+          "Schrijf een korte stijlbriefing met een genre-anker, de belangrijkste instrumenten, het vocale karakter en de energieverandering. Als het nummer zang bevat, stel dan je eigen songtekst op met eenvoudige sectielabels. Bewaar een kopie buiten Suno, zodat latere bewerkingen kunnen worden hersteld.",
+          "Plan voor een instrumentaal instrument de melodie en ondersteunende instrumentrollen in plaats van het tekstveld te vullen met productie-instructies."
+        ]
+      },
+      {
+        "heading": "Maak in de aangepaste modus",
+        "paragraphs": [
+          "Open Suno Maken en selecteer Aangepast. Voer je songtekst in Lyrics in, de geluidsbeschrijving in Styles en een duidelijke titel. Gebruik de optie Instrumentaal als je muziek zonder gezongen tekst wilt, en maak vervolgens het nummer.",
+          "Deze bedieningselementen worden beschreven in de helpfunctie van de Suno Aangepaste modus. Het exacte scherm kan veranderen, gebruik daarom de labels die zichtbaar zijn in uw account."
+        ]
+      },
+      {
+        "heading": "Controleer de versie en sla deze op",
+        "paragraphs": [
+          "Let op de nauwkeurigheid van de tekst, de overgangen naar secties en of de instrumenten overeenkomen met de opdracht. Registreer één ding om te bewaren en één ding om te veranderen. Als u de nummerpagina publiceert, laat de link dan naast de prompt en de songtekstversie staan.",
+          "Gebruik voor uw eigen nummer het officiële downloadmenu van Suno voor accountexports. Onze tool voor één nummer kan de items inspecteren die beschikbaar zijn via een toegestane openbare link."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Moet ik mijn eigen teksten schrijven?",
+        "answer": "Nee. De aangepaste modus accepteert uw originele songteksten of gegenereerde tekst. Bewaar een kopie van elk concept dat u wilt herzien of documenteren."
+      },
+      {
+        "question": "Waar kies ik een instrumentaal?",
+        "answer": "Gebruik de instrumentale besturing in de aangepaste modus wanneer de huidige interface dit biedt, en schrijf vervolgens een gerichte geluidsbeschrijving in stijlen."
+      }
+    ],
+    "toolLabel": "Een openbaar resultaat bekijken",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-lyrics-structure-tags",
+      "how-to-download-suno-songs"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kan ik mijn eigen songteksten gebruiken?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      },
+      {
+        "label": "Suno: Overzicht aangepaste modus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "organize-suno-song-files",
+    "category": "Tutorials",
+    "title": "Hoe Suno Audio, Lyrics, Cover Art en Prompts te organiseren",
+    "description": "Bouw een eenvoudig map- en naamgevingssysteem dat elke Suno-nummerversie, prompt, songtekstconcept, afbeelding en toestemmingsrecord bij elkaar houdt.",
+    "intro": "Een songproject wordt moeilijk te beheren als audio, artwork en songteksten dezelfde algemene bestandsnaam gebruiken. Een kleine naamgevingsconventie maakt vergelijking en samenwerking veel eenvoudiger.",
+    "sections": [
+      {
+        "heading": "Maak één map per nummer",
+        "paragraphs": [
+          "Gebruik een mapnaam zoals project-song-titel. Bewaar audio, albumhoezen, songteksten en notities erin. Als u meerdere generaties heeft, gebruik dan versienummers in plaats van een bestand met de naam final te overschrijven.",
+          "Een werkbaar patroon is songtitel-v03-audio.mp3, songtitel-v03-lyrics.txt en songtitel-v03-cover.jpg. Leg de bron URL en het aangemaakte account vast in een korte README of notitie."
+        ]
+      },
+      {
+        "heading": "Volg de beslissing, niet alleen het asset",
+        "paragraphs": [
+          "Schrijf voor elke veelbelovende versie de prompt, de tekstversie, wat er is veranderd en wat je hebt gehoord op. Als iemand anders woorden of illustraties heeft bijgedragen, bewaar dan de toestemming en creditinformatie in dezelfde projectmap.",
+          "Bewaar het officiële downloadrecord als commercieel gebruik ertoe doet. Een bestand alleen verklaart niet welk account of welke route het heeft geproduceerd."
+        ]
+      },
+      {
+        "heading": "Bekijk het archief",
+        "paragraphs": [
+          "Open de audio-, afbeelding- en songtekstbestanden na het opslaan. Zorg ervoor dat ze allemaal dezelfde nummerversie beschrijven voordat u een ZIP naar een bijdrager stuurt. Onze tool kan de gevonden bestanden verpakken voor één toegestane openbare nummerlink, maar uw eigen aantekeningen en toestemmingsrecords hebben nog steeds aparte opslag nodig."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wat is de minimale informatie die bij een nummer moet worden opgeslagen?",
+        "answer": "Bewaar de audioversie, het nummer URL, de prompt, de songtekstversie, de creatiecontext en eventuele toestemmingsrecords die relevant zijn voor het beoogde gebruik."
+      },
+      {
+        "question": "Moet ik bestanden met de naam final overschrijven?",
+        "answer": "Nee. Geef elke beoordeelde generatie een versienummer. U kunt er één als geselecteerd markeren zonder de eerdere bestanden te verliezen waarin wordt uitgelegd hoe deze is gewijzigd."
+      }
+    ],
+    "toolLabel": "Verzamel beschikbare bestanden voor één nummer",
+    "related": [
+      "download-multiple-suno-songs",
+      "suno-cover-art-download",
+      "suno-lyrics-download"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-commercial-use",
+    "category": "Rights",
+    "title": "Kun je een Suno-nummer commercieel gebruiken? Controleer het abonnement en de downloadrechten",
+    "description": "Begrijp het verschil tussen een openbare Suno-link, een toegestane download, commercieel gebruik en auteursrecht voordat u een nummer uitbrengt.",
+    "intro": "Een openbare nummerlink vertelt u dat een pagina kan worden bekeken. Er wordt niet vastgesteld wie het nummer heeft gemaakt en of u het recht heeft om er inkomsten mee te genereren. Controleer het account, de aanmaakcontext, de downloadroute en eventueel materiaal van derden voordat het wordt uitgebracht.",
+    "sections": [
+      {
+        "heading": "Controleer het aanmaakplan en exporteer",
+        "paragraphs": [
+          "Het helpcentrum van Suno zegt dat nummers met een betaald abonnement commerciële gebruiksrechten kunnen krijgen, terwijl nummers die met het gratis abonnement zijn gemaakt voor niet-commercieel gebruik zijn. De huidige Voorwaarden verbinden ook toegestaan ​​commercieel gebruik aan een goedgekeurde download onder het toepasselijke serviceniveau. Gebruik uw eigen Suno-account en bewaar het officiële downloadrecord voor een commercieel project.",
+          "Als u later een abonnement koopt, krijgt u niet automatisch commerciële rechten met terugwerkende kracht op een eerder gratis abonnementsnummer. Suno documenteert dat onderscheid expliciet."
+        ]
+      },
+      {
+        "heading": "Controleer elke invoer",
+        "paragraphs": [
+          "Zorg ervoor dat je toestemming hebt om songteksten, geüploade audio, albumhoezen en andere bijdragen te gebruiken. Een openbare pagina of een actie tot hergebruikprompt verleent niet de rechten op de originele songteksten van een andere maker.",
+          "Commerciële toestemming en auteursrechtelijke bescherming zijn afzonderlijke vragen. Suno merkt op dat de kwalificatie van auteursrechten afhangt van de jurisdictie en de menselijke bijdrage aan het werk."
+        ]
+      },
+      {
+        "heading": "Houd een releaserecord bij",
+        "paragraphs": [
+          "Bewaar de nummerlink, het accountplan bij het maken en downloaden, de officiële export, de machtigingen voor bijdragers en het beoogde distributiekanaal. Controleer de huidige voorwaarden van Suno en de vereisten van uw distributeur opnieuw voordat u deze publiceert, omdat platformregels kunnen veranderen.",
+          "Onze downloader helpt bij het inspecteren van activa op een toegestane openbare link; het verifieert niet het eigendom, verleent geen licentie of vervangt geen goedgekeurde accountexport."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Maakt een betaald abonnement elk eerder nummer commercieel?",
+        "answer": "Nee. Suno zegt dat een later abonnement niet automatisch commerciële rechten met terugwerkende kracht geeft op nummers die met een gratis abonnement zijn gemaakt."
+      },
+      {
+        "question": "Bewijst een openbare download dat ik de eigenaar van het nummer ben?",
+        "answer": "Nee. Het geeft aan dat een bestand toegankelijk was. Eigendom, rechten van bijdragers, servicelaag en een goedgekeurde downloadroute vereisen afzonderlijke verificatie."
+      }
+    ],
+    "toolLabel": "Inspecteer een geautoriseerd openbaar nummer",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-cover-art-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Servicevoorwaarden Suno",
+        "url": "https://suno.com/terms-of-service"
+      },
+      {
+        "label": "Suno: Welke rechten heb ik bij een betaald abonnement?",
+        "url": "https://help.suno.com/en/articles/9601665"
+      },
+      {
+        "label": "Suno: Rechten voor nummers die zijn gemaakt voordat u zich abonneert",
+        "url": "https://help.suno.com/en/articles/2425729"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-credits-limits",
+    "category": "Downloads",
+    "title": "Suno Download-limieten in 2026: credits, resets en wat telt",
+    "description": "Begrijp de downloadlimieten van de Suno, het opnieuw instellen van de factureringscyclus, proefdownloads, gekochte pakketten en hoe formaten en stengels tellen.",
+    "intro": "Suno-generatiecredits en downloadcredits zijn gescheiden. Je bibliotheek blijft speelbaar en deelbaar als je je downloadlimiet hebt opgebruikt. De onderstaande regels weerspiegelen de helppagina's van Suno die op 22 oktober 2026 zijn gecontroleerd; bevestig de huidige opties in uw account voordat u een release of archivering plant.",
+    "sections": [
+      {
+        "heading": "Downloaden van maandabonnementen",
+        "paragraphs": [
+          "Suno vermeldt momenteel 20 downloads van nummers per maand voor Pro en 60 voor Premier. Maandelijkse tegoeden worden tijdens de factureringscyclus opgewaardeerd; jaarabonnees ontvangen de maandelijkse opwaardering op basis van de oorspronkelijke aankoopdatum. Ongebruikte maandelijkse tegoeden worden niet overgedragen. Voor Premier-workflows in Suno Studio geldt geen downloadlimiet.",
+          "Een gratis account komt mogelijk in aanmerking voor maximaal 7 levenslange proefdownloads. Proefdownloads worden niet maandelijks bijgevuld en zijn uitsluitend bedoeld voor persoonlijk, niet-commercieel gebruik. Op de huidige helppagina's van Suno wordt vermeld dat de beschikbaarheid van proefversies kan variëren voor nieuwere gratis accounts, dus controleer de hoeveelheid die in uw account wordt weergegeven."
+        ]
+      },
+      {
+        "heading": "Wat telt als één download",
+        "paragraphs": [
+          "Suno telt één nummer als één download, ongeacht het formaat. Als u hetzelfde nummer opnieuw downloadt in een ander formaat, wordt er geen nieuw maandelijks tegoed gebruikt. Stems voor dat nummer worden meegeteld in het aantal downloads, en mislukte of onderbroken downloads tellen niet mee voor de vergoeding.",
+          "Maandelijkse abonnementskredieten worden niet overgedragen. Individueel aangeschafte downloads en downloadpakketten blijven geldig. Proefdownloads worden ook meegenomen als ze niet worden gebruikt, maar worden in latere maanden niet opnieuw aangevuld."
+        ]
+      },
+      {
+        "heading": "Plan welke bestanden u wilt exporteren",
+        "paragraphs": [
+          "Bepaal voordat u gaat exporteren welke songversies en bestanden u nodig heeft. Beschikbare opties variëren per abonnement, nummer en apparaat: Suno vermeldt MP3 voor alle abonnementen, WAV voor Pro en Premier op internet, video indien beschikbaar, stems wanneer deze bestaan, en MIDI voor in aanmerking komende Suno Studio-nummers op Premier. Controleer het menu voor het exacte nummer in plaats van ervan uit te gaan dat elk formaat beschikbaar is.",
+          "Als je een export nodig hebt voor een deadline, gebruik dan het officiële accountmenu van Suno en bewaar het bestand met de nummerlink. Onze tool voor openbare links kan media inspecteren die op een pagina met toegestane nummers worden weergegeven, maar kan uw accounttegoeden niet weergeven of aanvullen, geen commerciële rechten verlenen of een officiële export vervangen."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Worden ongebruikte downloads overgedragen?",
+        "answer": "Maandelijkse Pro- en Premier-tegoeden worden niet overgedragen. Suno zegt dat individueel aangeschafte downloads, downloadpakketten en ongebruikte proefdownloads wel doorlopen; proefdownloads worden niet elke maand opnieuw gevuld."
+      },
+      {
+        "question": "Kan een proefdownload commercieel worden gebruikt?",
+        "answer": "Nee. Suno beschrijft proefdownloads als persoonlijk, niet-commercieel gebruik en zegt dat ze geen commerciële gebruiksrechten verlenen."
+      }
+    ],
+    "toolLabel": "Inspecteer één toegestaan openbaar nummer",
+    "related": [
+      "how-to-download-suno-songs",
+      "download-multiple-suno-songs",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Hoe werken downloads?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      },
+      {
+        "label": "Suno: Rollen downloadcredits door?",
+        "url": "https://help.suno.com/en/articles/13876929"
+      },
+      {
+        "label": "Suno: gratis proefdownloads",
+        "url": "https://help.suno.com/en/articles/13926401"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-cover-art-missing",
+    "category": "Cover art",
+    "title": "Suno MP3 Omslagafbeelding ontbreekt? Controleer de ingebedde illustraties en speler",
+    "description": "Ontdek of een Suno MP3 de ingebouwde hoes mist of dat uw muziekapp deze gewoon niet weergeeft, en kies vervolgens een veilige oplossing.",
+    "intro": "Een lege miniatuur betekent niet altijd dat de omslagfoto van de MP3 is verwijderd. Sommige spelers en bestandsbeheerders geven ingesloten illustraties anders weer. Controleer het audiobestand zelf voordat u het opnieuw downloadt of de tags wijzigt.",
+    "sections": [
+      {
+        "heading": "Controleer of de afbeelding in de MP3 staat",
+        "paragraphs": [
+          "Open het opgeslagen bestand in een tweede muziekspeler of een audiotagviewer die ingesloten illustraties kan tonen. Als de omslag daar verschijnt, bevat de MP3 een afbeelding en heeft de eerste app mogelijk een probleem met de weergave, cache of tag-compatibiliteit. Start de app opnieuw of vernieuw de bibliotheek voordat u het bestand wijzigt.",
+          "Als er geen artwork verschijnt in meer dan één tag-bewuste app, controleer dan de nummerpagina en downloadopties van Suno. Er kan een aparte omslagafbeelding beschikbaar zijn, zelfs als de audio-export geen ingesloten afbeelding bevat. De beschikbaarheid kan per nummer en downloadroute verschillen."
+        ]
+      },
+      {
+        "heading": "Probeer een andere speler voordat u tags bewerkt",
+        "paragraphs": [
+          "Test de MP3 in een andere speler op hetzelfde apparaat en vergelijk hem indien mogelijk met hetzelfde bestand op een ander apparaat. Als de ene speler de omslag laat zien en de andere niet, wijst het verschil op de speler of de bibliotheekindex in plaats van op een ontbrekende afbeelding in het bestand.",
+          "Codeer de audio niet opnieuw alleen maar om een ​​miniatuur te vernieuwen. Door opnieuw te coderen kunnen het geluid en de metagegevens worden gewijzigd zonder dat er een weergaveprobleem wordt opgelost. Bewaar de originele download als back-up terwijl u het probleem oplost."
+        ]
+      },
+      {
+        "heading": "Voeg indien nodig een aparte omslag toe aan een kopie",
+        "paragraphs": [
+          "Als de MP3 echt geen artwork heeft, sla dan de bijbehorende afbeelding op van een pagina die u mag gebruiken. Een tag-editor kan die afbeelding insluiten in een kopie van de MP3; kies een algemeen afbeeldingstype voor de vooromslag en sla deze op. Open vervolgens de kopie opnieuw in uw doelspeler om te bevestigen dat deze verschijnt.",
+          "Laat de originele audio ongewijzigd en gebruik artwork alleen als je toestemming hebt. Een openbare nummerpagina geeft op zichzelf geen toestemming om het nummer of de afbeelding ervan opnieuw te gebruiken. Onze Suno Downloader kan een afzonderlijke omslagtegel weergeven wanneer de openbare pagina een afbeelding weergeeft, maar kan een afbeeldingstag in een MP3 niet repareren."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bewijst een ontbrekende Windows-miniatuur dat de MP3 geen dekking heeft?",
+        "answer": "Nee. Controleer het bestand in een andere muziekspeler of een audiotagviewer. Een miniatuur kan worden verborgen door de speler, bibliotheekcache of tag-compatibiliteit, zelfs als er een afbeelding is ingesloten."
+      },
+      {
+        "question": "Kan ik een aparte Suno-hoes in mijn MP3 inbouwen?",
+        "answer": "Een tag-editor kan een afbeelding toevoegen aan een kopie van een MP3. Zorg ervoor dat je toestemming hebt om dat kunstwerk te gebruiken en laat het originele bestand ongewijzigd voor het geval je ze moet vergelijken."
+      }
+    ],
+    "toolLabel": "Controleer of er een aparte omslagafbeelding is",
+    "related": [
+      "suno-cover-art-download",
+      "suno-mp3-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Welke soorten bestanden kan ik downloaden?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Communityrapport: MP3-omslagafbeelding wordt niet weergegeven in Windows",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1vzgmzy/downloaded_mp3_cover_art_not_showing/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-v6-muddy-vocals",
+    "category": "Tutorials",
+    "title": "Suno V6 Zang klinkt modderig of begraven? Een praktische gids voor probleemoplossing",
+    "description": "Diagnose van gedempte of verborgen Suno V6-zang met herhaalbare luistercontroles, gerichte prompttests en optionele stembewerking.",
+    "intro": "Een stem die ver weg of modderig klinkt, kan afkomstig zijn van de gegenereerde mix, de afspeelopstelling of latere verwerking. Suno documenteert geen universele oplossing voor dit symptoom. Gebruik een korte, herhaalbare vergelijking en behoud het originele spoor, zodat u elke verandering kunt beoordelen.",
+    "sections": [
+      {
+        "heading": "Zoek waar het geluid verandert",
+        "paragraphs": [
+          "Speel hetzelfde gedeelte op een constant volume af op een tweede apparaat of speler. Vergelijk het originele afspelen van de Suno met het geëxporteerde bestand en luister naar het begin, het midden en het einde. Als de stem in de ene kopie wel duidelijk is, maar niet in de andere, controleer dan de speler, equalizer of export voordat u de prompt wijzigt.",
+          "Als de zang ook in de oorspronkelijke generatie verborgen is, noteer dan welke secties hierdoor worden beïnvloed en of het instrumentaal de woorden maskeert. Vermijd het beoordelen van een enkele generatie als bewijs dat een bepaald model of een bepaalde setting zich altijd zo gedraagt; De resultaten kunnen variëren van generatie tot generatie."
+        ]
+      },
+      {
+        "heading": "Voer een gerichte snelle vergelijking uit",
+        "paragraphs": [
+          "Maak een kopie of een nieuwe test met dezelfde teksten en een brede muzikale richting. Beschrijf de vocale plaatsing en het karakter in een paar directe termen, zoals helder, dichtbij of vooruit, en beperk instructies die in strijd zijn met dat doel, zoals verre zang of een zware sfeer. Wijzig één deel van de prompt tegelijk, zodat u kunt zien wat het resultaat heeft beïnvloed.",
+          "Luister gedurende het hele nummer naar dictie, stemniveau en balans ten opzichte van de instrumenten. Een snelle formulering is geen garantie voor een bepaalde mix, dus houd de versie die echt goed klinkt in plaats van te vertrouwen op een zin die ooit heeft gewerkt."
+        ]
+      },
+      {
+        "heading": "Bewerk de stengels zorgvuldig indien beschikbaar",
+        "paragraphs": [
+          "Als je Suno-plan en -nummer stemscheiding bieden, probeer dan de zang te scheiden van de rest van de mix en luister naar beide bestanden voordat je ze gaat bewerken. Suno zegt dat het scheiden van de stengel credits kan gebruiken, en dat een gescheiden stengel artefacten of bloedingen van andere instrumenten kan bevatten; bewaar de volledige mix als referentie.",
+          "Breng in een DAW kleine niveau- of EQ-wijzigingen aan terwijl u vergelijkt met de onbewerkte export. Vermijd standaard grote versterkingen of compressie: ze kunnen sissen, ruis of vervorming duidelijker maken. Exporteer pas een nieuwe versie nadat u hebt gecontroleerd of de woorden duidelijk blijven en de algehele mix niet hard of afgekapt is geworden."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is modderige audio altijd een Suno V6-probleem?",
+        "answer": "Niet noodzakelijkerwijs. Vergelijk het originele afgespeelde en gedownloade bestand op een andere speler en controleer het hele nummer. Afspeelinstellingen, exportverschillen en normale variaties tussen generaties kunnen allemaal van invloed zijn op wat u hoort."
+      },
+      {
+        "question": "Zal het toevoegen van “heldere zang” aan de prompt elk nummer oplossen?",
+        "answer": "Geen enkele promptzin garandeert een mix. Gebruik het als één gecontroleerde test, luister naar het gegenereerde resultaat en vergelijk versies voordat u meer instructies wijzigt."
+      }
+    ],
+    "toolLabel": "Blader door de audio- en bewerkingshandleidingen van Suno",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: geavanceerde stamscheiding",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Gemeenschapsrapport: V6-zang klinkt modderig of begraven",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1wpg01k/how_i_fixed_the_muddy_buried_vocals_in_suno_v6/"
+      }
+    ]
+  },
+  {
+    "slug": "use-suno-songs-on-youtube",
+    "category": "Rights",
+    "title": "Kun je Suno-nummers gebruiken op YouTube? Een rechtenchecklist",
+    "description": "Controleer wanneer een Suno-nummer mag worden gebruikt in een YouTube-video, welke inkomsten genereren verandert en welke songteksten, illustraties en downloadrecords u moet bewaren.",
+    "intro": "Het antwoord hangt af van de rechten van het nummer en hoe je deze hebt verkregen, en niet van de vraag of de pagina openbaar is. Een privé-upload, een video waarmee inkomsten worden gegenereerd en een klantkanaal kunnen verschillende verplichtingen met zich meebrengen, dus bevestig het beoogde gebruik voordat u de video bewerkt.",
+    "sections": [
+      {
+        "heading": "Begin met de rechten van het nummer",
+        "paragraphs": [
+          "Het helpcentrum van Suno zegt dat nummers die zijn gemaakt terwijl je geabonneerd was op Pro of Premier, kunnen worden gebruikt in inhoud die op YouTube wordt geplaatst. Het beschrijft nummers met een gratis abonnement als niet-commercieel en zegt dat een later abonnement eerdere gratis nummers niet automatisch commerciële rechten geeft.",
+          "De huidige Voorwaarden verbinden toegestane commerciële exploitatie ook aan een download via een goedgekeurd Suno-kanaal. Voor een upload waarmee inkomsten worden gegenereerd, gebruikt u de officiële export van uw eigen account en bewaart u de aanmaak- en downloadgegevens."
+        ]
+      },
+      {
+        "heading": "Controleer het materiaal in het nummer en de video",
+        "paragraphs": [
+          "Bevestig dat je alle songteksten, geüploade audiovoorbeelden, omslagafbeeldingen en videoclips kunt gebruiken. Een track kan in aanmerking komen onder uw Suno-abonnement, terwijl voor een songtekst of afbeelding van derden nog steeds afzonderlijke toestemming nodig is.",
+          "YouTube en een muziekdistributeur hanteren hun eigen platformregels. Controleer deze regels voor uw exacte gebruik, vooral voor betaalde promoties, klantvideo's of distributie buiten uw eigen kanaal."
+        ]
+      },
+      {
+        "heading": "Houd een duidelijk projectspoor bij",
+        "paragraphs": [
+          "Sla het Suno-nummer URL, het accountplan bij het maken en exporteren, het officiële audio- of videobestand en de machtigingen van bijdragers op. Leg vast welke versie je op de tijdlijn hebt geplaatst, zodat een toekomstige bewerking het goedgekeurde nummer niet stilletjes verwisselt voor een andere generatie.",
+          "Als u alleen de beschikbare media of cover van een toegestaan ​​openbaar nummer hoeft te inspecteren, kan onze tool u helpen die bestanden te identificeren. Het programma kan niet bepalen of YouTube in aanmerking komt of toestemming geven om deze te publiceren."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan een gratis nummer worden gebruikt in een YouTube-video waarmee inkomsten worden gegenereerd?",
+        "answer": "Suno beschrijft gratis plannummers als niet-commercieel. Ga er niet vanuit dat een upload waarmee inkomsten worden gegenereerd, onder de dekking valt; controleer de huidige regels en eventuele specifieke rechten die aan dat nummer zijn verbonden."
+      },
+      {
+        "question": "Is het vermelden van Suno voldoende om het nummer van iemand anders te gebruiken?",
+        "answer": "Nee. Naamsvermelding vervangt de toestemming van de maker of andere rechthebbenden niet. Bevestig de rechten op het nummer en de songteksten, samples, afbeeldingen en video-elementen."
+      }
+    ],
+    "toolLabel": "Inspecteer de bezittingen van een geautoriseerd nummer",
+    "related": [
+      "suno-commercial-use",
+      "suno-video-download",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kan ik mijn nummers distribueren naar Spotify, enz.?",
+        "url": "https://help.suno.com/en/articles/2410177"
+      },
+      {
+        "label": "Suno: Wat is niet-commercieel gebruik?",
+        "url": "https://help.suno.com/en/articles/9602241"
+      },
+      {
+        "label": "Servicevoorwaarden Suno",
+        "url": "https://suno.com/terms-of-service"
+      }
+    ]
+  },
+  {
+    "slug": "suno-extend-song-guide",
+    "category": "Tutorials",
+    "title": "Een Suno-nummer uitbreiden zonder het origineel te verliezen",
+    "description": "Gebruik Suno Extend om een nieuw gedeelte of einde toe te voegen, generaties te vergelijken en een volledig nummer samen te stellen terwijl je je eerste versie veilig houdt.",
+    "intro": "Extend creëert een nieuwe voortzetting vanaf een punt dat u kiest; het bewerkt het originele bestand niet op zijn plaats. Werk vanuit een opgeslagen generatie, kies de overdracht zorgvuldig en vergelijk de voltooide versies voordat u iets in uw project vervangt.",
+    "sections": [
+      {
+        "heading": "Kies het juiste overdrachtspunt",
+        "paragraphs": [
+          "Open het nummer waarmee je verder wilt gaan en kies Remix/Bewerken en vervolgens Verlengen. Stel in de tijdlijn in waar de nieuwe audio moet beginnen door de selectiegrens aan te passen. Luister eerst rond dat punt: een grens binnen een vastgehouden noot of frase kan de overgang moeilijker te beoordelen maken.",
+          "Voor een langer nummer beslis je of je een nieuw couplet, instrumentale passage of einde nodig hebt. Voeg alleen de songteksten en stijlrichting toe die nodig zijn voor dat volgende gedeelte, en bewaar een kopie van de originele songtekst en vraag om vergelijking."
+        ]
+      },
+      {
+        "heading": "Vergelijk de voortzetting voordat u een commit maakt",
+        "paragraphs": [
+          "Genereer de extensie en luister naar beide alternatieven vanaf de overdracht tot het einde. Controleer het tempo, het vocale karakter, de tekstuitvoering en of het nieuwe gedeelte een overtuigend einde bereikt. Een matching prompt kan geen identieke opstelling of naadloze overgang garanderen.",
+          "Als geen van beide resultaten werkt, pas dan één ding tegelijk aan: verplaats de overdracht, vereenvoudig de nieuwe tekst of verduidelijk de muzikale richting. Houd elke kandidaat apart, zodat een latere poging de gewenste versie niet overschrijft."
+        ]
+      },
+      {
+        "heading": "Maak het hele nummer en sla het op",
+        "paragraphs": [
+          "Wanneer u een extensie vindt die u bevalt, gebruikt u het nummeractiemenu om Create and Get Whole Song te kiezen. Suno voegt de geselecteerde voortzetting van het originele gedeelte samen als een nieuw resultaat van het volledige nummer. Speel de join in context af en vergelijk het resultaat met de bron voordat u deze aan een release of bewerking toevoegt.",
+          "Sla de export van het volledige nummer en de Suno-link samen op. De huidige helppagina van Suno zegt dat v6, v6-wild en v6-mini tot acht minuten in één generatie kunnen genereren; Verlengen is handig als u een bestaand idee wilt voortzetten of het einde ervan wilt wijzigen, afhankelijk van de huidige account- en functieopties."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Verandert Extend mijn originele Suno-nummer?",
+        "answer": "Suno creëert een nieuwe voortzetting en een apart resultaat van het hele nummer. Bewaar de oorspronkelijke generatie en exporteer als back-up terwijl u versies vergelijkt."
+      },
+      {
+        "question": "Hoe zorg ik ervoor dat de extensie meer verbonden klinkt?",
+        "answer": "Kies een duidelijke overdracht, luister naar de bron rond dat punt en gebruik een beknopte richting voor het volgende gedeelte. De resultaten variëren, dus doe auditie voor meerdere kandidaten in plaats van aan te nemen dat er een prompt is, wat de continuïteit garandeert."
+      }
+    ],
+    "toolLabel": "Ontdek de Suno-workflowhandleidingen voor nummers",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-v6-muddy-vocals",
+      "suno-wav-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Hoe maak ik mijn nummer langer?",
+        "url": "https://help.suno.com/en/articles/2409601"
+      },
+      {
+        "label": "Suno: Hoe lang duurt mijn nummer?",
+        "url": "https://help.suno.com/en/articles/13924929"
+      }
+    ]
+  },
+  {
+    "slug": "suno-persona-guide",
+    "category": "Tutorials",
+    "title": "Suno Persona's en stemmen: zorg voor een consistent geluid in alle nummers",
+    "description": "Ontdek wat een Suno Persona vastlegt, hoe deze verschilt van de Voices-functie en hoe je een muzikale identiteit kunt hergebruiken met realistische verwachtingen.",
+    "intro": "Persona's helpen het vocale en stijlkarakter van een nummer over te dragen naar een andere creatie. De nieuwere Voices-functie van Suno is ontworpen om uw eigen geverifieerde stem te gebruiken. De twee opties dienen verschillende doeleinden, en geen van beide is een belofte dat elk nieuw nummer identiek zal klinken.",
+    "sections": [
+      {
+        "heading": "Creëer een Persona van een nummer",
+        "paragraphs": [
+          "Van een nummer dat je opnieuw wilt gebruiken, open je Meer acties en kies je Maken en vervolgens Persona maken. Geef het een herkenbare naam en omschrijving. Suno zegt dat een Persona de essentie van een nummer bewaart, inclusief de zang en stijl; Controleer de zichtbaarheidsinstelling, omdat Persona's standaard openbaar kunnen zijn.",
+          "Gebruik een track waarvan u de stem en het algehele geluid wilt overbrengen. Als de bronsong een tijdelijk effect, een ongebruikelijke uitvoering of een stijl heeft die u niet herhaald wilt hebben, kiest u een schonere bron of beschrijft u het verschil in de nieuwe prompt."
+        ]
+      },
+      {
+        "heading": "Gebruik het als uitgangspunt, niet als een vooraf ingestelde kloon",
+        "paragraphs": [
+          "Selecteer in de aangepaste modus de Persona voordat u deze genereert. Controleer het Style-veld dat Suno invult en voeg vervolgens alleen de richting toe die nodig is voor het nieuwe nummer. Houd de songteksten en arrangementinstructies specifiek voor het nieuwe nummer, in plaats van elk detail van het origineel te kopiëren.",
+          "Een Persona kan helpen bij de continuïteit, maar melodie, songteksten, arrangementen en uitvoeringen veranderen nog steeds tussen generaties. Maak twee of meer kandidaten en vergelijk het vocale karakter op hetzelfde volume voordat je beslist of de identiteit goed overkomt."
+        ]
+      },
+      {
+        "heading": "Weet wanneer u in plaats daarvan Voices moet gebruiken",
+        "paragraphs": [
+          "Met de Voices-workflow van Suno kunnen in aanmerking komende gebruikers een stemprofiel maken op basis van hun eigen opname of een nummer met hun stem. De huidige helpgids beschrijft een verificatiestap en zegt dat de beschikbaarheid afhankelijk kan zijn van leeftijd en locatie. Gebruik alleen de stem waarvoor u het recht heeft om deze te geven, en bekijk de huidige opties voor toestemming en delen van Suno.",
+          "Stemmen is voor je eigen stem; een Persona is een herbruikbare muzikale identiteit gebaseerd op een liedje. Als het doel een bekende stemkleur is, probeer dan een Persona. Als je je geverifieerde zangstem in een gegenereerde track wilt hebben, controleer dan of Voices beschikbaar is voor je account en volg de installatiestappen."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Zijn Persona's hetzelfde als Suno-stemmen?",
+        "answer": "Nee. Persona’s nemen de stijl en het vocale karakter van een nummer als uitgangspunt. Stemmen is een aparte functie voor het gebruik van een geverifieerde stemopname, met eigen beschikbaarheids- en toestemmingsvereisten."
+      },
+      {
+        "question": "Zal een Persona ervoor zorgen dat elke generatie hetzelfde klinkt?",
+        "answer": "Nee. Het kan helpen een muzikale identiteit te hergebruiken, maar nieuwe teksten, stijlinstructies en generatievariatie hebben invloed op het resultaat. Luister naar elke versie en behandel deze als een nieuwe generatie."
+      }
+    ],
+    "toolLabel": "Ontdek de Suno-prompt- en liedgidsen",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Wat zijn persona's?",
+        "url": "https://help.suno.com/en/articles/3484161"
+      },
+      {
+        "label": "Suno: Veelgestelde vragen over stemmen",
+        "url": "https://help.suno.com/en/articles/11362433"
+      },
+      {
+        "label": "Suno: gebruik uw stem in Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      }
+    ]
+  },
+  {
+    "slug": "suno-replace-section-guide",
+    "category": "Lyrics",
+    "title": "Een sectie vervangen of Lyrics repareren in een Suno-nummer",
+    "description": "Gebruik de Replace Section-tools van Suno om een ​​passage te herzien, nieuwe songteksten te testen en alternatieve bewerkingen te vergelijken zonder het originele nummer te verliezen.",
+    "intro": "Replace Section genereert nieuwe audio voor een geselecteerd deel van een nummer. Het kan helpen bij het herzien van de tekst of het arrangement, maar het is een nieuwe generatie van die passage - geen correctie van alleen tekst die garandeert dat de originele melodie onveranderd blijft.",
+    "sections": [
+      {
+        "heading": "Selecteer alleen de passage die u opnieuw wilt bekijken",
+        "paragraphs": [
+          "Open de nummereditor via het menu Meer acties of Bewerken van het nummer en kies vervolgens Sectie vervangen. Speel het nummer en stel de selectie in op de zin die moet worden bewerkt. Voeg voldoende muzikale context toe aan de randen om de overgang te beoordelen, maar vermijd het selecteren van extra secties die al werken.",
+          "Sla vóór het bewerken de originele songtekst op en noteer de timing van de geselecteerde passage. Als de woorden niet goed overeenkomen met de audio, controleer dan zorgvuldig de weergegeven songteksten en selectie; de editor gebruikt het geselecteerde gebied als basis voor de vervanging."
+        ]
+      },
+      {
+        "heading": "Geef de vervanger een gerichte richting",
+        "paragraphs": [
+          "Voor een tekstcorrectie wijzigt u alleen de regels die herzien moeten worden en houdt u de omringende structuur helder. Beschrijf voor een muzikale verandering één doel, zoals een zachtere uitvoering of een sterkere drumpartij. Te veel gelijktijdige instructies maken het moeilijker te begrijpen waarom een ​​kandidaat is veranderd.",
+          "Genereer de vervanging en beluister elke aangeboden versie in context. Luister naar de gecorrigeerde woorden, de stemtoon, het ritme en de verbinding met de secties ervoor en erna. Suno kan de frasering of melodie in het geregenereerde gebied veranderen, dus ga er niet vanuit dat een bewerking van één woord elke noot zal behouden."
+        ]
+      },
+      {
+        "heading": "Leg dit pas vast nadat u het volledige resultaat heeft gecontroleerd",
+        "paragraphs": [
+          "Als een kandidaat dichtbij is, pas dan de overgangsgrens aan als de editor die controle biedt, en speel vervolgens het volledige nummer af in plaats van alleen de bewerkte clip. Vergelijk het met het origineel en bewaar beide versies totdat u beslist welke in het project thuishoort.",
+          "Voor verschillende tekstwijzigingen in een nummer moet je afwegen of een nieuwe cover of een nieuwe generatie gemakkelijker te beheren is dan veel lokale vervangingen. Elke route creëert een nieuwe interpretatie; exporteer een back-up voordat u zich aan een versie voor distributie vastlegt."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan Replace Section één woord veranderen zonder de melodie te veranderen?",
+        "answer": "Het kan de geselecteerde audio opnieuw genereren, inclusief de weergave en melodie. Gebruik het om een ​​herziene passage te beluisteren, maar verwacht geen tekstwijziging waarbij elke noot behouden blijft."
+      },
+      {
+        "question": "Kan ik mijn originele versie terugkrijgen?",
+        "answer": "Bewaar de brongeneratie en exporteer voordat u gaat bewerken. Suno creëert nieuwe bewerkte resultaten, zodat het behouden van het origineel het gemakkelijk maakt om te vergelijken of terug te keren naar de eerdere versie."
+      }
+    ],
+    "toolLabel": "Ontdek de songtekst- en bewerkingshandleidingen van Suno",
+    "related": [
+      "edit-suno-lyrics",
+      "suno-lyrics-structure-tags",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Kan ik een gedeelte van een nummer vervangen?",
+        "url": "https://help.suno.com/en/articles/3271873"
+      },
+      {
+        "label": "Suno: Song-editor gebruiken",
+        "url": "https://help.suno.com/en/articles/6141505"
+      },
+      {
+        "label": "Gemeenschapsdiscussie: Het vervangen van songteksten kan de vocale interpretatie veranderen",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1rmr4tm/is_it_actually_possible_to_make_it_change_the/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-audio-upload-guide",
+    "category": "Tutorials",
+    "title": "Suno Audio-uploadgids: verander een demo in een nieuw nummer",
+    "description": "Bereid een audio-upload voor, begrijp de huidige lengtelimieten en gebruik deze als uitgangspunt voor een uitbreiding of nieuwe Suno-creatie.",
+    "intro": "Een audio-upload kan Suno een muzikaal idee geven om op voort te bouwen, maar de beschikbare duur en vervolgtools zijn afhankelijk van uw plan en de huidige interface. Upload alleen opnamen waarvan u de eigenaar bent of waarvoor u toestemming heeft om deze te gebruiken, en laat het bronbestand ongewijzigd.",
+    "sections": [
+      {
+        "heading": "Bereid een schone opname voor die u kunt gebruiken",
+        "paragraphs": [
+          "Kies een duidelijk gedeelte dat het ritme, de melodie of de textuur vertegenwoordigt die u wilt ontwikkelen. Een korte, overzichtelijke opname maakt het makkelijker om te horen wat de generatie heeft behouden. Vermijd het uploaden van privégesprekken of optredens van anderen, tenzij u toestemming heeft en over de rechten beschikt die nodig zijn voor dit gebruik.",
+          "De helpgids van Suno beschrijft momenteel uploads van maximaal 60 seconden in het basisabonnement en tot acht minuten voor Pro en Premier. Limieten en accountfuncties kunnen veranderen, dus controleer het uploadbeheer en uw plan voordat u een lang bestand voorbereidt."
+        ]
+      },
+      {
+        "heading": "Upload en kies een richting",
+        "paragraphs": [
+          "Selecteer op de pagina Maken het besturingselement voor het uploaden van audio en kies of neem een bestand op. Zodra het in uw bibliotheek of creatieformulier verschijnt, beslist u of u het idee wilt uitbreiden, een omslag wilt maken of een andere versie wilt maken. Welke opties voor u zichtbaar zijn, is afhankelijk van het nummer en het account.",
+          "Beschrijf de nieuwe muzikale richting in enkele concrete termen. Als je wilt dat het ritme of de melodie herkenbaar blijft, zeg dan wat moet worden voortgezet en wat moet veranderen. Genereer een kleine vergelijkingsset en luister naar het bronidee, niet alleen naar het algemene genrelabel."
+        ]
+      },
+      {
+        "heading": "Houd de bronrechten en versies duidelijk",
+        "paragraphs": [
+          "Met een upload wordt het eigendom van een opname niet overgedragen en worden er geen rechten aan verleend. Bewaar een bewijs van toestemming voor samples, optredens van samenwerkingen of commerciële opnames en controleer de rechten die van toepassing zijn op het gegenereerde resultaat voordat u het publiceert.",
+          "Sla de originele upload, de gegenereerde nummerlink en de versie die je kiest op. Als het resultaat niet is wat u wilde, probeer dan een korter of overzichtelijker fragment en wijzig instructie voor instructie in plaats van het bronbestand te vervangen."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Hoe lang kan mijn Suno-audio-upload duren?",
+        "answer": "Het huidige Help-artikel van Suno vermeldt maximaal 60 seconden voor Basic en maximaal acht minuten voor Pro en Premier. Controleer uw account, want abonnementslimieten en interface-opties kunnen veranderen."
+      },
+      {
+        "question": "Kan ik een nummer uploaden dat ik online heb gevonden?",
+        "answer": "Upload alleen audio waarvan u de eigenaar bent of waarvoor u toestemming heeft om deze te gebruiken. Publieke beschikbaarheid geeft niet automatisch toestemming om een ​​opname te verwerken, remixen of publiceren."
+      }
+    ],
+    "toolLabel": "Ontdek de handleidingen voor het maken en downloaden van Suno",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-share-link-guide",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Audio-uploads gebruiken",
+        "url": "https://help.suno.com/en/articles/6141569"
+      },
+      {
+        "label": "Suno: Hoe maak ik een remix?",
+        "url": "https://help.suno.com/en/articles/6050497"
+      }
+    ]
+  },
+  {
+    "slug": "suno-stem-separation-guide",
+    "category": "Downloads",
+    "title": "Suno Stuurpenscheidingsgids: kies en exporteer de benodigde onderdelen",
+    "description": "Vergelijk Auto Split, Split from Mix en Advanced Split en exporteer vervolgens de stengels voor bewerking, waarbij u rekening houdt met credits, plantoegang en audioartefacten.",
+    "intro": "Stems zijn afzonderlijke delen die zijn afgeleid van een gemengd nummer, zoals zang, drums of bas. De huidige scheidingsmodi van de Suno bieden verschillende controleniveaus, maar extractie kan bloedingen of artefacten achterlaten. Houd de volledige mix als referentie en verifieer de beschikbare opties in uw account.",
+    "sections": [
+      {
+        "heading": "Kies een scheidingsmodus voor de taak",
+        "paragraphs": [
+          "De Advanced Stem Separation-gids van Suno beschrijft Auto Split als een snelle verdeling in maximaal 12 gedetecteerde stengels, Split from Mix als het extraheren van één gekozen onderdeel plus het complement ervan, en Advanced Split als een manier om instrumenten uit een grotere lijst te kiezen. De beschikbare modi zijn afhankelijk van het abonnementsniveau.",
+          "Gebruik Auto Split als je een brede set partijen wilt arrangeren, Split from Mix als je één element nodig hebt, zoals een zang- of baslijn, en Advanced Split als je meer specifieke instrumentkeuzes nodig hebt. Een stem is een schatting die uit de mix wordt gehaald, en niet noodzakelijkerwijs de originele geïsoleerde opname."
+        ]
+      },
+      {
+        "heading": "Controleer de aftiteling en luister voordat je gaat bewerken",
+        "paragraphs": [
+          "Suno vermeldt momenteel de kredietkosten voor deze scheidingsopties in het Help-artikel: Auto Split gebruikt 50 credits per extractie van 12 stammen; Split from Mix gebruikt 10 credits voor de extractie en 20 in totaal voor beide outputs; Advanced Split gebruikt 10 credits per geëxtraheerde stam en 20 credits voor het paar. Controleer de huidige bevestiging in het product voordat u tegoeden uitgeeft.",
+          "Luister naar elke stem solo en vervolgens met de volledige mix. Let op vocale medeklinkers die in instrumenten achterblijven, cimbalen die in andere delen zijn uitgesmeerd of ontbrekende noten. Als het doelinstrument niet aanwezig is, waarschuwt Suno dat een verzoek nog steeds credits kan gebruiken zonder een bruikbare stam te produceren."
+        ]
+      },
+      {
+        "heading": "Exporteer een veilige werkkopie",
+        "paragraphs": [
+          "Download de stems of exporteer een multitrack vanuit Studio wanneer de optie beschikbaar is. Plaats elk bestand in een map met de titel van het nummer, de bronlink, de exportdatum en een kopie van de volledige mix. Houd bestandsnamen consistent, zodat de onderdelen uitgelijnd blijven wanneer ze in een DAW worden geïmporteerd.",
+          "Gebruik de stems voor bewerkingen die de volledige mix niet kan ondersteunen, zoals het veranderen van een vocaal niveau of het bouwen van een instrumentaal nummer. Breng kleine wijzigingen aan en vergelijk met het origineel. Scheidingsartefacten kunnen duidelijker worden na sterke EQ, compressie of vervorming."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Zijn Suno stems identiek aan de originele studiotracks?",
+        "answer": "Nee. Stemscheiding schat individuele delen van een gemengd audiobestand. Het kan uitlopers, artefacten of ontbrekende details achterlaten, dus behandel stammen als bewerkbare afgeleide bestanden in plaats van originele multitracks."
+      },
+      {
+        "question": "Tellen stengels als afzonderlijke downloads?",
+        "answer": "Suno zegt momenteel dat beschikbare stems niet meetellen als extra downloads buiten het nummer zelf. Er kunnen nog steeds kredietkosten voor scheiding van toepassing zijn, dus controleer de functie- en accountgegevens voordat u gaat extraheren."
+      }
+    ],
+    "toolLabel": "Ontdek Suno audio-exportgidsen",
+    "related": [
+      "suno-wav-download",
+      "suno-mp3-download",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: geavanceerde stamscheiding",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Suno: Welke soorten bestanden kan ik downloaden?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Suno: Exporteren vanuit Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      }
+    ]
+  },
+  {
+    "slug": "suno-voices-guide",
+    "category": "Tutorials",
+    "title": "Suno Stemgids: uw eigen zangstem instellen en gebruiken",
+    "description": "Ontdek hoe de Voices-functie van de Suno een stemprofiel verifieert, welke opname het beste werkt en hoe u problemen met toegang en generatieresultaten kunt oplossen.",
+    "intro": "Suno Voices is een functie waarmee u nummers kunt maken met uw eigen stemopname. Het verschilt van een Persona en omvat identiteitsverificatie en geschiktheidsregels. Toegang tot functies kan variëren per leeftijd, locatie, abonnement en model, dus gebruik de opties die in uw account worden weergegeven als bron van waarheid.",
+    "sections": [
+      {
+        "heading": "Bereid een opname voor en verifieer uw stem",
+        "paragraphs": [
+          "Suno raadt een zuivere acapella-opname aan voor het duidelijkste profiel. De huidige installatiehandleiding accepteert een opname van 15 seconden tot vier minuten en laat je de beste twee minuten kiezen. Een rustige omgeving en een microfoon zonder sterke kamerecho kunnen het gemakkelijker maken om het monster te beoordelen.",
+          "Maak een stemprofiel van uw eigen opname of een Suno-nummer met uw stem en voltooi vervolgens de gesproken verificatiezin. Suno zegt dat deze controle helpt bevestigen dat de geüploade zang- en verificatietoespraak van dezelfde persoon zijn. Geef de stem van iemand anders niet door zonder diens toestemming."
+        ]
+      },
+      {
+        "heading": "Genereer met het stemprofiel",
+        "paragraphs": [
+          "Selecteer het opgeslagen profiel in het menu Stemmen, schrijf vervolgens de songtekst en beschrijf de muziekstijl voor het nieuwe nummer. De FAQ van Suno zegt dat de nieuwere Voices-functie model v5.5 gebruikt; controleer de modelkiezer als het resultaat niet klinkt als de geselecteerde stem.",
+          "Audio-invloed kan van invloed zijn op hoe sterk de opname het resultaat stuurt, maar een hogere instelling is geen garantie voor een exacte uitvoering. Genereer alternatieven, vergelijk uitspraak en toon, en bewaar de profielopname en originele generatie, zodat u de volgende poging kunt verfijnen."
+        ]
+      },
+      {
+        "heading": "Problemen met toegang of een onverwacht geluid oplossen",
+        "paragraphs": [
+          "Als de optie Stem toevoegen ontbreekt, controleer dan of het account geschikt is voor de leeftijd, de locatiebeschikbaarheid en de modelselectie. Suno zegt dat Voices beperkt is tot gebruikers van 18 jaar of ouder en mogelijk niet op elke locatie beschikbaar is. Deze instellingen kunnen veranderen, dus raadpleeg de huidige Voices FAQ.",
+          "Als de verificatie mislukt, neem dan de weergegeven frase opnieuw duidelijk op een rustige plaats op en gebruik een zuiver zangvoorbeeld. Als het nummer anders klinkt dan jij, controleer dan of v5.5 is geselecteerd en test de audio-invloed. Deel stemopnamen niet openbaar, tenzij u de instellingen voor delen en remixen voor het resulterende nummer begrijpt."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kan ik de stem van iemand anders gebruiken in Suno Voices?",
+        "answer": "De functie is ontworpen voor uw eigen geverifieerde stem. Suno vereist dat gebruikers bevestigen dat ze rechten hebben om de stem te gebruiken en verificatie uitvoeren. Zorg voor duidelijke toestemming en volg de huidige regels van Suno voordat u de opname van iemand anders gebruikt."
+      },
+      {
+        "question": "Waarom is mijn stemprofiel niet beschikbaar?",
+        "answer": "Suno zegt dat Voices alleen beschikbaar is voor gebruikers van 18 jaar of ouder en mogelijk niet op elke locatie beschikbaar is. De functie vereist ook een ondersteund model; bekijk de huidige productrichtlijnen en veelgestelde vragen."
+      }
+    ],
+    "toolLabel": "Ontdek Suno vocale en promptgidsen",
+    "related": [
+      "suno-persona-guide",
+      "suno-v6-muddy-vocals",
+      "write-better-suno-prompts"
+    ],
+    "sources": [
+      {
+        "label": "Suno: gebruik uw stem in Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      },
+      {
+        "label": "Suno: Veelgestelde vragen over stemmen",
+        "url": "https://help.suno.com/en/articles/11362433"
+      }
+    ]
+  },
+  {
+    "slug": "suno-studio-2-guide",
+    "category": "Tutorials",
+    "title": "Suno Studio 2.0 Handleiding: een nummer schikken, bewerken en exporteren",
+    "description": "Oriënteer u in Suno Studio 2.0, bouw een bewerkbare tijdlijn, gebruik stems en effecten en exporteer een nummer of multitrack voor uw volgende productiestap.",
+    "intro": "Suno Studio 2.0 combineert songarrangementen, audiogeneratie, effecten, MIDI en exporttools in een browsergebaseerde werkruimte. De functieset en abonnementstoegang kunnen veranderen. Deze handleiding richt zich op een praktische eerste stap: open een project, voer een gecontroleerde bewerking uit en bewaar een export die u kunt vergelijken.",
+    "sections": [
+      {
+        "heading": "Open een project en leer de tijdlijn kennen",
+        "paragraphs": [
+          "Open een nummer uit uw bibliotheek in Studio via het menu Bewerken of Meer acties. Op de tijdlijn rangschikt u clips en vergelijkt u alternatieve opnames. Speel het volledige project één keer af voordat u het gaat bewerken, en noteer vervolgens welke sectie nog moet worden bewerkt, zodat u de verandering gefocust kunt houden.",
+          "Op de Studio 2.0-helppagina van Suno staat dat Studio 2.0 beschikbaar is voor Premier-abonnees en een desktopbrowser aanbeveelt; mobiele apparaten worden niet ondersteund. De navigatie verschilt van eerdere Studio-versies, dus gebruik de huidige interfacelabels en Help-artikelen als een besturingselement is verplaatst."
+        ]
+      },
+      {
+        "heading": "Bewerk secties, effecten en stems in kleine stappen",
+        "paragraphs": [
+          "Gebruik de tijdlijn om fragmenten te verplaatsen of in te korten, secties toe te voegen en auditie te doen voor alternatieve generaties. Studio 2.0 bevat ingebouwde effecten en automatisering; Suno zegt dat het geen conventionele VST- of Audio Units-plug-ins host. Breng één wijziging tegelijk aan en vergelijk de volledige regeling, zodat een lokale verbetering elders geen niveau- of timingprobleem veroorzaakt.",
+          "Voor een gemengde clip opent u de bedieningselementen voor het scheiden van de stengels en kiest u de splitsmodus die bij uw taak past. Stemmen kunnen je helpen een onderdeel opnieuw in balans te brengen, maar ze zijn afgeleid van de mix en kunnen artefacten bevatten. Houd het originele nummer beschikbaar en controleer de timing voordat u het dempt of vervangt."
+        ]
+      },
+      {
+        "heading": "Exporteer de juiste versie voor uw workflow",
+        "paragraphs": [
+          "Gebruik het exportmenu voor het volledige nummer, een geselecteerd tijdsbereik of een multitrack-export. De huidige helppagina van Studio beschrijft hoogwaardige WAV-exports en individuele clipdownloads. Als u het project naar een andere DAW verplaatst, zorg er dan voor dat de stems uitgelijnd zijn en neem de volledige mix als referentie op.",
+          "Voordat u het deelt of publiceert, moet u het geëxporteerde bestand van begin tot eind beluisteren en bevestigen dat het overeenkomt met de versie die u in Studio heeft goedgekeurd. Sla de projectlink, de exportdatum en eventuele gebruikte machtigingen of bronbestanden op. Controleer opnieuw de rechten en exportopties van uw plan voor het beoogde gebruik."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welk abonnement heb ik nodig voor Suno Studio 2.0?",
+        "answer": "De huidige Studio 2.0-aankondiging van Suno vermeldt de beschikbaarheid voor Premier-abonnees. Controleer uw Suno-account en de huidige abonnementspagina, want de toegang kan veranderen."
+      },
+      {
+        "question": "Kan ik mijn VST- of Audio Units-plug-ins gebruiken in Studio 2.0?",
+        "answer": "Suno zegt momenteel dat Studio 2.0 niet compatibel is met conventionele VST- of Audio Units-plug-ins. Het bevat ingebouwde effecten en laat gebruikers bepaalde effecten in Studio ontwerpen."
+      }
+    ],
+    "toolLabel": "Ontdek de bewerkings- en exporthandleidingen voor de Suno",
+    "related": [
+      "suno-stem-separation-guide",
+      "suno-wav-download",
+      "suno-replace-section-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: introductie van Suno Studio 2.0",
+        "url": "https://help.suno.com/en/articles/13670529"
+      },
+      {
+        "label": "Suno: Exporteren vanuit Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      },
+      {
+        "label": "Suno: geavanceerde stamscheiding",
+        "url": "https://help.suno.com/en/articles/12702337"
+      }
+    ]
+  }
+]

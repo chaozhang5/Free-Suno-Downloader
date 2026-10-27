@@ -1,0 +1,78 @@
+{
+  "indexableLocales": ["en", "es", "pt-BR", "zh-CN", "ja", "de", "fr", "it", "ru", "ar", "hi", "id", "vi", "ko", "tr", "th", "pl", "nl"],
+  "pages": {
+    "downloader": {
+      "title": "Free Suno Song Downloader | Suno Download",
+      "description": "Paste a public Suno song or share link to find available audio, video and cover art. Preview the song and save files you have permission to use."
+    },
+    "promptBuilder": {
+      "title": "Free Suno Prompt Builder | Suno Download",
+      "description": "Build a Suno Style prompt from genre, instruments, mood, vocals and production. Add optional directions, then copy a focused draft."
+    },
+    "tools": {
+      "title": "Suno Download Directory | Prompts, Lyrics and Song Utilities",
+      "description": "Explore tools for building Suno prompts, organizing lyrics, reviewing public song details, estimating duration, and collecting available media."
+    },
+    "toolInfo": {
+      "title": "Suno Songwriting Utility | Suno Download",
+      "description": "Explore a practical utility for Suno prompts, lyrics, song details, or music files."
+    },
+    "articles": {
+      "title": "Suno Guides, Tips and AI Music Workflows | Suno Download",
+      "description": "Explore practical guides about Suno workflows, audio formats, music prompts, lyrics, creator tools and responsible use."
+    },
+    "about": {
+      "title": "About Suno Download | Practical AI Music Utilities",
+      "description": "Learn why Suno Download builds clear, independent utilities for public song links, prompts, lyrics and everyday AI music workflows."
+    }
+  },
+  "routes": [
+    { "path": "/", "page": "downloader", "canonicalPath": "/", "indexable": true },
+    { "path": "/tools/downloader/", "page": "downloader", "canonicalPath": "/tools/downloader/", "indexable": true },
+    { "path": "/tools/prompt-builder/", "page": "promptBuilder", "canonicalPath": "/tools/prompt-builder/", "indexable": true },
+    { "path": "/tools/", "page": "tools", "canonicalPath": "/tools/", "indexable": true },
+    { "path": "/tools/lyrics-text-diff/", "page": "toolInfo", "toolSlug": "lyrics-text-diff", "seoTitle": "Lyrics Text Diff for Suno | Suno Download", "seoDescription": "Compare two lyric drafts side by side and review additions, removals, and changed lines before continuing a song.", "canonicalPath": "/tools/lyrics-text-diff/", "indexable": true },
+    { "path": "/tools/lyrics-timestamp/", "page": "toolInfo", "toolSlug": "lyrics-timestamp", "seoTitle": "Suno Lyrics Timestamp Tool | Suno Download", "seoDescription": "Align lyric lines with audio and prepare synchronized captions for lyric videos and song workflows.", "canonicalPath": "/tools/lyrics-timestamp/", "indexable": true },
+    { "path": "/tools/structure-tag-helper/", "page": "toolInfo", "toolSlug": "structure-tag-helper", "seoTitle": "Suno Structure Tag Helper | Suno Download", "seoDescription": "Organize lyrics with Verse, Chorus, Bridge, Intro, and Outro labels in a clear song structure.", "canonicalPath": "/tools/structure-tag-helper/", "indexable": true },
+    { "path": "/tools/lyrics-tag-normalizer/", "page": "toolInfo", "toolSlug": "lyrics-tag-normalizer", "seoTitle": "Suno Lyrics Tag Normalizer | Suno Download", "seoDescription": "Standardize section-tag names, brackets, and formatting while preserving the lyric text around them.", "canonicalPath": "/tools/lyrics-tag-normalizer/", "indexable": true },
+    { "path": "/tools/random-style-generator/", "page": "toolInfo", "toolSlug": "random-style-generator", "seoTitle": "Suno Random Style Generator | Suno Download", "seoDescription": "Explore Style prompt ideas across genre, instruments, mood, vocal character, and production.", "canonicalPath": "/tools/random-style-generator/", "indexable": true },
+    { "path": "/tools/suno-song-inspector/", "page": "toolInfo", "toolSlug": "suno-song-inspector", "seoTitle": "Suno Song Inspector | Suno Download", "seoDescription": "Review the title, creator, Style details, duration, and lyrics available from a public Suno song link.", "canonicalPath": "/tools/suno-song-inspector/", "indexable": true },
+    { "path": "/tools/duration-estimator/", "page": "toolInfo", "toolSlug": "duration-estimator", "seoTitle": "Suno Lyrics Duration Estimator | Suno Download", "seoDescription": "Estimate lyric timing by pace and review a rough duration breakdown for each song section.", "canonicalPath": "/tools/duration-estimator/", "indexable": true },
+    { "path": "/tools/style-string-cleaner/", "page": "toolInfo", "toolSlug": "style-string-cleaner", "seoTitle": "Suno Style String Cleaner | Suno Download", "seoDescription": "Tidy a crowded Style prompt by identifying duplicate tags, extra spacing, and low-information phrases.", "canonicalPath": "/tools/style-string-cleaner/", "indexable": true },
+    { "path": "/tools/exclude-styles-generator/", "page": "toolInfo", "toolSlug": "exclude-styles-generator", "seoTitle": "Suno Exclude Styles Generator | Suno Download", "seoDescription": "Organize unwanted sounds and musical traits into a clear list for Suno exclusion controls.", "canonicalPath": "/tools/exclude-styles-generator/", "indexable": true },
+    { "path": "/tools/suno-bulk-downloader/", "page": "toolInfo", "toolSlug": "suno-bulk-downloader", "seoTitle": "Suno Bulk Downloader | Suno Download", "seoDescription": "Review multiple public Suno song links together and organize the available audio, video, and cover art.", "canonicalPath": "/tools/suno-bulk-downloader/", "indexable": true },
+    { "path": "/articles/", "page": "articles", "canonicalPath": "/articles/", "indexable": true },
+    { "path": "/articles/how-to-download-suno-songs/", "page": "article", "slug": "how-to-download-suno-songs", "canonicalPath": "/articles/how-to-download-suno-songs/", "indexable": true },
+    { "path": "/articles/suno-mp3-download/", "page": "article", "slug": "suno-mp3-download", "canonicalPath": "/articles/suno-mp3-download/", "indexable": true },
+    { "path": "/articles/suno-wav-download/", "page": "article", "slug": "suno-wav-download", "canonicalPath": "/articles/suno-wav-download/", "indexable": true },
+    { "path": "/articles/suno-video-download/", "page": "article", "slug": "suno-video-download", "canonicalPath": "/articles/suno-video-download/", "indexable": true },
+    { "path": "/articles/suno-download-not-working/", "page": "article", "slug": "suno-download-not-working", "canonicalPath": "/articles/suno-download-not-working/", "indexable": true },
+    { "path": "/articles/suno-share-link-guide/", "page": "article", "slug": "suno-share-link-guide", "canonicalPath": "/articles/suno-share-link-guide/", "indexable": true },
+    { "path": "/articles/download-multiple-suno-songs/", "page": "article", "slug": "download-multiple-suno-songs", "canonicalPath": "/articles/download-multiple-suno-songs/", "indexable": true },
+    { "path": "/articles/suno-lyrics-download/", "page": "article", "slug": "suno-lyrics-download", "canonicalPath": "/articles/suno-lyrics-download/", "indexable": true },
+    { "path": "/articles/suno-lyrics-structure-tags/", "page": "article", "slug": "suno-lyrics-structure-tags", "canonicalPath": "/articles/suno-lyrics-structure-tags/", "indexable": true },
+    { "path": "/articles/suno-lyrics-timestamps/", "page": "article", "slug": "suno-lyrics-timestamps", "canonicalPath": "/articles/suno-lyrics-timestamps/", "indexable": true },
+    { "path": "/articles/edit-suno-lyrics/", "page": "article", "slug": "edit-suno-lyrics", "canonicalPath": "/articles/edit-suno-lyrics/", "indexable": true },
+    { "path": "/articles/suno-cover-art-download/", "page": "article", "slug": "suno-cover-art-download", "canonicalPath": "/articles/suno-cover-art-download/", "indexable": true },
+    { "path": "/articles/suno-cover-art-size/", "page": "article", "slug": "suno-cover-art-size", "canonicalPath": "/articles/suno-cover-art-size/", "indexable": true },
+    { "path": "/articles/write-better-suno-prompts/", "page": "article", "slug": "write-better-suno-prompts", "canonicalPath": "/articles/write-better-suno-prompts/", "indexable": true },
+    { "path": "/articles/suno-style-prompt-examples/", "page": "article", "slug": "suno-style-prompt-examples", "canonicalPath": "/articles/suno-style-prompt-examples/", "indexable": true },
+    { "path": "/articles/suno-instrumental-prompt/", "page": "article", "slug": "suno-instrumental-prompt", "canonicalPath": "/articles/suno-instrumental-prompt/", "indexable": true },
+    { "path": "/articles/suno-exclude-styles/", "page": "article", "slug": "suno-exclude-styles", "canonicalPath": "/articles/suno-exclude-styles/", "indexable": true },
+    { "path": "/articles/suno-custom-mode-tutorial/", "page": "article", "slug": "suno-custom-mode-tutorial", "canonicalPath": "/articles/suno-custom-mode-tutorial/", "indexable": true },
+    { "path": "/articles/organize-suno-song-files/", "page": "article", "slug": "organize-suno-song-files", "canonicalPath": "/articles/organize-suno-song-files/", "indexable": true },
+    { "path": "/articles/suno-commercial-use/", "page": "article", "slug": "suno-commercial-use", "canonicalPath": "/articles/suno-commercial-use/", "indexable": true },
+    { "path": "/articles/suno-download-credits-limits/", "page": "article", "slug": "suno-download-credits-limits", "canonicalPath": "/articles/suno-download-credits-limits/", "indexable": true },
+    { "path": "/articles/suno-mp3-cover-art-missing/", "page": "article", "slug": "suno-mp3-cover-art-missing", "canonicalPath": "/articles/suno-mp3-cover-art-missing/", "indexable": true },
+    { "path": "/articles/suno-v6-muddy-vocals/", "page": "article", "slug": "suno-v6-muddy-vocals", "canonicalPath": "/articles/suno-v6-muddy-vocals/", "indexable": true },
+    { "path": "/articles/suno-extend-song-guide/", "page": "article", "slug": "suno-extend-song-guide", "canonicalPath": "/articles/suno-extend-song-guide/", "indexable": true },
+    { "path": "/articles/suno-persona-guide/", "page": "article", "slug": "suno-persona-guide", "canonicalPath": "/articles/suno-persona-guide/", "indexable": true },
+    { "path": "/articles/suno-replace-section-guide/", "page": "article", "slug": "suno-replace-section-guide", "canonicalPath": "/articles/suno-replace-section-guide/", "indexable": true },
+    { "path": "/articles/suno-audio-upload-guide/", "page": "article", "slug": "suno-audio-upload-guide", "canonicalPath": "/articles/suno-audio-upload-guide/", "indexable": true },
+    { "path": "/articles/suno-stem-separation-guide/", "page": "article", "slug": "suno-stem-separation-guide", "canonicalPath": "/articles/suno-stem-separation-guide/", "indexable": true },
+    { "path": "/articles/suno-voices-guide/", "page": "article", "slug": "suno-voices-guide", "canonicalPath": "/articles/suno-voices-guide/", "indexable": true },
+    { "path": "/articles/suno-studio-2-guide/", "page": "article", "slug": "suno-studio-2-guide", "canonicalPath": "/articles/suno-studio-2-guide/", "indexable": true },
+    { "path": "/articles/use-suno-songs-on-youtube/", "page": "article", "slug": "use-suno-songs-on-youtube", "canonicalPath": "/articles/use-suno-songs-on-youtube/", "indexable": true },
+    { "path": "/about/", "page": "about", "canonicalPath": "/about/", "indexable": true }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "downloader": [
+    "how-to-download-suno-songs",
+    "suno-mp3-download",
+    "suno-wav-download",
+    "suno-video-download",
+    "suno-download-not-working",
+    "suno-share-link-guide",
+    "suno-lyrics-download",
+    "suno-cover-art-download",
+    "organize-suno-song-files",
+    "suno-mp3-cover-art-missing"
+  ],
+  "promptBuilder": [
+    "write-better-suno-prompts",
+    "suno-style-prompt-examples",
+    "suno-instrumental-prompt",
+    "suno-exclude-styles",
+    "suno-custom-mode-tutorial"
+  ],
+  "officialSource": [
+    "download-multiple-suno-songs",
+    "suno-commercial-use",
+    "use-suno-songs-on-youtube",
+    "suno-download-credits-limits",
+    "suno-extend-song-guide",
+    "suno-persona-guide",
+    "suno-replace-section-guide",
+    "suno-audio-upload-guide",
+    "suno-stem-separation-guide",
+    "suno-voices-guide",
+    "suno-studio-2-guide"
+  ],
+  "none": [
+    "suno-lyrics-structure-tags",
+    "suno-lyrics-timestamps",
+    "edit-suno-lyrics",
+    "suno-cover-art-size"
+  ]
+}

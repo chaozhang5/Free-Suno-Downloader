@@ -1,0 +1,1657 @@
+[
+  {
+    "slug": "how-to-download-suno-songs",
+    "category": "Downloads",
+    "title": "Cara Mengunduh Lagu Suno: Opsi Resmi dan Tautan Publik",
+    "description": "Pelajari cara mengunduh lagu milik Anda dari Library Suno, memeriksa tautan lagu publik, dan memilih file yang tepat. Akses publik tidak otomatis memberi izin untuk menggunakan ulang konten.",
+    "intro": "Mulailah dari lagu milik Anda di Library Suno. Menu Download resmi menampilkan format ekspor yang tersedia untuk akun Anda. Tautan publik dapat membantu memeriksa aset yang ditampilkan halaman, tetapi bukan bukti bahwa Anda berhak menggunakannya kembali.",
+    "sections": [
+      {
+        "heading": "Unduh dari akun Suno Anda",
+        "paragraphs": [
+          "Buka Library atau Workspace, cari lagunya, pilih More Actions, lalu Download. Pilih opsi yang tersedia untuk lagu tersebut dan tunggu hingga file selesai tersimpan. Pilihan dapat berbeda menurut paket, lagu, dan perangkat.",
+          "Simpan URL lagu bersama filenya. Jika lagu akan digunakan untuk klien atau dirilis, catat juga akun yang membuatnya serta cara Anda memperoleh file ekspor."
+        ]
+      },
+      {
+        "heading": "Periksa tautan lagu publik",
+        "paragraphs": [
+          "Jika Anda memiliki tautan publik yang boleh digunakan, salin URL lengkap suno.com/s/, suno.com/song/, atau suno.com/hook/. Tempelkan satu tautan ke Suno Downloader kami dan pastikan judulnya benar sebelum memilih file audio, video, sampul, atau lirik yang tersedia.",
+          "Hanya file yang benar-benar tersedia di halaman tersebut yang akan ditampilkan. Tautan privat, terhapus, playlist, dan profil tidak didukung oleh alat untuk satu lagu ini. Halaman yang dapat diputar tidak memberi lisensi untuk mengunduh atau menerbitkan karya orang lain."
+        ]
+      },
+      {
+        "heading": "Pilih file sesuai kebutuhan berikutnya",
+        "paragraphs": [
+          "Gunakan audio asli yang dipublikasikan untuk mendengarkan. Pilih video hanya jika memang tersedia. Simpan sampul atau lirik jika Anda perlu menyimpan aset proyek terkait. Browser dapat mengonversi audio yang dapat diputar menjadi WAV PCM, tetapi konversi ini tidak meningkatkan kualitas sumber dan bukan pengganti ekspor WAV resmi Suno."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah saya mengunduh lagu publik milik orang lain?",
+        "answer": "URL publik saja tidak memberi Anda hak untuk menggunakan ulang lagu tersebut. Minta izin kepada kreatornya dan periksa ketentuan Suno terbaru sebelum menyimpan atau menerbitkan karyanya."
+      },
+      {
+        "question": "Mengapa pilihan yang tersedia berbeda dari lagu lain?",
+        "answer": "File yang tersedia bergantung pada halaman lagu, paket akun, serta perangkat atau metode yang Anda gunakan. Alat ini hanya menampilkan aset yang benar-benar dapat ditemukan."
+      }
+    ],
+    "toolLabel": "Periksa tautan lagu publik yang penggunaannya diizinkan",
+    "related": [
+      "suno-mp3-download",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bagaimana cara mengunduh lagu?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: Jenis file apa yang dapat saya unduh?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-download",
+    "category": "Downloads",
+    "title": "Cara Mengunduh Lagu Suno dalam Format MP3",
+    "description": "Temukan opsi MP3 resmi di Suno, pahami file yang tersedia dari tautan publik, dan periksa audio sebelum membagikannya.",
+    "intro": "MP3 cocok untuk pemutaran dan berbagi sehari-hari. Untuk lagu Anda sendiri, cara tercepat adalah memilih MP3 dari menu Download Suno. Untuk tautan publik yang penggunaannya diizinkan, periksa audio yang benar-benar tersedia di halaman tersebut.",
+    "sections": [
+      {
+        "heading": "Gunakan ekspor MP3 dari Suno",
+        "paragraphs": [
+          "Di Library atau Workspace, buka menu More Actions pada lagu, pilih Download, lalu pilih MP3 jika tersedia. Menurut Suno, unduhan lagu MP3 tersedia di semua paket, tetapi kuota unduhan dan opsi untuk lagu tertentu dapat berubah.",
+          "Putar file yang tersimpan sampai selesai. Periksa judul, versi, bagian awal, dan akhir sebelum mengirimkannya kepada kolaborator."
+        ]
+      },
+      {
+        "heading": "Apa yang tersedia melalui tautan publik",
+        "paragraphs": [
+          "Alat kami untuk satu lagu menampilkan audio asli yang tersedia dari halaman lagu atau Hook yang dapat diakses. Ekstensi file bergantung pada sumbernya. Jika tidak ada file audio yang dapat digunakan, alat ini tidak dapat membuat MP3. Untuk lagu Anda sendiri, gunakan menu resmi.",
+          "Simpan tautan halaman sumber bersama file. Ini memudahkan Anda membedakan beberapa versi dengan nama yang mirip."
+        ]
+      },
+      {
+        "heading": "Kapan MP3 sudah cukup",
+        "paragraphs": [
+          "Pilih MP3 untuk mendengarkan sehari-hari dan pratinjau sederhana. Jika editor meminta WAV, periksa apakah akun Suno Anda menyediakan ekspor WAV resmi. Mengubah MP3 menjadi WAV hanya mengubah wadah dan representasi sampel; detail yang hilang akibat kompresi tidak akan kembali."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah alat tautan publik selalu menghasilkan MP3?",
+        "answer": "Tidak. Alat ini menawarkan file audio terbitan yang dapat ditemukan, dan format sumbernya bisa berbeda. Jika memerlukan MP3 untuk lagu Anda sendiri, gunakan opsi MP3 resmi di Suno."
+      },
+      {
+        "question": "Bolehkah saya mengganti nama file yang tersimpan?",
+        "answer": "Boleh. Cantumkan judul dan versi lagu pada nama file, lalu simpan tautan Suno di catatan proyek agar sumbernya mudah dilacak."
+      }
+    ],
+    "toolLabel": "Periksa audio lagu yang tersedia",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-wav-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Jenis file unduhan yang tersedia",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-wav-download",
+    "category": "Downloads",
+    "title": "Cara Mendapatkan File WAV Suno dan Memahami Hasil Konversi",
+    "description": "Pahami ekspor WAV resmi Suno, konversi audio yang dapat diputar di browser, dan alasan konversi MP3 tidak memulihkan kualitas sumber.",
+    "intro": "File WAV berguna untuk penyuntingan karena berisi sampel PCM tanpa kompresi. Namun, penting untuk mengetahui apakah WAV berasal dari ekspor sumber resmi atau hasil konversi audio yang sudah dikompresi.",
+    "sections": [
+      {
+        "heading": "Periksa opsi WAV resmi terlebih dahulu",
+        "paragraphs": [
+          "Pusat bantuan Suno menyebut unduhan lagu WAV tersedia bagi pelanggan Pro dan Premier di web. Buka lagu di Library atau Workspace, pilih More Actions lalu Download, dan pilih WAV jika tersedia untuk akun dan lagu Anda. Unduhan di ponsel dapat menggunakan MP3 secara default.",
+          "Jika klien meminta file dengan kualitas asli, gunakan ekspor dari akun Suno dan simpan buktinya bersama proyek."
+        ]
+      },
+      {
+        "heading": "Cara kerja konverter kami",
+        "paragraphs": [
+          "Jika downloader kami dapat memutar sumber audio publik yang tersedia, browser Anda dapat membuat WAV PCM 16-bit dari sumber tersebut. Ini dapat membantu kompatibilitas dengan perangkat lunak yang menerima WAV tetapi tidak menerima format sumber. Konversi dilakukan secara lokal di browser.",
+          "Ukuran WAV hasil konversi sering kali jauh lebih besar daripada sumbernya. Ukuran yang lebih besar bukan berarti detail frekuensi yang hilang telah pulih atau hasil master menjadi lebih baik."
+        ]
+      },
+      {
+        "heading": "Pilih metode yang tepat",
+        "paragraphs": [
+          "Gunakan WAV resmi jika Anda memerlukan ekspor Suno. Konversi lokal hanya untuk sumber yang penggunaannya diizinkan dan alur kerja yang membutuhkan PCM. Jika proyek memerlukan instrumen terpisah, periksa apakah stem tersedia; WAV stereo tidak memuatnya secara terpisah."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah mengubah MP3 menjadi WAV meningkatkan kualitas suara?",
+        "answer": "Tidak. Konversi PCM mengubah format file, tetapi tidak dapat menciptakan kembali detail yang hilang saat audio dikompresi."
+      },
+      {
+        "question": "Mengapa opsi WAV resmi tidak muncul di ponsel saya?",
+        "answer": "Dokumentasi Suno saat ini menyebut unduhan lagu WAV di web untuk paket Pro dan Premier; unduhan di ponsel dapat menggunakan MP3 secara default. Periksa akun Anda di suno.com."
+      }
+    ],
+    "toolLabel": "Lihat audio dan opsi konversi yang tersedia",
+    "related": [
+      "suno-mp3-download",
+      "suno-video-download",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Jenis file unduhan yang tersedia",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-video-download",
+    "category": "Downloads",
+    "title": "Cara Mengunduh Video Lagu Suno jika File MP4 Tersedia",
+    "description": "Temukan opsi unduh video untuk lagu Suno dan pahami mengapa sebuah lagu publik dapat menampilkan audio tanpa file MP4.",
+    "intro": "Sebuah lagu bisa diputar tanpa memiliki file video yang dapat diunduh. Periksa halaman lagunya sebelum menganggap tombol MP4 yang tidak muncul sebagai masalah unduhan.",
+    "sections": [
+      {
+        "heading": "Periksa opsi video resmi",
+        "paragraphs": [
+          "Untuk lagu Anda sendiri, buka More Actions di Library atau Workspace Suno, lalu periksa menu Download. Suno menyebut video sebagai salah satu jenis file lagu yang mungkin tersedia; opsinya dapat berbeda menurut lagu, paket, fitur, dan perangkat.",
+          "Jika opsi video muncul, simpan file lalu putar sebentar untuk memastikan gambar dan audio sesuai dengan versi yang Anda inginkan."
+        ]
+      },
+      {
+        "heading": "Periksa halaman lagu publik",
+        "paragraphs": [
+          "Tempelkan URL lagu, share, atau Hook yang penggunaannya diizinkan ke alat kami untuk satu lagu. Tile Video hanya tersedia jika halaman menyediakan file video yang dapat digunakan. Tile yang tidak muncul bukan berarti MP4 akan tersedia setelah menunggu atau mengonversi audio.",
+          "Periksa halaman sumber dan akun Suno Anda sebelum mencoba lagi. Jika videonya ada di Suno tetapi tidak dapat diakses alat ini, gunakan cara resmi."
+        ]
+      },
+      {
+        "heading": "Jika Anda membutuhkan video lirik",
+        "paragraphs": [
+          "Video lagu dan video lirik buatan sendiri adalah dua hal berbeda. Jika tidak ada MP4 yang dipublikasikan, mulai dari audio yang penggunaannya diizinkan dan teks lirik, lalu buat video di editor yang mendukung caption. Cocokkan waktunya dengan versi audio final."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah audio diubah menjadi MP4 asli dari Suno?",
+        "answer": "Tidak. Editor video dapat membuat video baru dari audio dan gambar, tetapi hasilnya bukan file video yang dipublikasikan oleh Suno."
+      },
+      {
+        "question": "Mengapa lagu dapat diputar tetapi videonya tidak bisa disimpan?",
+        "answer": "Pemutaran hanya memastikan audionya tersedia. Tile video muncul jika aset video yang dapat digunakan tersedia untuk lagu tersebut."
+      }
+    ],
+    "toolLabel": "Periksa apakah video lagu tersedia",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-lyrics-timestamps",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Jenis file unduhan yang tersedia",
+        "url": "https://help.suno.com/en/articles/13926081"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-not-working",
+    "category": "Downloads",
+    "title": "Unduhan Suno Tidak Berfungsi? Periksa Tautan, File, dan Akun",
+    "description": "Atasi tombol unduh Suno yang tidak muncul, tautan publik yang gagal dibuka, atau lagu yang tidak menyediakan audio maupun video.",
+    "intro": "Unduhan bisa gagal karena berbagai hal: jenis tautan, visibilitas lagu, file tertentu, opsi unduhan akun, atau gangguan permintaan sementara. Cari tahu penyebabnya sebelum mengulangi tindakan yang sama.",
+    "sections": [
+      {
+        "heading": "Periksa lagu terlebih dahulu",
+        "paragraphs": [
+          "Buka URL sumber di Suno. Alat untuk satu lagu menerima tautan publik /s/, /song/, atau /hook/, bukan playlist atau profil kreator. Jika halaman privat, dihapus, atau URL tidak lengkap, media tidak dapat ditampilkan.",
+          "Salin kembali URL lengkap, bukan hanya potongannya. Jika lagu itu milik Anda, cari di Library dan periksa menu More Actions."
+        ]
+      },
+      {
+        "heading": "Cari tahu file yang tidak tersedia",
+        "paragraphs": [
+          "Jika audio tersedia tetapi video tidak, halaman tersebut mungkin tidak menyediakan MP4. Jika sampul atau lirik tidak muncul, sumbernya mungkin tidak menyediakan data tersebut. Alat seharusnya hanya menampilkan aset yang memang tersedia untuk lagu itu.",
+          "Jika menu Suno tidak menawarkan format yang Anda inginkan, periksa ketentuan paket dan perangkat terbaru. MP3 yang dikonversi ke WAV bukan ekspor WAV resmi."
+        ]
+      },
+      {
+        "heading": "Coba lagi setelah gangguan sementara",
+        "paragraphs": [
+          "Tunggu sebentar, muat ulang halaman sumber, lalu coba sekali lagi. Gangguan layanan sementara atau pengaturan unduhan browser dapat menghambat permintaan yang valid. Untuk video besar atau ZIP, pastikan ruang penyimpanan cukup dan jangan tutup tab sebelum penyimpanan selesai.",
+          "Jika masalah terus terjadi, catat URL dan pesan kesalahan persisnya. Informasi ini lebih membantu daripada hanya mengatakan unduhan gagal."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Perlukah saya terus mencoba tautan privat?",
+        "answer": "Tidak. Pastikan terlebih dahulu pemiliknya telah menjadikan halaman lagu tersebut publik. Mengulangi permintaan tidak akan memperbaiki halaman privat atau yang sudah dihapus."
+      },
+      {
+        "question": "Bagaimana jika hanya opsi WAV yang gagal?",
+        "answer": "Coba audio asli terlebih dahulu. Konversi di browser memerlukan audio sumber yang dapat diputar dan memori yang cukup. Jika tersedia untuk akun Anda, ekspor WAV resmi harus diperoleh melalui Suno."
+      }
+    ],
+    "toolLabel": "Coba lagi tautan lagu publik",
+    "related": [
+      "suno-share-link-guide",
+      "suno-download-credits-limits",
+      "suno-mp3-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bagaimana cara mengunduh lagu?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      },
+      {
+        "label": "Suno: Bagaimana cara kerja pengunduhan?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      }
+    ]
+  },
+  {
+    "slug": "suno-share-link-guide",
+    "category": "Tutorials",
+    "title": "Tautan Share, Song, dan Hook Suno: Mana yang Anda Perlukan?",
+    "description": "Kenali URL Suno /s/, /song/, dan /hook/, serta kapan harus memakai tautan satu lagu, bukan playlist atau halaman kreator.",
+    "intro": "Alamat yang Anda salin menentukan apa yang dapat diperiksa oleh alat. Tautan langsung ke lagu atau Hook menunjuk satu item; playlist atau profil menunjuk kumpulan dan memerlukan alur kerja berbeda.",
+    "sections": [
+      {
+        "heading": "Tiga jenis tautan untuk satu item",
+        "paragraphs": [
+          "URL share biasanya diawali suno.com/s/. Halaman lagu menggunakan suno.com/song/, sedangkan halaman Hook menggunakan suno.com/hook/. Downloader kami menerima tautan publik untuk satu item ini jika halamannya dapat diakses.",
+          "Salin tautan dari tombol Share di Suno atau dari bilah alamat browser, termasuk seluruh jalurnya. Buka di tab baru untuk memastikan tautan menuju lagu yang dimaksud."
+        ]
+      },
+      {
+        "heading": "Mengapa URL yang benar tetap bisa gagal",
+        "paragraphs": [
+          "Format URL yang benar tidak menjamin halamannya publik, audionya dapat digunakan, atau videonya tersedia. Pemilik dapat menjadikan lagu privat, menghapusnya, atau mengubah konten yang ditampilkan. Akses juga bisa terganggu sementara.",
+          "Alat kami memeriksa satu item per permintaan. URL playlist dan kreator tidak dapat menggantikan tautan /song/, meskipun halaman tersebut memuat daftar lagu."
+        ]
+      },
+      {
+        "heading": "Alur sederhana untuk berbagi",
+        "paragraphs": [
+          "Kirimkan tautan lagu tertentu kepada kolaborator beserta nama versi dan aset yang ingin ditinjau. Untuk file dari akun Anda sendiri, gunakan ekspor Library Suno. Minta izin sebelum mengunduh atau menggunakan ulang karya orang lain."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah saya menempelkan URL playlist ke alat untuk satu lagu?",
+        "answer": "Tidak. Buka satu lagu dari playlist, lalu salin tautan langsung lagu atau share-nya. Alat saat ini memproses satu item per permintaan."
+      },
+      {
+        "question": "Apakah /s/ dan /song/ selalu menampilkan file yang sama?",
+        "answer": "Keduanya dapat menuju lagu yang sama, tetapi halaman dan data akses yang tersedia bagi alat bisa berbeda. Pastikan judul dan file yang ditemukan sudah benar sebelum menyimpannya."
+      }
+    ],
+    "toolLabel": "Coba satu tautan lagu publik",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-download-not-working",
+      "download-multiple-suno-songs"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "download-multiple-suno-songs",
+    "category": "Tutorials",
+    "title": "Cara Mengunduh Beberapa Lagu Suno sebagai ZIP",
+    "description": "Gunakan pemilihan beberapa lagu di Library Suno untuk mengunduhnya sekaligus, dan ketahui kapan alat untuk satu lagu lebih sesuai.",
+    "intro": "Jika lagu-lagu ada di Library atau Workspace Suno Anda, Suno menyediakan alur resmi untuk mengunduh beberapa lagu sebagai ZIP. Alat kami saat ini menangani satu tautan lagu publik setiap kali.",
+    "sections": [
+      {
+        "heading": "Pilih lagu di Library",
+        "paragraphs": [
+          "Di Mac, tahan Command untuk memilih lagu satu per satu; di Windows, tahan Ctrl. Gunakan Shift untuk memilih rentang. Klik kanan salah satu lagu yang dipilih, pilih Download All, tentukan jenis file yang tersedia, lalu mulai unduhan ZIP.",
+          "Langkah resmi ini berlaku untuk antarmuka web Suno. Sediakan waktu dan ruang penyimpanan ekstra untuk arsip besar, lalu buka ZIP untuk memeriksanya sebelum memindahkan lagu sumber dari proyek aktif."
+        ]
+      },
+      {
+        "heading": "Buat arsip yang mudah dipahami",
+        "paragraphs": [
+          "Beri nama ZIP sesuai proyek dan tanggal. Dalam catatan proyek, cantumkan versi yang dimaksud, tautan lagu, dan izin dari kolaborator bila diperlukan. Unduhan sekaligus hanya berguna jika isi file tetap dapat dikenali.",
+          "Jika satu item tidak ada, periksa apakah item tersebut sudah dipilih dan apakah menu akun untuk lagu itu menawarkan format yang sama."
+        ]
+      },
+      {
+        "heading": "Gunakan satu tautan untuk pemeriksaan",
+        "paragraphs": [
+          "Untuk memeriksa satu lagu publik yang penggunaannya diizinkan, tempelkan URL langsungnya ke downloader kami. Alat ini dapat mengumpulkan file yang tersedia untuk satu lagu, termasuk lirik jika ada, ke dalam ZIP. Saat ini alat tidak menerima beberapa tautan sekaligus atau URL playlist."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah downloader di situs ini menerima beberapa tautan sekaligus?",
+        "answer": "Tidak. Fitur ZIP mengumpulkan aset yang tersedia dari satu lagu publik. Untuk beberapa lagu di Library Anda sendiri, gunakan alur Download All yang didokumentasikan Suno."
+      },
+      {
+        "question": "Bagaimana jika satu lagu tidak masuk ke ZIP?",
+        "answer": "Periksa apakah lagu itu termasuk dalam pilihan dan apakah Suno menyediakan jenis file yang dipilih. Jika proses batch terputus, coba unduh kelompok yang lebih kecil."
+      }
+    ],
+    "toolLabel": "Periksa satu lagu publik",
+    "related": [
+      "how-to-download-suno-songs",
+      "organize-suno-song-files",
+      "suno-share-link-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bagaimana cara mengunduh lagu?",
+        "url": "https://help.suno.com/en/articles/2409921"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-download",
+    "category": "Lyrics",
+    "title": "Cara Menyimpan Lirik Lagu Suno sebagai Teks",
+    "description": "Temukan lirik di halaman lagu Suno, simpan teks yang tersedia, lalu pastikan versinya sesuai dengan audio yang akan Anda gunakan.",
+    "intro": "File lirik paling berguna jika Anda tahu versi lagu yang dirujuk. Simpan tautan sumber dan dengarkan sambil mencocokkan lirik, terutama setelah beberapa kali generasi atau penyuntingan.",
+    "sections": [
+      {
+        "heading": "Mulai dari draf lirik Anda",
+        "paragraphs": [
+          "Jika Anda menulis lirik di Custom mode Suno, simpan file teks asli sebagai versi acuan. Suno menyatakan Anda tetap memiliki hak atas lirik orisinal yang Anda masukkan. Cantumkan versi lagu pada nama draf agar revisi berikutnya tidak menimpanya.",
+          "Jika halaman lagu menampilkan lirik hasil generasi, salin lalu cocokkan dengan audio final. Pelafalan yang dihasilkan atau baris yang diulang bisa berbeda dari teksnya."
+        ]
+      },
+      {
+        "heading": "Simpan teks dari lagu publik",
+        "paragraphs": [
+          "Untuk lagu atau Hook publik yang penggunaannya diizinkan, tempelkan URL ke downloader kami. Jika halaman menyediakan lirik, tile Lyrics TXT akan muncul. Anda dapat menyimpan teks saja atau memasukkannya bersama media yang tersedia ke ZIP satu lagu.",
+          "Jika tile lirik tidak tersedia, alat kami tidak menemukan teks yang bisa digunakan di halaman itu. Alat ini tidak mentranskripsikan vokal dari audio atau memulihkan draf privat."
+        ]
+      },
+      {
+        "heading": "Siapkan untuk penggunaan berikutnya",
+        "paragraphs": [
+          "Untuk dibaca dan diedit, TXT biasa sudah cukup. Video lirik memerlukan informasi waktu; teks saja tidak menyertakan timestamp. Simpan teks lirik, file audio, dan URL bersama-sama agar caption dapat diselaraskan dengan versi yang benar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah downloader membuat transkrip dari audio?",
+        "answer": "Tidak. Alat ini menyimpan teks lirik jika tersedia di halaman lagu publik. Dengarkan dan koreksi teksnya sendiri sebelum menggunakannya sebagai transkrip."
+      },
+      {
+        "question": "Apakah file TXT menyertakan waktu lirik?",
+        "answer": "Tidak. Teks biasa hanya berisi kata-kata, bukan timestamp. Setelah memilih versi audio final, buat LRC atau SRT di editor sinkronisasi."
+      }
+    ],
+    "toolLabel": "Periksa lirik lagu yang tersedia",
+    "related": [
+      "suno-lyrics-timestamps",
+      "suno-lyrics-structure-tags",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bisakah saya menggunakan lirik saya sendiri?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-structure-tags",
+    "category": "Lyrics",
+    "title": "Tag Struktur Lirik Suno: Verse, Chorus, Bridge, dan Outro",
+    "description": "Susun draf lirik Suno dengan label bagian yang jelas, pengulangan terarah, serta ruang yang cukup untuk verse, chorus, dan transisi.",
+    "intro": "Tag bagian membuat draf lirik lebih mudah dibaca dan direvisi. Tag membantu memberi arahan struktur, tetapi tidak menjamin lagu yang dihasilkan akan mengikuti setiap label secara persis.",
+    "sections": [
+      {
+        "heading": "Tentukan fungsi setiap bagian",
+        "paragraphs": [
+          "Gunakan [Verse] untuk melanjutkan cerita atau memperkenalkan detail, [Chorus] untuk baris yang mudah diingat, [Bridge] untuk sudut pandang baru, dan [Outro] untuk penutup. Tambahkan [Pre-Chorus] hanya jika lagu membutuhkan peningkatan energi sebelum chorus.",
+          "Contoh singkat: [Verse 1] berisi empat baris baru, [Chorus] mengulang baris judul, [Verse 2] mengubah satu detail, lalu [Chorus] diulang. Tag membantu menata niat; hasil musik tetap perlu didengarkan dan diperbaiki."
+        ]
+      },
+      {
+        "heading": "Pisahkan label dan lirik",
+        "paragraphs": [
+          "Letakkan setiap tag di baris tersendiri. Buat baris lirik cukup pendek untuk dinyanyikan dan sisakan satu baris kosong antarbagian. Ini memudahkan Anda membandingkan hasil generasi dan melihat bagian yang dilewati, diulang, atau diperpanjang model.",
+          "Jika chorus terasa datar, perbaiki lirik atau buat kontras dengan verse sebelum menambahkan tag. Struktur tidak dapat menggantikan satu baris utama yang kuat."
+        ]
+      },
+      {
+        "heading": "Gunakan kolom Suno yang tepat",
+        "paragraphs": [
+          "Dalam Custom mode, masukkan draf lirik orisinal ke Lyrics dan deskripsi bunyi keseluruhan ke Styles. Simpan salinannya di luar Suno sebelum membuat versi baru. Custom mode Suno mendukung penggunaan lirik buatan sendiri."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah [Chorus] memaksa melodi yang sama persis setiap kali?",
+        "answer": "Tidak. Tag ini menunjukkan bagian yang dimaksud, tetapi hasil generasi dapat bervariasi. Dengarkan kedua bagian chorus dan revisi lirik atau prompt jika hasilnya tidak sesuai."
+      },
+      {
+        "question": "Di mana saya harus menulis deskripsi gaya musik?",
+        "answer": "Gunakan kolom Styles di Custom mode untuk arahan musik, dan Lyrics untuk kata-kata serta label bagian."
+      }
+    ],
+    "toolLabel": "Periksa lirik lagu yang sudah selesai",
+    "related": [
+      "suno-lyrics-download",
+      "edit-suno-lyrics",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bisakah saya menggunakan lirik saya sendiri?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-lyrics-timestamps",
+    "category": "Lyrics",
+    "title": "Timestamp Lirik Suno: Cara Menyiapkan Caption Lagu",
+    "description": "Cocokkan setiap baris lirik Suno dengan audio final untuk membuat caption bertimestamp, lalu periksa transisi yang sulit.",
+    "intro": "File lirik biasa berisi teks yang ditampilkan. File caption bertimestamp juga mencatat kapan tiap baris muncul. Keduanya berbeda: downloader kami dapat menyimpan lirik yang tersedia sebagai TXT, tetapi tidak membuat timestamp LRC atau SRT.",
+    "sections": [
+      {
+        "heading": "Tentukan audio final terlebih dahulu",
+        "paragraphs": [
+          "Simpan versi audio persis yang akan Anda publikasikan. Generasi ulang dapat menggeser awal verse dan pengulangan chorus, sehingga timestamp dari versi lama bisa meleset meski kata-katanya sama.",
+          "Dengarkan dan koreksi teks lirik sebelum menambahkan waktu. Tandai kata yang hilang, ad-lib, dan baris berulang; jangan anggap lirik yang ditampilkan sebagai transkrip sempurna."
+        ]
+      },
+      {
+        "heading": "Tandai awal dan akhir tiap baris",
+        "paragraphs": [
+          "Buka audio di editor yang mendukung caption. Putar dari awal dan catat waktu mulai tiap baris lirik. Untuk subtitle, tentukan juga waktu selesai agar teks cukup lama dibaca dan tidak menutupi baris berikutnya.",
+          "Periksa verse pertama, setiap pengulangan chorus, jeda instrumental, dan outro. Bagian-bagian ini sering membuat offset waktu yang seragam menjadi tidak akurat."
+        ]
+      },
+      {
+        "heading": "Ekspor sesuai tujuan",
+        "paragraphs": [
+          "Gunakan SRT untuk banyak editor video dan alur subtitle, atau LRC untuk pemutar yang menampilkan lirik tersinkronisasi. Uji file hasil ekspor dengan video atau pemutar sebenarnya sebelum membagikannya. Simpan salinan TXT agar teks mudah diedit."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah saya memakai timestamp dari generasi lain?",
+        "answer": "Bisa setelah mencocokkannya dengan audio final. Lagu dengan lirik sama pun dapat memiliki awal baris, jeda, dan durasi chorus yang berbeda."
+      },
+      {
+        "question": "Format mana yang sebaiknya dipilih untuk editor video?",
+        "answer": "SRT banyak digunakan untuk subtitle bertimestamp, tetapi pastikan editor Anda mendukungnya. Simpan TXT tanpa timestamp untuk revisi."
+      }
+    ],
+    "toolLabel": "Simpan teks lirik yang tersedia",
+    "related": [
+      "suno-lyrics-download",
+      "suno-video-download",
+      "edit-suno-lyrics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "edit-suno-lyrics",
+    "category": "Lyrics",
+    "title": "Cara Merevisi Lirik Suno tanpa Kehilangan Hook Lagu",
+    "description": "Perbaiki draf lirik Suno dengan menemukan baris yang lemah, mempertahankan hook yang mudah diingat, dan menguji satu perubahan setiap kali.",
+    "intro": "Saat sebuah lagu hampir berhasil, menulis ulang semua baris dapat menghilangkan bagian yang paling diingat pendengar. Simpan versi lirik dan audio saat ini, lalu ubah bagian sekecil mungkin yang menjadi masalah.",
+    "sections": [
+      {
+        "heading": "Tentukan masalah yang spesifik",
+        "paragraphs": [
+          "Dengarkan lagu sambil membaca lirik. Tandai baris yang sulit dinyanyikan, terlalu samar, berulang di tempat yang kurang tepat, atau tidak sesuai dengan cerita. Jika chorus sudah kuat, pertahankan frasa utamanya dan perbaiki verse yang mengarah ke sana.",
+          "Bedakan masalah lirik dari masalah produksi. Vokal yang tenggelam mungkin memerlukan arahan aransemen atau mixing, bukan rima baru."
+        ]
+      },
+      {
+        "heading": "Lakukan penulisan ulang terkontrol",
+        "paragraphs": [
+          "Gandakan draf dan beri label versi kedua. Revisi satu bagian saja, sambil mempertahankan sudut pandang, jumlah baris, dan tag bagian. Ganti pernyataan umum dengan gambaran atau tindakan konkret; baca baris baru dengan lantang sebelum membuat generasi berikutnya.",
+          "Bandingkan hasil baru dengan audio sebelumnya, bukan hanya teks. Baris yang lebih bagus di atas kertas bisa terasa janggal pada melodi, sedangkan baris sederhana dapat terdengar sangat baik saat dinyanyikan."
+        ]
+      },
+      {
+        "heading": "Catat setiap perubahan",
+        "paragraphs": [
+          "Catat baris yang diubah, alasannya, dan versi yang Anda pilih. Simpan file lirik final bersama audio dan URL lagu yang sesuai. Jika bekerja sama, minta peninjau menyebut timestamp dan bagian yang tepat, bukan meminta penulisan ulang secara umum."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah chorus sebaiknya diubah lebih dulu?",
+        "answer": "Jika pendengar mengingatnya dan melodinya cocok, pertahankan. Cari tahu apakah verse, transisi, atau aransemen vokal yang membuat kesan lagu melemah."
+      },
+      {
+        "question": "Bagaimana membandingkan dua versi lirik dengan adil?",
+        "answer": "Simpan kedua teks dan hasil audionya. Catat bagian yang tepat dan perubahan yang terdengar, jangan menilai dari teks saja."
+      }
+    ],
+    "toolLabel": "Tinjau lirik di halaman lagu",
+    "related": [
+      "suno-lyrics-structure-tags",
+      "suno-lyrics-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bisakah saya menggunakan lirik saya sendiri?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      }
+    ]
+  },
+  {
+    "slug": "suno-cover-art-download",
+    "category": "Cover art",
+    "title": "Cara Menyimpan Sampul Lagu Suno yang Boleh Anda Gunakan",
+    "description": "Temukan artwork yang dipublikasikan untuk sebuah lagu Suno, simpan gambar yang tersedia, dan catat sumber serta izinnya bersama file musik.",
+    "intro": "Gambar sampul memudahkan lagu dikenali di pustaka, tetapi adanya gambar di halaman publik tidak berarti Anda boleh menerbitkannya di tempat lain. Mulailah dari lagu sendiri atau dapatkan persetujuan jelas dari kreatornya.",
+    "sections": [
+      {
+        "heading": "Temukan gambar yang dipublikasikan",
+        "paragraphs": [
+          "Buka halaman lagu dan pastikan artwork sesuai dengan versi yang dimaksud. Untuk tautan publik /s/, /song/, atau /hook/ yang dapat diakses, downloader kami menampilkan tile Cover art hanya jika menemukan file gambar di halaman.",
+          "Simpan gambar melalui tile tersebut. Jika tile tidak tersedia, periksa halaman sumber; alat ini tidak dapat membuat atau memperbesar artwork yang tidak dipublikasikan."
+        ]
+      },
+      {
+        "heading": "Simpan konteks sumber dan izin",
+        "paragraphs": [
+          "Simpan gambar bersama audio dan teks lirik lagu. Catat URL sumber, kreator, dan tanggal penyimpanan. Untuk merilis lagu, periksa hak atas setiap elemen, termasuk artwork yang diunggah pihak lain.",
+          "Anda dapat mengganti nama salinan untuk proyek, tetapi pertahankan file aslinya. Dengan begitu, Anda tetap dapat membandingkan edit berikutnya dengan gambar yang dipublikasikan."
+        ]
+      },
+      {
+        "heading": "Siapkan gambar untuk tujuan tertentu",
+        "paragraphs": [
+          "Sebelum memasukkan artwork ke video, pemutar, atau layanan distribusi, periksa persyaratan ukuran, rasio aspek, dan format file terbaru. Gambar publik mungkin lebih kecil dari ketentuan platform rilis. Memperbesar gambar beresolusi rendah tidak menambahkan detail asli."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah saya menyimpan sampul dari lagu publik mana pun?",
+        "answer": "Akses teknis bukan izin penggunaan. Gunakan artwork lagu milik Anda atau dapatkan persetujuan dari kreator dan artis terkait untuk penggunaan yang direncanakan."
+      },
+      {
+        "question": "Mengapa tile sampul tidak muncul?",
+        "answer": "Halaman tersebut mungkin tidak menyediakan file gambar yang dapat disimpan oleh alat. Buka lagu sumber dan pastikan artwork memang tersedia."
+      }
+    ],
+    "toolLabel": "Periksa artwork yang tersedia",
+    "related": [
+      "suno-cover-art-size",
+      "suno-mp3-cover-art-missing",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-cover-art-size",
+    "category": "Cover art",
+    "title": "Ukuran dan Format Sampul Suno: Hal yang Perlu Diperiksa Sebelum Merilis",
+    "description": "Periksa dimensi, crop, format, dan hak penggunaan gambar sampul Suno sebelum memakainya di pemutar, video, atau materi rilis.",
+    "intro": "Tidak ada satu ukuran gambar yang cocok untuk semua tujuan. Mulailah dari file yang tersedia untuk lagu Anda, lalu bandingkan dengan persyaratan terbaru platform tempat gambar akan digunakan.",
+    "sections": [
+      {
+        "heading": "Periksa gambar sumber",
+        "paragraphs": [
+          "Simpan sampul yang tersedia dari halaman lagu, lalu lihat dimensi piksel dan jenis filenya melalui sistem operasi. Periksa apakah gambar berbentuk persegi, apakah teks penting terlalu dekat ke tepi, dan apakah sampul sesuai dengan versi audionya.",
+          "Downloader kami menyimpan gambar terbitan yang tersedia; alat ini tidak menjamin ukuran JPEG tertentu atau membuat versi beresolusi tinggi."
+        ]
+      },
+      {
+        "heading": "Sesuaikan dengan tujuan",
+        "paragraphs": [
+          "Thumbnail di pustaka musik boleh memiliki crop berbeda dari video lirik layar penuh. Untuk merilis lagu, periksa spesifikasi artwork terbaru dari distributor, termasuk dimensi minimum, mode warna, teks, dan aturan konten.",
+          "Buat ekspor terpisah untuk setiap tujuan. Jika memperbesar gambar kecil, periksa hasil pada ukuran sebenarnya untuk melihat blur atau artefak. Jumlah piksel yang lebih besar tidak berarti sumbernya membaik."
+        ]
+      },
+      {
+        "heading": "Simpan bukti izin penggunaan",
+        "paragraphs": [
+          "Tangkapan layar halaman publik bukan lisensi. Simpan file sumber dan izin penggunaannya bersama catatan lagu. Jika sampul diberikan orang lain, minta izin yang mencakup penggunaan yang Anda rencanakan."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Berapa ukuran sampul Suno?",
+        "answer": "Periksa gambar yang benar-benar Anda simpan; dimensinya bergantung pada aset yang dipublikasikan. Jangan menganggap thumbnail halaman selalu punya ukuran tetap."
+      },
+      {
+        "question": "Bisakah sampul kecil disiapkan untuk cetak dengan memperbesarnya?",
+        "answer": "Pembesaran mengubah dimensi, tetapi tidak memulihkan detail yang hilang. Minta file sumber beresolusi lebih tinggi dan berizin jika tujuan Anda membutuhkannya."
+      }
+    ],
+    "toolLabel": "Simpan file sampul yang dipublikasikan",
+    "related": [
+      "suno-cover-art-download",
+      "suno-video-download",
+      "organize-suno-song-files"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "write-better-suno-prompts",
+    "category": "Prompts",
+    "title": "Cara Menulis Prompt Suno dengan Arahan Musik yang Jelas",
+    "description": "Susun prompt musik Suno yang terarah dengan genre, tempo, instrumen, karakter vokal, dan pilihan produksi, lalu bandingkan hasilnya secara sistematis.",
+    "intro": "Prompt yang efektif memberi model sasaran musik yang padu. Mulailah dengan gagasan inti yang singkat, tambahkan hanya detail yang memengaruhi hasil dengar, lalu revisi setelah mendengarkan lagu.",
+    "sections": [
+      {
+        "heading": "Tulis sasaran dalam satu kalimat",
+        "paragraphs": [
+          "Pilih gaya umum, perkembangan emosi, dan bunyi utama. Contoh: balada pop akustik yang intim dengan gitar petik, drum lembut, dan vokal dekat. Sasaran ini lebih mudah diuji daripada daftar genre yang tidak saling berkaitan.",
+          "Jika lagu memiliki lirik, tentukan apakah musiknya perlu mendukung verse yang tenang, chorus yang lebih besar, atau keduanya. Jelaskan hubungan itu secara spesifik."
+        ]
+      },
+      {
+        "heading": "Tambahkan beberapa batasan yang berguna",
+        "paragraphs": [
+          "Tentukan satu atau dua instrumen yang harus menonjol, cara penyampaian vokal, dan tekstur produksinya. Jelaskan perubahan antarbagiannya hanya jika memang penting. Hindari menumpuk kata serupa seperti hangat, lembut, dreamy, mellow tanpa menentukan prioritas.",
+          "Di Custom mode Suno, Styles berisi arahan musik dan Lyrics berisi teks lirik. Suno menyediakan keduanya sebagai kolom terpisah."
+        ]
+      },
+      {
+        "heading": "Uji satu perubahan setiap kali",
+        "paragraphs": [
+          "Simpan prompt dengan nomor versi. Dengarkan instrumen dominan, energi, karakter vokal, dan kontras antarbagian. Ubah satu kategori pada generasi berikutnya agar Anda tahu perubahan mana yang membantu.",
+          "Simpan tautan lagu dan catatan bersama prompt. Saat siap meninjau atau mengarsipkan hasil, downloader kami dapat memeriksa hasil publik yang penggunaannya diizinkan serta aset yang tersedia."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Seberapa panjang prompt Suno sebaiknya?",
+        "answer": "Cukup panjang untuk menyampaikan sasaran yang padu, tetapi setiap detail harus punya fungsi. Mulailah dari genre, bunyi utama, pilihan vokal atau instrumental, dan energi tiap bagian."
+      },
+      {
+        "question": "Bisakah prompt menjamin hasil tertentu?",
+        "answer": "Tidak. Hasil generasi bervariasi. Simpan prompt dengan nomor versi dan bandingkan audionya agar setiap revisi didasarkan pada yang benar-benar Anda dengar."
+      }
+    ],
+    "toolLabel": "Periksa lagu publik yang sudah selesai",
+    "related": [
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Ikhtisar mode khusus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-style-prompt-examples",
+    "category": "Prompts",
+    "title": "Contoh Prompt Style Suno untuk Diadaptasi dan Diuji",
+    "description": "Gunakan contoh prompt Style yang terarah untuk pop akustik, musik elektronik, dan suasana sinematik, sambil menguji detail yang ingin Anda ubah.",
+    "intro": "Contoh Style adalah titik awal untuk diuji, bukan resep yang menjamin bunyi tertentu. Sesuaikan genre, peran instrumen, pendekatan vokal, dan tekstur produksi dengan lagu Anda.",
+    "sections": [
+      {
+        "heading": "Lagu akustik dengan chorus yang lebih besar",
+        "paragraphs": [
+          "Coba: pop akustik intim, gitar petik di verse, bass hangat, perkusi lembut, vokal utama dekat, harmoni lebih lebar di chorus. Kontras antarbagian lebih penting daripada menambah banyak kata suasana.",
+          "Jika chorus tetap terasa kecil, ubah aransemen terlebih dahulu. Jika vokal terasa terlalu jauh, perbaiki deskripsi vokal tanpa menulis ulang seluruh arahan."
+        ]
+      },
+      {
+        "heading": "Lagu elektronik yang ritmis",
+        "paragraphs": [
+          "Coba: pop elektronik bertempo sedang, kick rapat dan bass sinkopasi, motif synth jernih, verse yang renggang, hook berlapis yang cerah, mixing modern yang bersih. Di sini bass dan motif punya fungsi berbeda.",
+          "Jika hasilnya terlalu padat, hilangkan satu lapisan atau kurangi energi verse. Pertahankan deskripsi groove jika bagian itu sudah cocok."
+        ]
+      },
+      {
+        "heading": "Suasana instrumental",
+        "paragraphs": [
+          "Coba: ambient sinematik lambat, motif piano lembut, pad string yang berkembang, tekstur ruang yang jauh, peningkatan bertahap, tanpa vokal utama. Untuk lagu tanpa lirik, gunakan juga opsi Instrumental Suno jika tersedia.",
+          "Simpan prompt persis bersama setiap versi hasil generasi. Bandingkan hasil yang terdengar; contoh yang sama tidak selalu menghasilkan bunyi yang sama pada generasi berbeda."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Haruskah saya menempelkan contoh tanpa perubahan?",
+        "answer": "Jadikan contoh sebagai titik awal yang dapat diuji. Ganti instrumen, groove, dan pilihan vokal agar sesuai dengan lagu Anda, lalu bandingkan hasilnya."
+      },
+      {
+        "question": "Mengapa prompt Style yang sama menghasilkan bunyi berbeda?",
+        "answer": "Hasil generasi bervariasi dan masukan lain, seperti lirik, juga berpengaruh. Simpan setiap versi dan nilai audionya, bukan memperlakukan prompt sebagai preset tetap."
+      }
+    ],
+    "toolLabel": "Tinjau hasil contoh",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-instrumental-prompt",
+      "suno-exclude-styles"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Ikhtisar mode khusus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-instrumental-prompt",
+    "category": "Prompts",
+    "title": "Cara Membuat Lagu Instrumental Suno dengan Prompt Terarah",
+    "description": "Atur pembuatan lagu instrumental Suno dan jelaskan melodi, ritme, aransemen, serta perkembangannya tanpa bergantung pada instruksi lirik.",
+    "intro": "Untuk lagu instrumental, jelaskan peran instrumen sepanjang lagu. Label genre saja belum menjelaskan melodi, denyut, dan pergerakan antarbagian.",
+    "sections": [
+      {
+        "heading": "Gunakan kontrol Instrumental",
+        "paragraphs": [
+          "Custom mode Suno menyediakan opsi Instrumental. Aktifkan jika Anda tidak menginginkan vokal utama, lalu atur bunyi melalui Styles dan kontrol lain yang tersedia. Jangan hanya menulis “tanpa lirik” di kolom teks.",
+          "Periksa hasil generasi: pengaturan instrumental menyatakan niat, tetapi audio yang dihasilkan mungkin tetap memerlukan percobaan lain atau prompt yang lebih jelas."
+        ]
+      },
+      {
+        "heading": "Jelaskan tiga peran musik",
+        "paragraphs": [
+          "Pilih bunyi utama, tekstur pendukung, dan denyut ritmis. Contoh: melodi piano elektrik yang lembut, pad analog rendah, dan beat ringan dengan sapuan kuas. Tambahkan arahan perkembangan, seperti bagian kedua yang lebih lebar atau akhir yang lebih sederhana.",
+          "Jangan mencantumkan sepuluh instrumen jika perannya tidak jelas. Arahan yang lebih sedikit dan berbeda fungsi lebih mudah dievaluasi."
+        ]
+      },
+      {
+        "heading": "Cocokkan hasil dengan arahan",
+        "paragraphs": [
+          "Dengarkan apakah ada vokal yang tidak diinginkan, apakah melodi utama terdengar, dan apakah musik berkembang. Ubah satu aspek itu pada setiap versi baru. Simpan tautan dan prompt bersama-sama; jika Anda berhak menggunakan lagunya, periksa audio yang tersedia dari halaman publik."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah menulis “tanpa vokal” di Styles sudah cukup?",
+        "answer": "Jika tersedia, gunakan opsi Instrumental Suno, lalu jelaskan aransemen yang diinginkan di Styles. Dengarkan hasilnya untuk memastikan sesuai arahan."
+      },
+      {
+        "question": "Apa yang bisa menggantikan hook vokal?",
+        "answer": "Berikan motif yang khas dan berulang pada instrumen utama, lalu tentukan kapan motif itu kembali atau berubah."
+      }
+    ],
+    "toolLabel": "Periksa hasil instrumental Anda",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Ikhtisar mode khusus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "suno-exclude-styles",
+    "category": "Prompts",
+    "title": "Cara Mengurangi Gaya yang Tidak Diinginkan pada Hasil Suno",
+    "description": "Kenali unsur genre, vokal, atau instrumen yang tidak diinginkan dalam lagu Suno, lalu revisi prompt tanpa melemahkan arah utamanya.",
+    "intro": "Jika hasil generasi menambahkan bunyi yang tidak Anda minta, tentukan ciri audionya secara spesifik. Arahan positif yang fokus dan satu pengecualian terarah lebih mudah diuji daripada daftar larangan panjang.",
+    "sections": [
+      {
+        "heading": "Sebutkan bunyi yang tidak diinginkan",
+        "paragraphs": [
+          "Catat yang Anda dengar: lead synth yang terang, pola drum rock, vokal latar seperti paduan suara, atau kesan genre yang berbeda. Masukan umum seperti “terlalu biasa” tidak menunjukkan perubahan yang berguna.",
+          "Periksa apakah prompt awal tanpa sengaja mengundang bunyi itu. Kata seperti epic atau cinematic dapat memberi kesan aransemen yang lebih besar dari yang Anda inginkan."
+        ]
+      },
+      {
+        "heading": "Seimbangkan kembali arahan positif",
+        "paragraphs": [
+          "Jelaskan dengan tegas instrumen utama dan groove yang diinginkan. Ganti kata-kata gaya yang saling bersaing dengan satu acuan. Jika antarmuka Suno Anda menyediakan kontrol lanjutan untuk mengecualikan gaya, masukkan ciri yang tidak diinginkan secara singkat dan spesifik.",
+          "Jangan menganggap pengecualian pasti dipatuhi. Hasil generasi bervariasi, dan prompt positif yang bertentangan tetap dapat menarik hasil ke arah yang ingin dihindari."
+        ]
+      },
+      {
+        "heading": "Bandingkan revisi kecil",
+        "paragraphs": [
+          "Buat generasi baru dengan hanya perubahan tersebut. Simpan prompt lama dan baru, lalu dengarkan bagian yang sama. Jika bunyi yang tidak diinginkan hilang tetapi energinya juga turun, pulihkan energi lewat peran instrumen lain, bukan dengan memasukkan kembali petunjuk genre yang sama."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Haruskah saya mengecualikan beberapa genre sekaligus?",
+        "answer": "Mulailah dari satu ciri yang terdengar dan menjadi masalah. Daftar pengecualian panjang membuat sulit mengetahui perubahan mana yang membantu."
+      },
+      {
+        "question": "Bagaimana jika instrumen yang dikecualikan tetap muncul?",
+        "answer": "Cari kata yang bertentangan dalam arahan positif, perjelas instrumen utama yang Anda inginkan, lalu bandingkan generasi lain. Pengecualian bukan jaminan."
+      }
+    ],
+    "toolLabel": "Periksa lagu setelah revisi",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-instrumental-prompt"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-custom-mode-tutorial",
+    "category": "Tutorials",
+    "title": "Tutorial Custom Mode Suno: Lirik, Style, dan Instrumental",
+    "description": "Atur lagu di Custom mode Suno dengan lirik orisinal, deskripsi Style yang terarah, judul, dan opsi Instrumental bila diperlukan.",
+    "intro": "Custom mode berguna jika Anda ingin mengatur kata-kata dan arah musik secara terpisah. Siapkan keduanya sebelum menekan Create agar Anda dapat mengetahui pilihan mana yang memengaruhi hasil.",
+    "sections": [
+      {
+        "heading": "Siapkan masukan",
+        "paragraphs": [
+          "Tulis arahan Style singkat berisi genre utama, instrumen, karakter vokal, dan perubahan energi. Jika lagu memiliki vokal, buat draf lirik dengan label bagian sederhana. Simpan salinan di luar Suno agar revisi nanti dapat dipulihkan.",
+          "Untuk lagu instrumental, rencanakan melodi dan peran instrumen pendukung alih-alih mengisi kolom lirik dengan instruksi produksi."
+        ]
+      },
+      {
+        "heading": "Buat lagu di Custom mode",
+        "paragraphs": [
+          "Buka Create di Suno dan pilih Custom. Masukkan lirik ke Lyrics, deskripsi bunyi ke Styles, lalu beri judul yang jelas. Aktifkan Instrumental jika Anda menginginkan musik tanpa lirik yang dinyanyikan, kemudian buat lagunya.",
+          "Kontrol ini dijelaskan dalam panduan Custom mode Suno. Tampilan dapat berubah, jadi ikuti label yang terlihat di akun Anda."
+        ]
+      },
+      {
+        "heading": "Tinjau dan simpan versi",
+        "paragraphs": [
+          "Dengarkan ketepatan lirik, transisi antarbagian, dan kecocokan instrumen dengan arahan. Catat satu hal yang ingin dipertahankan dan satu hal yang ingin diubah. Jika halaman lagu dipublikasikan, simpan tautannya bersama prompt dan versi lirik.",
+          "Untuk lagu Anda sendiri, gunakan menu Download resmi Suno untuk ekspor akun. Alat kami dapat memeriksa aset yang tersedia dari tautan publik yang penggunaannya diizinkan."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah saya harus menulis lirik sendiri?",
+        "answer": "Tidak. Custom mode dapat menggunakan lirik buatan Anda atau teks yang dihasilkan. Simpan salinan draf yang ingin Anda revisi atau dokumentasikan."
+      },
+      {
+        "question": "Di mana saya memilih instrumental?",
+        "answer": "Gunakan kontrol Instrumental di Custom mode jika tersedia, lalu tulis deskripsi bunyi yang terarah di Styles."
+      }
+    ],
+    "toolLabel": "Periksa hasil publik",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-lyrics-structure-tags",
+      "how-to-download-suno-songs"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bisakah saya menggunakan lirik saya sendiri?",
+        "url": "https://help.suno.com/en/articles/2415873"
+      },
+      {
+        "label": "Suno: Ikhtisar mode khusus",
+        "url": "https://help.suno.com/en/articles/3726721"
+      }
+    ]
+  },
+  {
+    "slug": "organize-suno-song-files",
+    "category": "Tutorials",
+    "title": "Cara Mengatur File Audio, Lirik, Sampul, dan Prompt Suno",
+    "description": "Buat sistem folder dan penamaan sederhana agar setiap versi lagu Suno, prompt, draf lirik, gambar, dan catatan izin tersimpan bersama.",
+    "intro": "Proyek lagu sulit dikelola jika audio, artwork, dan lirik memakai nama file umum yang sama. Aturan penamaan sederhana memudahkan perbandingan versi dan kerja kolaboratif.",
+    "sections": [
+      {
+        "heading": "Buat satu folder untuk setiap lagu",
+        "paragraphs": [
+          "Gunakan nama folder seperti nama-proyek-judul-lagu. Simpan audio, sampul, lirik, dan catatan di dalamnya. Jika ada beberapa generasi, gunakan nomor versi dan jangan menimpa file bernama “final”.",
+          "Contoh penamaan: judul-lagu-v03-audio.mp3, judul-lagu-v03-lyrics.txt, dan judul-lagu-v03-cover.jpg. Catat URL sumber dan akun pembuatnya dalam README singkat atau catatan proyek."
+        ]
+      },
+      {
+        "heading": "Catat keputusan, bukan hanya aset",
+        "paragraphs": [
+          "Untuk setiap versi yang menjanjikan, catat prompt, versi lirik, perubahan yang dilakukan, dan hasil yang Anda dengar. Jika ada orang lain menyumbangkan lirik atau artwork, simpan informasi izin dan kredit di folder proyek yang sama.",
+          "Jika hak penggunaan komersial penting, simpan juga catatan unduhan resmi. File saja tidak menunjukkan akun atau jalur ekspor yang menghasilkannya."
+        ]
+      },
+      {
+        "heading": "Periksa arsip sebelum dibagikan",
+        "paragraphs": [
+          "Buka file audio, gambar, dan lirik setelah menyimpannya. Pastikan semuanya merujuk ke versi lagu yang sama sebelum mengirim ZIP kepada kolaborator. Alat kami dapat mengemas file yang ditemukan dari satu tautan lagu publik yang penggunaannya diizinkan, tetapi catatan dan izin Anda perlu disimpan terpisah."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Informasi minimum apa yang perlu disimpan bersama lagu?",
+        "answer": "Simpan versi audio, URL lagu, prompt, versi lirik, konteks pembuatannya, dan catatan izin yang relevan dengan tujuan penggunaan."
+      },
+      {
+        "question": "Sebaiknya saya menimpa file bernama “final”?",
+        "answer": "Jangan. Beri nomor versi pada setiap generasi yang telah ditinjau. Anda dapat menandai satu sebagai pilihan tanpa menghilangkan file lama yang menunjukkan proses perubahannya."
+      }
+    ],
+    "toolLabel": "Kumpulkan file yang tersedia untuk satu lagu",
+    "related": [
+      "download-multiple-suno-songs",
+      "suno-cover-art-download",
+      "suno-lyrics-download"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "suno-commercial-use",
+    "category": "Rights",
+    "title": "Apakah Lagu Suno Boleh Digunakan Secara Komersial? Periksa Paket dan Hak Unduh",
+    "description": "Pahami perbedaan antara tautan publik Suno, unduhan yang diizinkan, penggunaan komersial, dan perlindungan hak cipta sebelum merilis lagu.",
+    "intro": "Tautan lagu publik hanya menunjukkan bahwa halamannya dapat dilihat. Tautan itu tidak membuktikan siapa yang membuat lagu atau apakah Anda berhak memonetisasinya. Sebelum merilis, periksa akun, konteks pembuatan, cara mengunduh, dan materi pihak ketiga.",
+    "sections": [
+      {
+        "heading": "Periksa paket saat lagu dibuat dan cara ekspornya",
+        "paragraphs": [
+          "Menurut pusat bantuan Suno, lagu yang dibuat saat berlangganan paket berbayar dapat memperoleh hak penggunaan komersial. Lagu dari paket gratis ditujukan untuk penggunaan nonkomersial. Ketentuan layanan saat ini juga mengaitkan penggunaan komersial yang diizinkan dengan unduhan melalui jalur resmi yang memenuhi syarat. Untuk proyek komersial, gunakan akun Suno Anda sendiri dan simpan bukti unduhan resmi.",
+          "Berlangganan setelah lagu dibuat dengan paket gratis tidak otomatis memberikan hak komersial secara retroaktif. Suno menjelaskan perbedaan ini secara eksplisit."
+        ]
+      },
+      {
+        "heading": "Tinjau setiap materi yang digunakan",
+        "paragraphs": [
+          "Pastikan Anda memiliki izin untuk menggunakan lirik, audio yang diunggah, artwork, dan kontribusi lainnya. Halaman publik atau fitur Reuse Prompt tidak memberikan hak atas lirik orisinal kreator lain.",
+          "Izin penggunaan komersial dan perlindungan hak cipta adalah dua hal berbeda. Suno menyatakan kelayakan hak cipta bergantung pada yurisdiksi dan kontribusi manusia terhadap karya."
+        ]
+      },
+      {
+        "heading": "Simpan catatan untuk rilis",
+        "paragraphs": [
+          "Simpan URL lagu, paket akun saat pembuatan dan pengunduhan, file ekspor resmi, izin kontributor, dan saluran distribusi yang direncanakan. Periksa kembali Ketentuan Suno dan persyaratan distributor sebelum publikasi karena aturan dapat berubah.",
+          "Downloader kami membantu memeriksa aset dari tautan publik yang penggunaannya diizinkan; alat ini tidak memverifikasi kepemilikan, memberi lisensi, atau menggantikan ekspor resmi akun."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah paket berbayar membuat semua lagu lama boleh dikomersialkan?",
+        "answer": "Tidak. Suno menyatakan bahwa langganan baru tidak otomatis memberikan hak komersial retroaktif untuk lagu yang dibuat dengan paket gratis."
+      },
+      {
+        "question": "Apakah unduhan publik membuktikan bahwa saya pemilik lagu?",
+        "answer": "Tidak. Unduhan hanya menunjukkan bahwa file dapat diakses. Kepemilikan, hak kontributor, paket layanan, dan jalur unduhan resmi perlu diverifikasi secara terpisah."
+      }
+    ],
+    "toolLabel": "Periksa lagu publik yang diizinkan",
+    "related": [
+      "how-to-download-suno-songs",
+      "suno-cover-art-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Ketentuan Layanan Suno",
+        "url": "https://suno.com/terms-of-service"
+      },
+      {
+        "label": "Suno: Hak apa yang saya miliki dengan langganan berbayar?",
+        "url": "https://help.suno.com/en/articles/9601665"
+      },
+      {
+        "label": "Suno : Hak atas lagu yang dibuat sebelum berlangganan",
+        "url": "https://help.suno.com/en/articles/2425729"
+      }
+    ]
+  },
+  {
+    "slug": "suno-download-credits-limits",
+    "category": "Downloads",
+    "title": "Batas Unduhan Suno 2026: Kredit, Reset, dan Cara Menghitungnya",
+    "description": "Pahami batas unduhan Suno, reset siklus tagihan, unduhan uji coba, paket yang dibeli, serta cara format dan stem dihitung.",
+    "intro": "Kredit generasi Suno berbeda dari kredit unduhan. Pustaka Anda tetap bisa diputar dan dibagikan meskipun kuota unduhan habis. Ringkasan ini mengikuti halaman bantuan Suno yang diperiksa pada 22 Oktober 2026; periksa akun Anda sebelum merencanakan rilis atau arsip.",
+    "sections": [
+      {
+        "heading": "Unduhan bulanan berdasarkan paket",
+        "paragraphs": [
+          "Suno saat ini mencantumkan 20 unduhan lagu per bulan untuk Pro dan 60 untuk Premier. Kredit bulanan diisi ulang mengikuti siklus tagihan; paket tahunan mendapat pengisian bulanan berdasarkan tanggal pembelian awal. Kredit bulanan yang tidak terpakai tidak dibawa ke bulan berikutnya. Alur kerja Premier di Suno Studio tidak terkena batas unduhan.",
+          "Akun gratis mungkin memenuhi syarat hingga 7 unduhan uji coba seumur hidup. Unduhan uji coba tidak diisi ulang setiap bulan dan hanya untuk penggunaan pribadi nonkomersial. Halaman bantuan Suno menyebut ketersediaan akun gratis baru dapat berbeda, jadi periksa kuota yang tampil di akun Anda."
+        ]
+      },
+      {
+        "heading": "Apa yang dihitung sebagai satu unduhan",
+        "paragraphs": [
+          "Suno menghitung satu lagu sebagai satu unduhan, apa pun formatnya. Mengunduh lagu yang sama lagi dalam format lain tidak memakai kredit bulanan tambahan. Stem untuk lagu tersebut termasuk dalam hitungan yang sama; unduhan gagal atau terputus tidak mengurangi kuota.",
+          "Kredit paket bulanan tidak dibawa ke periode berikutnya. Unduhan dan paket unduhan yang dibeli dapat dibawa, begitu pula unduhan uji coba yang belum dipakai; unduhan uji coba tidak mendapat tambahan bulanan."
+        ]
+      },
+      {
+        "heading": "Rencanakan file yang akan diekspor",
+        "paragraphs": [
+          "Tentukan versi lagu dan file yang dibutuhkan sebelum mengekspor. Pilihan bergantung pada paket, lagu, dan perangkat: Suno mencantumkan MP3 untuk semua paket, WAV untuk Pro dan Premier di web, video jika tersedia, stem jika ada, dan MIDI untuk lagu Studio yang memenuhi syarat pada Premier. Periksa menu untuk lagu tertentu.",
+          "Untuk tenggat rilis, gunakan menu akun Suno resmi dan simpan file bersama tautan lagunya. Alat tautan publik kami dapat memeriksa media yang tersedia pada halaman lagu yang boleh Anda akses, tetapi tidak dapat menampilkan atau menambah kredit akun, memberikan hak komersial, atau menggantikan ekspor resmi."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah unduhan yang tidak terpakai dapat dibawa?",
+        "answer": "Kredit bulanan Pro dan Premier tidak dibawa. Suno menyebut unduhan yang dibeli, paket unduhan, dan unduhan uji coba yang tersisa dapat dibawa; unduhan uji coba tidak diisi ulang tiap bulan."
+      },
+      {
+        "question": "Apakah unduhan uji coba boleh digunakan secara komersial?",
+        "answer": "Tidak. Suno menyatakan unduhan uji coba hanya untuk penggunaan pribadi nonkomersial dan tidak memberikan hak komersial."
+      }
+    ],
+    "toolLabel": "Periksa satu lagu publik yang boleh digunakan",
+    "related": [
+      "how-to-download-suno-songs",
+      "download-multiple-suno-songs",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bagaimana cara kerja pengunduhan?",
+        "url": "https://help.suno.com/en/articles/13876865"
+      },
+      {
+        "label": "Suno: Apakah kredit unduhan diperpanjang?",
+        "url": "https://help.suno.com/en/articles/13876929"
+      },
+      {
+        "label": "Suno: Unduhan uji coba gratis",
+        "url": "https://help.suno.com/en/articles/13926401"
+      }
+    ]
+  },
+  {
+    "slug": "suno-mp3-cover-art-missing",
+    "category": "Cover art",
+    "title": "Sampul MP3 Suno Tidak Muncul? Periksa Gambar Tersemat dan Pemutar",
+    "description": "Cari tahu apakah sampul benar-benar hilang dari MP3 Suno atau hanya tidak ditampilkan oleh aplikasi musik, lalu pilih cara perbaikan yang aman.",
+    "intro": "Gambar mini yang kosong tidak selalu berarti sampul telah dihapus dari MP3. Pemutar dan pengelola file menampilkan sampul tersemat dengan cara berbeda. Periksa file audio sebelum mengunduhnya lagi atau mengubah tag.",
+    "sections": [
+      {
+        "heading": "Periksa apakah gambar ada di MP3",
+        "paragraphs": [
+          "Buka file tersimpan di pemutar musik kedua atau aplikasi pemeriksa tag audio yang dapat menampilkan sampul tersemat. Jika gambar muncul di sana, MP3 berisi gambar; aplikasi pertama mungkin memiliki masalah tampilan, cache, atau kompatibilitas tag. Muat ulang pustaka sebelum mengubah file.",
+          "Jika sampul tidak muncul di beberapa aplikasi pemeriksa tag, periksa halaman lagu Suno dan pilihan unduhnya. Gambar sampul terpisah mungkin tersedia meskipun ekspor audio tidak menyertakan gambar di dalamnya. Ketersediaannya bergantung pada lagu dan cara unduh."
+        ]
+      },
+      {
+        "heading": "Coba pemutar lain sebelum mengedit tag",
+        "paragraphs": [
+          "Putar MP3 yang sama di aplikasi lain pada perangkat yang sama, lalu bandingkan di perangkat lain jika memungkinkan. Jika satu aplikasi menampilkan sampul dan yang lain tidak, masalahnya mungkin pada aplikasi atau indeks pustaka, bukan gambar yang hilang dari file.",
+          "Jangan enkode ulang audio hanya untuk memperbarui gambar mini. Enkode ulang dapat mengubah suara dan metadata tanpa memperbaiki masalah tampilan. Simpan unduhan asli sebagai cadangan selama pemeriksaan."
+        ]
+      },
+      {
+        "heading": "Tambahkan sampul terpisah ke salinan file",
+        "paragraphs": [
+          "Jika MP3 memang tidak memiliki sampul, simpan gambar yang sesuai dari halaman yang boleh Anda gunakan. Editor tag dapat menyematkan gambar itu ke salinan MP3; pilih jenis gambar sampul depan yang umum, simpan, lalu buka kembali salinan tersebut di pemutar tujuan.",
+          "Biarkan audio asli tidak berubah dan gunakan gambar hanya jika Anda memiliki izin. Halaman lagu publik tidak otomatis memberi hak untuk memakai ulang lagu atau gambarnya. Pengunduh Suno kami dapat menampilkan kartu sampul terpisah jika halaman publik menyediakan gambar, tetapi tidak dapat memperbaiki tag di dalam MP3."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah gambar mini Windows yang kosong membuktikan MP3 tidak memiliki sampul?",
+        "answer": "Tidak. Periksa file di pemutar lain atau aplikasi pemeriksa tag audio. Pemutar, cache pustaka, atau kompatibilitas tag dapat menyembunyikan gambar yang sebenarnya tersemat."
+      },
+      {
+        "question": "Bisakah saya menyematkan sampul Suno terpisah ke MP3?",
+        "answer": "Editor tag dapat menambahkan gambar ke salinan MP3. Pastikan Anda berhak menggunakan gambar tersebut dan simpan file asli tanpa perubahan."
+      }
+    ],
+    "toolLabel": "Periksa apakah ada gambar sampul terpisah",
+    "related": [
+      "suno-cover-art-download",
+      "suno-mp3-download",
+      "organize-suno-song-files"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Jenis file apa yang dapat saya unduh?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Laporan komunitas: Sampul MP3 tidak ditampilkan di Windows",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1vzgmzy/downloaded_mp3_cover_art_not_showing/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-v6-muddy-vocals",
+    "category": "Tutorials",
+    "title": "Vokal Suno V6 Terdengar Keruh atau Tertutup? Panduan Pemeriksaan",
+    "description": "Periksa vokal Suno V6 yang terdengar teredam atau tertutup dengan uji dengar berulang, pengujian prompt terarah, dan penyuntingan stem bila tersedia.",
+    "intro": "Vokal yang terdengar jauh atau keruh dapat berasal dari hasil generasi, perangkat pemutaran, atau pemrosesan setelahnya. Suno tidak mendokumentasikan satu perbaikan universal untuk gejala ini. Buat perbandingan yang bisa diulang dan simpan trek asli agar setiap perubahan dapat dinilai.",
+    "sections": [
+      {
+        "heading": "Cari tahu kapan suara berubah",
+        "paragraphs": [
+          "Putar bagian yang sama pada volume tetap di pemutar atau perangkat kedua. Bandingkan pemutaran asli di Suno dengan file ekspor, lalu dengarkan bagian awal, tengah, dan akhir. Jika satu salinan terdengar jelas dan lainnya tidak, periksa pemutar, ekualiser, atau ekspor sebelum mengubah prompt.",
+          "Jika vokal tertutup juga pada generasi asli, catat bagian yang terdampak dan apakah instrumen menutupi kata-kata. Jangan menganggap satu generasi membuktikan model atau pengaturan selalu berperilaku demikian; hasil dapat berbeda antar-generasi."
+        ]
+      },
+      {
+        "heading": "Bandingkan prompt secara terarah",
+        "paragraphs": [
+          "Buat salinan atau tes baru dengan lirik dan arah musik umum yang sama. Jelaskan posisi dan karakter vokal dengan beberapa istilah langsung seperti jelas, dekat, atau menonjol; kurangi instruksi yang bertentangan seperti vokal jauh atau ambience berat. Ubah satu bagian prompt setiap kali agar pengaruhnya bisa diketahui.",
+          "Dengarkan artikulasi, tingkat vokal, dan keseimbangan dengan instrumen di seluruh lagu. Kata-kata dalam prompt tidak menjamin hasil campuran tertentu; pilih versi yang benar-benar terdengar baik, bukan frasa yang pernah berhasil sekali."
+        ]
+      },
+      {
+        "heading": "Edit stem dengan hati-hati bila tersedia",
+        "paragraphs": [
+          "Jika paket dan lagu mendukung pemisahan stem, coba pisahkan vokal dari bagian lain lalu dengarkan kedua file sebelum mengedit. Suno menyebut pemisahan stem dapat memakai kredit dan hasil stem bisa mengandung artefak atau kebocoran instrumen; simpan campuran penuh sebagai acuan.",
+          "Di DAW, buat perubahan kecil pada level atau EQ sambil membandingkan dengan ekspor asli. Hindari peningkatan atau kompresi besar sebagai pengaturan bawaan karena dapat menonjolkan desis, noise, atau distorsi. Periksa versi baru agar vokal jelas dan campuran tidak menjadi kasar atau clipping."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah audio keruh selalu merupakan masalah Suno V6?",
+        "answer": "Belum tentu. Bandingkan pemutaran asli dan file unduhan di pemutar lain, lalu dengarkan seluruh lagu. Pengaturan pemutaran, perbedaan ekspor, dan variasi antar-generasi dapat memengaruhi suara."
+      },
+      {
+        "question": "Apakah menambahkan “clear vocals” ke prompt akan memperbaiki semua lagu?",
+        "answer": "Tidak ada frasa prompt yang menjamin hasil campuran. Gunakan sebagai satu uji terkontrol, dengarkan hasilnya, dan bandingkan versi sebelum mengubah instruksi lain."
+      }
+    ],
+    "toolLabel": "Jelajahi panduan audio dan penyuntingan Suno",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-wav-download",
+      "suno-download-not-working"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Pemisahan Batang Tingkat Lanjut",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Laporan komunitas: Vokal V6 terdengar berlumpur atau terkubur",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1wpg01k/how_i_fixed_the_muddy_buried_vocals_in_suno_v6/"
+      }
+    ]
+  },
+  {
+    "slug": "use-suno-songs-on-youtube",
+    "category": "Rights",
+    "title": "Bolehkah Lagu Suno Digunakan di YouTube? Daftar Periksa Hak",
+    "description": "Periksa hak lagu Suno, aturan monetisasi, serta catatan lirik, artwork, dan unduhan yang perlu disimpan sebelum mengunggah video ke YouTube.",
+    "intro": "Jawabannya bergantung pada hak atas lagu dan cara Anda mendapatkannya, bukan pada apakah halamannya publik. Video pribadi, video bermonetisasi, dan kanal klien dapat memiliki kewajiban berbeda. Pastikan tujuan penggunaan sebelum mengedit video.",
+    "sections": [
+      {
+        "heading": "Mulai dari hak atas lagunya",
+        "paragraphs": [
+          "Menurut pusat bantuan Suno, lagu yang dibuat saat berlangganan Pro atau Premier dapat digunakan dalam konten yang diunggah ke YouTube. Lagu paket gratis ditujukan untuk penggunaan nonkomersial, dan langganan setelahnya tidak otomatis memberi hak komersial atas lagu gratis yang lebih lama.",
+          "Ketentuan Suno saat ini juga mengaitkan eksploitasi komersial yang diizinkan dengan unduhan melalui kanal resmi. Untuk unggahan bermonetisasi, gunakan ekspor resmi dari akun Anda dan simpan catatan pembuatan serta unduhannya."
+        ]
+      },
+      {
+        "heading": "Periksa materi di dalam lagu dan video",
+        "paragraphs": [
+          "Pastikan Anda boleh menggunakan semua lirik, sampel audio yang diunggah, gambar sampul, dan klip video. Lagu mungkin memenuhi syarat berdasarkan paket Suno Anda, tetapi lirik atau gambar milik pihak ketiga tetap memerlukan izin tersendiri.",
+          "YouTube dan distributor musik memiliki aturan platform masing-masing. Periksa aturan untuk penggunaan spesifik Anda, terutama iklan berbayar, video klien, atau distribusi di luar kanal sendiri."
+        ]
+      },
+      {
+        "heading": "Simpan jejak proyek yang jelas",
+        "paragraphs": [
+          "Simpan URL lagu Suno, paket akun saat pembuatan dan ekspor, file audio atau video resmi, serta izin dari kolaborator. Catat versi yang digunakan di timeline agar penyuntingan berikutnya tidak menggantinya tanpa sengaja dengan generasi lain.",
+          "Jika hanya perlu memeriksa media atau sampul yang tersedia dari lagu publik yang penggunaannya diizinkan, alat kami dapat membantu menemukan filenya. Alat ini tidak menentukan kelayakan YouTube atau memberikan izin publikasi."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah lagu dari paket gratis boleh dipakai di video YouTube yang dimonetisasi?",
+        "answer": "Suno menyebut lagu paket gratis untuk penggunaan nonkomersial. Jangan anggap unggahan bermonetisasi otomatis diizinkan; periksa ketentuan terbaru dan hak khusus atas lagu tersebut."
+      },
+      {
+        "question": "Apakah mencantumkan kredit Suno cukup untuk memakai lagu orang lain?",
+        "answer": "Tidak. Atribusi tidak menggantikan izin kreator atau pemegang hak lain. Pastikan Anda memiliki hak atas lagu, lirik, sampel, gambar, dan elemen videonya."
+      }
+    ],
+    "toolLabel": "Periksa aset lagu yang penggunaannya diizinkan",
+    "related": [
+      "suno-commercial-use",
+      "suno-video-download",
+      "suno-cover-art-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bisakah saya mendistribusikan lagu saya ke Spotify, dll.?",
+        "url": "https://help.suno.com/en/articles/2410177"
+      },
+      {
+        "label": "Suno: Apa yang dimaksud dengan penggunaan nonkomersial?",
+        "url": "https://help.suno.com/en/articles/9602241"
+      },
+      {
+        "label": "Ketentuan Layanan Suno",
+        "url": "https://suno.com/terms-of-service"
+      }
+    ]
+  },
+  {
+    "slug": "suno-extend-song-guide",
+    "category": "Tutorials",
+    "title": "Cara Memperpanjang Lagu Suno Tanpa Kehilangan Lagu Aslinya",
+    "description": "Gunakan Suno Extend untuk menambahkan bagian atau akhir baru, membandingkan generasi, dan menyusun lagu lengkap sambil menjaga keamanan versi pertama Anda.",
+    "intro": "Extend menciptakan kelanjutan baru dari titik yang Anda pilih; itu tidak mengedit file asli di tempatnya. Bekerja dari generasi yang disimpan, pilih handoff dengan hati-hati, dan bandingkan versi yang telah selesai sebelum mengganti apa pun di proyek Anda.",
+    "sections": [
+      {
+        "heading": "Pilih titik handoff yang tepat",
+        "paragraphs": [
+          "Buka lagu yang ingin Anda lanjutkan dan pilih Remix/Edit, lalu Perluas. Di timeline, atur di mana audio baru harus dimulai dengan menyesuaikan batas pilihan. Dengarkan dulu poin tersebut: batasan di dalam catatan atau frasa yang disimpan dapat membuat transisi lebih sulit untuk dinilai.",
+          "Untuk lagu yang lebih panjang, putuskan apakah Anda memerlukan bait baru, bagian instrumental, atau penutup. Tambahkan hanya lirik dan arahan gaya yang diperlukan untuk bagian berikutnya, dan simpan salinan lirik asli dan perintah untuk perbandingan."
+        ]
+      },
+      {
+        "heading": "Bandingkan kelanjutannya sebelum melakukan",
+        "paragraphs": [
+          "Hasilkan ekstensi dan dengarkan kedua alternatif dari handoff hingga akhir. Periksa tempo, karakter vokal, penyampaian lirik, dan apakah bagian baru mencapai akhir yang meyakinkan. Perintah pencocokan tidak dapat menjamin pengaturan yang identik atau transisi yang mulus.",
+          "Jika tidak ada hasil yang berhasil, sesuaikan satu per satu: gerakkan handoff, sederhanakan lirik baru, atau perjelas arah musiknya. Pisahkan setiap kandidat agar percobaan selanjutnya tidak menimpa versi yang Anda sukai."
+        ]
+      },
+      {
+        "heading": "Buat dan simpan seluruh lagu",
+        "paragraphs": [
+          "Saat Anda menemukan ekstensi yang Anda sukai, gunakan menu tindakan lagu untuk memilih Buat dan Dapatkan Seluruh Lagu. Suno menggabungkan kelanjutan yang dipilih ke bagian aslinya sebagai hasil lagu lengkap yang baru. Mainkan gabungan dalam konteks dan bandingkan hasilnya dengan sumbernya sebelum menambahkannya ke rilis atau edit.",
+          "Simpan ekspor lagu lengkap dan tautan Suno-nya bersama-sama. Halaman bantuan Suno saat ini mengatakan v6, v6-wild, dan v6-mini dapat menghasilkan hingga delapan menit dalam satu generasi; Perpanjangan berguna ketika Anda ingin melanjutkan ide yang sudah ada atau mengubah akhir idenya, tergantung pada opsi akun dan fitur saat ini."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah Extend mengubah lagu Suno asli saya?",
+        "answer": "Suno membuat kelanjutan baru dan hasil keseluruhan lagu yang terpisah. Pertahankan generasi asli dan ekspor sebagai cadangan saat Anda membandingkan versi."
+      },
+      {
+        "question": "Bagaimana cara membuat ekstensi terdengar lebih terhubung?",
+        "answer": "Pilih handoff yang jelas, dengarkan sumber di sekitar titik tersebut, dan gunakan arahan singkat untuk bagian selanjutnya. Hasilnya berbeda-beda, jadi audisi beberapa kandidat daripada mengasumsikan jaminan kesinambungan secara cepat."
+      }
+    ],
+    "toolLabel": "Jelajahi panduan alur kerja lagu Suno",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-v6-muddy-vocals",
+      "suno-wav-download"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bagaimana cara membuat lagu saya lebih panjang?",
+        "url": "https://help.suno.com/en/articles/2409601"
+      },
+      {
+        "label": "Suno: Berapa panjang lagu saya?",
+        "url": "https://help.suno.com/en/articles/13924929"
+      }
+    ]
+  },
+  {
+    "slug": "suno-persona-guide",
+    "category": "Tutorials",
+    "title": "Persona dan Suara Suno: Pertahankan Suara yang Konsisten di Seluruh Lagu",
+    "description": "Pelajari apa yang ditangkap oleh Persona Suno, perbedaannya dengan fitur Suara, dan cara menggunakan kembali identitas musik dengan harapan yang realistis.",
+    "intro": "Persona membantu membawa karakter vokal dan gaya lagu ke dalam kreasi lain. Fitur Suara terbaru Suno dirancang untuk menggunakan suara terverifikasi Anda sendiri. Kedua opsi tersebut memiliki tujuan yang berbeda, dan tidak ada jaminan bahwa setiap lagu baru akan terdengar sama.",
+    "sections": [
+      {
+        "heading": "Buat Persona dari sebuah lagu",
+        "paragraphs": [
+          "Dari lagu yang ingin Anda gunakan kembali, buka Tindakan Lainnya dan pilih Buat, lalu Buat Persona. Berikan nama dan deskripsi yang dapat dikenali. Suno mengatakan Persona menyimpan esensi sebuah lagu, termasuk vokal dan gayanya; tinjau pengaturan visibilitas karena Persona mungkin bersifat publik secara default.",
+          "Gunakan trek yang suara dan keseluruhan suaranya ingin Anda teruskan. Jika lagu sumber memiliki efek sementara, penyampaian yang tidak biasa, atau gaya yang tidak ingin Anda ulangi, pilih sumber yang lebih bersih atau jelaskan perbedaannya dalam prompt baru."
+        ]
+      },
+      {
+        "heading": "Gunakan ini sebagai titik awal, bukan tiruan yang telah ditetapkan sebelumnya",
+        "paragraphs": [
+          "Dalam mode Kustom, pilih Persona sebelum membuat. Centang kolom Style yang diisi Suno, lalu tambahkan arahan yang diperlukan untuk lagu baru saja. Pertahankan lirik dan instruksi aransemen yang spesifik untuk lagu baru daripada menyalin setiap detail dari lagu aslinya.",
+          "Persona dapat membantu kesinambungan, tetapi melodi, lirik, aransemen, dan penampilan masih berubah antar generasi. Buatlah dua kandidat atau lebih dan bandingkan karakter vokal pada volume yang sama sebelum memutuskan apakah identitas tersebut dapat terbawa dengan baik."
+        ]
+      },
+      {
+        "heading": "Ketahui kapan harus menggunakan Suara",
+        "paragraphs": [
+          "Alur kerja Suara Suno memungkinkan pengguna yang memenuhi syarat membuat profil suara dari rekaman mereka sendiri atau lagu yang berisi suaranya. Panduan bantuan saat ini menjelaskan langkah verifikasi dan menyatakan bahwa ketersediaan dapat bergantung pada usia dan lokasi. Gunakan hanya suara yang berhak Anda berikan, dan tinjau izin Suno saat ini dan kontrol berbagi.",
+          "Suara adalah untuk suara Anda sendiri; Persona adalah identitas musik yang dapat digunakan kembali berdasarkan sebuah lagu. Jika tujuannya adalah warna vokal yang familier, cobalah Persona. Jika Anda ingin suara nyanyian terverifikasi Anda ada di trek yang dibuat, periksa apakah Suara tersedia untuk akun Anda dan ikuti langkah-langkah penyiapannya."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah Persona sama dengan Suara Suno?",
+        "answer": "Tidak. Persona membawa gaya lagu dan karakter vokal sebagai titik awal. Suara adalah fitur terpisah untuk menggunakan rekaman suara terverifikasi, dengan ketersediaan dan persyaratan persetujuannya sendiri."
+      },
+      {
+        "question": "Akankah Persona membuat setiap generasi terdengar sama?",
+        "answer": "Tidak. Ini dapat membantu menggunakan kembali identitas musik, namun lirik baru, instruksi gaya, dan variasi generasi memengaruhi hasilnya. Dengarkan setiap versi dan perlakukan itu sebagai generasi baru."
+      }
+    ],
+    "toolLabel": "Jelajahi prompt Suno dan panduan lagu",
+    "related": [
+      "write-better-suno-prompts",
+      "suno-style-prompt-examples",
+      "suno-custom-mode-tutorial"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Apa itu Persona?",
+        "url": "https://help.suno.com/en/articles/3484161"
+      },
+      {
+        "label": "Suno: FAQ Suara",
+        "url": "https://help.suno.com/en/articles/11362433"
+      },
+      {
+        "label": "Suno: Gunakan Suara Anda di Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      }
+    ]
+  },
+  {
+    "slug": "suno-replace-section-guide",
+    "category": "Lyrics",
+    "title": "Cara Mengganti Bagian atau Memperbaiki Lyrics di Lagu Suno",
+    "description": "Gunakan alat Ganti Bagian Suno untuk merevisi sebuah bagian, menguji lirik baru, dan membandingkan pengeditan alternatif tanpa kehilangan lagu aslinya.",
+    "intro": "Ganti Bagian menghasilkan audio baru untuk bagian lagu yang dipilih. Ini dapat membantu merevisi lirik atau aransemen, tetapi ini adalah generasi baru dari bagian tersebut—bukan koreksi teks saja yang menjamin melodi asli tidak akan berubah.",
+    "sections": [
+      {
+        "heading": "Pilih hanya bagian yang ingin Anda kunjungi kembali",
+        "paragraphs": [
+          "Buka editor lagu melalui menu Tindakan Lainnya atau Edit lagu, lalu pilih Ganti Bagian. Putar lagunya dan atur pilihan di sekitar frasa yang perlu diperbaiki. Sertakan konteks musik yang cukup di bagian tepinya untuk menilai transisi, namun hindari memilih bagian tambahan yang sudah berfungsi.",
+          "Sebelum mengedit, simpan lirik asli dan catat waktu dari bagian yang dipilih. Jika kata-katanya tidak selaras dengan audio, periksa lirik yang ditampilkan dan pilihannya dengan cermat; editor menggunakan wilayah yang dipilih sebagai dasar penggantian."
+        ]
+      },
+      {
+        "heading": "Berikan penggantinya arah yang terfokus",
+        "paragraphs": [
+          "Untuk koreksi lirik, ubah hanya baris yang perlu direvisi dan pertahankan struktur di sekitarnya tetap jelas. Untuk perubahan musik, jelaskan satu target seperti penyampaian yang lebih lembut atau bagian drum yang lebih kuat. Terlalu banyak instruksi yang dilakukan secara bersamaan membuat lebih sulit untuk memahami mengapa seorang kandidat berubah.",
+          "Hasilkan pengganti dan audisi setiap versi yang ditawarkan sesuai konteks. Dengarkan kata-kata yang dikoreksi, nada vokal, ritme, dan penggabungan ke dalam bagian sebelum dan sesudahnya. Suno dapat mengubah frasa atau melodi di wilayah yang dibuat ulang, jadi jangan berasumsi bahwa pengeditan satu kata akan mempertahankan setiap nada."
+        ]
+      },
+      {
+        "heading": "Berkomitmen hanya setelah memeriksa hasil lengkap",
+        "paragraphs": [
+          "Jika kandidat sudah dekat, sesuaikan batas transisi jika editor menawarkan kontrol tersebut, lalu putar lagu secara keseluruhan, bukan hanya klip yang telah diedit. Bandingkan dengan versi asli dan simpan kedua versi tersebut sampai Anda memutuskan versi mana yang termasuk dalam proyek tersebut.",
+          "Untuk beberapa perubahan lirik di sebuah lagu, pertimbangkan apakah cover baru atau generasi baru lebih mudah dikelola dibandingkan banyak pengganti lokal. Setiap rute menciptakan interpretasi baru; ekspor cadangan sebelum berkomitmen pada versi untuk didistribusikan."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah Ganti Bagian mengubah satu kata tanpa mengubah melodi?",
+        "answer": "Ini dapat membuat ulang audio yang dipilih, termasuk penyampaian dan melodi. Gunakan untuk mengaudisi bagian yang telah direvisi, tetapi jangan mengharapkan perubahan hanya teks yang mempertahankan setiap nada."
+      },
+      {
+        "question": "Bisakah saya mendapatkan kembali versi asli saya?",
+        "answer": "Pertahankan pembuatan sumber dan ekspor sebelum mengedit. Suno membuat hasil editan baru, sehingga mempertahankan yang asli memudahkan untuk membandingkan atau mengembalikan ke versi sebelumnya."
+      }
+    ],
+    "toolLabel": "Jelajahi panduan lirik dan pengeditan Suno",
+    "related": [
+      "edit-suno-lyrics",
+      "suno-lyrics-structure-tags",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Bisakah saya mengganti satu bagian lagu?",
+        "url": "https://help.suno.com/en/articles/3271873"
+      },
+      {
+        "label": "Suno: Cara Menggunakan Editor Lagu",
+        "url": "https://help.suno.com/en/articles/6141505"
+      },
+      {
+        "label": "Diskusi komunitas: Mengganti lirik dapat mengubah pengambilan vokal",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1rmr4tm/is_it_actually_possible_to_make_it_change_the/"
+      }
+    ]
+  },
+  {
+    "slug": "suno-audio-upload-guide",
+    "category": "Tutorials",
+    "title": "Panduan Upload Audio Suno: Ubah Demo menjadi Lagu Baru",
+    "description": "Siapkan unggahan audio, pahami batas panjang saat ini, dan gunakan itu sebagai titik awal untuk ekstensi atau pembuatan Suno baru.",
+    "intro": "Unggahan audio dapat memberi Suno ide musik untuk dibuat, namun durasi dan alat tindak lanjut yang tersedia bergantung pada rencana Anda dan antarmuka saat ini. Unggah hanya rekaman yang Anda miliki atau punya izin untuk menggunakannya, dan jaga agar file sumber tidak berubah.",
+    "sections": [
+      {
+        "heading": "Siapkan rekaman bersih yang bisa Anda gunakan",
+        "paragraphs": [
+          "Pilih bagian jelas yang mewakili ritme, melodi, atau tekstur yang ingin Anda kembangkan. Rekaman yang singkat dan rapi memudahkan untuk mendengarkan apa yang disimpan oleh generasi tersebut. Hindari mengunggah percakapan pribadi atau penampilan orang lain kecuali Anda memiliki izin dan hak yang diperlukan untuk penggunaan ini.",
+          "Panduan bantuan Suno saat ini menjelaskan pengunggahan hingga 60 detik pada paket Dasar dan hingga delapan menit untuk Pro dan Premier. Batasan dan fitur akun dapat berubah, jadi periksa kontrol unggahan dan rencana Anda sebelum menyiapkan file yang panjang."
+        ]
+      },
+      {
+        "heading": "Unggah dan pilih arah",
+        "paragraphs": [
+          "Di halaman Buat, pilih kontrol unggah audio dan pilih atau rekam file. Setelah muncul di perpustakaan atau formulir kreasi Anda, putuskan apakah Anda ingin memperluas ide, membuat sampul, atau membuat versi lain. Opsi yang Anda lihat bergantung pada lagu dan akun.",
+          "Jelaskan arah musik baru dalam beberapa istilah konkret. Jika Anda ingin ritme atau melodi tetap dapat dikenali, katakan apa yang harus dilanjutkan dan apa yang harus diubah. Hasilkan kumpulan perbandingan kecil dan dengarkan ide sumbernya, bukan hanya label genre secara keseluruhan."
+        ]
+      },
+      {
+        "heading": "Jaga hak sumber dan versinya tetap jelas",
+        "paragraphs": [
+          "Unggahan tidak mengalihkan kepemilikan atau memberikan hak atas rekaman. Simpan bukti izin untuk sampel, pertunjukan kolaborator, atau rekaman komersial, dan periksa hak yang berlaku atas hasil yang dihasilkan sebelum mempublikasikannya.",
+          "Simpan unggahan asli, tautan lagu yang dihasilkan, dan versi yang Anda pilih. Jika hasilnya tidak seperti yang Anda inginkan, cobalah kutipan yang lebih pendek atau lebih bersih dan ubah instruksi satu per satu daripada mengganti file sumber."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Berapa lama waktu upload audio Suno saya?",
+        "answer": "Artikel bantuan Suno saat ini mencantumkan hingga 60 detik untuk Basic dan hingga delapan menit untuk Pro dan Premier. Periksa akun Anda karena batas paket dan opsi antarmuka dapat berubah."
+      },
+      {
+        "question": "Bisakah saya mengunggah lagu yang saya temukan online?",
+        "answer": "Hanya unggah audio yang Anda miliki atau izinkan untuk digunakan. Ketersediaan publik tidak secara otomatis memberikan izin untuk memproses, me-remix, atau mempublikasikan rekaman."
+      }
+    ],
+    "toolLabel": "Jelajahi panduan pembuatan dan pengunduhan Suno",
+    "related": [
+      "suno-custom-mode-tutorial",
+      "suno-share-link-guide",
+      "suno-commercial-use"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Cara Menggunakan Unggahan Audio",
+        "url": "https://help.suno.com/en/articles/6141569"
+      },
+      {
+        "label": "Suno: Bagaimana cara membuat remix?",
+        "url": "https://help.suno.com/en/articles/6050497"
+      }
+    ]
+  },
+  {
+    "slug": "suno-stem-separation-guide",
+    "category": "Downloads",
+    "title": "Panduan Pemisahan Batang Suno: Pilih dan Ekspor Bagian yang Anda Butuhkan",
+    "description": "Bandingkan Pemisahan Otomatis, Pemisahan dari Campuran, dan Pemisahan Lanjutan, lalu ekspor batang untuk diedit sambil memperhitungkan kredit, akses paket, dan artefak audio.",
+    "intro": "Batang adalah bagian terpisah yang berasal dari suatu lagu campuran, seperti vokal, drum, atau bass. Mode pemisahan Suno saat ini menawarkan tingkat kontrol yang berbeda, namun ekstraksi dapat meninggalkan luntur atau artefak. Simpan campuran lengkapnya sebagai referensi Anda dan verifikasi opsi yang tersedia di akun Anda.",
+    "sections": [
+      {
+        "heading": "Pilih mode pemisahan untuk pekerjaan itu",
+        "paragraphs": [
+          "Panduan Pemisahan Stem Tingkat Lanjut Suno menjelaskan Pemisahan Otomatis sebagai pembagian cepat menjadi hingga 12 batang yang terdeteksi, Pemisahan dari Campuran saat mengekstraksi satu bagian yang dipilih ditambah pelengkapnya, dan Pemisahan Lanjutan sebagai cara untuk memilih instrumen dari daftar yang lebih besar. Mode yang tersedia bergantung pada tingkat langganan.",
+          "Gunakan Auto Split bila Anda ingin menyusun kumpulan bagian yang luas, Split from Mix bila Anda memerlukan satu elemen seperti garis vokal atau bass, dan Advanced Split bila Anda memerlukan pilihan instrumen yang lebih spesifik. Batang adalah perkiraan yang diambil dari campuran, belum tentu rekaman asli yang terisolasi."
+        ]
+      },
+      {
+        "heading": "Periksa kredit dan dengarkan sebelum mengedit",
+        "paragraphs": [
+          "Suno saat ini mencantumkan biaya kredit untuk opsi pemisahan ini dalam artikel bantuannya: Pemisahan Otomatis menggunakan 50 kredit per ekstraksi 12 batang; Split from Mix menggunakan 10 kredit untuk ekstraksi dan total 20 kredit untuk kedua output; Pemisahan Lanjutan menggunakan 10 kredit per batang yang diekstraksi dan 20 kredit untuk pasangan. Periksa konfirmasi dalam produk saat ini sebelum membelanjakan kredit.",
+          "Dengarkan setiap batang secara solo dan kemudian dengan campuran penuh. Perhatikan konsonan vokal yang tertinggal di instrumen, simbal tercoreng di bagian lain, atau nada yang hilang. Jika instrumen target tidak ada, Suno memperingatkan bahwa permintaan masih dapat menggunakan kredit tanpa menghasilkan batang yang berguna."
+        ]
+      },
+      {
+        "heading": "Ekspor salinan kerja yang aman",
+        "paragraphs": [
+          "Unduh batangnya atau ekspor multitrack dari Studio jika opsi tersedia. Letakkan setiap file dalam folder dengan judul lagu, tautan sumber, tanggal ekspor, dan salinan campuran lengkap. Jaga konsistensi nama file sehingga bagian-bagiannya tetap selaras saat diimpor ke DAW.",
+          "Gunakan batang untuk pengeditan yang tidak dapat didukung oleh campuran lengkap, seperti mengubah level vokal atau membuat instrumen. Buat perubahan kecil dan bandingkan dengan aslinya. Artefak pemisahan dapat menjadi lebih jelas setelah EQ, kompresi, atau distorsi yang kuat."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apakah stem Suno identik dengan track studio aslinya?",
+        "answer": "Tidak. Pemisahan batang memperkirakan bagian individual dari file audio campuran. Ini mungkin meninggalkan luntur, artefak, atau detail yang hilang, jadi perlakukan batang sebagai file turunan yang dapat diedit, bukan multitrack asli."
+      },
+      {
+        "question": "Apakah batang dihitung sebagai unduhan terpisah?",
+        "answer": "Suno saat ini mengatakan batang yang tersedia tidak dihitung sebagai unduhan tambahan di luar lagu itu sendiri. Biaya kredit untuk pemisahan mungkin masih berlaku, jadi periksa fitur dan detail akun sebelum mengekstraksi."
+      }
+    ],
+    "toolLabel": "Jelajahi panduan ekspor audio Suno",
+    "related": [
+      "suno-wav-download",
+      "suno-mp3-download",
+      "suno-v6-muddy-vocals"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Pemisahan Batang Tingkat Lanjut",
+        "url": "https://help.suno.com/en/articles/12702337"
+      },
+      {
+        "label": "Suno: Jenis file apa yang dapat saya unduh?",
+        "url": "https://help.suno.com/en/articles/13926081"
+      },
+      {
+        "label": "Suno: Mengekspor dari Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      }
+    ]
+  },
+  {
+    "slug": "suno-voices-guide",
+    "category": "Tutorials",
+    "title": "Panduan Suara Suno: Mengatur dan Menggunakan Suara Nyanyian Anda Sendiri",
+    "description": "Pelajari bagaimana fitur Suara Suno memverifikasi profil suara, rekaman apa yang paling berhasil, dan cara memecahkan masalah akses dan menghasilkan hasil.",
+    "intro": "Suno Voices adalah fitur untuk membuat lagu dengan rekaman suara Anda sendiri. Ini berbeda dari Persona dan mencakup verifikasi identitas dan aturan kelayakan. Akses fitur mungkin berbeda berdasarkan usia, lokasi, paket, dan model, jadi gunakan kontrol yang ditampilkan di akun Anda sebagai sumber kebenaran.",
+    "sections": [
+      {
+        "heading": "Siapkan rekaman dan verifikasi suara Anda",
+        "paragraphs": [
+          "Suno merekomendasikan rekaman acapella yang bersih untuk profil paling jelas. Panduan pengaturannya saat ini menerima perekaman 15 detik hingga empat menit dan memungkinkan Anda memilih dua menit terbaik. Lingkungan yang tenang dan mikrofon tanpa gema ruangan yang kuat dapat mempermudah peninjauan sampel.",
+          "Buat profil suara dari rekaman Anda sendiri atau lagu Suno yang berisi suara Anda, lalu lengkapi frasa verifikasi yang diucapkan. Suno mengatakan pemeriksaan ini membantu mengonfirmasi bahwa nyanyian yang diunggah dan pidato verifikasi adalah milik orang yang sama. Jangan mengirimkan suara orang lain tanpa izinnya."
+        ]
+      },
+      {
+        "heading": "Hasilkan dengan profil suara",
+        "paragraphs": [
+          "Pilih profil yang disimpan di menu Suara, lalu tulis lirik dan jelaskan gaya musik untuk lagu baru tersebut. FAQ Suno menyatakan bahwa fitur Suara terbarunya menggunakan model v5.5; periksa pemilih model jika hasilnya tidak terdengar seperti suara yang dipilih.",
+          "Pengaruh Audio dapat memengaruhi seberapa kuat rekaman memandu hasil, namun pengaturan yang lebih tinggi tidak menjamin performa yang tepat. Hasilkan alternatif, bandingkan pengucapan dan nada, dan simpan rekaman profil dan generasi asli sehingga Anda dapat menyempurnakan upaya berikutnya."
+        ]
+      },
+      {
+        "heading": "Memecahkan masalah akses atau suara yang tidak terduga",
+        "paragraphs": [
+          "Jika kontrol Tambahkan Suara tidak ada, periksa kelayakan usia akun, ketersediaan lokasi, dan pemilihan model. Suno mengatakan Voices terbatas untuk pengguna berusia 18 tahun ke atas dan mungkin tidak tersedia di setiap lokasi. Pengaturan ini dapat berubah, jadi bacalah FAQ Voices saat ini.",
+          "Jika verifikasi gagal, rekam ulang frasa yang ditampilkan dengan jelas di tempat yang tenang dan gunakan sampel nyanyian yang bersih. Jika lagu terdengar tidak seperti Anda, konfirmasikan bahwa v5.5 dipilih dan uji Pengaruh Audio. Hindari membagikan rekaman suara secara publik kecuali Anda memahami pengaturan berbagi dan remix untuk lagu yang dihasilkan."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Bisakah saya menggunakan suara orang lain di Suno Voices?",
+        "answer": "Fitur ini dirancang untuk suara terverifikasi Anda sendiri. Suno mengharuskan pengguna untuk menegaskan bahwa mereka memiliki hak untuk menggunakan suara dan melakukan verifikasi. Dapatkan persetujuan yang jelas dan ikuti aturan Suno saat ini sebelum menggunakan rekaman orang lain."
+      },
+      {
+        "question": "Mengapa profil suara saya tidak tersedia?",
+        "answer": "Suno mengatakan Suara hanya tersedia untuk pengguna berusia 18 tahun ke atas dan mungkin tidak tersedia di setiap lokasi. Fitur ini juga memerlukan model yang didukung; periksa panduan dalam produk dan FAQ terkini."
+      }
+    ],
+    "toolLabel": "Jelajahi panduan vokal dan cepat Suno",
+    "related": [
+      "suno-persona-guide",
+      "suno-v6-muddy-vocals",
+      "write-better-suno-prompts"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Gunakan Suara Anda di Suno",
+        "url": "https://help.suno.com/en/articles/11362369"
+      },
+      {
+        "label": "Suno: FAQ Suara",
+        "url": "https://help.suno.com/en/articles/11362433"
+      }
+    ]
+  },
+  {
+    "slug": "suno-studio-2-guide",
+    "category": "Tutorials",
+    "title": "Panduan Suno Studio 2.0: Menyusun, Mengedit, dan Mengekspor Lagu",
+    "description": "Dapatkan orientasi di Suno Studio 2.0, buat garis waktu yang dapat diedit, gunakan batang dan efek, dan ekspor lagu atau multitrack untuk langkah produksi berikutnya.",
+    "intro": "Suno Studio 2.0 menggabungkan aransemen lagu, pembuatan audio, efek, MIDI, dan alat ekspor dalam ruang kerja berbasis browser. Kumpulan fitur dan akses berlangganan dapat berubah. Panduan ini berfokus pada langkah praktis pertama: membuka proyek, melakukan pengeditan terkontrol, dan mempertahankan ekspor yang dapat Anda bandingkan.",
+    "sections": [
+      {
+        "heading": "Buka proyek dan pelajari timeline-nya",
+        "paragraphs": [
+          "Buka lagu dari Perpustakaan Anda di Studio menggunakan menu Edit atau Tindakan Lainnya. Garis waktu adalah tempat Anda mengatur klip dan membandingkan pengambilan alternatif. Mainkan seluruh proyek satu kali sebelum mengedit, lalu catat bagian mana yang perlu diperbaiki agar perubahan tetap fokus.",
+          "Halaman bantuan Studio 2.0 Suno mengatakan Studio 2.0 tersedia untuk pelanggan Premier dan merekomendasikan browser desktop; perangkat seluler tidak didukung. Navigasinya berbeda dari versi Studio sebelumnya, jadi gunakan label antarmuka saat ini dan artikel bantuan jika kontrol telah dipindahkan."
+        ]
+      },
+      {
+        "heading": "Edit bagian, efek, dan batang dalam langkah-langkah kecil",
+        "paragraphs": [
+          "Gunakan garis waktu untuk memindahkan atau memotong klip, menambahkan bagian, dan mengaudisi generasi alternatif. Studio 2.0 menyertakan efek dan otomatisasi bawaan; Suno menyatakan tidak meng-host plugin VST atau Audio Units konvensional. Lakukan perubahan satu per satu dan bandingkan seluruh pengaturan sehingga perbaikan lokal tidak menimbulkan masalah tingkat atau waktu di tempat lain.",
+          "Untuk klip campuran, buka kontrol pemisahan batang dan pilih mode pemisahan yang sesuai dengan tugas Anda. Batang dapat membantu Anda menyeimbangkan kembali suatu bagian, tetapi batang tersebut berasal dari campuran dan mungkin berisi artefak. Jaga agar trek asli tetap tersedia dan periksa waktunya sebelum mematikan atau menggantinya."
+        ]
+      },
+      {
+        "heading": "Ekspor versi yang tepat untuk alur kerja Anda",
+        "paragraphs": [
+          "Gunakan menu ekspor untuk lagu lengkap, rentang waktu yang dipilih, atau ekspor multitrack. Halaman bantuan Studio saat ini menjelaskan ekspor WAV berkualitas tinggi dan pengunduhan klip individual. Jika Anda memindahkan proyek ke DAW lain, pertahankan agar batang tetap sejajar dan sertakan campuran lengkap sebagai referensi.",
+          "Sebelum membagikan atau memublikasikan, dengarkan file yang diekspor dari awal hingga akhir dan konfirmasikan bahwa file tersebut cocok dengan versi yang Anda setujui di Studio. Simpan tautan proyek, tanggal ekspor, dan izin atau file sumber apa pun yang digunakan. Periksa kembali hak paket Anda dan opsi ekspor untuk tujuan penggunaan."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Paket apa yang saya perlukan untuk Suno Studio 2.0?",
+        "answer": "Pengumuman Studio 2.0 Suno saat ini mencantumkan ketersediaan untuk pelanggan Premier. Periksa akun Suno Anda dan halaman paket saat ini karena akses dapat berubah."
+      },
+      {
+        "question": "Bisakah saya menggunakan plugin VST atau Audio Units di Studio 2.0?",
+        "answer": "Suno saat ini mengatakan Studio 2.0 tidak kompatibel dengan plugin VST atau Audio Units konvensional. Ini mencakup efek bawaan dan memungkinkan pengguna merancang efek tertentu di dalam Studio."
+      }
+    ],
+    "toolLabel": "Jelajahi panduan pengeditan dan ekspor Suno",
+    "related": [
+      "suno-stem-separation-guide",
+      "suno-wav-download",
+      "suno-replace-section-guide"
+    ],
+    "sources": [
+      {
+        "label": "Suno: Memperkenalkan Suno Studio 2.0",
+        "url": "https://help.suno.com/en/articles/13670529"
+      },
+      {
+        "label": "Suno: Mengekspor dari Studio",
+        "url": "https://help.suno.com/en/articles/13925249"
+      },
+      {
+        "label": "Suno: Pemisahan Batang Tingkat Lanjut",
+        "url": "https://help.suno.com/en/articles/12702337"
+      }
+    ]
+  }
+]
